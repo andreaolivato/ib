@@ -4,12 +4,12 @@
 
 @font-face {
   font-family: "iconsbio";
-  src: url("./iconsbio_15b78a652ba45b2aa89d6fa065730583.eot");
-  src: url("./iconsbio_15b78a652ba45b2aa89d6fa065730583.eot?#iefix") format("embedded-opentype"),
-       url("./iconsbio_15b78a652ba45b2aa89d6fa065730583.woff2") format("woff2"),
-       url("./iconsbio_15b78a652ba45b2aa89d6fa065730583.woff") format("woff"),
-       url("./iconsbio_15b78a652ba45b2aa89d6fa065730583.ttf") format("truetype"),
-       url("./iconsbio_15b78a652ba45b2aa89d6fa065730583.svg#iconsbio") format("svg");
+  src: url("./iconsbio_4d5172ee5a250cf69e7b435c72999f09.eot");
+  src: url("./iconsbio_4d5172ee5a250cf69e7b435c72999f09.eot?#iefix") format("embedded-opentype"),
+       url("./iconsbio_4d5172ee5a250cf69e7b435c72999f09.woff2") format("woff2"),
+       url("./iconsbio_4d5172ee5a250cf69e7b435c72999f09.woff") format("woff"),
+       url("./iconsbio_4d5172ee5a250cf69e7b435c72999f09.ttf") format("truetype"),
+       url("./iconsbio_4d5172ee5a250cf69e7b435c72999f09.svg#iconsbio") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -17,7 +17,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "iconsbio";
-    src: url("./iconsbio_15b78a652ba45b2aa89d6fa065730583.svg#iconsbio") format("svg");
+    src: url("./iconsbio_4d5172ee5a250cf69e7b435c72999f09.svg#iconsbio") format("svg");
   }
 }
 
@@ -989,6 +989,7 @@
 .ibio-servicestack:before,
 .ibio-sessionslive:before,
 .ibio-shani-darden-skin-care:before,
+.ibio-share:before,
 .ibio-sharethemeal:before,
 .ibio-shawtout:before,
 .ibio-shazam:before,
@@ -2299,6 +2300,7 @@
 .ibio-servicestack:before { content: "\f366"; }
 .ibio-sessionslive:before { content: "\f245"; }
 .ibio-shani-darden-skin-care:before { content: "\f4e2"; }
+.ibio-share:before { content: "\f62e"; }
 .ibio-sharethemeal:before { content: "\f1ad"; }
 .ibio-shawtout:before { content: "\f5d9"; }
 .ibio-shazam:before { content: "\f1ae"; }
