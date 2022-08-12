@@ -4,12 +4,12 @@
 
 @font-face {
   font-family: "iconsbio";
-  src: url("./iconsbio_38b8a417a8bf5d4a68a9413a075cbea9.eot");
-  src: url("./iconsbio_38b8a417a8bf5d4a68a9413a075cbea9.eot?#iefix") format("embedded-opentype"),
-       url("./iconsbio_38b8a417a8bf5d4a68a9413a075cbea9.woff2") format("woff2"),
-       url("./iconsbio_38b8a417a8bf5d4a68a9413a075cbea9.woff") format("woff"),
-       url("./iconsbio_38b8a417a8bf5d4a68a9413a075cbea9.ttf") format("truetype"),
-       url("./iconsbio_38b8a417a8bf5d4a68a9413a075cbea9.svg#iconsbio") format("svg");
+  src: url("./iconsbio_3a977ac4544a8ffc34a030e9daf7d61f.eot");
+  src: url("./iconsbio_3a977ac4544a8ffc34a030e9daf7d61f.eot?#iefix") format("embedded-opentype"),
+       url("./iconsbio_3a977ac4544a8ffc34a030e9daf7d61f.woff2") format("woff2"),
+       url("./iconsbio_3a977ac4544a8ffc34a030e9daf7d61f.woff") format("woff"),
+       url("./iconsbio_3a977ac4544a8ffc34a030e9daf7d61f.ttf") format("truetype"),
+       url("./iconsbio_3a977ac4544a8ffc34a030e9daf7d61f.svg#iconsbio") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -17,7 +17,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "iconsbio";
-    src: url("./iconsbio_38b8a417a8bf5d4a68a9413a075cbea9.svg#iconsbio") format("svg");
+    src: url("./iconsbio_3a977ac4544a8ffc34a030e9daf7d61f.svg#iconsbio") format("svg");
   }
 }
 
@@ -418,6 +418,7 @@
 .ibio-fanhouse:before,
 .ibio-fansly:before,
 .ibio-fantasyflight:before,
+.ibio-fanvue:before,
 .ibio-farmacy:before,
 .ibio-fashion-fair:before,
 .ibio-fbgroup:before,
@@ -1784,6 +1785,7 @@
 .ibio-fanhouse:before { content: "\f5fc"; }
 .ibio-fansly:before { content: "\f5fd"; }
 .ibio-fantasyflight:before { content: "\f5fe"; }
+.ibio-fanvue:before { content: "\f992"; }
 .ibio-farmacy:before { content: "\f5ff"; }
 .ibio-fashion-fair:before { content: "\f600"; }
 .ibio-fbgroup:before { content: "\f45e"; }
