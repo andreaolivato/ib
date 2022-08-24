@@ -4,12 +4,12 @@
 
 @font-face {
   font-family: "iconsbio";
-  src: url("./iconsbio_18a1f8e18d09f558932f3f1d89782cc1.eot");
-  src: url("./iconsbio_18a1f8e18d09f558932f3f1d89782cc1.eot?#iefix") format("embedded-opentype"),
-       url("./iconsbio_18a1f8e18d09f558932f3f1d89782cc1.woff2") format("woff2"),
-       url("./iconsbio_18a1f8e18d09f558932f3f1d89782cc1.woff") format("woff"),
-       url("./iconsbio_18a1f8e18d09f558932f3f1d89782cc1.ttf") format("truetype"),
-       url("./iconsbio_18a1f8e18d09f558932f3f1d89782cc1.svg#iconsbio") format("svg");
+  src: url("./iconsbio_8a4e2b29a206c20654c840b6857fa68e.eot");
+  src: url("./iconsbio_8a4e2b29a206c20654c840b6857fa68e.eot?#iefix") format("embedded-opentype"),
+       url("./iconsbio_8a4e2b29a206c20654c840b6857fa68e.woff2") format("woff2"),
+       url("./iconsbio_8a4e2b29a206c20654c840b6857fa68e.woff") format("woff"),
+       url("./iconsbio_8a4e2b29a206c20654c840b6857fa68e.ttf") format("truetype"),
+       url("./iconsbio_8a4e2b29a206c20654c840b6857fa68e.svg#iconsbio") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -17,7 +17,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "iconsbio";
-    src: url("./iconsbio_18a1f8e18d09f558932f3f1d89782cc1.svg#iconsbio") format("svg");
+    src: url("./iconsbio_8a4e2b29a206c20654c840b6857fa68e.svg#iconsbio") format("svg");
   }
 }
 
@@ -349,6 +349,7 @@
 .ibio-docker:before,
 .ibio-doctoralia:before,
 .ibio-dolce-gabbana:before,
+.ibio-domainau:before,
 .ibio-dominique-cosmetics:before,
 .ibio-donation:before,
 .ibio-donna-karan:before,
@@ -944,6 +945,7 @@
 .ibio-printioru:before,
 .ibio-producthunt:before,
 .ibio-promodj:before,
+.ibio-propertyguru:before,
 .ibio-protonmail:before,
 .ibio-publons:before,
 .ibio-puma:before,
@@ -974,9 +976,12 @@
 .ibio-reacteurope:before,
 .ibio-readcv:before,
 .ibio-readme:before,
+.ibio-realestateau:before,
+.ibio-realtor:before,
 .ibio-reasonfm:before,
 .ibio-redbubble:before,
 .ibio-reddit:before,
+.ibio-redfin:before,
 .ibio-redhat:before,
 .ibio-refind:before,
 .ibio-refsheetnet:before,
@@ -1226,6 +1231,7 @@
 .ibio-tripadvisor:before,
 .ibio-trovo:before,
 .ibio-truckersmp:before,
+.ibio-trulia:before,
 .ibio-trust-pilot:before,
 .ibio-tula-skincare:before,
 .ibio-tumblr:before,
@@ -1717,6 +1723,7 @@
 .ibio-docker:before { content: "\f5b8"; }
 .ibio-doctoralia:before { content: "\f5b9"; }
 .ibio-dolce-gabbana:before { content: "\f5ba"; }
+.ibio-domainau:before { content: "\f994"; }
 .ibio-dominique-cosmetics:before { content: "\f5bb"; }
 .ibio-donation:before { content: "\f5bc"; }
 .ibio-donna-karan:before { content: "\f5bd"; }
@@ -2312,6 +2319,7 @@
 .ibio-printioru:before { content: "\f7f6"; }
 .ibio-producthunt:before { content: "\f7f7"; }
 .ibio-promodj:before { content: "\f7f8"; }
+.ibio-propertyguru:before { content: "\f995"; }
 .ibio-protonmail:before { content: "\f7f9"; }
 .ibio-publons:before { content: "\f7fa"; }
 .ibio-puma:before { content: "\f7fb"; }
@@ -2342,9 +2350,12 @@
 .ibio-reacteurope:before { content: "\f814"; }
 .ibio-readcv:before { content: "\f815"; }
 .ibio-readme:before { content: "\f816"; }
+.ibio-realestateau:before { content: "\f996"; }
+.ibio-realtor:before { content: "\f997"; }
 .ibio-reasonfm:before { content: "\f817"; }
 .ibio-redbubble:before { content: "\f470"; }
 .ibio-reddit:before { content: "\f818"; }
+.ibio-redfin:before { content: "\f998"; }
 .ibio-redhat:before { content: "\f819"; }
 .ibio-refind:before { content: "\f81a"; }
 .ibio-refsheetnet:before { content: "\f81b"; }
@@ -2594,6 +2605,7 @@
 .ibio-tripadvisor:before { content: "\f900"; }
 .ibio-trovo:before { content: "\f901"; }
 .ibio-truckersmp:before { content: "\f902"; }
+.ibio-trulia:before { content: "\f999"; }
 .ibio-trust-pilot:before { content: "\f903"; }
 .ibio-tula-skincare:before { content: "\f904"; }
 .ibio-tumblr:before { content: "\f905"; }
