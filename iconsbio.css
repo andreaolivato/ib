@@ -4,12 +4,12 @@
 
 @font-face {
   font-family: "iconsbio";
-  src: url("./iconsbio_8a4e2b29a206c20654c840b6857fa68e.eot");
-  src: url("./iconsbio_8a4e2b29a206c20654c840b6857fa68e.eot?#iefix") format("embedded-opentype"),
-       url("./iconsbio_8a4e2b29a206c20654c840b6857fa68e.woff2") format("woff2"),
-       url("./iconsbio_8a4e2b29a206c20654c840b6857fa68e.woff") format("woff"),
-       url("./iconsbio_8a4e2b29a206c20654c840b6857fa68e.ttf") format("truetype"),
-       url("./iconsbio_8a4e2b29a206c20654c840b6857fa68e.svg#iconsbio") format("svg");
+  src: url("./iconsbio_49323153343b2baf8b40b920bc7a410d.eot");
+  src: url("./iconsbio_49323153343b2baf8b40b920bc7a410d.eot?#iefix") format("embedded-opentype"),
+       url("./iconsbio_49323153343b2baf8b40b920bc7a410d.woff2") format("woff2"),
+       url("./iconsbio_49323153343b2baf8b40b920bc7a410d.woff") format("woff"),
+       url("./iconsbio_49323153343b2baf8b40b920bc7a410d.ttf") format("truetype"),
+       url("./iconsbio_49323153343b2baf8b40b920bc7a410d.svg#iconsbio") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -17,7 +17,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "iconsbio";
-    src: url("./iconsbio_8a4e2b29a206c20654c840b6857fa68e.svg#iconsbio") format("svg");
+    src: url("./iconsbio_49323153343b2baf8b40b920bc7a410d.svg#iconsbio") format("svg");
   }
 }
 
@@ -472,6 +472,7 @@
 .ibio-genie:before,
 .ibio-geniuslyrics:before,
 .ibio-genshin-impact:before,
+.ibio-getresponse:before,
 .ibio-gfycat:before,
 .ibio-ghd:before,
 .ibio-ghostorg:before,
@@ -1846,6 +1847,7 @@
 .ibio-genie:before { content: "\f62d"; }
 .ibio-geniuslyrics:before { content: "\f62e"; }
 .ibio-genshin-impact:before { content: "\f62f"; }
+.ibio-getresponse:before { content: "\f99a"; }
 .ibio-gfycat:before { content: "\f630"; }
 .ibio-ghd:before { content: "\f631"; }
 .ibio-ghostorg:before { content: "\f632"; }
