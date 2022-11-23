@@ -4,12 +4,12 @@
 
 @font-face {
   font-family: "iconsbio";
-  src: url("./iconsbio_a81249e50ea35226210db98f9d34b972.eot");
-  src: url("./iconsbio_a81249e50ea35226210db98f9d34b972.eot?#iefix") format("embedded-opentype"),
-       url("./iconsbio_a81249e50ea35226210db98f9d34b972.woff2") format("woff2"),
-       url("./iconsbio_a81249e50ea35226210db98f9d34b972.woff") format("woff"),
-       url("./iconsbio_a81249e50ea35226210db98f9d34b972.ttf") format("truetype"),
-       url("./iconsbio_a81249e50ea35226210db98f9d34b972.svg#iconsbio") format("svg");
+  src: url("./iconsbio_fd96f2b9246ea5dcab5dd82cece60b8f.eot");
+  src: url("./iconsbio_fd96f2b9246ea5dcab5dd82cece60b8f.eot?#iefix") format("embedded-opentype"),
+       url("./iconsbio_fd96f2b9246ea5dcab5dd82cece60b8f.woff2") format("woff2"),
+       url("./iconsbio_fd96f2b9246ea5dcab5dd82cece60b8f.woff") format("woff"),
+       url("./iconsbio_fd96f2b9246ea5dcab5dd82cece60b8f.ttf") format("truetype"),
+       url("./iconsbio_fd96f2b9246ea5dcab5dd82cece60b8f.svg#iconsbio") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -17,7 +17,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "iconsbio";
-    src: url("./iconsbio_a81249e50ea35226210db98f9d34b972.svg#iconsbio") format("svg");
+    src: url("./iconsbio_fd96f2b9246ea5dcab5dd82cece60b8f.svg#iconsbio") format("svg");
   }
 }
 
@@ -99,6 +99,7 @@
 .ibio-ao3:before,
 .ibio-aoty:before,
 .ibio-apple:before,
+.ibio-apple-books:before,
 .ibio-apple-news:before,
 .ibio-applemusic:before,
 .ibio-applepay:before,
@@ -573,6 +574,8 @@
 .ibio-ifans:before,
 .ibio-ifunny:before,
 .ibio-igk:before,
+.ibio-igtk-v1:before,
+.ibio-igtk-v2:before,
 .ibio-iheartradio:before,
 .ibio-iherb:before,
 .ibio-ilia:before,
@@ -1201,6 +1204,8 @@
 .ibio-tippinme:before,
 .ibio-tissot:before,
 .ibio-tj-maxx:before,
+.ibio-tkig-v1:before,
+.ibio-tkig-v2:before,
 .ibio-toast-tab:before,
 .ibio-tocca:before,
 .ibio-tods:before,
@@ -1474,6 +1479,7 @@
 .ibio-ao3:before { content: "\f455"; }
 .ibio-aoty:before { content: "\f4cd"; }
 .ibio-apple:before { content: "\f4ce"; }
+.ibio-apple-books:before { content: "\f99b"; }
 .ibio-apple-news:before { content: "\f4cf"; }
 .ibio-applemusic:before { content: "\f4d0"; }
 .ibio-applepay:before { content: "\f4d1"; }
@@ -1948,6 +1954,8 @@
 .ibio-ifans:before { content: "\f68d"; }
 .ibio-ifunny:before { content: "\f68e"; }
 .ibio-igk:before { content: "\f68f"; }
+.ibio-igtk-v1:before { content: "\f99c"; }
+.ibio-igtk-v2:before { content: "\f99d"; }
 .ibio-iheartradio:before { content: "\f690"; }
 .ibio-iherb:before { content: "\f691"; }
 .ibio-ilia:before { content: "\f692"; }
@@ -2576,6 +2584,8 @@
 .ibio-tippinme:before { content: "\f8e3"; }
 .ibio-tissot:before { content: "\f8e4"; }
 .ibio-tj-maxx:before { content: "\f8e5"; }
+.ibio-tkig-v1:before { content: "\f99e"; }
+.ibio-tkig-v2:before { content: "\f99f"; }
 .ibio-toast-tab:before { content: "\f8e6"; }
 .ibio-tocca:before { content: "\f8e7"; }
 .ibio-tods:before { content: "\f8e8"; }
