@@ -4,12 +4,12 @@
 
 @font-face {
   font-family: "iconsbio";
-  src: url("./iconsbio_d8c5e19dad08a9c28d358d10264c2ec6.eot");
-  src: url("./iconsbio_d8c5e19dad08a9c28d358d10264c2ec6.eot?#iefix") format("embedded-opentype"),
-       url("./iconsbio_d8c5e19dad08a9c28d358d10264c2ec6.woff2") format("woff2"),
-       url("./iconsbio_d8c5e19dad08a9c28d358d10264c2ec6.woff") format("woff"),
-       url("./iconsbio_d8c5e19dad08a9c28d358d10264c2ec6.ttf") format("truetype"),
-       url("./iconsbio_d8c5e19dad08a9c28d358d10264c2ec6.svg#iconsbio") format("svg");
+  src: url("./iconsbio_5fd300cda6240a7984b6ad1262bdab14.eot");
+  src: url("./iconsbio_5fd300cda6240a7984b6ad1262bdab14.eot?#iefix") format("embedded-opentype"),
+       url("./iconsbio_5fd300cda6240a7984b6ad1262bdab14.woff2") format("woff2"),
+       url("./iconsbio_5fd300cda6240a7984b6ad1262bdab14.woff") format("woff"),
+       url("./iconsbio_5fd300cda6240a7984b6ad1262bdab14.ttf") format("truetype"),
+       url("./iconsbio_5fd300cda6240a7984b6ad1262bdab14.svg#iconsbio") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -17,7 +17,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "iconsbio";
-    src: url("./iconsbio_d8c5e19dad08a9c28d358d10264c2ec6.svg#iconsbio") format("svg");
+    src: url("./iconsbio_5fd300cda6240a7984b6ad1262bdab14.svg#iconsbio") format("svg");
   }
 }
 
@@ -574,8 +574,9 @@
 .ibio-ifans:before,
 .ibio-ifunny:before,
 .ibio-igk:before,
-.ibio-igtk-v1:before,
-.ibio-igtk-v2:before,
+.ibio-igsched:before,
+.ibio-igstory:before,
+.ibio-igsync:before,
 .ibio-iheartradio:before,
 .ibio-iherb:before,
 .ibio-ilia:before,
@@ -1204,9 +1205,8 @@
 .ibio-tippinme:before,
 .ibio-tissot:before,
 .ibio-tj-maxx:before,
-.ibio-tkig-v1:before,
-.ibio-tkig-v2:before,
 .ibio-tkigv3:before,
+.ibio-tksync:before,
 .ibio-toast-tab:before,
 .ibio-tocca:before,
 .ibio-tods:before,
@@ -1955,8 +1955,9 @@
 .ibio-ifans:before { content: "\f68d"; }
 .ibio-ifunny:before { content: "\f68e"; }
 .ibio-igk:before { content: "\f68f"; }
-.ibio-igtk-v1:before { content: "\f99c"; }
-.ibio-igtk-v2:before { content: "\f99d"; }
+.ibio-igsched:before { content: "\f9a1"; }
+.ibio-igstory:before { content: "\f9a2"; }
+.ibio-igsync:before { content: "\f9a3"; }
 .ibio-iheartradio:before { content: "\f690"; }
 .ibio-iherb:before { content: "\f691"; }
 .ibio-ilia:before { content: "\f692"; }
@@ -2585,9 +2586,8 @@
 .ibio-tippinme:before { content: "\f8e3"; }
 .ibio-tissot:before { content: "\f8e4"; }
 .ibio-tj-maxx:before { content: "\f8e5"; }
-.ibio-tkig-v1:before { content: "\f99e"; }
-.ibio-tkig-v2:before { content: "\f99f"; }
 .ibio-tkigv3:before { content: "\f9a0"; }
+.ibio-tksync:before { content: "\f9a4"; }
 .ibio-toast-tab:before { content: "\f8e6"; }
 .ibio-tocca:before { content: "\f8e7"; }
 .ibio-tods:before { content: "\f8e8"; }
