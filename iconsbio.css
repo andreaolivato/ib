@@ -4,12 +4,12 @@
 
 @font-face {
   font-family: "iconsbio";
-  src: url("./iconsbio_5fd300cda6240a7984b6ad1262bdab14.eot");
-  src: url("./iconsbio_5fd300cda6240a7984b6ad1262bdab14.eot?#iefix") format("embedded-opentype"),
-       url("./iconsbio_5fd300cda6240a7984b6ad1262bdab14.woff2") format("woff2"),
-       url("./iconsbio_5fd300cda6240a7984b6ad1262bdab14.woff") format("woff"),
-       url("./iconsbio_5fd300cda6240a7984b6ad1262bdab14.ttf") format("truetype"),
-       url("./iconsbio_5fd300cda6240a7984b6ad1262bdab14.svg#iconsbio") format("svg");
+  src: url("./iconsbio_760c48d950d3e9e4a4776c98d1b7a411.eot");
+  src: url("./iconsbio_760c48d950d3e9e4a4776c98d1b7a411.eot?#iefix") format("embedded-opentype"),
+       url("./iconsbio_760c48d950d3e9e4a4776c98d1b7a411.woff2") format("woff2"),
+       url("./iconsbio_760c48d950d3e9e4a4776c98d1b7a411.woff") format("woff"),
+       url("./iconsbio_760c48d950d3e9e4a4776c98d1b7a411.ttf") format("truetype"),
+       url("./iconsbio_760c48d950d3e9e4a4776c98d1b7a411.svg#iconsbio") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -17,7 +17,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "iconsbio";
-    src: url("./iconsbio_5fd300cda6240a7984b6ad1262bdab14.svg#iconsbio") format("svg");
+    src: url("./iconsbio_760c48d950d3e9e4a4776c98d1b7a411.svg#iconsbio") format("svg");
   }
 }
 
@@ -600,6 +600,7 @@
 .ibio-inprnt:before,
 .ibio-insighttimer:before,
 .ibio-instagram:before,
+.ibio-integrately:before,
 .ibio-integromat:before,
 .ibio-intercom:before,
 .ibio-internet-archive:before,
@@ -731,6 +732,7 @@
 .ibio-magento:before,
 .ibio-mailchimp:before,
 .ibio-maison-louis-marie:before,
+.ibio-make:before,
 .ibio-make-up-for-ever:before,
 .ibio-makerpad:before,
 .ibio-makersplace:before,
@@ -874,6 +876,7 @@
 .ibio-overose:before,
 .ibio-overtone:before,
 .ibio-overwatch:before,
+.ibio-pabbly:before,
 .ibio-paco-rabanne:before,
 .ibio-padlet:before,
 .ibio-pagelines:before,
@@ -1981,6 +1984,7 @@
 .ibio-inprnt:before { content: "\f6a4"; }
 .ibio-insighttimer:before { content: "\f6a5"; }
 .ibio-instagram:before { content: "\f6a6"; }
+.ibio-integrately:before { content: "\f9a5"; }
 .ibio-integromat:before { content: "\f6a7"; }
 .ibio-intercom:before { content: "\f6a8"; }
 .ibio-internet-archive:before { content: "\f6a9"; }
@@ -2112,6 +2116,7 @@
 .ibio-magento:before { content: "\f721"; }
 .ibio-mailchimp:before { content: "\f722"; }
 .ibio-maison-louis-marie:before { content: "\f723"; }
+.ibio-make:before { content: "\f9a6"; }
 .ibio-make-up-for-ever:before { content: "\f724"; }
 .ibio-makerpad:before { content: "\f725"; }
 .ibio-makersplace:before { content: "\f726"; }
@@ -2255,6 +2260,7 @@
 .ibio-overose:before { content: "\f7af"; }
 .ibio-overtone:before { content: "\f7b0"; }
 .ibio-overwatch:before { content: "\f7b1"; }
+.ibio-pabbly:before { content: "\f9a7"; }
 .ibio-paco-rabanne:before { content: "\f7b2"; }
 .ibio-padlet:before { content: "\f7b3"; }
 .ibio-pagelines:before { content: "\f7b4"; }
