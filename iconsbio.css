@@ -4,12 +4,12 @@
 
 @font-face {
   font-family: "iconsbio";
-  src: url("./iconsbio_7810c2671a22de9b312b095522cef97e.eot");
-  src: url("./iconsbio_7810c2671a22de9b312b095522cef97e.eot?#iefix") format("embedded-opentype"),
-       url("./iconsbio_7810c2671a22de9b312b095522cef97e.woff2") format("woff2"),
-       url("./iconsbio_7810c2671a22de9b312b095522cef97e.woff") format("woff"),
-       url("./iconsbio_7810c2671a22de9b312b095522cef97e.ttf") format("truetype"),
-       url("./iconsbio_7810c2671a22de9b312b095522cef97e.svg#iconsbio") format("svg");
+  src: url("./iconsbio_ac2da959e31ec6e3343b38b08e2c5653.eot");
+  src: url("./iconsbio_ac2da959e31ec6e3343b38b08e2c5653.eot?#iefix") format("embedded-opentype"),
+       url("./iconsbio_ac2da959e31ec6e3343b38b08e2c5653.woff2") format("woff2"),
+       url("./iconsbio_ac2da959e31ec6e3343b38b08e2c5653.woff") format("woff"),
+       url("./iconsbio_ac2da959e31ec6e3343b38b08e2c5653.ttf") format("truetype"),
+       url("./iconsbio_ac2da959e31ec6e3343b38b08e2c5653.svg#iconsbio") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -17,7 +17,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "iconsbio";
-    src: url("./iconsbio_7810c2671a22de9b312b095522cef97e.svg#iconsbio") format("svg");
+    src: url("./iconsbio_ac2da959e31ec6e3343b38b08e2c5653.svg#iconsbio") format("svg");
   }
 }
 
@@ -235,6 +235,7 @@
 .ibio-centos:before,
 .ibio-cgsociety:before,
 .ibio-chanel:before,
+.ibio-channelio:before,
 .ibio-charlotte-tilbury:before,
 .ibio-chess:before,
 .ibio-chirpbooks:before,
@@ -353,6 +354,7 @@
 .ibio-domainau:before,
 .ibio-dominique-cosmetics:before,
 .ibio-donation:before,
+.ibio-doneru:before,
 .ibio-donna-karan:before,
 .ibio-donorbox:before,
 .ibio-doodle:before,
@@ -420,6 +422,7 @@
 .ibio-fanhouse:before,
 .ibio-fansly:before,
 .ibio-fantasyflight:before,
+.ibio-fantia:before,
 .ibio-fanvue:before,
 .ibio-farmacy:before,
 .ibio-fashion-fair:before,
@@ -608,6 +611,7 @@
 .ibio-internetexplorer:before,
 .ibio-invision:before,
 .ibio-ioxhost:before,
+.ibio-irc:before,
 .ibio-isle-of-paradise:before,
 .ibio-ispotnature:before,
 .ibio-issuu:before,
@@ -837,6 +841,7 @@
 .ibio-nomad-list:before,
 .ibio-nordstrom:before,
 .ibio-note:before,
+.ibio-notecom:before,
 .ibio-notion:before,
 .ibio-noun-project:before,
 .ibio-npm:before,
@@ -1365,6 +1370,7 @@
 .ibio-xbox:before,
 .ibio-xiaohongshu:before,
 .ibio-xing:before,
+.ibio-xmpp:before,
 .ibio-yahoo:before,
 .ibio-yammer:before,
 .ibio-yandex:before,
@@ -1620,6 +1626,7 @@
 .ibio-centos:before { content: "\f549"; }
 .ibio-cgsociety:before { content: "\f54a"; }
 .ibio-chanel:before { content: "\f54b"; }
+.ibio-channelio:before { content: "\f9a9"; }
 .ibio-charlotte-tilbury:before { content: "\f54c"; }
 .ibio-chess:before { content: "\f54d"; }
 .ibio-chirpbooks:before { content: "\f54e"; }
@@ -1738,6 +1745,7 @@
 .ibio-domainau:before { content: "\f994"; }
 .ibio-dominique-cosmetics:before { content: "\f5bb"; }
 .ibio-donation:before { content: "\f5bc"; }
+.ibio-doneru:before { content: "\f9aa"; }
 .ibio-donna-karan:before { content: "\f5bd"; }
 .ibio-donorbox:before { content: "\f5be"; }
 .ibio-doodle:before { content: "\f5bf"; }
@@ -1805,6 +1813,7 @@
 .ibio-fanhouse:before { content: "\f5fc"; }
 .ibio-fansly:before { content: "\f5fd"; }
 .ibio-fantasyflight:before { content: "\f5fe"; }
+.ibio-fantia:before { content: "\f9ab"; }
 .ibio-fanvue:before { content: "\f992"; }
 .ibio-farmacy:before { content: "\f5ff"; }
 .ibio-fashion-fair:before { content: "\f600"; }
@@ -1993,6 +2002,7 @@
 .ibio-internetexplorer:before { content: "\f6aa"; }
 .ibio-invision:before { content: "\f6ab"; }
 .ibio-ioxhost:before { content: "\f6ac"; }
+.ibio-irc:before { content: "\f9ac"; }
 .ibio-isle-of-paradise:before { content: "\f6ad"; }
 .ibio-ispotnature:before { content: "\f6ae"; }
 .ibio-issuu:before { content: "\f6af"; }
@@ -2222,6 +2232,7 @@
 .ibio-nomad-list:before { content: "\f788"; }
 .ibio-nordstrom:before { content: "\f789"; }
 .ibio-note:before { content: "\f78a"; }
+.ibio-notecom:before { content: "\f9ad"; }
 .ibio-notion:before { content: "\f78b"; }
 .ibio-noun-project:before { content: "\f78c"; }
 .ibio-npm:before { content: "\f78d"; }
@@ -2750,6 +2761,7 @@
 .ibio-xbox:before { content: "\f974"; }
 .ibio-xiaohongshu:before { content: "\f975"; }
 .ibio-xing:before { content: "\f976"; }
+.ibio-xmpp:before { content: "\f9ae"; }
 .ibio-yahoo:before { content: "\f977"; }
 .ibio-yammer:before { content: "\f978"; }
 .ibio-yandex:before { content: "\f979"; }
