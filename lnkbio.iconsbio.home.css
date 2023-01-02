@@ -1433,4 +1433,17 @@
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
   font-smoothing: antialiased;
-}.ibio-facebook:before { content: "\f5f4"; }.ibio-instagram:before { content: "\f6a6"; }.ibio-linkedin:before { content: "\f707"; }.ibio-tiktok:before { content: "\f8e0"; }.ibio-twitter:before { content: "\f90c"; }.ibio-wordpress:before { content: "\f96b"; }.ibio-youtube:before { content: "\f982"; }.ibio-zapier:before { content: "\f987"; }
+}.ibio-facebook:before { content: "\f5f4"; }.ibio-instagram:before { content: "\f6a6"; }.ibio-linkedin:before { content: "\f707"; }.ibio-tiktok:before { content: "\f8e0"; }.ibio-twitter:before { content: "\f90c"; }.ibio-wordpress:before { content: "\f96b"; }.ibio-youtube:before { content: "\f982"; }.ibio-zapier:before { content: "\f987"; }@font-face {
+  font-family: "iconsbio";
+  src: url("./iconsbio_6cf50736c0d3fe6f41b0ff7fb327caab.eot");
+  src: url("./iconsbio_6cf50736c0d3fe6f41b0ff7fb327caab.eot?#iefix") format("embedded-opentype"),
+       url("./iconsbio_6cf50736c0d3fe6f41b0ff7fb327caab.woff2") format("woff2"),
+       url("./iconsbio_6cf50736c0d3fe6f41b0ff7fb327caab.woff") format("woff"),
+       url("./iconsbio_6cf50736c0d3fe6f41b0ff7fb327caab.ttf") format("truetype"),
+       url("./iconsbio_6cf50736c0d3fe6f41b0ff7fb327caab.svg#iconsbio") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}@font-face {
+    font-family: "iconsbio";
+    src: url("./iconsbio_6cf50736c0d3fe6f41b0ff7fb327caab.svg#iconsbio") format("svg");
+  }
