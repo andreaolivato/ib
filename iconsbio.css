@@ -4,12 +4,12 @@
 
 @font-face {
   font-family: "iconsbio";
-  src: url("./iconsbio_dc010ac8420a03121e4b35d8e6528f65.eot");
-  src: url("./iconsbio_dc010ac8420a03121e4b35d8e6528f65.eot?#iefix") format("embedded-opentype"),
-       url("./iconsbio_dc010ac8420a03121e4b35d8e6528f65.woff2") format("woff2"),
-       url("./iconsbio_dc010ac8420a03121e4b35d8e6528f65.woff") format("woff"),
-       url("./iconsbio_dc010ac8420a03121e4b35d8e6528f65.ttf") format("truetype"),
-       url("./iconsbio_dc010ac8420a03121e4b35d8e6528f65.svg#iconsbio") format("svg");
+  src: url("./iconsbio_bb7c2618bf942800818dd1d66cf29336.eot");
+  src: url("./iconsbio_bb7c2618bf942800818dd1d66cf29336.eot?#iefix") format("embedded-opentype"),
+       url("./iconsbio_bb7c2618bf942800818dd1d66cf29336.woff2") format("woff2"),
+       url("./iconsbio_bb7c2618bf942800818dd1d66cf29336.woff") format("woff"),
+       url("./iconsbio_bb7c2618bf942800818dd1d66cf29336.ttf") format("truetype"),
+       url("./iconsbio_bb7c2618bf942800818dd1d66cf29336.svg#iconsbio") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -17,7 +17,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "iconsbio";
-    src: url("./iconsbio_dc010ac8420a03121e4b35d8e6528f65.svg#iconsbio") format("svg");
+    src: url("./iconsbio_bb7c2618bf942800818dd1d66cf29336.svg#iconsbio") format("svg");
   }
 }
 
@@ -690,6 +690,7 @@
 .ibio-kitco:before,
 .ibio-kitsu:before,
 .ibio-kkbox:before,
+.ibio-klaviyo:before,
 .ibio-klink:before,
 .ibio-knc-beauty:before,
 .ibio-knownorigin:before,
@@ -2128,6 +2129,7 @@
 .ibio-kitco:before { content: "\f6dd"; }
 .ibio-kitsu:before { content: "\f6de"; }
 .ibio-kkbox:before { content: "\f6df"; }
+.ibio-klaviyo:before { content: "\f9da"; }
 .ibio-klink:before { content: "\f6e0"; }
 .ibio-knc-beauty:before { content: "\f6e1"; }
 .ibio-knownorigin:before { content: "\f6e2"; }
