@@ -4,12 +4,12 @@
 
 @font-face {
   font-family: "iconsbio";
-  src: url("./iconsbio_f990cd318e5db71a2a59f16d1666d0d2.eot");
-  src: url("./iconsbio_f990cd318e5db71a2a59f16d1666d0d2.eot?#iefix") format("embedded-opentype"),
-       url("./iconsbio_f990cd318e5db71a2a59f16d1666d0d2.woff2") format("woff2"),
-       url("./iconsbio_f990cd318e5db71a2a59f16d1666d0d2.woff") format("woff"),
-       url("./iconsbio_f990cd318e5db71a2a59f16d1666d0d2.ttf") format("truetype"),
-       url("./iconsbio_f990cd318e5db71a2a59f16d1666d0d2.svg#iconsbio") format("svg");
+  src: url("./iconsbio_ba7ecbacff3d4ecc75aa67cfb424f8e4.eot");
+  src: url("./iconsbio_ba7ecbacff3d4ecc75aa67cfb424f8e4.eot?#iefix") format("embedded-opentype"),
+       url("./iconsbio_ba7ecbacff3d4ecc75aa67cfb424f8e4.woff2") format("woff2"),
+       url("./iconsbio_ba7ecbacff3d4ecc75aa67cfb424f8e4.woff") format("woff"),
+       url("./iconsbio_ba7ecbacff3d4ecc75aa67cfb424f8e4.ttf") format("truetype"),
+       url("./iconsbio_ba7ecbacff3d4ecc75aa67cfb424f8e4.svg#iconsbio") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -17,7 +17,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "iconsbio";
-    src: url("./iconsbio_f990cd318e5db71a2a59f16d1666d0d2.svg#iconsbio") format("svg");
+    src: url("./iconsbio_ba7ecbacff3d4ecc75aa67cfb424f8e4.svg#iconsbio") format("svg");
   }
 }
 
@@ -176,6 +176,7 @@
 .ibio-blibli:before,
 .ibio-blinc:before,
 .ibio-blogger:before,
+.ibio-bluesky:before,
 .ibio-boardgamegeek:before,
 .ibio-bobbi-brown:before,
 .ibio-bogner:before,
@@ -1616,6 +1617,7 @@
 .ibio-blibli:before { content: "\f511"; }
 .ibio-blinc:before { content: "\f512"; }
 .ibio-blogger:before { content: "\f513"; }
+.ibio-bluesky:before { content: "\f9dc"; }
 .ibio-boardgamegeek:before { content: "\f514"; }
 .ibio-bobbi-brown:before { content: "\f515"; }
 .ibio-bogner:before { content: "\f516"; }
