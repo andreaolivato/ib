@@ -4,12 +4,12 @@
 
 @font-face {
   font-family: "iconsbio";
-  src: url("./iconsbio_14655c6b90c6c116af17a503d0d847e0.eot");
-  src: url("./iconsbio_14655c6b90c6c116af17a503d0d847e0.eot?#iefix") format("embedded-opentype"),
-       url("./iconsbio_14655c6b90c6c116af17a503d0d847e0.woff2") format("woff2"),
-       url("./iconsbio_14655c6b90c6c116af17a503d0d847e0.woff") format("woff"),
-       url("./iconsbio_14655c6b90c6c116af17a503d0d847e0.ttf") format("truetype"),
-       url("./iconsbio_14655c6b90c6c116af17a503d0d847e0.svg#iconsbio") format("svg");
+  src: url("./iconsbio_1ff12102e8aec2107d18711975fe524f.eot");
+  src: url("./iconsbio_1ff12102e8aec2107d18711975fe524f.eot?#iefix") format("embedded-opentype"),
+       url("./iconsbio_1ff12102e8aec2107d18711975fe524f.woff2") format("woff2"),
+       url("./iconsbio_1ff12102e8aec2107d18711975fe524f.woff") format("woff"),
+       url("./iconsbio_1ff12102e8aec2107d18711975fe524f.ttf") format("truetype"),
+       url("./iconsbio_1ff12102e8aec2107d18711975fe524f.svg#iconsbio") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -17,7 +17,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "iconsbio";
-    src: url("./iconsbio_14655c6b90c6c116af17a503d0d847e0.svg#iconsbio") format("svg");
+    src: url("./iconsbio_1ff12102e8aec2107d18711975fe524f.svg#iconsbio") format("svg");
   }
 }
 
@@ -47,6 +47,7 @@
 .ibio-act-music:before,
 .ibio-actblue:before,
 .ibio-action-records:before,
+.ibio-activision:before,
 .ibio-actors-access:before,
 .ibio-acuity:before,
 .ibio-ad-ticket:before,
@@ -63,6 +64,7 @@
 .ibio-adobe-premiere:before,
 .ibio-adobecommerce:before,
 .ibio-adsr:before,
+.ibio-advisorycloud:before,
 .ibio-adwoa-beauty:before,
 .ibio-aeg-presents:before,
 .ibio-aerin:before,
@@ -282,6 +284,8 @@
 .ibio-bonnier-books-uk:before,
 .ibio-bonsound:before,
 .ibio-boo-boo-records:before,
+.ibio-book:before,
+.ibio-book-of-the-month:before,
 .ibio-book2look:before,
 .ibio-bookbeat:before,
 .ibio-bookbub:before,
@@ -290,6 +294,7 @@
 .ibio-books-a-million:before,
 .ibio-bookshop:before,
 .ibio-booksy:before,
+.ibio-bookwyrm:before,
 .ibio-boomkat:before,
 .ibio-boomplay:before,
 .ibio-boosty:before,
@@ -451,6 +456,7 @@
 .ibio-contactform:before,
 .ibio-contao:before,
 .ibio-contently:before,
+.ibio-contracom:before,
 .ibio-cooking-vinyl-australia:before,
 .ibio-cookpad:before,
 .ibio-coola:before,
@@ -482,6 +488,7 @@
 .ibio-creatively-old:before,
 .ibio-credly:before,
 .ibio-creep-records-store:before,
+.ibio-crexi:before,
 .ibio-criminal-records:before,
 .ibio-criticalrole:before,
 .ibio-crunchbase:before,
@@ -564,6 +571,7 @@
 .ibio-dogwoof:before,
 .ibio-dolce-gabbana:before,
 .ibio-domainau:before,
+.ibio-domestika:before,
 .ibio-dominique-cosmetics:before,
 .ibio-don-giovanni-records:before,
 .ibio-donation:before,
@@ -571,6 +579,7 @@
 .ibio-donna-karan:before,
 .ibio-donorbox:before,
 .ibio-doodle:before,
+.ibio-doordash:before,
 .ibio-doterra:before,
 .ibio-douban:before,
 .ibio-douyin:before,
@@ -699,6 +708,7 @@
 .ibio-fandom:before,
 .ibio-fanfiction:before,
 .ibio-fanhouse:before,
+.ibio-fanpage:before,
 .ibio-fanpl:before,
 .ibio-fansly:before,
 .ibio-fantasyflight:before,
@@ -736,6 +746,7 @@
 .ibio-filtr:before,
 .ibio-finalfantasyxiv:before,
 .ibio-finders-keepers-records:before,
+.ibio-fineartamerica:before,
 .ibio-finesse-foreva:before,
 .ibio-finest-vinyl:before,
 .ibio-finnkino:before,
@@ -942,6 +953,7 @@
 .ibio-heretic:before,
 .ibio-hermes:before,
 .ibio-heroes-of-the-storm:before,
+.ibio-heroheroco:before,
 .ibio-hhvde:before,
 .ibio-hi-or-hey-records:before,
 .ibio-hi-tide-recordings:before,
@@ -997,6 +1009,7 @@
 .ibio-icq:before,
 .ibio-idagio:before,
 .ibio-ideal:before,
+.ibio-idus:before,
 .ibio-if-music:before,
 .ibio-ifans:before,
 .ibio-ifood:before,
@@ -1135,6 +1148,7 @@
 .ibio-keycdn:before,
 .ibio-khatabook:before,
 .ibio-kickstarter:before,
+.ibio-kickstreaming:before,
 .ibio-kiddinx:before,
 .ibio-kiehls:before,
 .ibio-kik:before,
@@ -1164,11 +1178,13 @@
 .ibio-knock-out-music-store:before,
 .ibio-known-origin:before,
 .ibio-knownorigin:before,
+.ibio-knowt:before,
 .ibio-kofi:before,
 .ibio-koh-gen-do:before,
 .ibio-kommerz-records:before,
 .ibio-komoot:before,
 .ibio-kompakt-store:before,
+.ibio-konectgg:before,
 .ibio-koo:before,
 .ibio-kopari:before,
 .ibio-kora-organics:before,
@@ -1186,6 +1202,7 @@
 .ibio-kuwo:before,
 .ibio-kvd-beauty:before,
 .ibio-kwai:before,
+.ibio-kworkcom:before,
 .ibio-kyobo-book:before,
 .ibio-la-casa-del-disco:before,
 .ibio-la-feltrinelli:before,
@@ -1230,6 +1247,7 @@
 .ibio-line:before,
 .ibio-line-music:before,
 .ibio-linkedin:before,
+.ibio-linkme:before,
 .ibio-linktree:before,
 .ibio-linode:before,
 .ibio-linq:before,
@@ -1254,6 +1272,7 @@
 .ibio-loop-store:before,
 .ibio-loopcloud:before,
 .ibio-loopmasters:before,
+.ibio-loopnet:before,
 .ibio-lord-jones:before,
 .ibio-loreal-professionnel:before,
 .ibio-lost-boy-records:before,
@@ -1350,6 +1369,7 @@
 .ibio-mills-record-company:before,
 .ibio-minecraft:before,
 .ibio-mintable:before,
+.ibio-mipicco:before,
 .ibio-miraheze:before,
 .ibio-mirror:before,
 .ibio-missevan:before,
@@ -1439,6 +1459,8 @@
 .ibio-native-cat-recordings:before,
 .ibio-nativedsd:before,
 .ibio-naturally-serious:before,
+.ibio-naverblog:before,
+.ibio-naversmartstore:before,
 .ibio-naxos:before,
 .ibio-ncsmusic:before,
 .ibio-necessaire:before,
@@ -1462,6 +1484,7 @@
 .ibio-nextory:before,
 .ibio-nexus-mods:before,
 .ibio-nftically:before,
+.ibio-nftify:before,
 .ibio-nftrade:before,
 .ibio-niconico:before,
 .ibio-nifty-gateway:before,
@@ -1558,6 +1581,7 @@
 .ibio-pampa-records:before,
 .ibio-pan-macmillan:before,
 .ibio-pandora:before,
+.ibio-pangobooks:before,
 .ibio-paper-bag-records:before,
 .ibio-paradyse-records:before,
 .ibio-paravi:before,
@@ -1578,6 +1602,8 @@
 .ibio-payme:before,
 .ibio-paypal:before,
 .ibio-paypal-cc:before,
+.ibio-paypay:before,
+.ibio-paysafecard:before,
 .ibio-paysend:before,
 .ibio-paytm:before,
 .ibio-pcpartpicker:before,
@@ -1635,6 +1661,7 @@
 .ibio-pocket:before,
 .ibio-pocketcasts:before,
 .ibio-podcastaddict:before,
+.ibio-podcastsbykajabi:before,
 .ibio-podchaser:before,
 .ibio-podfan:before,
 .ibio-podigee:before,
@@ -1655,6 +1682,7 @@
 .ibio-poshmark:before,
 .ibio-postman:before,
 .ibio-postmates:before,
+.ibio-postnews:before,
 .ibio-prada:before,
 .ibio-praisecharts:before,
 .ibio-prefect-records:before,
@@ -1664,6 +1692,7 @@
 .ibio-prima:before,
 .ibio-primark:before,
 .ibio-print-gakufu:before,
+.ibio-printablescom:before,
 .ibio-printdirect:before,
 .ibio-printioru:before,
 .ibio-producthunt:before,
@@ -1755,6 +1784,7 @@
 .ibio-ridewithgps:before,
 .ibio-rillbar:before,
 .ibio-rinse-fm:before,
+.ibio-riotgames:before,
 .ibio-rise-records:before,
 .ibio-rms-beauty:before,
 .ibio-roadrunner-records-store:before,
@@ -1793,6 +1823,7 @@
 .ibio-salzers-records:before,
 .ibio-samsung:before,
 .ibio-sanborns:before,
+.ibio-sandmilk:before,
 .ibio-sass:before,
 .ibio-saweria:before,
 .ibio-sayout:before,
@@ -1801,6 +1832,7 @@
 .ibio-scratchmitedu:before,
 .ibio-scribble-hub:before,
 .ibio-scribd:before,
+.ibio-scriv:before,
 .ibio-sdban:before,
 .ibio-secret-city-records:before,
 .ibio-secret-sounds:before,
@@ -1824,6 +1856,7 @@
 .ibio-sharptone:before,
 .ibio-shawtout:before,
 .ibio-shazam:before,
+.ibio-shecodesio:before,
 .ibio-sheet-music-plus:before,
 .ibio-shein:before,
 .ibio-shirtsinbulk:before,
@@ -1833,6 +1866,7 @@
 .ibio-shop24direct:before,
 .ibio-shopee:before,
 .ibio-shopify:before,
+.ibio-shopmy:before,
 .ibio-shoppingat:before,
 .ibio-shoppymn:before,
 .ibio-shopstyleco:before,
@@ -1857,9 +1891,11 @@
 .ibio-sketch:before,
 .ibio-sketchfab:before,
 .ibio-skiddle:before,
+.ibio-skillr:before,
 .ibio-skillshare:before,
 .ibio-skin-laundry:before,
 .ibio-skinfix:before,
+.ibio-skip-the-dishes:before,
 .ibio-sklepzmuzykapl:before,
 .ibio-skoob:before,
 .ibio-skoobe:before,
@@ -1869,6 +1905,7 @@
 .ibio-skype:before,
 .ibio-slack:before,
 .ibio-slasherapp:before,
+.ibio-slick:before,
 .ibio-slide-record-shop:before,
 .ibio-slideshare:before,
 .ibio-slip:before,
@@ -1909,13 +1946,16 @@
 .ibio-spinefarm-records:before,
 .ibio-spinlet:before,
 .ibio-spinnin-records:before,
+.ibio-spinspin:before,
 .ibio-spirit:before,
+.ibio-spiritfanfics:before,
 .ibio-spkr-media:before,
 .ibio-splice:before,
 .ibio-splitwise:before,
 .ibio-spoonflower:before,
 .ibio-spotify:before,
 .ibio-spotlight:before,
+.ibio-spoutible:before,
 .ibio-spreaker:before,
 .ibio-squarespace:before,
 .ibio-squarestore:before,
@@ -2345,6 +2385,7 @@
 .ibio-zara:before,
 .ibio-zavvi:before,
 .ibio-zazzle:before,
+.ibio-zbooni:before,
 .ibio-zeemee:before,
 .ibio-zelle:before,
 .ibio-zello:before,
@@ -2399,6 +2440,7 @@
 .ibio-act-music:before { content: "\f9e4"; }
 .ibio-actblue:before { content: "\f454"; }
 .ibio-action-records:before { content: "\f9e5"; }
+.ibio-activision:before { content: "\fd6c"; }
 .ibio-actors-access:before { content: "\f497"; }
 .ibio-acuity:before { content: "\f12c"; }
 .ibio-ad-ticket:before { content: "\f9e6"; }
@@ -2415,6 +2457,7 @@
 .ibio-adobe-premiere:before { content: "\f49f"; }
 .ibio-adobecommerce:before { content: "\f4a0"; }
 .ibio-adsr:before { content: "\f9ea"; }
+.ibio-advisorycloud:before { content: "\fd6d"; }
 .ibio-adwoa-beauty:before { content: "\f4a1"; }
 .ibio-aeg-presents:before { content: "\f9eb"; }
 .ibio-aerin:before { content: "\f4a2"; }
@@ -2634,6 +2677,8 @@
 .ibio-bonnier-books-uk:before { content: "\fa3e"; }
 .ibio-bonsound:before { content: "\fa3f"; }
 .ibio-boo-boo-records:before { content: "\fa40"; }
+.ibio-book:before { content: "\fd6e"; }
+.ibio-book-of-the-month:before { content: "\fd6f"; }
 .ibio-book2look:before { content: "\fa41"; }
 .ibio-bookbeat:before { content: "\fa42"; }
 .ibio-bookbub:before { content: "\f458"; }
@@ -2642,6 +2687,7 @@
 .ibio-books-a-million:before { content: "\f51a"; }
 .ibio-bookshop:before { content: "\f51b"; }
 .ibio-booksy:before { content: "\f51c"; }
+.ibio-bookwyrm:before { content: "\fd70"; }
 .ibio-boomkat:before { content: "\f51d"; }
 .ibio-boomplay:before { content: "\f51e"; }
 .ibio-boosty:before { content: "\f51f"; }
@@ -2803,6 +2849,7 @@
 .ibio-contactform:before { content: "\f572"; }
 .ibio-contao:before { content: "\f573"; }
 .ibio-contently:before { content: "\f574"; }
+.ibio-contracom:before { content: "\fd71"; }
 .ibio-cooking-vinyl-australia:before { content: "\fa82"; }
 .ibio-cookpad:before { content: "\f575"; }
 .ibio-coola:before { content: "\f576"; }
@@ -2834,6 +2881,7 @@
 .ibio-creatively-old:before { content: "\f58c"; }
 .ibio-credly:before { content: "\f58d"; }
 .ibio-creep-records-store:before { content: "\fa86"; }
+.ibio-crexi:before { content: "\fd72"; }
 .ibio-criminal-records:before { content: "\fa87"; }
 .ibio-criticalrole:before { content: "\f58e"; }
 .ibio-crunchbase:before { content: "\f58f"; }
@@ -2916,6 +2964,7 @@
 .ibio-dogwoof:before { content: "\faa7"; }
 .ibio-dolce-gabbana:before { content: "\f5ba"; }
 .ibio-domainau:before { content: "\f994"; }
+.ibio-domestika:before { content: "\fd73"; }
 .ibio-dominique-cosmetics:before { content: "\f5bb"; }
 .ibio-don-giovanni-records:before { content: "\faa8"; }
 .ibio-donation:before { content: "\f5bc"; }
@@ -2923,6 +2972,7 @@
 .ibio-donna-karan:before { content: "\f5bd"; }
 .ibio-donorbox:before { content: "\f5be"; }
 .ibio-doodle:before { content: "\f5bf"; }
+.ibio-doordash:before { content: "\fd74"; }
 .ibio-doterra:before { content: "\f5c0"; }
 .ibio-douban:before { content: "\f5c1"; }
 .ibio-douyin:before { content: "\f5c2"; }
@@ -3051,6 +3101,7 @@
 .ibio-fandom:before { content: "\f5fa"; }
 .ibio-fanfiction:before { content: "\f5fb"; }
 .ibio-fanhouse:before { content: "\f5fc"; }
+.ibio-fanpage:before { content: "\fd75"; }
 .ibio-fanpl:before { content: "\fae9"; }
 .ibio-fansly:before { content: "\f5fd"; }
 .ibio-fantasyflight:before { content: "\f5fe"; }
@@ -3088,6 +3139,7 @@
 .ibio-filtr:before { content: "\fafb"; }
 .ibio-finalfantasyxiv:before { content: "\f60a"; }
 .ibio-finders-keepers-records:before { content: "\fafc"; }
+.ibio-fineartamerica:before { content: "\fd76"; }
 .ibio-finesse-foreva:before { content: "\fafd"; }
 .ibio-finest-vinyl:before { content: "\fafe"; }
 .ibio-finnkino:before { content: "\faff"; }
@@ -3294,6 +3346,7 @@
 .ibio-heretic:before { content: "\f671"; }
 .ibio-hermes:before { content: "\f672"; }
 .ibio-heroes-of-the-storm:before { content: "\f673"; }
+.ibio-heroheroco:before { content: "\fd77"; }
 .ibio-hhvde:before { content: "\fb54"; }
 .ibio-hi-or-hey-records:before { content: "\fb55"; }
 .ibio-hi-tide-recordings:before { content: "\fb56"; }
@@ -3349,6 +3402,7 @@
 .ibio-icq:before { content: "\f68b"; }
 .ibio-idagio:before { content: "\fb6f"; }
 .ibio-ideal:before { content: "\f68c"; }
+.ibio-idus:before { content: "\fd78"; }
 .ibio-if-music:before { content: "\fb70"; }
 .ibio-ifans:before { content: "\f68d"; }
 .ibio-ifood:before { content: "\f9b2"; }
@@ -3487,6 +3541,7 @@
 .ibio-keycdn:before { content: "\f6d6"; }
 .ibio-khatabook:before { content: "\f6d7"; }
 .ibio-kickstarter:before { content: "\f6d8"; }
+.ibio-kickstreaming:before { content: "\fd79"; }
 .ibio-kiddinx:before { content: "\fb9f"; }
 .ibio-kiehls:before { content: "\f6d9"; }
 .ibio-kik:before { content: "\f6da"; }
@@ -3516,11 +3571,13 @@
 .ibio-knock-out-music-store:before { content: "\fbaf"; }
 .ibio-known-origin:before { content: "\fbb0"; }
 .ibio-knownorigin:before { content: "\f6e2"; }
+.ibio-knowt:before { content: "\fd7a"; }
 .ibio-kofi:before { content: "\f468"; }
 .ibio-koh-gen-do:before { content: "\f6e3"; }
 .ibio-kommerz-records:before { content: "\fbb1"; }
 .ibio-komoot:before { content: "\f6e4"; }
 .ibio-kompakt-store:before { content: "\fbb2"; }
+.ibio-konectgg:before { content: "\fd7b"; }
 .ibio-koo:before { content: "\f6e5"; }
 .ibio-kopari:before { content: "\f6e6"; }
 .ibio-kora-organics:before { content: "\f6e7"; }
@@ -3538,6 +3595,7 @@
 .ibio-kuwo:before { content: "\fbb9"; }
 .ibio-kvd-beauty:before { content: "\f6ed"; }
 .ibio-kwai:before { content: "\f6ee"; }
+.ibio-kworkcom:before { content: "\fd7c"; }
 .ibio-kyobo-book:before { content: "\fbba"; }
 .ibio-la-casa-del-disco:before { content: "\fbbb"; }
 .ibio-la-feltrinelli:before { content: "\fbbc"; }
@@ -3582,6 +3640,7 @@
 .ibio-line:before { content: "\f705"; }
 .ibio-line-music:before { content: "\f706"; }
 .ibio-linkedin:before { content: "\f707"; }
+.ibio-linkme:before { content: "\fd7d"; }
 .ibio-linktree:before { content: "\f708"; }
 .ibio-linode:before { content: "\f709"; }
 .ibio-linq:before { content: "\f70a"; }
@@ -3606,6 +3665,7 @@
 .ibio-loop-store:before { content: "\fbcf"; }
 .ibio-loopcloud:before { content: "\fbd0"; }
 .ibio-loopmasters:before { content: "\fbd1"; }
+.ibio-loopnet:before { content: "\fd7e"; }
 .ibio-lord-jones:before { content: "\f716"; }
 .ibio-loreal-professionnel:before { content: "\f717"; }
 .ibio-lost-boy-records:before { content: "\fbd2"; }
@@ -3702,6 +3762,7 @@
 .ibio-mills-record-company:before { content: "\fbf7"; }
 .ibio-minecraft:before { content: "\f74c"; }
 .ibio-mintable:before { content: "\f74d"; }
+.ibio-mipicco:before { content: "\fd7f"; }
 .ibio-miraheze:before { content: "\f74e"; }
 .ibio-mirror:before { content: "\f74f"; }
 .ibio-missevan:before { content: "\f750"; }
@@ -3791,6 +3852,8 @@
 .ibio-native-cat-recordings:before { content: "\fc2b"; }
 .ibio-nativedsd:before { content: "\fc2c"; }
 .ibio-naturally-serious:before { content: "\f771"; }
+.ibio-naverblog:before { content: "\fd80"; }
+.ibio-naversmartstore:before { content: "\fd81"; }
 .ibio-naxos:before { content: "\fc2d"; }
 .ibio-ncsmusic:before { content: "\f9c1"; }
 .ibio-necessaire:before { content: "\f772"; }
@@ -3814,6 +3877,7 @@
 .ibio-nextory:before { content: "\fc33"; }
 .ibio-nexus-mods:before { content: "\f77e"; }
 .ibio-nftically:before { content: "\f77f"; }
+.ibio-nftify:before { content: "\fd82"; }
 .ibio-nftrade:before { content: "\f780"; }
 .ibio-niconico:before { content: "\f781"; }
 .ibio-nifty-gateway:before { content: "\f782"; }
@@ -3910,6 +3974,7 @@
 .ibio-pampa-records:before { content: "\fc58"; }
 .ibio-pan-macmillan:before { content: "\fc59"; }
 .ibio-pandora:before { content: "\f46c"; }
+.ibio-pangobooks:before { content: "\fd83"; }
 .ibio-paper-bag-records:before { content: "\fc5a"; }
 .ibio-paradyse-records:before { content: "\fc5b"; }
 .ibio-paravi:before { content: "\fc5c"; }
@@ -3930,6 +3995,8 @@
 .ibio-payme:before { content: "\f7c0"; }
 .ibio-paypal:before { content: "\f7c1"; }
 .ibio-paypal-cc:before { content: "\f7c2"; }
+.ibio-paypay:before { content: "\fd84"; }
+.ibio-paysafecard:before { content: "\fd85"; }
 .ibio-paysend:before { content: "\f7c3"; }
 .ibio-paytm:before { content: "\f7c4"; }
 .ibio-pcpartpicker:before { content: "\f7c5"; }
@@ -3987,6 +4054,7 @@
 .ibio-pocket:before { content: "\f7e7"; }
 .ibio-pocketcasts:before { content: "\f7e8"; }
 .ibio-podcastaddict:before { content: "\f7e9"; }
+.ibio-podcastsbykajabi:before { content: "\fd86"; }
 .ibio-podchaser:before { content: "\f7ea"; }
 .ibio-podfan:before { content: "\f7eb"; }
 .ibio-podigee:before { content: "\fc71"; }
@@ -4007,6 +4075,7 @@
 .ibio-poshmark:before { content: "\f46e"; }
 .ibio-postman:before { content: "\f46f"; }
 .ibio-postmates:before { content: "\f7ef"; }
+.ibio-postnews:before { content: "\fd87"; }
 .ibio-prada:before { content: "\f7f0"; }
 .ibio-praisecharts:before { content: "\fc7d"; }
 .ibio-prefect-records:before { content: "\fc7e"; }
@@ -4016,6 +4085,7 @@
 .ibio-prima:before { content: "\f7f3"; }
 .ibio-primark:before { content: "\f7f4"; }
 .ibio-print-gakufu:before { content: "\fc80"; }
+.ibio-printablescom:before { content: "\fd88"; }
 .ibio-printdirect:before { content: "\f7f5"; }
 .ibio-printioru:before { content: "\f7f6"; }
 .ibio-producthunt:before { content: "\f7f7"; }
@@ -4107,6 +4177,7 @@
 .ibio-ridewithgps:before { content: "\f829"; }
 .ibio-rillbar:before { content: "\fc9f"; }
 .ibio-rinse-fm:before { content: "\fca0"; }
+.ibio-riotgames:before { content: "\fd89"; }
 .ibio-rise-records:before { content: "\fca1"; }
 .ibio-rms-beauty:before { content: "\f82a"; }
 .ibio-roadrunner-records-store:before { content: "\fca2"; }
@@ -4145,6 +4216,7 @@
 .ibio-salzers-records:before { content: "\fcae"; }
 .ibio-samsung:before { content: "\fcaf"; }
 .ibio-sanborns:before { content: "\fcb0"; }
+.ibio-sandmilk:before { content: "\fd8a"; }
 .ibio-sass:before { content: "\f83f"; }
 .ibio-saweria:before { content: "\f840"; }
 .ibio-sayout:before { content: "\f841"; }
@@ -4153,6 +4225,7 @@
 .ibio-scratchmitedu:before { content: "\f9c6"; }
 .ibio-scribble-hub:before { content: "\f842"; }
 .ibio-scribd:before { content: "\f843"; }
+.ibio-scriv:before { content: "\fd8b"; }
 .ibio-sdban:before { content: "\fcb2"; }
 .ibio-secret-city-records:before { content: "\fcb3"; }
 .ibio-secret-sounds:before { content: "\fcb4"; }
@@ -4176,6 +4249,7 @@
 .ibio-sharptone:before { content: "\fcb7"; }
 .ibio-shawtout:before { content: "\f852"; }
 .ibio-shazam:before { content: "\f853"; }
+.ibio-shecodesio:before { content: "\fd8c"; }
 .ibio-sheet-music-plus:before { content: "\fcb8"; }
 .ibio-shein:before { content: "\f854"; }
 .ibio-shirtsinbulk:before { content: "\f855"; }
@@ -4185,6 +4259,7 @@
 .ibio-shop24direct:before { content: "\fcbb"; }
 .ibio-shopee:before { content: "\f473"; }
 .ibio-shopify:before { content: "\f857"; }
+.ibio-shopmy:before { content: "\fd8d"; }
 .ibio-shoppingat:before { content: "\fcbc"; }
 .ibio-shoppymn:before { content: "\fcbd"; }
 .ibio-shopstyleco:before { content: "\f474"; }
@@ -4209,9 +4284,11 @@
 .ibio-sketch:before { content: "\f863"; }
 .ibio-sketchfab:before { content: "\f864"; }
 .ibio-skiddle:before { content: "\fcc4"; }
+.ibio-skillr:before { content: "\fd8e"; }
 .ibio-skillshare:before { content: "\f9c7"; }
 .ibio-skin-laundry:before { content: "\f865"; }
 .ibio-skinfix:before { content: "\f866"; }
+.ibio-skip-the-dishes:before { content: "\fd8f"; }
 .ibio-sklepzmuzykapl:before { content: "\fcc5"; }
 .ibio-skoob:before { content: "\f867"; }
 .ibio-skoobe:before { content: "\fcc6"; }
@@ -4221,6 +4298,7 @@
 .ibio-skype:before { content: "\f869"; }
 .ibio-slack:before { content: "\f86a"; }
 .ibio-slasherapp:before { content: "\f86b"; }
+.ibio-slick:before { content: "\fd90"; }
 .ibio-slide-record-shop:before { content: "\fcc9"; }
 .ibio-slideshare:before { content: "\f86c"; }
 .ibio-slip:before { content: "\f86d"; }
@@ -4261,13 +4339,16 @@
 .ibio-spinefarm-records:before { content: "\fcd8"; }
 .ibio-spinlet:before { content: "\fcd9"; }
 .ibio-spinnin-records:before { content: "\fcda"; }
+.ibio-spinspin:before { content: "\fd91"; }
 .ibio-spirit:before { content: "\f87e"; }
+.ibio-spiritfanfics:before { content: "\fd92"; }
 .ibio-spkr-media:before { content: "\fcdb"; }
 .ibio-splice:before { content: "\f87f"; }
 .ibio-splitwise:before { content: "\f880"; }
 .ibio-spoonflower:before { content: "\f881"; }
 .ibio-spotify:before { content: "\f882"; }
 .ibio-spotlight:before { content: "\f883"; }
+.ibio-spoutible:before { content: "\fd93"; }
 .ibio-spreaker:before { content: "\f478"; }
 .ibio-squarespace:before { content: "\f884"; }
 .ibio-squarestore:before { content: "\f479"; }
@@ -4697,6 +4778,7 @@
 .ibio-zara:before { content: "\f988"; }
 .ibio-zavvi:before { content: "\fd67"; }
 .ibio-zazzle:before { content: "\f989"; }
+.ibio-zbooni:before { content: "\fd94"; }
 .ibio-zeemee:before { content: "\f98a"; }
 .ibio-zelle:before { content: "\f487"; }
 .ibio-zello:before { content: "\f98b"; }
