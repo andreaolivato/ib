@@ -4,12 +4,12 @@
 
 @font-face {
   font-family: "iconsbio";
-  src: url("./iconsbio_1ff12102e8aec2107d18711975fe524f.eot");
-  src: url("./iconsbio_1ff12102e8aec2107d18711975fe524f.eot?#iefix") format("embedded-opentype"),
-       url("./iconsbio_1ff12102e8aec2107d18711975fe524f.woff2") format("woff2"),
-       url("./iconsbio_1ff12102e8aec2107d18711975fe524f.woff") format("woff"),
-       url("./iconsbio_1ff12102e8aec2107d18711975fe524f.ttf") format("truetype"),
-       url("./iconsbio_1ff12102e8aec2107d18711975fe524f.svg#iconsbio") format("svg");
+  src: url("./iconsbio_66a7704de13c74f7f59242b78a6bd629.eot");
+  src: url("./iconsbio_66a7704de13c74f7f59242b78a6bd629.eot?#iefix") format("embedded-opentype"),
+       url("./iconsbio_66a7704de13c74f7f59242b78a6bd629.woff2") format("woff2"),
+       url("./iconsbio_66a7704de13c74f7f59242b78a6bd629.woff") format("woff"),
+       url("./iconsbio_66a7704de13c74f7f59242b78a6bd629.ttf") format("truetype"),
+       url("./iconsbio_66a7704de13c74f7f59242b78a6bd629.svg#iconsbio") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -17,7 +17,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "iconsbio";
-    src: url("./iconsbio_1ff12102e8aec2107d18711975fe524f.svg#iconsbio") format("svg");
+    src: url("./iconsbio_66a7704de13c74f7f59242b78a6bd629.svg#iconsbio") format("svg");
   }
 }
 
@@ -295,6 +295,7 @@
 .ibio-bookshop:before,
 .ibio-booksy:before,
 .ibio-bookwyrm:before,
+.ibio-bookyogaretreat:before,
 .ibio-boomkat:before,
 .ibio-boomplay:before,
 .ibio-boosty:before,
@@ -655,6 +656,7 @@
 .ibio-empire-distribution:before,
 .ibio-end-hit-records:before,
 .ibio-enjoei:before,
+.ibio-envato:before,
 .ibio-envira-gallery:before,
 .ibio-epal:before,
 .ibio-epicgames:before,
@@ -793,7 +795,9 @@
 .ibio-freelancer:before,
 .ibio-frequency-store:before,
 .ibio-fresh:before,
+.ibio-freshcut:before,
 .ibio-freshtopia:before,
+.ibio-friendtok:before,
 .ibio-funanl:before,
 .ibio-funkwhale:before,
 .ibio-fur-affinity:before,
@@ -1362,6 +1366,7 @@
 .ibio-microsoft:before,
 .ibio-microsoftbookings:before,
 .ibio-microsoftteams:before,
+.ibio-midjourney:before,
 .ibio-mightynetworks:before,
 .ibio-milk-makeup:before,
 .ibio-milk-records:before,
@@ -1435,6 +1440,7 @@
 .ibio-myanimelist:before,
 .ibio-mybookshop:before,
 .ibio-mydramalist:before,
+.ibio-myfansse:before,
 .ibio-myfigurecollection:before,
 .ibio-mymfans:before,
 .ibio-mymixtapez:before,
@@ -1666,6 +1672,7 @@
 .ibio-podfan:before,
 .ibio-podigee:before,
 .ibio-podimo:before,
+.ibio-podlink:before,
 .ibio-podomatic:before,
 .ibio-poison-city-records:before,
 .ibio-pokemongo:before,
@@ -1700,6 +1707,7 @@
 .ibio-proper-music:before,
 .ibio-propertyguru:before,
 .ibio-protonmail:before,
+.ibio-psychologytoday:before,
 .ibio-publons:before,
 .ibio-pultru:before,
 .ibio-puma:before,
@@ -2202,6 +2210,7 @@
 .ibio-uniregistry:before,
 .ibio-unitedmasters:before,
 .ibio-unity3d:before,
+.ibio-unlokme:before,
 .ibio-unser-ding:before,
 .ibio-unsplash:before,
 .ibio-unstoppable-domains:before,
@@ -2391,6 +2400,7 @@
 .ibio-zello:before,
 .ibio-zenly:before,
 .ibio-zenyandex:before,
+.ibio-zerodha:before,
 .ibio-zhihu:before,
 .ibio-zia-records:before,
 .ibio-ziggo:before,
@@ -2688,6 +2698,7 @@
 .ibio-bookshop:before { content: "\f51b"; }
 .ibio-booksy:before { content: "\f51c"; }
 .ibio-bookwyrm:before { content: "\fd70"; }
+.ibio-bookyogaretreat:before { content: "\fd95"; }
 .ibio-boomkat:before { content: "\f51d"; }
 .ibio-boomplay:before { content: "\f51e"; }
 .ibio-boosty:before { content: "\f51f"; }
@@ -3048,6 +3059,7 @@
 .ibio-empire-distribution:before { content: "\facc"; }
 .ibio-end-hit-records:before { content: "\facd"; }
 .ibio-enjoei:before { content: "\f5e3"; }
+.ibio-envato:before { content: "\fd96"; }
 .ibio-envira-gallery:before { content: "\f5e4"; }
 .ibio-epal:before { content: "\f5e5"; }
 .ibio-epicgames:before { content: "\f5e6"; }
@@ -3186,7 +3198,9 @@
 .ibio-freelancer:before { content: "\f621"; }
 .ibio-frequency-store:before { content: "\fb10"; }
 .ibio-fresh:before { content: "\f622"; }
+.ibio-freshcut:before { content: "\fd97"; }
 .ibio-freshtopia:before { content: "\fb11"; }
+.ibio-friendtok:before { content: "\fd98"; }
 .ibio-funanl:before { content: "\f9ab"; }
 .ibio-funkwhale:before { content: "\f460"; }
 .ibio-fur-affinity:before { content: "\f623"; }
@@ -3755,6 +3769,7 @@
 .ibio-microsoft:before { content: "\f747"; }
 .ibio-microsoftbookings:before { content: "\f748"; }
 .ibio-microsoftteams:before { content: "\f749"; }
+.ibio-midjourney:before { content: "\fd99"; }
 .ibio-mightynetworks:before { content: "\f74a"; }
 .ibio-milk-makeup:before { content: "\f74b"; }
 .ibio-milk-records:before { content: "\fbf5"; }
@@ -3828,6 +3843,7 @@
 .ibio-myanimelist:before { content: "\f767"; }
 .ibio-mybookshop:before { content: "\fc1d"; }
 .ibio-mydramalist:before { content: "\f768"; }
+.ibio-myfansse:before { content: "\fd9a"; }
 .ibio-myfigurecollection:before { content: "\f769"; }
 .ibio-mymfans:before { content: "\f76a"; }
 .ibio-mymixtapez:before { content: "\fc1e"; }
@@ -4059,6 +4075,7 @@
 .ibio-podfan:before { content: "\f7eb"; }
 .ibio-podigee:before { content: "\fc71"; }
 .ibio-podimo:before { content: "\fc72"; }
+.ibio-podlink:before { content: "\fd9b"; }
 .ibio-podomatic:before { content: "\f7ec"; }
 .ibio-poison-city-records:before { content: "\fc73"; }
 .ibio-pokemongo:before { content: "\f7ed"; }
@@ -4093,6 +4110,7 @@
 .ibio-proper-music:before { content: "\fc81"; }
 .ibio-propertyguru:before { content: "\f995"; }
 .ibio-protonmail:before { content: "\f7f9"; }
+.ibio-psychologytoday:before { content: "\fd9c"; }
 .ibio-publons:before { content: "\f7fa"; }
 .ibio-pultru:before { content: "\fc82"; }
 .ibio-puma:before { content: "\f7fb"; }
@@ -4595,6 +4613,7 @@
 .ibio-uniregistry:before { content: "\f919"; }
 .ibio-unitedmasters:before { content: "\f91a"; }
 .ibio-unity3d:before { content: "\f91b"; }
+.ibio-unlokme:before { content: "\fd9d"; }
 .ibio-unser-ding:before { content: "\fd27"; }
 .ibio-unsplash:before { content: "\f91c"; }
 .ibio-unstoppable-domains:before { content: "\f91d"; }
@@ -4784,6 +4803,7 @@
 .ibio-zello:before { content: "\f98b"; }
 .ibio-zenly:before { content: "\f98c"; }
 .ibio-zenyandex:before { content: "\f9d5"; }
+.ibio-zerodha:before { content: "\fd9e"; }
 .ibio-zhihu:before { content: "\f98d"; }
 .ibio-zia-records:before { content: "\fd68"; }
 .ibio-ziggo:before { content: "\fd69"; }
