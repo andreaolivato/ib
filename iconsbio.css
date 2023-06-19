@@ -4,12 +4,12 @@
 
 @font-face {
   font-family: "iconsbio";
-  src: url("./iconsbio_66a7704de13c74f7f59242b78a6bd629.eot");
-  src: url("./iconsbio_66a7704de13c74f7f59242b78a6bd629.eot?#iefix") format("embedded-opentype"),
-       url("./iconsbio_66a7704de13c74f7f59242b78a6bd629.woff2") format("woff2"),
-       url("./iconsbio_66a7704de13c74f7f59242b78a6bd629.woff") format("woff"),
-       url("./iconsbio_66a7704de13c74f7f59242b78a6bd629.ttf") format("truetype"),
-       url("./iconsbio_66a7704de13c74f7f59242b78a6bd629.svg#iconsbio") format("svg");
+  src: url("./iconsbio_47040324a1c5f827645145750087399b.eot");
+  src: url("./iconsbio_47040324a1c5f827645145750087399b.eot?#iefix") format("embedded-opentype"),
+       url("./iconsbio_47040324a1c5f827645145750087399b.woff2") format("woff2"),
+       url("./iconsbio_47040324a1c5f827645145750087399b.woff") format("woff"),
+       url("./iconsbio_47040324a1c5f827645145750087399b.ttf") format("truetype"),
+       url("./iconsbio_47040324a1c5f827645145750087399b.svg#iconsbio") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -17,7 +17,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "iconsbio";
-    src: url("./iconsbio_66a7704de13c74f7f59242b78a6bd629.svg#iconsbio") format("svg");
+    src: url("./iconsbio_47040324a1c5f827645145750087399b.svg#iconsbio") format("svg");
   }
 }
 
@@ -531,6 +531,7 @@
 .ibio-deejaydeadde:before,
 .ibio-deewee:before,
 .ibio-deezer:before,
+.ibio-deliveroo:before,
 .ibio-depop:before,
 .ibio-desigual:before,
 .ibio-deskpro:before,
@@ -1264,6 +1265,7 @@
 .ibio-livrarias-leitura:before,
 .ibio-lkmtv:before,
 .ibio-localguides:before,
+.ibio-localscom:before,
 .ibio-loccitane:before,
 .ibio-lockjaw-records:before,
 .ibio-locomotiva-discos:before,
@@ -1858,6 +1860,7 @@
 .ibio-servicenow:before,
 .ibio-servicestack:before,
 .ibio-sessionslive:before,
+.ibio-setmore:before,
 .ibio-shani-darden-skin-care:before,
 .ibio-share:before,
 .ibio-sharethemeal:before,
@@ -1882,6 +1885,7 @@
 .ibio-showtime:before,
 .ibio-showwcase:before,
 .ibio-shu-uemura:before,
+.ibio-shutterstock:before,
 .ibio-sideonedummy-records:before,
 .ibio-signal:before,
 .ibio-signum-records:before,
@@ -2119,6 +2123,7 @@
 .ibio-tinyletter:before,
 .ibio-tippinme:before,
 .ibio-tissot:before,
+.ibio-tistory:before,
 .ibio-tj-maxx:before,
 .ibio-tkigv3:before,
 .ibio-tksync:before,
@@ -2934,6 +2939,7 @@
 .ibio-deejaydeadde:before { content: "\fa9b"; }
 .ibio-deewee:before { content: "\fa9c"; }
 .ibio-deezer:before { content: "\f5a0"; }
+.ibio-deliveroo:before { content: "\fd9f"; }
 .ibio-depop:before { content: "\f45b"; }
 .ibio-desigual:before { content: "\f5a1"; }
 .ibio-deskpro:before { content: "\f5a2"; }
@@ -3667,6 +3673,7 @@
 .ibio-livrarias-leitura:before { content: "\fbc9"; }
 .ibio-lkmtv:before { content: "\fbca"; }
 .ibio-localguides:before { content: "\f710"; }
+.ibio-localscom:before { content: "\fda0"; }
 .ibio-loccitane:before { content: "\f711"; }
 .ibio-lockjaw-records:before { content: "\fbcb"; }
 .ibio-locomotiva-discos:before { content: "\fbcc"; }
@@ -4261,6 +4268,7 @@
 .ibio-servicenow:before { content: "\f84c"; }
 .ibio-servicestack:before { content: "\f84d"; }
 .ibio-sessionslive:before { content: "\f84e"; }
+.ibio-setmore:before { content: "\fda1"; }
 .ibio-shani-darden-skin-care:before { content: "\f84f"; }
 .ibio-share:before { content: "\f850"; }
 .ibio-sharethemeal:before { content: "\f851"; }
@@ -4285,6 +4293,7 @@
 .ibio-showtime:before { content: "\f859"; }
 .ibio-showwcase:before { content: "\f85a"; }
 .ibio-shu-uemura:before { content: "\f85b"; }
+.ibio-shutterstock:before { content: "\fda2"; }
 .ibio-sideonedummy-records:before { content: "\fcbe"; }
 .ibio-signal:before { content: "\f475"; }
 .ibio-signum-records:before { content: "\fcbf"; }
@@ -4522,6 +4531,7 @@
 .ibio-tinyletter:before { content: "\f8e2"; }
 .ibio-tippinme:before { content: "\f8e3"; }
 .ibio-tissot:before { content: "\f8e4"; }
+.ibio-tistory:before { content: "\fda3"; }
 .ibio-tj-maxx:before { content: "\f8e5"; }
 .ibio-tkigv3:before { content: "\f9cf"; }
 .ibio-tksync:before { content: "\f9d0"; }
