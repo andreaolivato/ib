@@ -4,12 +4,12 @@
 
 @font-face {
   font-family: "iconsbio";
-  src: url("./iconsbio_f3829efd67f5c0768e0f49ce1e567e8c.eot");
-  src: url("./iconsbio_f3829efd67f5c0768e0f49ce1e567e8c.eot?#iefix") format("embedded-opentype"),
-       url("./iconsbio_f3829efd67f5c0768e0f49ce1e567e8c.woff2") format("woff2"),
-       url("./iconsbio_f3829efd67f5c0768e0f49ce1e567e8c.woff") format("woff"),
-       url("./iconsbio_f3829efd67f5c0768e0f49ce1e567e8c.ttf") format("truetype"),
-       url("./iconsbio_f3829efd67f5c0768e0f49ce1e567e8c.svg#iconsbio") format("svg");
+  src: url("./iconsbio_4c337be57aacf21611a625f725f8b190.eot");
+  src: url("./iconsbio_4c337be57aacf21611a625f725f8b190.eot?#iefix") format("embedded-opentype"),
+       url("./iconsbio_4c337be57aacf21611a625f725f8b190.woff2") format("woff2"),
+       url("./iconsbio_4c337be57aacf21611a625f725f8b190.woff") format("woff"),
+       url("./iconsbio_4c337be57aacf21611a625f725f8b190.ttf") format("truetype"),
+       url("./iconsbio_4c337be57aacf21611a625f725f8b190.svg#iconsbio") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -17,7 +17,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "iconsbio";
-    src: url("./iconsbio_f3829efd67f5c0768e0f49ce1e567e8c.svg#iconsbio") format("svg");
+    src: url("./iconsbio_4c337be57aacf21611a625f725f8b190.svg#iconsbio") format("svg");
   }
 }
 
@@ -2210,6 +2210,7 @@
 .ibio-twintpayment:before,
 .ibio-twitch:before,
 .ibio-twitter:before,
+.ibio-twitterx:before,
 .ibio-typeshare:before,
 .ibio-typo3:before,
 .ibio-uber:before,
@@ -4644,6 +4645,7 @@
 .ibio-twintpayment:before { content: "\f9d2"; }
 .ibio-twitch:before { content: "\f90b"; }
 .ibio-twitter:before { content: "\f90c"; }
+.ibio-twitterx:before { content: "\fdbe"; }
 .ibio-typeshare:before { content: "\f90d"; }
 .ibio-typo3:before { content: "\f90e"; }
 .ibio-uber:before { content: "\f90f"; }
