@@ -4,12 +4,12 @@
 
 @font-face {
   font-family: "iconsbio";
-  src: url("./iconsbio_b2079b0b57abafe17345465880a19aee.eot");
-  src: url("./iconsbio_b2079b0b57abafe17345465880a19aee.eot?#iefix") format("embedded-opentype"),
-       url("./iconsbio_b2079b0b57abafe17345465880a19aee.woff2") format("woff2"),
-       url("./iconsbio_b2079b0b57abafe17345465880a19aee.woff") format("woff"),
-       url("./iconsbio_b2079b0b57abafe17345465880a19aee.ttf") format("truetype"),
-       url("./iconsbio_b2079b0b57abafe17345465880a19aee.svg#iconsbio") format("svg");
+  src: url("./iconsbio_734e9257f63087a9671cc05f0acb99f5.eot");
+  src: url("./iconsbio_734e9257f63087a9671cc05f0acb99f5.eot?#iefix") format("embedded-opentype"),
+       url("./iconsbio_734e9257f63087a9671cc05f0acb99f5.woff2") format("woff2"),
+       url("./iconsbio_734e9257f63087a9671cc05f0acb99f5.woff") format("woff"),
+       url("./iconsbio_734e9257f63087a9671cc05f0acb99f5.ttf") format("truetype"),
+       url("./iconsbio_734e9257f63087a9671cc05f0acb99f5.svg#iconsbio") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -17,7 +17,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "iconsbio";
-    src: url("./iconsbio_b2079b0b57abafe17345465880a19aee.svg#iconsbio") format("svg");
+    src: url("./iconsbio_734e9257f63087a9671cc05f0acb99f5.svg#iconsbio") format("svg");
   }
 }
 
@@ -42,6 +42,7 @@
 .ibio-academia:before,
 .ibio-acast:before,
 .ibio-accredible:before,
+.ibio-accupass:before,
 .ibio-aclu:before,
 .ibio-acqua-di-parma:before,
 .ibio-act-music:before,
@@ -145,6 +146,7 @@
 .ibio-applepodcast:before,
 .ibio-appstore:before,
 .ibio-aquis:before,
+.ibio-arbonne:before,
 .ibio-archiproducts:before,
 .ibio-ardent-studios:before,
 .ibio-arena:before,
@@ -1078,6 +1080,7 @@
 .ibio-internet-archive:before,
 .ibio-internetexplorer:before,
 .ibio-invision:before,
+.ibio-invitationcodes:before,
 .ibio-ioxhost:before,
 .ibio-ipecac-recordings:before,
 .ibio-iqiyi:before,
@@ -1584,6 +1587,7 @@
 .ibio-ouai:before,
 .ibio-ourscreen:before,
 .ibio-outhere-music:before,
+.ibio-outlook:before,
 .ibio-overcast:before,
 .ibio-overdrive:before,
 .ibio-overose:before,
@@ -1710,6 +1714,7 @@
 .ibio-prada:before,
 .ibio-praisecharts:before,
 .ibio-prefect-records:before,
+.ibio-pressreader:before,
 .ibio-presssport:before,
 .ibio-presto-music:before,
 .ibio-pretty-vulgar:before,
@@ -1834,6 +1839,7 @@
 .ibio-rose-ingleton-md:before,
 .ibio-rosebud-perfume-co:before,
 .ibio-rossano-ferretti-parma:before,
+.ibio-rottentomatoes:before,
 .ibio-royal-road:before,
 .ibio-rproject:before,
 .ibio-rubadub:before,
@@ -2017,6 +2023,7 @@
 .ibio-stickermule:before,
 .ibio-stila:before,
 .ibio-stimulus-com:before,
+.ibio-stimuluscom:before,
 .ibio-stitcher:before,
 .ibio-stocktwits:before,
 .ibio-stones-throw-records:before,
@@ -2482,6 +2489,7 @@
 .ibio-academia:before { content: "\f494"; }
 .ibio-acast:before { content: "\f9e2"; }
 .ibio-accredible:before { content: "\f495"; }
+.ibio-accupass:before { content: "\fdc4"; }
 .ibio-aclu:before { content: "\f9e3"; }
 .ibio-acqua-di-parma:before { content: "\f496"; }
 .ibio-act-music:before { content: "\f9e4"; }
@@ -2585,6 +2593,7 @@
 .ibio-applepodcast:before { content: "\f4d3"; }
 .ibio-appstore:before { content: "\f4d4"; }
 .ibio-aquis:before { content: "\f4d5"; }
+.ibio-arbonne:before { content: "\fdc5"; }
 .ibio-archiproducts:before { content: "\f4d6"; }
 .ibio-ardent-studios:before { content: "\fa01"; }
 .ibio-arena:before { content: "\fda6"; }
@@ -3518,6 +3527,7 @@
 .ibio-internet-archive:before { content: "\f6a9"; }
 .ibio-internetexplorer:before { content: "\f6aa"; }
 .ibio-invision:before { content: "\f6ab"; }
+.ibio-invitationcodes:before { content: "\fdc6"; }
 .ibio-ioxhost:before { content: "\f6ac"; }
 .ibio-ipecac-recordings:before { content: "\fb80"; }
 .ibio-iqiyi:before { content: "\fb81"; }
@@ -4024,6 +4034,7 @@
 .ibio-ouai:before { content: "\f7ad"; }
 .ibio-ourscreen:before { content: "\fc50"; }
 .ibio-outhere-music:before { content: "\fc51"; }
+.ibio-outlook:before { content: "\fdc7"; }
 .ibio-overcast:before { content: "\f7ae"; }
 .ibio-overdrive:before { content: "\fc52"; }
 .ibio-overose:before { content: "\f7af"; }
@@ -4150,6 +4161,7 @@
 .ibio-prada:before { content: "\f7f0"; }
 .ibio-praisecharts:before { content: "\fc7d"; }
 .ibio-prefect-records:before { content: "\fc7e"; }
+.ibio-pressreader:before { content: "\fdc8"; }
 .ibio-presssport:before { content: "\f7f1"; }
 .ibio-presto-music:before { content: "\fc7f"; }
 .ibio-pretty-vulgar:before { content: "\f7f2"; }
@@ -4274,6 +4286,7 @@
 .ibio-rose-ingleton-md:before { content: "\f832"; }
 .ibio-rosebud-perfume-co:before { content: "\f833"; }
 .ibio-rossano-ferretti-parma:before { content: "\f834"; }
+.ibio-rottentomatoes:before { content: "\fdc9"; }
 .ibio-royal-road:before { content: "\f835"; }
 .ibio-rproject:before { content: "\f836"; }
 .ibio-rubadub:before { content: "\fcac"; }
@@ -4457,6 +4470,7 @@
 .ibio-stickermule:before { content: "\f896"; }
 .ibio-stila:before { content: "\f897"; }
 .ibio-stimulus-com:before { content: "\fdb9"; }
+.ibio-stimuluscom:before { content: "\fdca"; }
 .ibio-stitcher:before { content: "\f898"; }
 .ibio-stocktwits:before { content: "\f899"; }
 .ibio-stones-throw-records:before { content: "\fce1"; }
