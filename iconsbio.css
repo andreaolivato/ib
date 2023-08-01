@@ -4,12 +4,12 @@
 
 @font-face {
   font-family: "iconsbio";
-  src: url("./iconsbio_cff7d0be9b60f26fbe3ac3f3d4baf32e.eot");
-  src: url("./iconsbio_cff7d0be9b60f26fbe3ac3f3d4baf32e.eot?#iefix") format("embedded-opentype"),
-       url("./iconsbio_cff7d0be9b60f26fbe3ac3f3d4baf32e.woff2") format("woff2"),
-       url("./iconsbio_cff7d0be9b60f26fbe3ac3f3d4baf32e.woff") format("woff"),
-       url("./iconsbio_cff7d0be9b60f26fbe3ac3f3d4baf32e.ttf") format("truetype"),
-       url("./iconsbio_cff7d0be9b60f26fbe3ac3f3d4baf32e.svg#iconsbio") format("svg");
+  src: url("./iconsbio_b2079b0b57abafe17345465880a19aee.eot");
+  src: url("./iconsbio_b2079b0b57abafe17345465880a19aee.eot?#iefix") format("embedded-opentype"),
+       url("./iconsbio_b2079b0b57abafe17345465880a19aee.woff2") format("woff2"),
+       url("./iconsbio_b2079b0b57abafe17345465880a19aee.woff") format("woff"),
+       url("./iconsbio_b2079b0b57abafe17345465880a19aee.ttf") format("truetype"),
+       url("./iconsbio_b2079b0b57abafe17345465880a19aee.svg#iconsbio") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -17,7 +17,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "iconsbio";
-    src: url("./iconsbio_cff7d0be9b60f26fbe3ac3f3d4baf32e.svg#iconsbio") format("svg");
+    src: url("./iconsbio_b2079b0b57abafe17345465880a19aee.svg#iconsbio") format("svg");
   }
 }
 
@@ -311,6 +311,7 @@
 .ibio-break-world-records:before,
 .ibio-breaker:before,
 .ibio-breguet:before,
+.ibio-brevo:before,
 .ibio-brilliant:before,
 .ibio-briogeo:before,
 .ibio-brittanys-record-shop:before,
@@ -1417,6 +1418,7 @@
 .ibio-moroccanoil:before,
 .ibio-mount-lai:before,
 .ibio-mporium:before,
+.ibio-mspowerautomate:before,
 .ibio-mu-mo:before,
 .ibio-muckrack:before,
 .ibio-muellerde:before,
@@ -2749,6 +2751,7 @@
 .ibio-break-world-records:before { content: "\fa44"; }
 .ibio-breaker:before { content: "\f525"; }
 .ibio-breguet:before { content: "\f526"; }
+.ibio-brevo:before { content: "\fdc2"; }
 .ibio-brilliant:before { content: "\f527"; }
 .ibio-briogeo:before { content: "\f528"; }
 .ibio-brittanys-record-shop:before { content: "\fa45"; }
@@ -3855,6 +3858,7 @@
 .ibio-moroccanoil:before { content: "\f75c"; }
 .ibio-mount-lai:before { content: "\f75d"; }
 .ibio-mporium:before { content: "\fc04"; }
+.ibio-mspowerautomate:before { content: "\fdc3"; }
 .ibio-mu-mo:before { content: "\fc05"; }
 .ibio-muckrack:before { content: "\f75e"; }
 .ibio-muellerde:before { content: "\fc06"; }
