@@ -4,12 +4,12 @@
 
 @font-face {
   font-family: "iconsbio";
-  src: url("./iconsbio_dc97e885075ba0c028d0821e6110ba63.eot");
-  src: url("./iconsbio_dc97e885075ba0c028d0821e6110ba63.eot?#iefix") format("embedded-opentype"),
-       url("./iconsbio_dc97e885075ba0c028d0821e6110ba63.woff2") format("woff2"),
-       url("./iconsbio_dc97e885075ba0c028d0821e6110ba63.woff") format("woff"),
-       url("./iconsbio_dc97e885075ba0c028d0821e6110ba63.ttf") format("truetype"),
-       url("./iconsbio_dc97e885075ba0c028d0821e6110ba63.svg#iconsbio") format("svg");
+  src: url("./iconsbio_b9e820d9a6591776dd9486eecccdfe14.eot");
+  src: url("./iconsbio_b9e820d9a6591776dd9486eecccdfe14.eot?#iefix") format("embedded-opentype"),
+       url("./iconsbio_b9e820d9a6591776dd9486eecccdfe14.woff2") format("woff2"),
+       url("./iconsbio_b9e820d9a6591776dd9486eecccdfe14.woff") format("woff"),
+       url("./iconsbio_b9e820d9a6591776dd9486eecccdfe14.ttf") format("truetype"),
+       url("./iconsbio_b9e820d9a6591776dd9486eecccdfe14.svg#iconsbio") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -17,7 +17,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "iconsbio";
-    src: url("./iconsbio_dc97e885075ba0c028d0821e6110ba63.svg#iconsbio") format("svg");
+    src: url("./iconsbio_b9e820d9a6591776dd9486eecccdfe14.svg#iconsbio") format("svg");
   }
 }
 
@@ -464,6 +464,7 @@
 .ibio-contao:before,
 .ibio-contently:before,
 .ibio-contracom:before,
+.ibio-convertkit:before,
 .ibio-cooking-vinyl-australia:before,
 .ibio-cookpad:before,
 .ibio-coola:before,
@@ -2910,6 +2911,7 @@
 .ibio-contao:before { content: "\f573"; }
 .ibio-contently:before { content: "\f574"; }
 .ibio-contracom:before { content: "\fd71"; }
+.ibio-convertkit:before { content: "\fdca"; }
 .ibio-cooking-vinyl-australia:before { content: "\fa82"; }
 .ibio-cookpad:before { content: "\f575"; }
 .ibio-coola:before { content: "\f576"; }
