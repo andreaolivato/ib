@@ -4,12 +4,12 @@
 
 @font-face {
   font-family: "iconsbio";
-  src: url("./iconsbio_b9e820d9a6591776dd9486eecccdfe14.eot");
-  src: url("./iconsbio_b9e820d9a6591776dd9486eecccdfe14.eot?#iefix") format("embedded-opentype"),
-       url("./iconsbio_b9e820d9a6591776dd9486eecccdfe14.woff2") format("woff2"),
-       url("./iconsbio_b9e820d9a6591776dd9486eecccdfe14.woff") format("woff"),
-       url("./iconsbio_b9e820d9a6591776dd9486eecccdfe14.ttf") format("truetype"),
-       url("./iconsbio_b9e820d9a6591776dd9486eecccdfe14.svg#iconsbio") format("svg");
+  src: url("./iconsbio_78c50c9066cbccc3e903e0dfa3b91901.eot");
+  src: url("./iconsbio_78c50c9066cbccc3e903e0dfa3b91901.eot?#iefix") format("embedded-opentype"),
+       url("./iconsbio_78c50c9066cbccc3e903e0dfa3b91901.woff2") format("woff2"),
+       url("./iconsbio_78c50c9066cbccc3e903e0dfa3b91901.woff") format("woff"),
+       url("./iconsbio_78c50c9066cbccc3e903e0dfa3b91901.ttf") format("truetype"),
+       url("./iconsbio_78c50c9066cbccc3e903e0dfa3b91901.svg#iconsbio") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -17,7 +17,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "iconsbio";
-    src: url("./iconsbio_b9e820d9a6591776dd9486eecccdfe14.svg#iconsbio") format("svg");
+    src: url("./iconsbio_78c50c9066cbccc3e903e0dfa3b91901.svg#iconsbio") format("svg");
   }
 }
 
@@ -1876,6 +1876,7 @@
 .ibio-sellfy:before,
 .ibio-sellsy:before,
 .ibio-semplice:before,
+.ibio-sendfox:before,
 .ibio-sendinblue:before,
 .ibio-senscritique:before,
 .ibio-sephora-collection:before,
@@ -4323,6 +4324,7 @@
 .ibio-sellfy:before { content: "\f846"; }
 .ibio-sellsy:before { content: "\f847"; }
 .ibio-semplice:before { content: "\f848"; }
+.ibio-sendfox:before { content: "\fdcb"; }
 .ibio-sendinblue:before { content: "\f9d9"; }
 .ibio-senscritique:before { content: "\f849"; }
 .ibio-sephora-collection:before { content: "\f84a"; }
