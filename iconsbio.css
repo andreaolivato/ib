@@ -4,12 +4,12 @@
 
 @font-face {
   font-family: "iconsbio";
-  src: url("./iconsbio_c3c6ab05156ad2734a960069963a449a.eot");
-  src: url("./iconsbio_c3c6ab05156ad2734a960069963a449a.eot?#iefix") format("embedded-opentype"),
-       url("./iconsbio_c3c6ab05156ad2734a960069963a449a.woff2") format("woff2"),
-       url("./iconsbio_c3c6ab05156ad2734a960069963a449a.woff") format("woff"),
-       url("./iconsbio_c3c6ab05156ad2734a960069963a449a.ttf") format("truetype"),
-       url("./iconsbio_c3c6ab05156ad2734a960069963a449a.svg#iconsbio") format("svg");
+  src: url("./iconsbio_1ab9ad2118b17d33b1baf113dbfb7e3e.eot");
+  src: url("./iconsbio_1ab9ad2118b17d33b1baf113dbfb7e3e.eot?#iefix") format("embedded-opentype"),
+       url("./iconsbio_1ab9ad2118b17d33b1baf113dbfb7e3e.woff2") format("woff2"),
+       url("./iconsbio_1ab9ad2118b17d33b1baf113dbfb7e3e.woff") format("woff"),
+       url("./iconsbio_1ab9ad2118b17d33b1baf113dbfb7e3e.ttf") format("truetype"),
+       url("./iconsbio_1ab9ad2118b17d33b1baf113dbfb7e3e.svg#iconsbio") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -17,7 +17,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "iconsbio";
-    src: url("./iconsbio_c3c6ab05156ad2734a960069963a449a.svg#iconsbio") format("svg");
+    src: url("./iconsbio_1ab9ad2118b17d33b1baf113dbfb7e3e.svg#iconsbio") format("svg");
   }
 }
 
@@ -558,6 +558,7 @@
 .ibio-digelius:before,
 .ibio-digg:before,
 .ibio-diggers-factory:before,
+.ibio-digistore24:before,
 .ibio-digital-virgo:before,
 .ibio-digitalocean:before,
 .ibio-digitick:before,
@@ -1255,6 +1256,7 @@
 .ibio-letterboxd:before,
 .ibio-levis:before,
 .ibio-levyikkuna:before,
+.ibio-liberapay:before,
 .ibio-libib:before,
 .ibio-librofm:before,
 .ibio-libsyn:before,
@@ -1318,6 +1320,7 @@
 .ibio-lys-beauty:before,
 .ibio-macys:before,
 .ibio-magento:before,
+.ibio-magicedenio:before,
 .ibio-magnetic-eye-records:before,
 .ibio-magnolia-record-club:before,
 .ibio-mailchimp:before,
@@ -2097,6 +2100,7 @@
 .ibio-tarte:before,
 .ibio-taste-beauty:before,
 .ibio-tatcha:before,
+.ibio-tcgplayer:before,
 .ibio-teachable:before,
 .ibio-teamspeak:before,
 .ibio-ted-baker:before,
@@ -2357,6 +2361,7 @@
 .ibio-we-heart-it:before,
 .ibio-weatherunderground:before,
 .ibio-webex:before,
+.ibio-webofscience:before,
 .ibio-webtalk:before,
 .ibio-webtoon:before,
 .ibio-wechat:before,
@@ -3007,6 +3012,7 @@
 .ibio-digelius:before { content: "\faa0"; }
 .ibio-digg:before { content: "\f5a9"; }
 .ibio-diggers-factory:before { content: "\faa1"; }
+.ibio-digistore24:before { content: "\fdcd"; }
 .ibio-digital-virgo:before { content: "\faa2"; }
 .ibio-digitalocean:before { content: "\f5aa"; }
 .ibio-digitick:before { content: "\faa3"; }
@@ -3704,6 +3710,7 @@
 .ibio-letterboxd:before { content: "\f469"; }
 .ibio-levis:before { content: "\f6fe"; }
 .ibio-levyikkuna:before { content: "\fbc4"; }
+.ibio-liberapay:before { content: "\fdce"; }
 .ibio-libib:before { content: "\f6ff"; }
 .ibio-librofm:before { content: "\fbc5"; }
 .ibio-libsyn:before { content: "\fbc6"; }
@@ -3767,6 +3774,7 @@
 .ibio-lys-beauty:before { content: "\f71f"; }
 .ibio-macys:before { content: "\f720"; }
 .ibio-magento:before { content: "\f721"; }
+.ibio-magicedenio:before { content: "\fdcf"; }
 .ibio-magnetic-eye-records:before { content: "\fbdc"; }
 .ibio-magnolia-record-club:before { content: "\fbdd"; }
 .ibio-mailchimp:before { content: "\f722"; }
@@ -4546,6 +4554,7 @@
 .ibio-tarte:before { content: "\f8c0"; }
 .ibio-taste-beauty:before { content: "\f8c1"; }
 .ibio-tatcha:before { content: "\f8c2"; }
+.ibio-tcgplayer:before { content: "\fdd0"; }
 .ibio-teachable:before { content: "\f8c3"; }
 .ibio-teamspeak:before { content: "\f8c4"; }
 .ibio-ted-baker:before { content: "\f8c5"; }
@@ -4806,6 +4815,7 @@
 .ibio-we-heart-it:before { content: "\f955"; }
 .ibio-weatherunderground:before { content: "\f956"; }
 .ibio-webex:before { content: "\f957"; }
+.ibio-webofscience:before { content: "\fdd1"; }
 .ibio-webtalk:before { content: "\f958"; }
 .ibio-webtoon:before { content: "\f959"; }
 .ibio-wechat:before { content: "\f95a"; }
