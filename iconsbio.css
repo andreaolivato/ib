@@ -4,12 +4,12 @@
 
 @font-face {
   font-family: "iconsbio";
-  src: url("./iconsbio_1ab9ad2118b17d33b1baf113dbfb7e3e.eot");
-  src: url("./iconsbio_1ab9ad2118b17d33b1baf113dbfb7e3e.eot?#iefix") format("embedded-opentype"),
-       url("./iconsbio_1ab9ad2118b17d33b1baf113dbfb7e3e.woff2") format("woff2"),
-       url("./iconsbio_1ab9ad2118b17d33b1baf113dbfb7e3e.woff") format("woff"),
-       url("./iconsbio_1ab9ad2118b17d33b1baf113dbfb7e3e.ttf") format("truetype"),
-       url("./iconsbio_1ab9ad2118b17d33b1baf113dbfb7e3e.svg#iconsbio") format("svg");
+  src: url("./iconsbio_dbec013bcb2ebfec4bb7a8a827fa8ea4.eot");
+  src: url("./iconsbio_dbec013bcb2ebfec4bb7a8a827fa8ea4.eot?#iefix") format("embedded-opentype"),
+       url("./iconsbio_dbec013bcb2ebfec4bb7a8a827fa8ea4.woff2") format("woff2"),
+       url("./iconsbio_dbec013bcb2ebfec4bb7a8a827fa8ea4.woff") format("woff"),
+       url("./iconsbio_dbec013bcb2ebfec4bb7a8a827fa8ea4.ttf") format("truetype"),
+       url("./iconsbio_dbec013bcb2ebfec4bb7a8a827fa8ea4.svg#iconsbio") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -17,7 +17,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "iconsbio";
-    src: url("./iconsbio_1ab9ad2118b17d33b1baf113dbfb7e3e.svg#iconsbio") format("svg");
+    src: url("./iconsbio_dbec013bcb2ebfec4bb7a8a827fa8ea4.svg#iconsbio") format("svg");
   }
 }
 
@@ -345,6 +345,7 @@
 .ibio-byu-music-store:before,
 .ibio-c-and-a:before,
 .ibio-cactus-music:before,
+.ibio-calaxy:before,
 .ibio-calendarhero:before,
 .ibio-calendly:before,
 .ibio-caliray:before,
@@ -502,6 +503,7 @@
 .ibio-criticalrole:before,
 .ibio-crunchbase:before,
 .ibio-crunchyroll:before,
+.ibio-cryptocom:before,
 .ibio-csgo:before,
 .ibio-css3:before,
 .ibio-cult-records:before,
@@ -1194,6 +1196,7 @@
 .ibio-klassieke-zaken:before,
 .ibio-klaviyo:before,
 .ibio-klink:before,
+.ibio-klook:before,
 .ibio-knc-beauty:before,
 .ibio-knitting-factory-records-store:before,
 .ibio-knock-out-music-store:before,
@@ -2799,6 +2802,7 @@
 .ibio-byu-music-store:before { content: "\fa4e"; }
 .ibio-c-and-a:before { content: "\f537"; }
 .ibio-cactus-music:before { content: "\fa4f"; }
+.ibio-calaxy:before { content: "\fdd2"; }
 .ibio-calendarhero:before { content: "\f538"; }
 .ibio-calendly:before { content: "\f452"; }
 .ibio-caliray:before { content: "\f539"; }
@@ -2956,6 +2960,7 @@
 .ibio-criticalrole:before { content: "\f58e"; }
 .ibio-crunchbase:before { content: "\f58f"; }
 .ibio-crunchyroll:before { content: "\f590"; }
+.ibio-cryptocom:before { content: "\fdd3"; }
 .ibio-csgo:before { content: "\f591"; }
 .ibio-css3:before { content: "\f592"; }
 .ibio-cult-records:before { content: "\fa88"; }
@@ -3648,6 +3653,7 @@
 .ibio-klassieke-zaken:before { content: "\fbad"; }
 .ibio-klaviyo:before { content: "\f9da"; }
 .ibio-klink:before { content: "\f6e0"; }
+.ibio-klook:before { content: "\fdd4"; }
 .ibio-knc-beauty:before { content: "\f6e1"; }
 .ibio-knitting-factory-records-store:before { content: "\fbae"; }
 .ibio-knock-out-music-store:before { content: "\fbaf"; }
