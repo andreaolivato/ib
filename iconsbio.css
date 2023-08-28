@@ -4,12 +4,12 @@
 
 @font-face {
   font-family: "iconsbio";
-  src: url("./iconsbio_dbec013bcb2ebfec4bb7a8a827fa8ea4.eot");
-  src: url("./iconsbio_dbec013bcb2ebfec4bb7a8a827fa8ea4.eot?#iefix") format("embedded-opentype"),
-       url("./iconsbio_dbec013bcb2ebfec4bb7a8a827fa8ea4.woff2") format("woff2"),
-       url("./iconsbio_dbec013bcb2ebfec4bb7a8a827fa8ea4.woff") format("woff"),
-       url("./iconsbio_dbec013bcb2ebfec4bb7a8a827fa8ea4.ttf") format("truetype"),
-       url("./iconsbio_dbec013bcb2ebfec4bb7a8a827fa8ea4.svg#iconsbio") format("svg");
+  src: url("./iconsbio_4437fe9673fa94c97a8921438d3cab7f.eot");
+  src: url("./iconsbio_4437fe9673fa94c97a8921438d3cab7f.eot?#iefix") format("embedded-opentype"),
+       url("./iconsbio_4437fe9673fa94c97a8921438d3cab7f.woff2") format("woff2"),
+       url("./iconsbio_4437fe9673fa94c97a8921438d3cab7f.woff") format("woff"),
+       url("./iconsbio_4437fe9673fa94c97a8921438d3cab7f.ttf") format("truetype"),
+       url("./iconsbio_4437fe9673fa94c97a8921438d3cab7f.svg#iconsbio") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -17,7 +17,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "iconsbio";
-    src: url("./iconsbio_dbec013bcb2ebfec4bb7a8a827fa8ea4.svg#iconsbio") format("svg");
+    src: url("./iconsbio_4437fe9673fa94c97a8921438d3cab7f.svg#iconsbio") format("svg");
   }
 }
 
@@ -95,6 +95,7 @@
 .ibio-all4:before,
 .ibio-allegro:before,
 .ibio-allmusic:before,
+.ibio-alltrails:before,
 .ibio-alphauniverse:before,
 .ibio-alpyn-beauty:before,
 .ibio-alterna-haircare:before,
@@ -1587,6 +1588,7 @@
 .ibio-oricon-music-store:before,
 .ibio-origin:before,
 .ibio-origins:before,
+.ibio-orintful:before,
 .ibio-osiander:before,
 .ibio-osu:before,
 .ibio-otherland:before,
@@ -1910,6 +1912,7 @@
 .ibio-shopee:before,
 .ibio-shopify:before,
 .ibio-shopmy:before,
+.ibio-shoppercom:before,
 .ibio-shoppingat:before,
 .ibio-shoppymn:before,
 .ibio-shopstyleco:before,
@@ -1963,6 +1966,7 @@
 .ibio-smule:before,
 .ibio-snackvideo:before,
 .ibio-snapchat:before,
+.ibio-snortsocial:before,
 .ibio-soar-music-group:before,
 .ibio-sobel-skin-rx:before,
 .ibio-society6:before,
@@ -2118,6 +2122,7 @@
 .ibio-telstra:before,
 .ibio-tematika:before,
 .ibio-tempestweather:before,
+.ibio-temu:before,
 .ibio-terabox:before,
 .ibio-tesco:before,
 .ibio-tetrio:before,
@@ -2157,6 +2162,7 @@
 .ibio-tickettailor:before,
 .ibio-ticketweb:before,
 .ibio-tidal:before,
+.ibio-tidycal:before,
 .ibio-tiffany-and-co:before,
 .ibio-tiktok:before,
 .ibio-timetree:before,
@@ -2552,6 +2558,7 @@
 .ibio-all4:before { content: "\f9f4"; }
 .ibio-allegro:before { content: "\f9f5"; }
 .ibio-allmusic:before { content: "\f4b1"; }
+.ibio-alltrails:before { content: "\fdd5"; }
 .ibio-alphauniverse:before { content: "\f4b2"; }
 .ibio-alpyn-beauty:before { content: "\f4b3"; }
 .ibio-alterna-haircare:before { content: "\f4b4"; }
@@ -4044,6 +4051,7 @@
 .ibio-oricon-music-store:before { content: "\fc4c"; }
 .ibio-origin:before { content: "\fc4d"; }
 .ibio-origins:before { content: "\f7a9"; }
+.ibio-orintful:before { content: "\fdd6"; }
 .ibio-osiander:before { content: "\fc4e"; }
 .ibio-osu:before { content: "\f7aa"; }
 .ibio-otherland:before { content: "\f7ab"; }
@@ -4367,6 +4375,7 @@
 .ibio-shopee:before { content: "\f473"; }
 .ibio-shopify:before { content: "\f857"; }
 .ibio-shopmy:before { content: "\fd8d"; }
+.ibio-shoppercom:before { content: "\fdd7"; }
 .ibio-shoppingat:before { content: "\fcbc"; }
 .ibio-shoppymn:before { content: "\fcbd"; }
 .ibio-shopstyleco:before { content: "\f474"; }
@@ -4420,6 +4429,7 @@
 .ibio-smule:before { content: "\f9c8"; }
 .ibio-snackvideo:before { content: "\fdaa"; }
 .ibio-snapchat:before { content: "\f871"; }
+.ibio-snortsocial:before { content: "\fdd8"; }
 .ibio-soar-music-group:before { content: "\fcce"; }
 .ibio-sobel-skin-rx:before { content: "\f872"; }
 .ibio-society6:before { content: "\f476"; }
@@ -4575,6 +4585,7 @@
 .ibio-telstra:before { content: "\fcfc"; }
 .ibio-tematika:before { content: "\fcfd"; }
 .ibio-tempestweather:before { content: "\f8ca"; }
+.ibio-temu:before { content: "\fdd9"; }
 .ibio-terabox:before { content: "\f9ca"; }
 .ibio-tesco:before { content: "\fcfe"; }
 .ibio-tetrio:before { content: "\f8cb"; }
@@ -4614,6 +4625,7 @@
 .ibio-tickettailor:before { content: "\f9cd"; }
 .ibio-ticketweb:before { content: "\fd0a"; }
 .ibio-tidal:before { content: "\f47d"; }
+.ibio-tidycal:before { content: "\fdda"; }
 .ibio-tiffany-and-co:before { content: "\f8df"; }
 .ibio-tiktok:before { content: "\f8e0"; }
 .ibio-timetree:before { content: "\f9ce"; }
