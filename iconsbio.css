@@ -4,12 +4,12 @@
 
 @font-face {
   font-family: "iconsbio";
-  src: url("./iconsbio_24c15bb934e76dae2152f2f224e03705.eot");
-  src: url("./iconsbio_24c15bb934e76dae2152f2f224e03705.eot?#iefix") format("embedded-opentype"),
-       url("./iconsbio_24c15bb934e76dae2152f2f224e03705.woff2") format("woff2"),
-       url("./iconsbio_24c15bb934e76dae2152f2f224e03705.woff") format("woff"),
-       url("./iconsbio_24c15bb934e76dae2152f2f224e03705.ttf") format("truetype"),
-       url("./iconsbio_24c15bb934e76dae2152f2f224e03705.svg#iconsbio") format("svg");
+  src: url("./iconsbio_07745282ad6b5cda94c40bc87e7a4d43.eot");
+  src: url("./iconsbio_07745282ad6b5cda94c40bc87e7a4d43.eot?#iefix") format("embedded-opentype"),
+       url("./iconsbio_07745282ad6b5cda94c40bc87e7a4d43.woff2") format("woff2"),
+       url("./iconsbio_07745282ad6b5cda94c40bc87e7a4d43.woff") format("woff"),
+       url("./iconsbio_07745282ad6b5cda94c40bc87e7a4d43.ttf") format("truetype"),
+       url("./iconsbio_07745282ad6b5cda94c40bc87e7a4d43.svg#iconsbio") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -17,7 +17,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "iconsbio";
-    src: url("./iconsbio_24c15bb934e76dae2152f2f224e03705.svg#iconsbio") format("svg");
+    src: url("./iconsbio_07745282ad6b5cda94c40bc87e7a4d43.svg#iconsbio") format("svg");
   }
 }
 
@@ -287,7 +287,6 @@
 .ibio-bolcom:before,
 .ibio-boldorg:before,
 .ibio-boltplustv:before,
-.ibio-bonfire:before,
 .ibio-bonnier-books-uk:before,
 .ibio-bonsound:before,
 .ibio-boo-boo-records:before,
@@ -1252,7 +1251,6 @@
 .ibio-league-of-comic-geeks:before,
 .ibio-league-of-legends:before,
 .ibio-leanpub:before,
-.ibio-learnworlds:before,
 .ibio-leaving-records:before,
 .ibio-leetcode:before,
 .ibio-lemon8:before,
@@ -1652,7 +1650,6 @@
 .ibio-peacock-streaming:before,
 .ibio-peakd:before,
 .ibio-pearltrees:before,
-.ibio-pebbleis:before,
 .ibio-peloton:before,
 .ibio-pentasio:before,
 .ibio-peoople:before,
@@ -1681,7 +1678,6 @@
 .ibio-pillowfort:before,
 .ibio-pinshape:before,
 .ibio-pinterest:before,
-.ibio-pintplease:before,
 .ibio-pixelfed:before,
 .ibio-pixiv:before,
 .ibio-plaid-room-records:before,
@@ -2755,7 +2751,6 @@
 .ibio-bolcom:before { content: "\fa3d"; }
 .ibio-boldorg:before { content: "\f517"; }
 .ibio-boltplustv:before { content: "\f99e"; }
-.ibio-bonfire:before { content: "\fddc"; }
 .ibio-bonnier-books-uk:before { content: "\fa3e"; }
 .ibio-bonsound:before { content: "\fa3f"; }
 .ibio-boo-boo-records:before { content: "\fa40"; }
@@ -3720,7 +3715,6 @@
 .ibio-league-of-comic-geeks:before { content: "\f6fa"; }
 .ibio-league-of-legends:before { content: "\f6fb"; }
 .ibio-leanpub:before { content: "\f6fc"; }
-.ibio-learnworlds:before { content: "\fddd"; }
 .ibio-leaving-records:before { content: "\fbc2"; }
 .ibio-leetcode:before { content: "\fda8"; }
 .ibio-lemon8:before { content: "\f9db"; }
@@ -4120,7 +4114,6 @@
 .ibio-peacock-streaming:before { content: "\fc61"; }
 .ibio-peakd:before { content: "\f7c8"; }
 .ibio-pearltrees:before { content: "\f7c9"; }
-.ibio-pebbleis:before { content: "\fdde"; }
 .ibio-peloton:before { content: "\f7ca"; }
 .ibio-pentasio:before { content: "\f7cb"; }
 .ibio-peoople:before { content: "\f7cc"; }
@@ -4149,7 +4142,6 @@
 .ibio-pillowfort:before { content: "\f7de"; }
 .ibio-pinshape:before { content: "\f7df"; }
 .ibio-pinterest:before { content: "\f7e0"; }
-.ibio-pintplease:before { content: "\fddf"; }
 .ibio-pixelfed:before { content: "\f7e1"; }
 .ibio-pixiv:before { content: "\f993"; }
 .ibio-plaid-room-records:before { content: "\fc67"; }
