@@ -4,12 +4,12 @@
 
 @font-face {
   font-family: "iconsbio";
-  src: url("./iconsbio_8abb095369281dc65cf0ceb0e7baba7d.eot");
-  src: url("./iconsbio_8abb095369281dc65cf0ceb0e7baba7d.eot?#iefix") format("embedded-opentype"),
-       url("./iconsbio_8abb095369281dc65cf0ceb0e7baba7d.woff2") format("woff2"),
-       url("./iconsbio_8abb095369281dc65cf0ceb0e7baba7d.woff") format("woff"),
-       url("./iconsbio_8abb095369281dc65cf0ceb0e7baba7d.ttf") format("truetype"),
-       url("./iconsbio_8abb095369281dc65cf0ceb0e7baba7d.svg#iconsbio") format("svg");
+  src: url("./iconsbio_5ca8da8a838b0ac67ecfe2c5b86e8936.eot");
+  src: url("./iconsbio_5ca8da8a838b0ac67ecfe2c5b86e8936.eot?#iefix") format("embedded-opentype"),
+       url("./iconsbio_5ca8da8a838b0ac67ecfe2c5b86e8936.woff2") format("woff2"),
+       url("./iconsbio_5ca8da8a838b0ac67ecfe2c5b86e8936.woff") format("woff"),
+       url("./iconsbio_5ca8da8a838b0ac67ecfe2c5b86e8936.ttf") format("truetype"),
+       url("./iconsbio_5ca8da8a838b0ac67ecfe2c5b86e8936.svg#iconsbio") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -17,7 +17,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "iconsbio";
-    src: url("./iconsbio_8abb095369281dc65cf0ceb0e7baba7d.svg#iconsbio") format("svg");
+    src: url("./iconsbio_5ca8da8a838b0ac67ecfe2c5b86e8936.svg#iconsbio") format("svg");
   }
 }
 
@@ -186,6 +186,7 @@
 .ibio-audio-boom:before,
 .ibio-audio-center:before,
 .ibio-audio-now:before,
+.ibio-audiocom:before,
 .ibio-audiofile-magazine:before,
 .ibio-audioglobe:before,
 .ibio-audiojungle:before,
@@ -672,6 +673,7 @@
 .ibio-empire-distribution:before,
 .ibio-end-hit-records:before,
 .ibio-enjoei:before,
+.ibio-enjoeibr:before,
 .ibio-envato:before,
 .ibio-envira-gallery:before,
 .ibio-epal:before,
@@ -696,6 +698,7 @@
 .ibio-etsy:before,
 .ibio-eventbrite:before,
 .ibio-eventim:before,
+.ibio-eventix:before,
 .ibio-ever-records:before,
 .ibio-evernote:before,
 .ibio-everpress:before,
@@ -865,6 +868,7 @@
 .ibio-gitkraken:before,
 .ibio-gitlab:before,
 .ibio-gitter:before,
+.ibio-givecampus:before,
 .ibio-givenchy:before,
 .ibio-givit:before,
 .ibio-glaad:before,
@@ -1931,6 +1935,7 @@
 .ibio-sideonedummy-records:before,
 .ibio-signal:before,
 .ibio-signum-records:before,
+.ibio-signup:before,
 .ibio-silva-screen-records:before,
 .ibio-simfy-africa:before,
 .ibio-simplecast:before,
@@ -2158,6 +2163,7 @@
 .ibio-threema:before,
 .ibio-throne:before,
 .ibio-thumbtack:before,
+.ibio-ticket:before,
 .ibio-ticketbooth:before,
 .ibio-ticketek:before,
 .ibio-ticketline:before,
@@ -2408,6 +2414,7 @@
 .ibio-winylownia:before,
 .ibio-wirsindhandwerk:before,
 .ibio-wishful:before,
+.ibio-wishtender:before,
 .ibio-wix:before,
 .ibio-wizardsofthecoast:before,
 .ibio-woodstock:before,
@@ -2656,6 +2663,7 @@
 .ibio-audio-boom:before { content: "\fa0d"; }
 .ibio-audio-center:before { content: "\fa0e"; }
 .ibio-audio-now:before { content: "\fa0f"; }
+.ibio-audiocom:before { content: "\fde2"; }
 .ibio-audiofile-magazine:before { content: "\fa10"; }
 .ibio-audioglobe:before { content: "\fa11"; }
 .ibio-audiojungle:before { content: "\f4eb"; }
@@ -3142,6 +3150,7 @@
 .ibio-empire-distribution:before { content: "\facc"; }
 .ibio-end-hit-records:before { content: "\facd"; }
 .ibio-enjoei:before { content: "\f5e3"; }
+.ibio-enjoeibr:before { content: "\fde3"; }
 .ibio-envato:before { content: "\fd96"; }
 .ibio-envira-gallery:before { content: "\f5e4"; }
 .ibio-epal:before { content: "\f5e5"; }
@@ -3166,6 +3175,7 @@
 .ibio-etsy:before { content: "\f5ec"; }
 .ibio-eventbrite:before { content: "\f45d"; }
 .ibio-eventim:before { content: "\fada"; }
+.ibio-eventix:before { content: "\fde4"; }
 .ibio-ever-records:before { content: "\fadb"; }
 .ibio-evernote:before { content: "\f5ed"; }
 .ibio-everpress:before { content: "\fadc"; }
@@ -3335,6 +3345,7 @@
 .ibio-gitkraken:before { content: "\f638"; }
 .ibio-gitlab:before { content: "\f639"; }
 .ibio-gitter:before { content: "\f63a"; }
+.ibio-givecampus:before { content: "\fde5"; }
 .ibio-givenchy:before { content: "\f63b"; }
 .ibio-givit:before { content: "\fb28"; }
 .ibio-glaad:before { content: "\fb29"; }
@@ -4401,6 +4412,7 @@
 .ibio-sideonedummy-records:before { content: "\fcbe"; }
 .ibio-signal:before { content: "\f475"; }
 .ibio-signum-records:before { content: "\fcbf"; }
+.ibio-signup:before { content: "\fde6"; }
 .ibio-silva-screen-records:before { content: "\fcc0"; }
 .ibio-simfy-africa:before { content: "\fcc1"; }
 .ibio-simplecast:before { content: "\f85c"; }
@@ -4628,6 +4640,7 @@
 .ibio-threema:before { content: "\f8dc"; }
 .ibio-throne:before { content: "\f8dd"; }
 .ibio-thumbtack:before { content: "\f8de"; }
+.ibio-ticket:before { content: "\fde7"; }
 .ibio-ticketbooth:before { content: "\fd02"; }
 .ibio-ticketek:before { content: "\fd03"; }
 .ibio-ticketline:before { content: "\fd04"; }
@@ -4878,6 +4891,7 @@
 .ibio-winylownia:before { content: "\fd57"; }
 .ibio-wirsindhandwerk:before { content: "\f967"; }
 .ibio-wishful:before { content: "\f968"; }
+.ibio-wishtender:before { content: "\fde8"; }
 .ibio-wix:before { content: "\f969"; }
 .ibio-wizardsofthecoast:before { content: "\f96a"; }
 .ibio-woodstock:before { content: "\fd58"; }
