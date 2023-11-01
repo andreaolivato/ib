@@ -4,12 +4,12 @@
 
 @font-face {
   font-family: "iconsbio";
-  src: url("./iconsbio_5ca8da8a838b0ac67ecfe2c5b86e8936.eot");
-  src: url("./iconsbio_5ca8da8a838b0ac67ecfe2c5b86e8936.eot?#iefix") format("embedded-opentype"),
-       url("./iconsbio_5ca8da8a838b0ac67ecfe2c5b86e8936.woff2") format("woff2"),
-       url("./iconsbio_5ca8da8a838b0ac67ecfe2c5b86e8936.woff") format("woff"),
-       url("./iconsbio_5ca8da8a838b0ac67ecfe2c5b86e8936.ttf") format("truetype"),
-       url("./iconsbio_5ca8da8a838b0ac67ecfe2c5b86e8936.svg#iconsbio") format("svg");
+  src: url("./iconsbio_224cfff814b89726520ead8c1e19ea88.eot");
+  src: url("./iconsbio_224cfff814b89726520ead8c1e19ea88.eot?#iefix") format("embedded-opentype"),
+       url("./iconsbio_224cfff814b89726520ead8c1e19ea88.woff2") format("woff2"),
+       url("./iconsbio_224cfff814b89726520ead8c1e19ea88.woff") format("woff"),
+       url("./iconsbio_224cfff814b89726520ead8c1e19ea88.ttf") format("truetype"),
+       url("./iconsbio_224cfff814b89726520ead8c1e19ea88.svg#iconsbio") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -17,7 +17,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "iconsbio";
-    src: url("./iconsbio_5ca8da8a838b0ac67ecfe2c5b86e8936.svg#iconsbio") format("svg");
+    src: url("./iconsbio_224cfff814b89726520ead8c1e19ea88.svg#iconsbio") format("svg");
   }
 }
 
@@ -504,6 +504,7 @@
 .ibio-crexi:before,
 .ibio-criminal-records:before,
 .ibio-criticalrole:before,
+.ibio-crowdin:before,
 .ibio-crunchbase:before,
 .ibio-crunchyroll:before,
 .ibio-cryptocom:before,
@@ -1195,6 +1196,7 @@
 .ibio-kitco:before,
 .ibio-kitsu:before,
 .ibio-kitto-records:before,
+.ibio-kivaorg:before,
 .ibio-kkbb:before,
 .ibio-kkbox:before,
 .ibio-kktix:before,
@@ -1489,6 +1491,7 @@
 .ibio-nada-kita:before,
 .ibio-nails-inc:before,
 .ibio-naim-records:before,
+.ibio-namemc:before,
 .ibio-nana-disc:before,
 .ibio-napalm-records:before,
 .ibio-napster:before,
@@ -1900,6 +1903,7 @@
 .ibio-senscritique:before,
 .ibio-sephora-collection:before,
 .ibio-sephora-favorites:before,
+.ibio-serializd:before,
 .ibio-serious-beats:before,
 .ibio-servicenow:before,
 .ibio-servicestack:before,
@@ -2442,6 +2446,7 @@
 .ibio-xl-recordings:before,
 .ibio-xmpp:before,
 .ibio-xtra-mile-recordings:before,
+.ibio-yacvoice:before,
 .ibio-yahoo:before,
 .ibio-yamano-music:before,
 .ibio-yammer:before,
@@ -2981,6 +2986,7 @@
 .ibio-crexi:before { content: "\fd72"; }
 .ibio-criminal-records:before { content: "\fa87"; }
 .ibio-criticalrole:before { content: "\f58e"; }
+.ibio-crowdin:before { content: "\fde9"; }
 .ibio-crunchbase:before { content: "\f58f"; }
 .ibio-crunchyroll:before { content: "\f590"; }
 .ibio-cryptocom:before { content: "\fdd3"; }
@@ -3672,6 +3678,7 @@
 .ibio-kitco:before { content: "\f6dd"; }
 .ibio-kitsu:before { content: "\f6de"; }
 .ibio-kitto-records:before { content: "\fbaa"; }
+.ibio-kivaorg:before { content: "\fdea"; }
 .ibio-kkbb:before { content: "\fdb4"; }
 .ibio-kkbox:before { content: "\f6df"; }
 .ibio-kktix:before { content: "\fbab"; }
@@ -3966,6 +3973,7 @@
 .ibio-nada-kita:before { content: "\fc27"; }
 .ibio-nails-inc:before { content: "\f76c"; }
 .ibio-naim-records:before { content: "\fc28"; }
+.ibio-namemc:before { content: "\fdeb"; }
 .ibio-nana-disc:before { content: "\fc29"; }
 .ibio-napalm-records:before { content: "\fc2a"; }
 .ibio-napster:before { content: "\f76d"; }
@@ -4377,6 +4385,7 @@
 .ibio-senscritique:before { content: "\f849"; }
 .ibio-sephora-collection:before { content: "\f84a"; }
 .ibio-sephora-favorites:before { content: "\f84b"; }
+.ibio-serializd:before { content: "\fdec"; }
 .ibio-serious-beats:before { content: "\fcb6"; }
 .ibio-servicenow:before { content: "\f84c"; }
 .ibio-servicestack:before { content: "\f84d"; }
@@ -4919,6 +4928,7 @@
 .ibio-xl-recordings:before { content: "\fd60"; }
 .ibio-xmpp:before { content: "\f9d4"; }
 .ibio-xtra-mile-recordings:before { content: "\fd61"; }
+.ibio-yacvoice:before { content: "\fded"; }
 .ibio-yahoo:before { content: "\f977"; }
 .ibio-yamano-music:before { content: "\fd62"; }
 .ibio-yammer:before { content: "\f978"; }
