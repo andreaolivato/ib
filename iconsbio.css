@@ -4,12 +4,12 @@
 
 @font-face {
   font-family: "iconsbio";
-  src: url("./iconsbio_224cfff814b89726520ead8c1e19ea88.eot");
-  src: url("./iconsbio_224cfff814b89726520ead8c1e19ea88.eot?#iefix") format("embedded-opentype"),
-       url("./iconsbio_224cfff814b89726520ead8c1e19ea88.woff2") format("woff2"),
-       url("./iconsbio_224cfff814b89726520ead8c1e19ea88.woff") format("woff"),
-       url("./iconsbio_224cfff814b89726520ead8c1e19ea88.ttf") format("truetype"),
-       url("./iconsbio_224cfff814b89726520ead8c1e19ea88.svg#iconsbio") format("svg");
+  src: url("./iconsbio_c037535639eba9524e37359f9d7c37b7.eot");
+  src: url("./iconsbio_c037535639eba9524e37359f9d7c37b7.eot?#iefix") format("embedded-opentype"),
+       url("./iconsbio_c037535639eba9524e37359f9d7c37b7.woff2") format("woff2"),
+       url("./iconsbio_c037535639eba9524e37359f9d7c37b7.woff") format("woff"),
+       url("./iconsbio_c037535639eba9524e37359f9d7c37b7.ttf") format("truetype"),
+       url("./iconsbio_c037535639eba9524e37359f9d7c37b7.svg#iconsbio") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -17,7 +17,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "iconsbio";
-    src: url("./iconsbio_224cfff814b89726520ead8c1e19ea88.svg#iconsbio") format("svg");
+    src: url("./iconsbio_c037535639eba9524e37359f9d7c37b7.svg#iconsbio") format("svg");
   }
 }
 
@@ -162,6 +162,7 @@
 .ibio-artis:before,
 .ibio-artist-couture:before,
 .ibio-artist-first:before,
+.ibio-artistree:before,
 .ibio-artists-united-collective:before,
 .ibio-artiva:before,
 .ibio-artstation:before,
@@ -1260,6 +1261,7 @@
 .ibio-leanpub:before,
 .ibio-learnworlds:before,
 .ibio-leaving-records:before,
+.ibio-leboncoin:before,
 .ibio-leetcode:before,
 .ibio-lemon8:before,
 .ibio-lemonsqueezy:before,
@@ -1295,6 +1297,9 @@
 .ibio-living-proof:before,
 .ibio-livrarias-leitura:before,
 .ibio-lkmtv:before,
+.ibio-lnkbio:before,
+.ibio-lnkbio-circle:before,
+.ibio-lnkbio-square:before,
 .ibio-localguides:before,
 .ibio-localscom:before,
 .ibio-loccitane:before,
@@ -1663,6 +1668,7 @@
 .ibio-pebbleis:before,
 .ibio-peloton:before,
 .ibio-pentasio:before,
+.ibio-penup:before,
 .ibio-peoople:before,
 .ibio-peopleperhour:before,
 .ibio-pepper:before,
@@ -2644,6 +2650,7 @@
 .ibio-artis:before { content: "\f4dc"; }
 .ibio-artist-couture:before { content: "\f4dd"; }
 .ibio-artist-first:before { content: "\fa04"; }
+.ibio-artistree:before { content: "\fdee"; }
 .ibio-artists-united-collective:before { content: "\fa05"; }
 .ibio-artiva:before { content: "\f4de"; }
 .ibio-artstation:before { content: "\f4df"; }
@@ -3742,6 +3749,7 @@
 .ibio-leanpub:before { content: "\f6fc"; }
 .ibio-learnworlds:before { content: "\fddd"; }
 .ibio-leaving-records:before { content: "\fbc2"; }
+.ibio-leboncoin:before { content: "\fdef"; }
 .ibio-leetcode:before { content: "\fda8"; }
 .ibio-lemon8:before { content: "\f9db"; }
 .ibio-lemonsqueezy:before { content: "\fda9"; }
@@ -3777,6 +3785,9 @@
 .ibio-living-proof:before { content: "\f70f"; }
 .ibio-livrarias-leitura:before { content: "\fbc9"; }
 .ibio-lkmtv:before { content: "\fbca"; }
+.ibio-lnkbio:before { content: "\fdf0"; }
+.ibio-lnkbio-circle:before { content: "\fdf1"; }
+.ibio-lnkbio-square:before { content: "\fdf2"; }
 .ibio-localguides:before { content: "\f710"; }
 .ibio-localscom:before { content: "\fda0"; }
 .ibio-loccitane:before { content: "\f711"; }
@@ -4145,6 +4156,7 @@
 .ibio-pebbleis:before { content: "\fddf"; }
 .ibio-peloton:before { content: "\f7ca"; }
 .ibio-pentasio:before { content: "\f7cb"; }
+.ibio-penup:before { content: "\fdf3"; }
 .ibio-peoople:before { content: "\f7cc"; }
 .ibio-peopleperhour:before { content: "\f7cd"; }
 .ibio-pepper:before { content: "\f7ce"; }
