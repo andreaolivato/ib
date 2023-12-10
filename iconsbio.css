@@ -4,12 +4,12 @@
 
 @font-face {
   font-family: "iconsbio";
-  src: url("./iconsbio_be88776f9db3f7ac5c7b2eb3e0fb49b0.eot");
-  src: url("./iconsbio_be88776f9db3f7ac5c7b2eb3e0fb49b0.eot?#iefix") format("embedded-opentype"),
-       url("./iconsbio_be88776f9db3f7ac5c7b2eb3e0fb49b0.woff2") format("woff2"),
-       url("./iconsbio_be88776f9db3f7ac5c7b2eb3e0fb49b0.woff") format("woff"),
-       url("./iconsbio_be88776f9db3f7ac5c7b2eb3e0fb49b0.ttf") format("truetype"),
-       url("./iconsbio_be88776f9db3f7ac5c7b2eb3e0fb49b0.svg#iconsbio") format("svg");
+  src: url("./iconsbio_d24ce35e77bfe4b25d0d4cb431224c20.eot");
+  src: url("./iconsbio_d24ce35e77bfe4b25d0d4cb431224c20.eot?#iefix") format("embedded-opentype"),
+       url("./iconsbio_d24ce35e77bfe4b25d0d4cb431224c20.woff2") format("woff2"),
+       url("./iconsbio_d24ce35e77bfe4b25d0d4cb431224c20.woff") format("woff"),
+       url("./iconsbio_d24ce35e77bfe4b25d0d4cb431224c20.ttf") format("truetype"),
+       url("./iconsbio_d24ce35e77bfe4b25d0d4cb431224c20.svg#iconsbio") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -17,7 +17,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "iconsbio";
-    src: url("./iconsbio_be88776f9db3f7ac5c7b2eb3e0fb49b0.svg#iconsbio") format("svg");
+    src: url("./iconsbio_d24ce35e77bfe4b25d0d4cb431224c20.svg#iconsbio") format("svg");
   }
 }
 
@@ -205,6 +205,7 @@
 .ibio-average-joes-entertainment:before,
 .ibio-avex-taiwan-e-shop:before,
 .ibio-avvo:before,
+.ibio-aweber:before,
 .ibio-axs:before,
 .ibio-azure-devops:before,
 .ibio-bImobject:before,
@@ -2694,6 +2695,7 @@
 .ibio-average-joes-entertainment:before { content: "\fa18"; }
 .ibio-avex-taiwan-e-shop:before { content: "\fa19"; }
 .ibio-avvo:before { content: "\f4ee"; }
+.ibio-aweber:before { content: "\fdf5"; }
 .ibio-axs:before { content: "\fa1a"; }
 .ibio-azure-devops:before { content: "\f4ef"; }
 .ibio-bImobject:before { content: "\f4f0"; }
