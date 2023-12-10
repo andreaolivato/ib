@@ -4,12 +4,12 @@
 
 @font-face {
   font-family: "iconsbio";
-  src: url("./iconsbio_c037535639eba9524e37359f9d7c37b7.eot");
-  src: url("./iconsbio_c037535639eba9524e37359f9d7c37b7.eot?#iefix") format("embedded-opentype"),
-       url("./iconsbio_c037535639eba9524e37359f9d7c37b7.woff2") format("woff2"),
-       url("./iconsbio_c037535639eba9524e37359f9d7c37b7.woff") format("woff"),
-       url("./iconsbio_c037535639eba9524e37359f9d7c37b7.ttf") format("truetype"),
-       url("./iconsbio_c037535639eba9524e37359f9d7c37b7.svg#iconsbio") format("svg");
+  src: url("./iconsbio_be88776f9db3f7ac5c7b2eb3e0fb49b0.eot");
+  src: url("./iconsbio_be88776f9db3f7ac5c7b2eb3e0fb49b0.eot?#iefix") format("embedded-opentype"),
+       url("./iconsbio_be88776f9db3f7ac5c7b2eb3e0fb49b0.woff2") format("woff2"),
+       url("./iconsbio_be88776f9db3f7ac5c7b2eb3e0fb49b0.woff") format("woff"),
+       url("./iconsbio_be88776f9db3f7ac5c7b2eb3e0fb49b0.ttf") format("truetype"),
+       url("./iconsbio_be88776f9db3f7ac5c7b2eb3e0fb49b0.svg#iconsbio") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -17,7 +17,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "iconsbio";
-    src: url("./iconsbio_c037535639eba9524e37359f9d7c37b7.svg#iconsbio") format("svg");
+    src: url("./iconsbio_be88776f9db3f7ac5c7b2eb3e0fb49b0.svg#iconsbio") format("svg");
   }
 }
 
@@ -2493,6 +2493,7 @@
 .ibio-zinio:before,
 .ibio-zipmessage:before,
 .ibio-zoho-books:before,
+.ibio-zoho-campaigns:before,
 .ibio-zomato:before,
 .ibio-zoom:before,
 .ibio-zora:before,
@@ -4981,6 +4982,7 @@
 .ibio-zinio:before { content: "\f9d6"; }
 .ibio-zipmessage:before { content: "\f9d7"; }
 .ibio-zoho-books:before { content: "\f98f"; }
+.ibio-zoho-campaigns:before { content: "\fdf4"; }
 .ibio-zomato:before { content: "\f990"; }
 .ibio-zoom:before { content: "\f488"; }
 .ibio-zora:before { content: "\f991"; }
