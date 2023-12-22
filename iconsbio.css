@@ -4044,12 +4044,12 @@
 
 @font-face {
   font-family: "iconsbio2";
-  src: url("./iconsbio2_d5df178ad79cf69b935c29704e6b8d7e.eot");
-  src: url("./iconsbio2_d5df178ad79cf69b935c29704e6b8d7e.eot?#iefix") format("embedded-opentype"),
-       url("./iconsbio2_d5df178ad79cf69b935c29704e6b8d7e.woff2") format("woff2"),
-       url("./iconsbio2_d5df178ad79cf69b935c29704e6b8d7e.woff") format("woff"),
-       url("./iconsbio2_d5df178ad79cf69b935c29704e6b8d7e.ttf") format("truetype"),
-       url("./iconsbio2_d5df178ad79cf69b935c29704e6b8d7e.svg#iconsbio2") format("svg");
+  src: url("./iconsbio2_8ecebb5095c83123b75758d6aa2ae076.eot");
+  src: url("./iconsbio2_8ecebb5095c83123b75758d6aa2ae076.eot?#iefix") format("embedded-opentype"),
+       url("./iconsbio2_8ecebb5095c83123b75758d6aa2ae076.woff2") format("woff2"),
+       url("./iconsbio2_8ecebb5095c83123b75758d6aa2ae076.woff") format("woff"),
+       url("./iconsbio2_8ecebb5095c83123b75758d6aa2ae076.ttf") format("truetype"),
+       url("./iconsbio2_8ecebb5095c83123b75758d6aa2ae076.svg#iconsbio2") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -4057,7 +4057,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "iconsbio2";
-    src: url("./iconsbio2_d5df178ad79cf69b935c29704e6b8d7e.svg#iconsbio2") format("svg");
+    src: url("./iconsbio2_8ecebb5095c83123b75758d6aa2ae076.svg#iconsbio2") format("svg");
   }
 }
 
@@ -4392,6 +4392,7 @@
 .ibio-sweden-rock-magazine:before,
 .ibio-symplicitycom:before,
 .ibio-system-records:before,
+.ibio-systemeio:before,
 .ibio-t2:before,
 .ibio-taaze:before,
 .ibio-taiwanmobile:before,
@@ -4896,6 +4897,7 @@
 .ibio-sweden-rock-magazine:before { content: "\f244"; }
 .ibio-symplicitycom:before { content: "\f245"; }
 .ibio-system-records:before { content: "\f246"; }
+.ibio-systemeio:before { content: "\f2ea"; }
 .ibio-t2:before { content: "\f247"; }
 .ibio-taaze:before { content: "\f248"; }
 .ibio-taiwanmobile:before { content: "\f249"; }
