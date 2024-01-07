@@ -4044,12 +4044,12 @@
 
 @font-face {
   font-family: "iconsbio2";
-  src: url("./iconsbio2_63790a3267da1a07e257282ebe927875.eot");
-  src: url("./iconsbio2_63790a3267da1a07e257282ebe927875.eot?#iefix") format("embedded-opentype"),
-       url("./iconsbio2_63790a3267da1a07e257282ebe927875.woff2") format("woff2"),
-       url("./iconsbio2_63790a3267da1a07e257282ebe927875.woff") format("woff"),
-       url("./iconsbio2_63790a3267da1a07e257282ebe927875.ttf") format("truetype"),
-       url("./iconsbio2_63790a3267da1a07e257282ebe927875.svg#iconsbio2") format("svg");
+  src: url("./iconsbio2_ca10cadfabd0afc071c5ff400a45b319.eot");
+  src: url("./iconsbio2_ca10cadfabd0afc071c5ff400a45b319.eot?#iefix") format("embedded-opentype"),
+       url("./iconsbio2_ca10cadfabd0afc071c5ff400a45b319.woff2") format("woff2"),
+       url("./iconsbio2_ca10cadfabd0afc071c5ff400a45b319.woff") format("woff"),
+       url("./iconsbio2_ca10cadfabd0afc071c5ff400a45b319.ttf") format("truetype"),
+       url("./iconsbio2_ca10cadfabd0afc071c5ff400a45b319.svg#iconsbio2") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -4057,7 +4057,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "iconsbio2";
-    src: url("./iconsbio2_63790a3267da1a07e257282ebe927875.svg#iconsbio2") format("svg");
+    src: url("./iconsbio2_ca10cadfabd0afc071c5ff400a45b319.svg#iconsbio2") format("svg");
   }
 }
 
@@ -4104,6 +4104,7 @@
 .ibio-crexi:before,
 .ibio-crowdin:before,
 .ibio-cryptocom:before,
+.ibio-curated:before,
 .ibio-deliveroo:before,
 .ibio-dhgate:before,
 .ibio-diamondapp:before,
@@ -4190,6 +4191,7 @@
 .ibio-midjourney:before,
 .ibio-miningpoolstats:before,
 .ibio-mipicco:before,
+.ibio-moosend:before,
 .ibio-mspowerautomate:before,
 .ibio-myfansse:before,
 .ibio-namemc:before,
@@ -4616,6 +4618,7 @@
 .ibio-crexi:before { content: "\f122"; }
 .ibio-crowdin:before { content: "\f123"; }
 .ibio-cryptocom:before { content: "\f124"; }
+.ibio-curated:before { content: "\f2f3"; }
 .ibio-deliveroo:before { content: "\f125"; }
 .ibio-dhgate:before { content: "\f126"; }
 .ibio-diamondapp:before { content: "\f127"; }
@@ -4702,6 +4705,7 @@
 .ibio-midjourney:before { content: "\f177"; }
 .ibio-miningpoolstats:before { content: "\f178"; }
 .ibio-mipicco:before { content: "\f179"; }
+.ibio-moosend:before { content: "\f2f4"; }
 .ibio-mspowerautomate:before { content: "\f17a"; }
 .ibio-myfansse:before { content: "\f17b"; }
 .ibio-namemc:before { content: "\f17c"; }
