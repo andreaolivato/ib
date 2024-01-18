@@ -4044,12 +4044,12 @@
 
 @font-face {
   font-family: "iconsbio2";
-  src: url("./iconsbio2_2dd3dc18b4f793e5f188b780f3194899.eot");
-  src: url("./iconsbio2_2dd3dc18b4f793e5f188b780f3194899.eot?#iefix") format("embedded-opentype"),
-       url("./iconsbio2_2dd3dc18b4f793e5f188b780f3194899.woff2") format("woff2"),
-       url("./iconsbio2_2dd3dc18b4f793e5f188b780f3194899.woff") format("woff"),
-       url("./iconsbio2_2dd3dc18b4f793e5f188b780f3194899.ttf") format("truetype"),
-       url("./iconsbio2_2dd3dc18b4f793e5f188b780f3194899.svg#iconsbio2") format("svg");
+  src: url("./iconsbio2_ab73fd38070e4fcb6dc0ab4dc0e40cdf.eot");
+  src: url("./iconsbio2_ab73fd38070e4fcb6dc0ab4dc0e40cdf.eot?#iefix") format("embedded-opentype"),
+       url("./iconsbio2_ab73fd38070e4fcb6dc0ab4dc0e40cdf.woff2") format("woff2"),
+       url("./iconsbio2_ab73fd38070e4fcb6dc0ab4dc0e40cdf.woff") format("woff"),
+       url("./iconsbio2_ab73fd38070e4fcb6dc0ab4dc0e40cdf.ttf") format("truetype"),
+       url("./iconsbio2_ab73fd38070e4fcb6dc0ab4dc0e40cdf.svg#iconsbio2") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -4057,7 +4057,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "iconsbio2";
-    src: url("./iconsbio2_2dd3dc18b4f793e5f188b780f3194899.svg#iconsbio2") format("svg");
+    src: url("./iconsbio2_ab73fd38070e4fcb6dc0ab4dc0e40cdf.svg#iconsbio2") format("svg");
   }
 }
 
@@ -4094,6 +4094,7 @@
 .ibio-byfans:before,
 .ibio-cafecito:before,
 .ibio-calaxy:before,
+.ibio-campaignmonitor:before,
 .ibio-capcut:before,
 .ibio-channelio:before,
 .ibio-clickasnap:before,
@@ -4321,6 +4322,7 @@
 .ibio-sendernet:before,
 .ibio-sendfox:before,
 .ibio-sendinblue:before,
+.ibio-sendx:before,
 .ibio-serializd:before,
 .ibio-serious-beats:before,
 .ibio-setlistfm:before,
@@ -4610,6 +4612,7 @@
 .ibio-byfans:before { content: "\f119"; }
 .ibio-cafecito:before { content: "\f2ed"; }
 .ibio-calaxy:before { content: "\f11a"; }
+.ibio-campaignmonitor:before { content: "\f2f7"; }
 .ibio-capcut:before { content: "\f11b"; }
 .ibio-channelio:before { content: "\f11c"; }
 .ibio-clickasnap:before { content: "\f11d"; }
@@ -4837,6 +4840,7 @@
 .ibio-sendernet:before { content: "\f1f2"; }
 .ibio-sendfox:before { content: "\f1f3"; }
 .ibio-sendinblue:before { content: "\f1f4"; }
+.ibio-sendx:before { content: "\f2f8"; }
 .ibio-serializd:before { content: "\f1f5"; }
 .ibio-serious-beats:before { content: "\f1f6"; }
 .ibio-setlistfm:before { content: "\f1f7"; }
