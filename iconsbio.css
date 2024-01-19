@@ -4044,12 +4044,12 @@
 
 @font-face {
   font-family: "iconsbio2";
-  src: url("./iconsbio2_ab73fd38070e4fcb6dc0ab4dc0e40cdf.eot");
-  src: url("./iconsbio2_ab73fd38070e4fcb6dc0ab4dc0e40cdf.eot?#iefix") format("embedded-opentype"),
-       url("./iconsbio2_ab73fd38070e4fcb6dc0ab4dc0e40cdf.woff2") format("woff2"),
-       url("./iconsbio2_ab73fd38070e4fcb6dc0ab4dc0e40cdf.woff") format("woff"),
-       url("./iconsbio2_ab73fd38070e4fcb6dc0ab4dc0e40cdf.ttf") format("truetype"),
-       url("./iconsbio2_ab73fd38070e4fcb6dc0ab4dc0e40cdf.svg#iconsbio2") format("svg");
+  src: url("./iconsbio2_563b9d09d84ba3f41d343927a5194b21.eot");
+  src: url("./iconsbio2_563b9d09d84ba3f41d343927a5194b21.eot?#iefix") format("embedded-opentype"),
+       url("./iconsbio2_563b9d09d84ba3f41d343927a5194b21.woff2") format("woff2"),
+       url("./iconsbio2_563b9d09d84ba3f41d343927a5194b21.woff") format("woff"),
+       url("./iconsbio2_563b9d09d84ba3f41d343927a5194b21.ttf") format("truetype"),
+       url("./iconsbio2_563b9d09d84ba3f41d343927a5194b21.svg#iconsbio2") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -4057,7 +4057,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "iconsbio2";
-    src: url("./iconsbio2_ab73fd38070e4fcb6dc0ab4dc0e40cdf.svg#iconsbio2") format("svg");
+    src: url("./iconsbio2_563b9d09d84ba3f41d343927a5194b21.svg#iconsbio2") format("svg");
   }
 }
 
@@ -4068,6 +4068,7 @@
 .ibio-activecampaign:before,
 .ibio-activision:before,
 .ibio-advisorycloud:before,
+.ibio-alleventsin:before,
 .ibio-alltrails:before,
 .ibio-amazonwishlist:before,
 .ibio-apple-books:before,
@@ -4087,6 +4088,7 @@
 .ibio-bonfire:before,
 .ibio-book:before,
 .ibio-book-of-the-month:before,
+.ibio-bookdinners:before,
 .ibio-bookwyrm:before,
 .ibio-bookyogaretreat:before,
 .ibio-boothpm:before,
@@ -4125,6 +4127,7 @@
 .ibio-ezbio:before,
 .ibio-f6s:before,
 .ibio-fablebookclub:before,
+.ibio-fambase:before,
 .ibio-fanpage:before,
 .ibio-fantia:before,
 .ibio-fineartamerica:before,
@@ -4135,6 +4138,7 @@
 .ibio-funanl:before,
 .ibio-ghostorg-alt:before,
 .ibio-ghostorg-circle:before,
+.ibio-gifty:before,
 .ibio-givecampus:before,
 .ibio-gmail:before,
 .ibio-google-calendar:before,
@@ -4219,6 +4223,7 @@
 .ibio-pebbleis:before,
 .ibio-peertube:before,
 .ibio-penup:before,
+.ibio-perrk:before,
 .ibio-piccadilly-records:before,
 .ibio-pie-vinyl:before,
 .ibio-pintplease:before,
@@ -4549,6 +4554,7 @@
 .ibio-xiaomi:before,
 .ibio-xl-recordings:before,
 .ibio-xmpp:before,
+.ibio-xpfreelancer:before,
 .ibio-xtra-mile-recordings:before,
 .ibio-yacvoice:before,
 .ibio-yamano-music:before,
@@ -4586,6 +4592,7 @@
 .ibio-activecampaign:before { content: "\f101"; }
 .ibio-activision:before { content: "\f102"; }
 .ibio-advisorycloud:before { content: "\f103"; }
+.ibio-alleventsin:before { content: "\f2f9"; }
 .ibio-alltrails:before { content: "\f104"; }
 .ibio-amazonwishlist:before { content: "\f105"; }
 .ibio-apple-books:before { content: "\f106"; }
@@ -4605,6 +4612,7 @@
 .ibio-bonfire:before { content: "\f112"; }
 .ibio-book:before { content: "\f113"; }
 .ibio-book-of-the-month:before { content: "\f114"; }
+.ibio-bookdinners:before { content: "\f2fa"; }
 .ibio-bookwyrm:before { content: "\f115"; }
 .ibio-bookyogaretreat:before { content: "\f116"; }
 .ibio-boothpm:before { content: "\f117"; }
@@ -4643,6 +4651,7 @@
 .ibio-ezbio:before { content: "\f134"; }
 .ibio-f6s:before { content: "\f135"; }
 .ibio-fablebookclub:before { content: "\f136"; }
+.ibio-fambase:before { content: "\f2fb"; }
 .ibio-fanpage:before { content: "\f137"; }
 .ibio-fantia:before { content: "\f138"; }
 .ibio-fineartamerica:before { content: "\f139"; }
@@ -4653,6 +4662,7 @@
 .ibio-funanl:before { content: "\f13e"; }
 .ibio-ghostorg-alt:before { content: "\f13f"; }
 .ibio-ghostorg-circle:before { content: "\f140"; }
+.ibio-gifty:before { content: "\f2fc"; }
 .ibio-givecampus:before { content: "\f141"; }
 .ibio-gmail:before { content: "\f142"; }
 .ibio-google-calendar:before { content: "\f143"; }
@@ -4737,6 +4747,7 @@
 .ibio-pebbleis:before { content: "\f18d"; }
 .ibio-peertube:before { content: "\f2f0"; }
 .ibio-penup:before { content: "\f18e"; }
+.ibio-perrk:before { content: "\f2fd"; }
 .ibio-piccadilly-records:before { content: "\f18f"; }
 .ibio-pie-vinyl:before { content: "\f190"; }
 .ibio-pintplease:before { content: "\f191"; }
@@ -5067,6 +5078,7 @@
 .ibio-xiaomi:before { content: "\f2d3"; }
 .ibio-xl-recordings:before { content: "\f2d4"; }
 .ibio-xmpp:before { content: "\f2d5"; }
+.ibio-xpfreelancer:before { content: "\f2fe"; }
 .ibio-xtra-mile-recordings:before { content: "\f2d6"; }
 .ibio-yacvoice:before { content: "\f2d7"; }
 .ibio-yamano-music:before { content: "\f2d8"; }
