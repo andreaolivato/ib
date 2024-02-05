@@ -4044,12 +4044,12 @@
 
 @font-face {
   font-family: "iconsbio2";
-  src: url("./iconsbio2_f7e5cd5bcfaa8b647d3d304fadba6d50.eot");
-  src: url("./iconsbio2_f7e5cd5bcfaa8b647d3d304fadba6d50.eot?#iefix") format("embedded-opentype"),
-       url("./iconsbio2_f7e5cd5bcfaa8b647d3d304fadba6d50.woff2") format("woff2"),
-       url("./iconsbio2_f7e5cd5bcfaa8b647d3d304fadba6d50.woff") format("woff"),
-       url("./iconsbio2_f7e5cd5bcfaa8b647d3d304fadba6d50.ttf") format("truetype"),
-       url("./iconsbio2_f7e5cd5bcfaa8b647d3d304fadba6d50.svg#iconsbio2") format("svg");
+  src: url("./iconsbio2_066932e7d21d0651fbe285cf5f9ceaa9.eot");
+  src: url("./iconsbio2_066932e7d21d0651fbe285cf5f9ceaa9.eot?#iefix") format("embedded-opentype"),
+       url("./iconsbio2_066932e7d21d0651fbe285cf5f9ceaa9.woff2") format("woff2"),
+       url("./iconsbio2_066932e7d21d0651fbe285cf5f9ceaa9.woff") format("woff"),
+       url("./iconsbio2_066932e7d21d0651fbe285cf5f9ceaa9.ttf") format("truetype"),
+       url("./iconsbio2_066932e7d21d0651fbe285cf5f9ceaa9.svg#iconsbio2") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -4057,7 +4057,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "iconsbio2";
-    src: url("./iconsbio2_f7e5cd5bcfaa8b647d3d304fadba6d50.svg#iconsbio2") format("svg");
+    src: url("./iconsbio2_066932e7d21d0651fbe285cf5f9ceaa9.svg#iconsbio2") format("svg");
   }
 }
 
@@ -4083,6 +4083,7 @@
 .ibio-backloggd:before,
 .ibio-beatport:before,
 .ibio-beehiiv:before,
+.ibio-bitview:before,
 .ibio-bluesky:before,
 .ibio-blueskyold:before,
 .ibio-boltplustv:before,
@@ -4090,6 +4091,7 @@
 .ibio-book:before,
 .ibio-book-of-the-month:before,
 .ibio-bookdinners:before,
+.ibio-booksirens:before,
 .ibio-bookwyrm:before,
 .ibio-bookyogaretreat:before,
 .ibio-boothpm:before,
@@ -4137,6 +4139,7 @@
 .ibio-freshcut:before,
 .ibio-friendtok:before,
 .ibio-funanl:before,
+.ibio-geneva:before,
 .ibio-ghostorg-alt:before,
 .ibio-ghostorg-circle:before,
 .ibio-gifty:before,
@@ -4197,6 +4200,7 @@
 .ibio-make:before,
 .ibio-mercadopago:before,
 .ibio-midjourney:before,
+.ibio-minecraftwiki:before,
 .ibio-miningpoolstats:before,
 .ibio-mipicco:before,
 .ibio-moosend:before,
@@ -4436,6 +4440,7 @@
 .ibio-theatre-tickets-direct:before,
 .ibio-thebase-in:before,
 .ibio-themighty:before,
+.ibio-threadless:before,
 .ibio-threads:before,
 .ibio-ticket:before,
 .ibio-ticketbooth:before,
@@ -4609,6 +4614,7 @@
 .ibio-backloggd:before { content: "\f2eb"; }
 .ibio-beatport:before { content: "\f10e"; }
 .ibio-beehiiv:before { content: "\f10f"; }
+.ibio-bitview:before { content: "\f301"; }
 .ibio-bluesky:before { content: "\f110"; }
 .ibio-blueskyold:before { content: "\f2f2"; }
 .ibio-boltplustv:before { content: "\f111"; }
@@ -4616,6 +4622,7 @@
 .ibio-book:before { content: "\f113"; }
 .ibio-book-of-the-month:before { content: "\f114"; }
 .ibio-bookdinners:before { content: "\f2fa"; }
+.ibio-booksirens:before { content: "\f302"; }
 .ibio-bookwyrm:before { content: "\f115"; }
 .ibio-bookyogaretreat:before { content: "\f116"; }
 .ibio-boothpm:before { content: "\f117"; }
@@ -4663,6 +4670,7 @@
 .ibio-freshcut:before { content: "\f13c"; }
 .ibio-friendtok:before { content: "\f13d"; }
 .ibio-funanl:before { content: "\f13e"; }
+.ibio-geneva:before { content: "\f303"; }
 .ibio-ghostorg-alt:before { content: "\f13f"; }
 .ibio-ghostorg-circle:before { content: "\f140"; }
 .ibio-gifty:before { content: "\f2fc"; }
@@ -4723,6 +4731,7 @@
 .ibio-make:before { content: "\f175"; }
 .ibio-mercadopago:before { content: "\f176"; }
 .ibio-midjourney:before { content: "\f177"; }
+.ibio-minecraftwiki:before { content: "\f304"; }
 .ibio-miningpoolstats:before { content: "\f178"; }
 .ibio-mipicco:before { content: "\f179"; }
 .ibio-moosend:before { content: "\f2f4"; }
@@ -4962,6 +4971,7 @@
 .ibio-theatre-tickets-direct:before { content: "\f25c"; }
 .ibio-thebase-in:before { content: "\f25d"; }
 .ibio-themighty:before { content: "\f25e"; }
+.ibio-threadless:before { content: "\f305"; }
 .ibio-threads:before { content: "\f25f"; }
 .ibio-ticket:before { content: "\f260"; }
 .ibio-ticketbooth:before { content: "\f261"; }
