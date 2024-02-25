@@ -1,0 +1,1080 @@
+/*
+  Icon Font: iconsbio2
+*/
+
+@font-face {
+  font-family: "iconsbio2";
+  src: url("./iconsbio2_9fbfb0432d43105ca16d5b480b2d08a3.eot");
+  src: url("./iconsbio2_9fbfb0432d43105ca16d5b480b2d08a3.eot?#iefix") format("embedded-opentype"),
+       url("./iconsbio2_9fbfb0432d43105ca16d5b480b2d08a3.woff2") format("woff2"),
+       url("./iconsbio2_9fbfb0432d43105ca16d5b480b2d08a3.woff") format("woff"),
+       url("./iconsbio2_9fbfb0432d43105ca16d5b480b2d08a3.ttf") format("truetype"),
+       url("./iconsbio2_9fbfb0432d43105ca16d5b480b2d08a3.svg#iconsbio2") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "iconsbio2";
+    src: url("./iconsbio2_9fbfb0432d43105ca16d5b480b2d08a3.svg#iconsbio2") format("svg");
+  }
+}
+
+[data-icon]:before { content: attr(data-icon); }
+
+[data-icon]:before,
+.ibio-accupass:before,
+.ibio-activecampaign:before,
+.ibio-activision:before,
+.ibio-advisorycloud:before,
+.ibio-alleventsin:before,
+.ibio-alltrails:before,
+.ibio-amazonwishlist:before,
+.ibio-apple-books:before,
+.ibio-arbonne:before,
+.ibio-arena:before,
+.ibio-arrivala:before,
+.ibio-artistree:before,
+.ibio-artpal:before,
+.ibio-audiocom:before,
+.ibio-audiotool:before,
+.ibio-aweber:before,
+.ibio-backloggd:before,
+.ibio-beatport:before,
+.ibio-beehiiv:before,
+.ibio-bitview:before,
+.ibio-bluesky:before,
+.ibio-blueskyold:before,
+.ibio-boltplustv:before,
+.ibio-bonfire:before,
+.ibio-book:before,
+.ibio-book-of-the-month:before,
+.ibio-bookdinners:before,
+.ibio-booksirens:before,
+.ibio-bookwyrm:before,
+.ibio-bookyogaretreat:before,
+.ibio-boothpm:before,
+.ibio-brevo:before,
+.ibio-byfans:before,
+.ibio-cafecito:before,
+.ibio-calaxy:before,
+.ibio-campaignmonitor:before,
+.ibio-capcut:before,
+.ibio-channelio:before,
+.ibio-clickasnap:before,
+.ibio-cohostorg:before,
+.ibio-concertarchives:before,
+.ibio-contracom:before,
+.ibio-convertkit:before,
+.ibio-crexi:before,
+.ibio-crowdin:before,
+.ibio-cryptocom:before,
+.ibio-curated:before,
+.ibio-deliveroo:before,
+.ibio-dhgate:before,
+.ibio-diamondapp:before,
+.ibio-digistore24:before,
+.ibio-domestika:before,
+.ibio-doneru:before,
+.ibio-doordash:before,
+.ibio-drip:before,
+.ibio-easports:before,
+.ibio-ecomail:before,
+.ibio-edmtrain:before,
+.ibio-effectivealtruism:before,
+.ibio-emailoctopus:before,
+.ibio-enjoeibr:before,
+.ibio-envato:before,
+.ibio-eventix:before,
+.ibio-ezbio:before,
+.ibio-f6s:before,
+.ibio-fablebookclub:before,
+.ibio-fambase:before,
+.ibio-fanpage:before,
+.ibio-fantia:before,
+.ibio-fineartamerica:before,
+.ibio-five-rise-records:before,
+.ibio-flo:before,
+.ibio-fluentcrm:before,
+.ibio-freshcut:before,
+.ibio-friendtok:before,
+.ibio-funanl:before,
+.ibio-geneva:before,
+.ibio-ghostorg-alt:before,
+.ibio-ghostorg-circle:before,
+.ibio-gifty:before,
+.ibio-givecampus:before,
+.ibio-gmail:before,
+.ibio-google-calendar:before,
+.ibio-googleanalytics:before,
+.ibio-googlemeet:before,
+.ibio-grainery:before,
+.ibio-hearnow:before,
+.ibio-herbalife:before,
+.ibio-heroheroco:before,
+.ibio-hipstamatic:before,
+.ibio-hivesocial:before,
+.ibio-humanitix:before,
+.ibio-idus:before,
+.ibio-ifood:before,
+.ibio-ifttt:before,
+.ibio-igsched:before,
+.ibio-igstory:before,
+.ibio-igsync:before,
+.ibio-inkedgaming:before,
+.ibio-integrately:before,
+.ibio-invitationcodes:before,
+.ibio-irc:before,
+.ibio-ircprotocol:before,
+.ibio-jimdo:before,
+.ibio-joinentre:before,
+.ibio-jooxmusic:before,
+.ibio-kickstreaming:before,
+.ibio-kivaorg:before,
+.ibio-kkbb:before,
+.ibio-klaviyo:before,
+.ibio-klicktipp:before,
+.ibio-klook:before,
+.ibio-knowt:before,
+.ibio-konectgg:before,
+.ibio-kworkcom:before,
+.ibio-langit-musik:before,
+.ibio-lattescnpq:before,
+.ibio-learnworlds:before,
+.ibio-leboncoin:before,
+.ibio-leetcode:before,
+.ibio-lemon8:before,
+.ibio-lemonsqueezy:before,
+.ibio-liberapay:before,
+.ibio-linkme:before,
+.ibio-livechat:before,
+.ibio-lnkbio:before,
+.ibio-lnkbio-circle:before,
+.ibio-lnkbio-square:before,
+.ibio-localscom:before,
+.ibio-loop-store:before,
+.ibio-loopnet:before,
+.ibio-magicedenio:before,
+.ibio-mailerlite:before,
+.ibio-mailjet:before,
+.ibio-make:before,
+.ibio-mercadopago:before,
+.ibio-midjourney:before,
+.ibio-minecraftwiki:before,
+.ibio-miningpoolstats:before,
+.ibio-mipicco:before,
+.ibio-moosend:before,
+.ibio-mspowerautomate:before,
+.ibio-myfansse:before,
+.ibio-namemc:before,
+.ibio-naverblog:before,
+.ibio-naversmartstore:before,
+.ibio-ncsmusic:before,
+.ibio-neopets:before,
+.ibio-new-west-records:before,
+.ibio-nftify:before,
+.ibio-ngl:before,
+.ibio-nostr:before,
+.ibio-notecom:before,
+.ibio-omnisend:before,
+.ibio-opentable:before,
+.ibio-orintful:before,
+.ibio-outlook:before,
+.ibio-pabbly:before,
+.ibio-pangobooks:before,
+.ibio-paperpie:before,
+.ibio-paypay:before,
+.ibio-paysafecard:before,
+.ibio-pebbleis:before,
+.ibio-peertube:before,
+.ibio-penup:before,
+.ibio-perrk:before,
+.ibio-piccadilly-records:before,
+.ibio-pie-vinyl:before,
+.ibio-pintplease:before,
+.ibio-pipedream:before,
+.ibio-plaid-room-records:before,
+.ibio-plastichead:before,
+.ibio-platekompaniet:before,
+.ibio-platenzaak:before,
+.ibio-platinum-agency:before,
+.ibio-platomania:before,
+.ibio-plausible:before,
+.ibio-play-srf:before,
+.ibio-playpack-records:before,
+.ibio-plusmusicpl:before,
+.ibio-pnkslm:before,
+.ibio-podcastsbykajabi:before,
+.ibio-podigee:before,
+.ibio-podimo:before,
+.ibio-podlink:before,
+.ibio-poison-city-records:before,
+.ibio-ponto-frio:before,
+.ibio-pony-canyon:before,
+.ibio-pop-market:before,
+.ibio-pop-wig-records:before,
+.ibio-popde:before,
+.ibio-poponautde:before,
+.ibio-poptube:before,
+.ibio-popular-online:before,
+.ibio-port-merch:before,
+.ibio-postnews:before,
+.ibio-praisecharts:before,
+.ibio-prefect-records:before,
+.ibio-pressreader:before,
+.ibio-presto-music:before,
+.ibio-print-gakufu:before,
+.ibio-printablescom:before,
+.ibio-printify:before,
+.ibio-proper-music:before,
+.ibio-protonmail:before,
+.ibio-psychologytoday:before,
+.ibio-pultru:before,
+.ibio-pure-indie-records:before,
+.ibio-pure-noise-records:before,
+.ibio-qbd-books:before,
+.ibio-qello:before,
+.ibio-qikplay:before,
+.ibio-qrates:before,
+.ibio-qub-musique:before,
+.ibio-rabid-records:before,
+.ibio-racket-records:before,
+.ibio-radio-bob:before,
+.ibio-radio-eins:before,
+.ibio-radio-freccia:before,
+.ibio-rainbow-blonde:before,
+.ibio-rakuten:before,
+.ibio-rcast:before,
+.ibio-readings-australia:before,
+.ibio-real-groovy:before,
+.ibio-realityapp:before,
+.ibio-reaper-entertainment:before,
+.ibio-rebel-records:before,
+.ibio-recochoku:before,
+.ibio-record-collector:before,
+.ibio-record-pusher:before,
+.ibio-record-records:before,
+.ibio-record-shop-merurido:before,
+.ibio-records-with-merritt:before,
+.ibio-recroom:before,
+.ibio-red-bull-records-store:before,
+.ibio-red-eye-records:before,
+.ibio-rhein-konzerte:before,
+.ibio-rhythm-merch:before,
+.ibio-rillbar:before,
+.ibio-rinse-fm:before,
+.ibio-riotgames:before,
+.ibio-rise-records:before,
+.ibio-roadrunner-records-store:before,
+.ibio-rock-action-records:before,
+.ibio-rock-serwis:before,
+.ibio-rock-sound:before,
+.ibio-rock-this-town-records:before,
+.ibio-rockabilia:before,
+.ibio-rockmall:before,
+.ibio-rockmark:before,
+.ibio-rocktud:before,
+.ibio-roku:before,
+.ibio-rottentomatoes:before,
+.ibio-rubadub:before,
+.ibio-sainsburys:before,
+.ibio-salzers-records:before,
+.ibio-samsung:before,
+.ibio-sanborns:before,
+.ibio-sandmilk:before,
+.ibio-schnitzel-records:before,
+.ibio-scopus:before,
+.ibio-scratchmitedu:before,
+.ibio-scriv:before,
+.ibio-sdban:before,
+.ibio-secret-city-records:before,
+.ibio-secret-sounds:before,
+.ibio-secretly-store:before,
+.ibio-sendernet:before,
+.ibio-sendfox:before,
+.ibio-sendinblue:before,
+.ibio-sendx:before,
+.ibio-senja:before,
+.ibio-serializd:before,
+.ibio-serious-beats:before,
+.ibio-setlistfm:before,
+.ibio-setmore:before,
+.ibio-sharptone:before,
+.ibio-shecodesio:before,
+.ibio-sheet-music-plus:before,
+.ibio-shogun-audio:before,
+.ibio-shop-pbs:before,
+.ibio-shop24direct:before,
+.ibio-shopmy:before,
+.ibio-shoppercom:before,
+.ibio-shoppingat:before,
+.ibio-shoppymn:before,
+.ibio-shutterstock:before,
+.ibio-sideonedummy-records:before,
+.ibio-signum-records:before,
+.ibio-signup:before,
+.ibio-silva-screen-records:before,
+.ibio-simfy-africa:before,
+.ibio-singtel:before,
+.ibio-sirius-xm:before,
+.ibio-skiddle:before,
+.ibio-skillr:before,
+.ibio-skillshare:before,
+.ibio-skip-the-dishes:before,
+.ibio-sklepzmuzykapl:before,
+.ibio-skoobe:before,
+.ibio-sky-go:before,
+.ibio-sky-tv:before,
+.ibio-slick:before,
+.ibio-slide-record-shop:before,
+.ibio-sm-entertainment:before,
+.ibio-smart-punk-records:before,
+.ibio-smart-usen:before,
+.ibio-smubu:before,
+.ibio-smule:before,
+.ibio-snackvideo:before,
+.ibio-snortsocial:before,
+.ibio-soar-music-group:before,
+.ibio-solid-state-records:before,
+.ibio-som-livre:before,
+.ibio-soma-records:before,
+.ibio-songtradr:before,
+.ibio-sonic-bookings:before,
+.ibio-sony-music:before,
+.ibio-space-shower-music:before,
+.ibio-specialist-subjects-records:before,
+.ibio-speedstar-records:before,
+.ibio-spillcom:before,
+.ibio-spindizzy-records:before,
+.ibio-spinefarm-records:before,
+.ibio-spinlet:before,
+.ibio-spinnin-records:before,
+.ibio-spinspin:before,
+.ibio-spiritfanfics:before,
+.ibio-spkr-media:before,
+.ibio-spoutible:before,
+.ibio-squadratscom:before,
+.ibio-srf:before,
+.ibio-stage-entertainment:before,
+.ibio-standaard-boekhadel:before,
+.ibio-starhub:before,
+.ibio-starz:before,
+.ibio-statsfm:before,
+.ibio-stimulus-com:before,
+.ibio-stones-throw-records:before,
+.ibio-sub-pop-mega-mart:before,
+.ibio-subk-shop:before,
+.ibio-sublime-merch-store:before,
+.ibio-subtv-playlister:before,
+.ibio-sun-records:before,
+.ibio-sunrise-records:before,
+.ibio-superpuma-records:before,
+.ibio-supraphon:before,
+.ibio-supraphonline-cd:before,
+.ibio-supreme-chaos-records:before,
+.ibio-svt-play:before,
+.ibio-swamp-records:before,
+.ibio-sweden-rock-magazine:before,
+.ibio-symplicitycom:before,
+.ibio-system-records:before,
+.ibio-systemeio:before,
+.ibio-t2:before,
+.ibio-taaze:before,
+.ibio-taiwanmobile:before,
+.ibio-takealot:before,
+.ibio-takt1:before,
+.ibio-talkshoplive:before,
+.ibio-tall-bird-records:before,
+.ibio-tango-discos:before,
+.ibio-tapete-records:before,
+.ibio-target:before,
+.ibio-tcgplayer:before,
+.ibio-telasa:before,
+.ibio-telecharge:before,
+.ibio-telia:before,
+.ibio-telstra:before,
+.ibio-tematika:before,
+.ibio-temu:before,
+.ibio-terabox:before,
+.ibio-tesco:before,
+.ibio-thaa-records:before,
+.ibio-the-sound-of-vinyl:before,
+.ibio-theatre-tickets-direct:before,
+.ibio-thebase-in:before,
+.ibio-themighty:before,
+.ibio-threadless:before,
+.ibio-threads:before,
+.ibio-ticket:before,
+.ibio-ticketbooth:before,
+.ibio-ticketek:before,
+.ibio-ticketline:before,
+.ibio-ticketmaster:before,
+.ibio-ticketone:before,
+.ibio-ticketportalcz:before,
+.ibio-ticketsmarche:before,
+.ibio-ticketstreamcz:before,
+.ibio-tickettailor:before,
+.ibio-ticketweb:before,
+.ibio-tidycal:before,
+.ibio-timetree:before,
+.ibio-tistory:before,
+.ibio-tkigv3:before,
+.ibio-tksched:before,
+.ibio-tksync:before,
+.ibio-toolroom-records:before,
+.ibio-tooth-nail-records:before,
+.ibio-top-j-records:before,
+.ibio-topshelf-records:before,
+.ibio-touchapp:before,
+.ibio-trackdrip:before,
+.ibio-trackitdown:before,
+.ibio-transgressive-records:before,
+.ibio-trax-magazine:before,
+.ibio-tribel:before,
+.ibio-tricatel:before,
+.ibio-tryhackme:before,
+.ibio-tubi:before,
+.ibio-tuneafrique:before,
+.ibio-tunecore:before,
+.ibio-tunespeak:before,
+.ibio-turbo-recordings:before,
+.ibio-turntable-city:before,
+.ibio-turntablelab:before,
+.ibio-twintpayment:before,
+.ibio-twitterx:before,
+.ibio-udiscover:before,
+.ibio-udux:before,
+.ibio-uiclap:before,
+.ibio-ukf:before,
+.ibio-ultra-shibuya:before,
+.ibio-ulule:before,
+.ibio-umg:before,
+.ibio-unbound:before,
+.ibio-uncle-m:before,
+.ibio-underdog-recordstore:before,
+.ibio-underground-solushn:before,
+.ibio-unearthed-sounds:before,
+.ibio-unfd:before,
+.ibio-unlokme:before,
+.ibio-unser-ding:before,
+.ibio-upc-tv:before,
+.ibio-uppwind-records:before,
+.ibio-uproxx:before,
+.ibio-utapass:before,
+.ibio-valley-entertainment:before,
+.ibio-van-records:before,
+.ibio-vbox7:before,
+.ibio-veeps:before,
+.ibio-veloviewer:before,
+.ibio-velvet-music:before,
+.ibio-venn-records:before,
+.ibio-vernoshop:before,
+.ibio-verve-forecast:before,
+.ibio-verve-records:before,
+.ibio-vialma:before,
+.ibio-viaplay:before,
+.ibio-videociety:before,
+.ibio-videoload:before,
+.ibio-village-live-records:before,
+.ibio-village-sounds:before,
+.ibio-vinilo-record-store:before,
+.ibio-vintage-vinyl:before,
+.ibio-vinylcomau:before,
+.ibio-vodafone:before,
+.ibio-voiceshop:before,
+.ibio-void-vinyl:before,
+.ibio-voyo:before,
+.ibio-vp-reggae:before,
+.ibio-vudu:before,
+.ibio-vuulm:before,
+.ibio-vvvid:before,
+.ibio-wallapop:before,
+.ibio-walmart:before,
+.ibio-ward-records:before,
+.ibio-warner-music:before,
+.ibio-waterloo-records:before,
+.ibio-we-are-vinyl:before,
+.ibio-webofscience:before,
+.ibio-weezevent:before,
+.ibio-weltbild:before,
+.ibio-wenod-records:before,
+.ibio-werkdiscs:before,
+.ibio-weserlabel:before,
+.ibio-west-one-music:before,
+.ibio-wetravel:before,
+.ibio-weverse:before,
+.ibio-wh-smith:before,
+.ibio-what-records:before,
+.ibio-wichita-recordings:before,
+.ibio-wikiloc:before,
+.ibio-wildthing-records-store:before,
+.ibio-wink:before,
+.ibio-winylownia:before,
+.ibio-wishtender:before,
+.ibio-woodstock:before,
+.ibio-world-circuit:before,
+.ibio-world-of-music:before,
+.ibio-world-star-hip-hop:before,
+.ibio-worship-musician-magazine:before,
+.ibio-worship-together:before,
+.ibio-wowow:before,
+.ibio-wwe:before,
+.ibio-wynkmusic:before,
+.ibio-xiaomi:before,
+.ibio-xl-recordings:before,
+.ibio-xmpp:before,
+.ibio-xpfreelancer:before,
+.ibio-xtra-mile-recordings:before,
+.ibio-yacvoice:before,
+.ibio-yamano-music:before,
+.ibio-yep-roc-records:before,
+.ibio-youradio:before,
+.ibio-yousee-musik:before,
+.ibio-zaiko:before,
+.ibio-zavvi:before,
+.ibio-zbooni:before,
+.ibio-zenyandex:before,
+.ibio-zerodha:before,
+.ibio-zia-records:before,
+.ibio-ziggo:before,
+.ibio-zinio:before,
+.ibio-zipmessage:before,
+.ibio-zoho-campaigns:before,
+.ibio-zoom:before,
+.ibio-zumba:before,
+.ibio-zvuk:before {
+  display: inline-block;
+  font-family: "iconsbio2";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-decoration: inherit;
+  text-rendering: optimizeLegibility;
+  text-transform: none;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+}
+
+.ibio-accupass:before { content: "\f100"; }
+.ibio-activecampaign:before { content: "\f101"; }
+.ibio-activision:before { content: "\f102"; }
+.ibio-advisorycloud:before { content: "\f103"; }
+.ibio-alleventsin:before { content: "\f2f9"; }
+.ibio-alltrails:before { content: "\f104"; }
+.ibio-amazonwishlist:before { content: "\f105"; }
+.ibio-apple-books:before { content: "\f106"; }
+.ibio-arbonne:before { content: "\f107"; }
+.ibio-arena:before { content: "\f108"; }
+.ibio-arrivala:before { content: "\f300"; }
+.ibio-artistree:before { content: "\f109"; }
+.ibio-artpal:before { content: "\f10a"; }
+.ibio-audiocom:before { content: "\f10b"; }
+.ibio-audiotool:before { content: "\f10c"; }
+.ibio-aweber:before { content: "\f10d"; }
+.ibio-backloggd:before { content: "\f2eb"; }
+.ibio-beatport:before { content: "\f10e"; }
+.ibio-beehiiv:before { content: "\f10f"; }
+.ibio-bitview:before { content: "\f301"; }
+.ibio-bluesky:before { content: "\f110"; }
+.ibio-blueskyold:before { content: "\f2f2"; }
+.ibio-boltplustv:before { content: "\f111"; }
+.ibio-bonfire:before { content: "\f112"; }
+.ibio-book:before { content: "\f113"; }
+.ibio-book-of-the-month:before { content: "\f114"; }
+.ibio-bookdinners:before { content: "\f2fa"; }
+.ibio-booksirens:before { content: "\f302"; }
+.ibio-bookwyrm:before { content: "\f115"; }
+.ibio-bookyogaretreat:before { content: "\f116"; }
+.ibio-boothpm:before { content: "\f117"; }
+.ibio-brevo:before { content: "\f118"; }
+.ibio-byfans:before { content: "\f119"; }
+.ibio-cafecito:before { content: "\f2ed"; }
+.ibio-calaxy:before { content: "\f11a"; }
+.ibio-campaignmonitor:before { content: "\f2f7"; }
+.ibio-capcut:before { content: "\f11b"; }
+.ibio-channelio:before { content: "\f11c"; }
+.ibio-clickasnap:before { content: "\f11d"; }
+.ibio-cohostorg:before { content: "\f11e"; }
+.ibio-concertarchives:before { content: "\f11f"; }
+.ibio-contracom:before { content: "\f120"; }
+.ibio-convertkit:before { content: "\f121"; }
+.ibio-crexi:before { content: "\f122"; }
+.ibio-crowdin:before { content: "\f123"; }
+.ibio-cryptocom:before { content: "\f124"; }
+.ibio-curated:before { content: "\f2f3"; }
+.ibio-deliveroo:before { content: "\f125"; }
+.ibio-dhgate:before { content: "\f126"; }
+.ibio-diamondapp:before { content: "\f127"; }
+.ibio-digistore24:before { content: "\f128"; }
+.ibio-domestika:before { content: "\f129"; }
+.ibio-doneru:before { content: "\f12a"; }
+.ibio-doordash:before { content: "\f12b"; }
+.ibio-drip:before { content: "\f2f5"; }
+.ibio-easports:before { content: "\f12c"; }
+.ibio-ecomail:before { content: "\f12d"; }
+.ibio-edmtrain:before { content: "\f12e"; }
+.ibio-effectivealtruism:before { content: "\f12f"; }
+.ibio-emailoctopus:before { content: "\f130"; }
+.ibio-enjoeibr:before { content: "\f131"; }
+.ibio-envato:before { content: "\f132"; }
+.ibio-eventix:before { content: "\f133"; }
+.ibio-ezbio:before { content: "\f134"; }
+.ibio-f6s:before { content: "\f135"; }
+.ibio-fablebookclub:before { content: "\f136"; }
+.ibio-fambase:before { content: "\f2fb"; }
+.ibio-fanpage:before { content: "\f137"; }
+.ibio-fantia:before { content: "\f138"; }
+.ibio-fineartamerica:before { content: "\f139"; }
+.ibio-five-rise-records:before { content: "\f13a"; }
+.ibio-flo:before { content: "\f13b"; }
+.ibio-fluentcrm:before { content: "\f308"; }
+.ibio-freshcut:before { content: "\f13c"; }
+.ibio-friendtok:before { content: "\f13d"; }
+.ibio-funanl:before { content: "\f13e"; }
+.ibio-geneva:before { content: "\f303"; }
+.ibio-ghostorg-alt:before { content: "\f13f"; }
+.ibio-ghostorg-circle:before { content: "\f140"; }
+.ibio-gifty:before { content: "\f2fc"; }
+.ibio-givecampus:before { content: "\f141"; }
+.ibio-gmail:before { content: "\f142"; }
+.ibio-google-calendar:before { content: "\f143"; }
+.ibio-googleanalytics:before { content: "\f144"; }
+.ibio-googlemeet:before { content: "\f145"; }
+.ibio-grainery:before { content: "\f146"; }
+.ibio-hearnow:before { content: "\f147"; }
+.ibio-herbalife:before { content: "\f148"; }
+.ibio-heroheroco:before { content: "\f149"; }
+.ibio-hipstamatic:before { content: "\f2ee"; }
+.ibio-hivesocial:before { content: "\f14a"; }
+.ibio-humanitix:before { content: "\f14b"; }
+.ibio-idus:before { content: "\f14c"; }
+.ibio-ifood:before { content: "\f14d"; }
+.ibio-ifttt:before { content: "\f14e"; }
+.ibio-igsched:before { content: "\f14f"; }
+.ibio-igstory:before { content: "\f150"; }
+.ibio-igsync:before { content: "\f151"; }
+.ibio-inkedgaming:before { content: "\f152"; }
+.ibio-integrately:before { content: "\f153"; }
+.ibio-invitationcodes:before { content: "\f154"; }
+.ibio-irc:before { content: "\f155"; }
+.ibio-ircprotocol:before { content: "\f156"; }
+.ibio-jimdo:before { content: "\f157"; }
+.ibio-joinentre:before { content: "\f158"; }
+.ibio-jooxmusic:before { content: "\f159"; }
+.ibio-kickstreaming:before { content: "\f15a"; }
+.ibio-kivaorg:before { content: "\f15b"; }
+.ibio-kkbb:before { content: "\f15c"; }
+.ibio-klaviyo:before { content: "\f15d"; }
+.ibio-klicktipp:before { content: "\f15e"; }
+.ibio-klook:before { content: "\f15f"; }
+.ibio-knowt:before { content: "\f160"; }
+.ibio-konectgg:before { content: "\f161"; }
+.ibio-kworkcom:before { content: "\f162"; }
+.ibio-langit-musik:before { content: "\f163"; }
+.ibio-lattescnpq:before { content: "\f164"; }
+.ibio-learnworlds:before { content: "\f165"; }
+.ibio-leboncoin:before { content: "\f166"; }
+.ibio-leetcode:before { content: "\f167"; }
+.ibio-lemon8:before { content: "\f168"; }
+.ibio-lemonsqueezy:before { content: "\f169"; }
+.ibio-liberapay:before { content: "\f16a"; }
+.ibio-linkme:before { content: "\f16b"; }
+.ibio-livechat:before { content: "\f16c"; }
+.ibio-lnkbio:before { content: "\f16d"; }
+.ibio-lnkbio-circle:before { content: "\f16e"; }
+.ibio-lnkbio-square:before { content: "\f16f"; }
+.ibio-localscom:before { content: "\f170"; }
+.ibio-loop-store:before { content: "\f171"; }
+.ibio-loopnet:before { content: "\f172"; }
+.ibio-magicedenio:before { content: "\f173"; }
+.ibio-mailerlite:before { content: "\f174"; }
+.ibio-mailjet:before { content: "\f2f6"; }
+.ibio-make:before { content: "\f175"; }
+.ibio-mercadopago:before { content: "\f176"; }
+.ibio-midjourney:before { content: "\f177"; }
+.ibio-minecraftwiki:before { content: "\f304"; }
+.ibio-miningpoolstats:before { content: "\f178"; }
+.ibio-mipicco:before { content: "\f179"; }
+.ibio-moosend:before { content: "\f2f4"; }
+.ibio-mspowerautomate:before { content: "\f17a"; }
+.ibio-myfansse:before { content: "\f17b"; }
+.ibio-namemc:before { content: "\f17c"; }
+.ibio-naverblog:before { content: "\f17d"; }
+.ibio-naversmartstore:before { content: "\f17e"; }
+.ibio-ncsmusic:before { content: "\f17f"; }
+.ibio-neopets:before { content: "\f180"; }
+.ibio-new-west-records:before { content: "\f181"; }
+.ibio-nftify:before { content: "\f182"; }
+.ibio-ngl:before { content: "\f2ef"; }
+.ibio-nostr:before { content: "\f183"; }
+.ibio-notecom:before { content: "\f184"; }
+.ibio-omnisend:before { content: "\f2e9"; }
+.ibio-opentable:before { content: "\f185"; }
+.ibio-orintful:before { content: "\f186"; }
+.ibio-outlook:before { content: "\f187"; }
+.ibio-pabbly:before { content: "\f188"; }
+.ibio-pangobooks:before { content: "\f189"; }
+.ibio-paperpie:before { content: "\f18a"; }
+.ibio-paypay:before { content: "\f18b"; }
+.ibio-paysafecard:before { content: "\f18c"; }
+.ibio-pebbleis:before { content: "\f18d"; }
+.ibio-peertube:before { content: "\f2f0"; }
+.ibio-penup:before { content: "\f18e"; }
+.ibio-perrk:before { content: "\f2fd"; }
+.ibio-piccadilly-records:before { content: "\f18f"; }
+.ibio-pie-vinyl:before { content: "\f190"; }
+.ibio-pintplease:before { content: "\f191"; }
+.ibio-pipedream:before { content: "\f306"; }
+.ibio-plaid-room-records:before { content: "\f192"; }
+.ibio-plastichead:before { content: "\f193"; }
+.ibio-platekompaniet:before { content: "\f194"; }
+.ibio-platenzaak:before { content: "\f195"; }
+.ibio-platinum-agency:before { content: "\f196"; }
+.ibio-platomania:before { content: "\f197"; }
+.ibio-plausible:before { content: "\f198"; }
+.ibio-play-srf:before { content: "\f199"; }
+.ibio-playpack-records:before { content: "\f19a"; }
+.ibio-plusmusicpl:before { content: "\f19b"; }
+.ibio-pnkslm:before { content: "\f19c"; }
+.ibio-podcastsbykajabi:before { content: "\f19d"; }
+.ibio-podigee:before { content: "\f19e"; }
+.ibio-podimo:before { content: "\f19f"; }
+.ibio-podlink:before { content: "\f1a0"; }
+.ibio-poison-city-records:before { content: "\f1a1"; }
+.ibio-ponto-frio:before { content: "\f1a2"; }
+.ibio-pony-canyon:before { content: "\f1a3"; }
+.ibio-pop-market:before { content: "\f1a4"; }
+.ibio-pop-wig-records:before { content: "\f1a5"; }
+.ibio-popde:before { content: "\f1a6"; }
+.ibio-poponautde:before { content: "\f1a7"; }
+.ibio-poptube:before { content: "\f1a8"; }
+.ibio-popular-online:before { content: "\f1a9"; }
+.ibio-port-merch:before { content: "\f1aa"; }
+.ibio-postnews:before { content: "\f1ab"; }
+.ibio-praisecharts:before { content: "\f1ac"; }
+.ibio-prefect-records:before { content: "\f1ad"; }
+.ibio-pressreader:before { content: "\f1ae"; }
+.ibio-presto-music:before { content: "\f1af"; }
+.ibio-print-gakufu:before { content: "\f1b0"; }
+.ibio-printablescom:before { content: "\f1b1"; }
+.ibio-printify:before { content: "\f1b2"; }
+.ibio-proper-music:before { content: "\f1b3"; }
+.ibio-protonmail:before { content: "\f1b4"; }
+.ibio-psychologytoday:before { content: "\f1b5"; }
+.ibio-pultru:before { content: "\f1b6"; }
+.ibio-pure-indie-records:before { content: "\f1b7"; }
+.ibio-pure-noise-records:before { content: "\f1b8"; }
+.ibio-qbd-books:before { content: "\f1b9"; }
+.ibio-qello:before { content: "\f1ba"; }
+.ibio-qikplay:before { content: "\f1bb"; }
+.ibio-qrates:before { content: "\f1bc"; }
+.ibio-qub-musique:before { content: "\f1bd"; }
+.ibio-rabid-records:before { content: "\f1be"; }
+.ibio-racket-records:before { content: "\f1bf"; }
+.ibio-radio-bob:before { content: "\f1c0"; }
+.ibio-radio-eins:before { content: "\f1c1"; }
+.ibio-radio-freccia:before { content: "\f1c2"; }
+.ibio-rainbow-blonde:before { content: "\f1c3"; }
+.ibio-rakuten:before { content: "\f1c4"; }
+.ibio-rcast:before { content: "\f1c5"; }
+.ibio-readings-australia:before { content: "\f1c6"; }
+.ibio-real-groovy:before { content: "\f1c7"; }
+.ibio-realityapp:before { content: "\f1c8"; }
+.ibio-reaper-entertainment:before { content: "\f1c9"; }
+.ibio-rebel-records:before { content: "\f1ca"; }
+.ibio-recochoku:before { content: "\f1cb"; }
+.ibio-record-collector:before { content: "\f1cc"; }
+.ibio-record-pusher:before { content: "\f1cd"; }
+.ibio-record-records:before { content: "\f1ce"; }
+.ibio-record-shop-merurido:before { content: "\f1cf"; }
+.ibio-records-with-merritt:before { content: "\f1d0"; }
+.ibio-recroom:before { content: "\f2f1"; }
+.ibio-red-bull-records-store:before { content: "\f1d1"; }
+.ibio-red-eye-records:before { content: "\f1d2"; }
+.ibio-rhein-konzerte:before { content: "\f1d3"; }
+.ibio-rhythm-merch:before { content: "\f1d4"; }
+.ibio-rillbar:before { content: "\f1d5"; }
+.ibio-rinse-fm:before { content: "\f1d6"; }
+.ibio-riotgames:before { content: "\f1d7"; }
+.ibio-rise-records:before { content: "\f1d8"; }
+.ibio-roadrunner-records-store:before { content: "\f1d9"; }
+.ibio-rock-action-records:before { content: "\f1da"; }
+.ibio-rock-serwis:before { content: "\f1db"; }
+.ibio-rock-sound:before { content: "\f1dc"; }
+.ibio-rock-this-town-records:before { content: "\f1dd"; }
+.ibio-rockabilia:before { content: "\f1de"; }
+.ibio-rockmall:before { content: "\f1df"; }
+.ibio-rockmark:before { content: "\f1e0"; }
+.ibio-rocktud:before { content: "\f1e1"; }
+.ibio-roku:before { content: "\f1e2"; }
+.ibio-rottentomatoes:before { content: "\f1e3"; }
+.ibio-rubadub:before { content: "\f1e4"; }
+.ibio-sainsburys:before { content: "\f1e5"; }
+.ibio-salzers-records:before { content: "\f1e6"; }
+.ibio-samsung:before { content: "\f1e7"; }
+.ibio-sanborns:before { content: "\f1e8"; }
+.ibio-sandmilk:before { content: "\f1e9"; }
+.ibio-schnitzel-records:before { content: "\f1ea"; }
+.ibio-scopus:before { content: "\f1eb"; }
+.ibio-scratchmitedu:before { content: "\f1ec"; }
+.ibio-scriv:before { content: "\f1ed"; }
+.ibio-sdban:before { content: "\f1ee"; }
+.ibio-secret-city-records:before { content: "\f1ef"; }
+.ibio-secret-sounds:before { content: "\f1f0"; }
+.ibio-secretly-store:before { content: "\f1f1"; }
+.ibio-sendernet:before { content: "\f1f2"; }
+.ibio-sendfox:before { content: "\f1f3"; }
+.ibio-sendinblue:before { content: "\f1f4"; }
+.ibio-sendx:before { content: "\f2f8"; }
+.ibio-senja:before { content: "\f307"; }
+.ibio-serializd:before { content: "\f1f5"; }
+.ibio-serious-beats:before { content: "\f1f6"; }
+.ibio-setlistfm:before { content: "\f1f7"; }
+.ibio-setmore:before { content: "\f1f8"; }
+.ibio-sharptone:before { content: "\f1f9"; }
+.ibio-shecodesio:before { content: "\f1fa"; }
+.ibio-sheet-music-plus:before { content: "\f1fb"; }
+.ibio-shogun-audio:before { content: "\f1fc"; }
+.ibio-shop-pbs:before { content: "\f1fd"; }
+.ibio-shop24direct:before { content: "\f1fe"; }
+.ibio-shopmy:before { content: "\f1ff"; }
+.ibio-shoppercom:before { content: "\f200"; }
+.ibio-shoppingat:before { content: "\f201"; }
+.ibio-shoppymn:before { content: "\f202"; }
+.ibio-shutterstock:before { content: "\f203"; }
+.ibio-sideonedummy-records:before { content: "\f204"; }
+.ibio-signum-records:before { content: "\f205"; }
+.ibio-signup:before { content: "\f206"; }
+.ibio-silva-screen-records:before { content: "\f207"; }
+.ibio-simfy-africa:before { content: "\f208"; }
+.ibio-singtel:before { content: "\f209"; }
+.ibio-sirius-xm:before { content: "\f20a"; }
+.ibio-skiddle:before { content: "\f20b"; }
+.ibio-skillr:before { content: "\f20c"; }
+.ibio-skillshare:before { content: "\f20d"; }
+.ibio-skip-the-dishes:before { content: "\f20e"; }
+.ibio-sklepzmuzykapl:before { content: "\f20f"; }
+.ibio-skoobe:before { content: "\f210"; }
+.ibio-sky-go:before { content: "\f211"; }
+.ibio-sky-tv:before { content: "\f212"; }
+.ibio-slick:before { content: "\f213"; }
+.ibio-slide-record-shop:before { content: "\f214"; }
+.ibio-sm-entertainment:before { content: "\f215"; }
+.ibio-smart-punk-records:before { content: "\f216"; }
+.ibio-smart-usen:before { content: "\f217"; }
+.ibio-smubu:before { content: "\f218"; }
+.ibio-smule:before { content: "\f219"; }
+.ibio-snackvideo:before { content: "\f21a"; }
+.ibio-snortsocial:before { content: "\f21b"; }
+.ibio-soar-music-group:before { content: "\f21c"; }
+.ibio-solid-state-records:before { content: "\f21d"; }
+.ibio-som-livre:before { content: "\f21e"; }
+.ibio-soma-records:before { content: "\f21f"; }
+.ibio-songtradr:before { content: "\f220"; }
+.ibio-sonic-bookings:before { content: "\f221"; }
+.ibio-sony-music:before { content: "\f222"; }
+.ibio-space-shower-music:before { content: "\f223"; }
+.ibio-specialist-subjects-records:before { content: "\f224"; }
+.ibio-speedstar-records:before { content: "\f225"; }
+.ibio-spillcom:before { content: "\f226"; }
+.ibio-spindizzy-records:before { content: "\f227"; }
+.ibio-spinefarm-records:before { content: "\f228"; }
+.ibio-spinlet:before { content: "\f229"; }
+.ibio-spinnin-records:before { content: "\f22a"; }
+.ibio-spinspin:before { content: "\f22b"; }
+.ibio-spiritfanfics:before { content: "\f22c"; }
+.ibio-spkr-media:before { content: "\f22d"; }
+.ibio-spoutible:before { content: "\f22e"; }
+.ibio-squadratscom:before { content: "\f22f"; }
+.ibio-srf:before { content: "\f230"; }
+.ibio-stage-entertainment:before { content: "\f231"; }
+.ibio-standaard-boekhadel:before { content: "\f232"; }
+.ibio-starhub:before { content: "\f233"; }
+.ibio-starz:before { content: "\f234"; }
+.ibio-statsfm:before { content: "\f235"; }
+.ibio-stimulus-com:before { content: "\f236"; }
+.ibio-stones-throw-records:before { content: "\f237"; }
+.ibio-sub-pop-mega-mart:before { content: "\f238"; }
+.ibio-subk-shop:before { content: "\f239"; }
+.ibio-sublime-merch-store:before { content: "\f23a"; }
+.ibio-subtv-playlister:before { content: "\f23b"; }
+.ibio-sun-records:before { content: "\f23c"; }
+.ibio-sunrise-records:before { content: "\f23d"; }
+.ibio-superpuma-records:before { content: "\f23e"; }
+.ibio-supraphon:before { content: "\f23f"; }
+.ibio-supraphonline-cd:before { content: "\f240"; }
+.ibio-supreme-chaos-records:before { content: "\f241"; }
+.ibio-svt-play:before { content: "\f242"; }
+.ibio-swamp-records:before { content: "\f243"; }
+.ibio-sweden-rock-magazine:before { content: "\f244"; }
+.ibio-symplicitycom:before { content: "\f245"; }
+.ibio-system-records:before { content: "\f246"; }
+.ibio-systemeio:before { content: "\f2ea"; }
+.ibio-t2:before { content: "\f247"; }
+.ibio-taaze:before { content: "\f248"; }
+.ibio-taiwanmobile:before { content: "\f249"; }
+.ibio-takealot:before { content: "\f24a"; }
+.ibio-takt1:before { content: "\f24b"; }
+.ibio-talkshoplive:before { content: "\f24c"; }
+.ibio-tall-bird-records:before { content: "\f24d"; }
+.ibio-tango-discos:before { content: "\f24e"; }
+.ibio-tapete-records:before { content: "\f24f"; }
+.ibio-target:before { content: "\f250"; }
+.ibio-tcgplayer:before { content: "\f251"; }
+.ibio-telasa:before { content: "\f252"; }
+.ibio-telecharge:before { content: "\f253"; }
+.ibio-telia:before { content: "\f254"; }
+.ibio-telstra:before { content: "\f255"; }
+.ibio-tematika:before { content: "\f256"; }
+.ibio-temu:before { content: "\f257"; }
+.ibio-terabox:before { content: "\f258"; }
+.ibio-tesco:before { content: "\f259"; }
+.ibio-thaa-records:before { content: "\f25a"; }
+.ibio-the-sound-of-vinyl:before { content: "\f25b"; }
+.ibio-theatre-tickets-direct:before { content: "\f25c"; }
+.ibio-thebase-in:before { content: "\f25d"; }
+.ibio-themighty:before { content: "\f25e"; }
+.ibio-threadless:before { content: "\f305"; }
+.ibio-threads:before { content: "\f25f"; }
+.ibio-ticket:before { content: "\f260"; }
+.ibio-ticketbooth:before { content: "\f261"; }
+.ibio-ticketek:before { content: "\f262"; }
+.ibio-ticketline:before { content: "\f263"; }
+.ibio-ticketmaster:before { content: "\f264"; }
+.ibio-ticketone:before { content: "\f265"; }
+.ibio-ticketportalcz:before { content: "\f266"; }
+.ibio-ticketsmarche:before { content: "\f267"; }
+.ibio-ticketstreamcz:before { content: "\f268"; }
+.ibio-tickettailor:before { content: "\f269"; }
+.ibio-ticketweb:before { content: "\f26a"; }
+.ibio-tidycal:before { content: "\f26b"; }
+.ibio-timetree:before { content: "\f26c"; }
+.ibio-tistory:before { content: "\f26d"; }
+.ibio-tkigv3:before { content: "\f26e"; }
+.ibio-tksched:before { content: "\f26f"; }
+.ibio-tksync:before { content: "\f270"; }
+.ibio-toolroom-records:before { content: "\f271"; }
+.ibio-tooth-nail-records:before { content: "\f272"; }
+.ibio-top-j-records:before { content: "\f273"; }
+.ibio-topshelf-records:before { content: "\f274"; }
+.ibio-touchapp:before { content: "\f275"; }
+.ibio-trackdrip:before { content: "\f276"; }
+.ibio-trackitdown:before { content: "\f277"; }
+.ibio-transgressive-records:before { content: "\f278"; }
+.ibio-trax-magazine:before { content: "\f279"; }
+.ibio-tribel:before { content: "\f27a"; }
+.ibio-tricatel:before { content: "\f27b"; }
+.ibio-tryhackme:before { content: "\f27c"; }
+.ibio-tubi:before { content: "\f27d"; }
+.ibio-tuneafrique:before { content: "\f27e"; }
+.ibio-tunecore:before { content: "\f27f"; }
+.ibio-tunespeak:before { content: "\f280"; }
+.ibio-turbo-recordings:before { content: "\f281"; }
+.ibio-turntable-city:before { content: "\f282"; }
+.ibio-turntablelab:before { content: "\f283"; }
+.ibio-twintpayment:before { content: "\f284"; }
+.ibio-twitterx:before { content: "\f285"; }
+.ibio-udiscover:before { content: "\f286"; }
+.ibio-udux:before { content: "\f287"; }
+.ibio-uiclap:before { content: "\f288"; }
+.ibio-ukf:before { content: "\f289"; }
+.ibio-ultra-shibuya:before { content: "\f28a"; }
+.ibio-ulule:before { content: "\f28b"; }
+.ibio-umg:before { content: "\f28c"; }
+.ibio-unbound:before { content: "\f28d"; }
+.ibio-uncle-m:before { content: "\f28e"; }
+.ibio-underdog-recordstore:before { content: "\f28f"; }
+.ibio-underground-solushn:before { content: "\f290"; }
+.ibio-unearthed-sounds:before { content: "\f291"; }
+.ibio-unfd:before { content: "\f292"; }
+.ibio-unlokme:before { content: "\f293"; }
+.ibio-unser-ding:before { content: "\f294"; }
+.ibio-upc-tv:before { content: "\f295"; }
+.ibio-uppwind-records:before { content: "\f296"; }
+.ibio-uproxx:before { content: "\f297"; }
+.ibio-utapass:before { content: "\f298"; }
+.ibio-valley-entertainment:before { content: "\f299"; }
+.ibio-van-records:before { content: "\f29a"; }
+.ibio-vbox7:before { content: "\f29b"; }
+.ibio-veeps:before { content: "\f29c"; }
+.ibio-veloviewer:before { content: "\f29d"; }
+.ibio-velvet-music:before { content: "\f29e"; }
+.ibio-venn-records:before { content: "\f29f"; }
+.ibio-vernoshop:before { content: "\f2a0"; }
+.ibio-verve-forecast:before { content: "\f2a1"; }
+.ibio-verve-records:before { content: "\f2a2"; }
+.ibio-vialma:before { content: "\f2a3"; }
+.ibio-viaplay:before { content: "\f2a4"; }
+.ibio-videociety:before { content: "\f2a5"; }
+.ibio-videoload:before { content: "\f2a6"; }
+.ibio-village-live-records:before { content: "\f2a7"; }
+.ibio-village-sounds:before { content: "\f2a8"; }
+.ibio-vinilo-record-store:before { content: "\f2a9"; }
+.ibio-vintage-vinyl:before { content: "\f2aa"; }
+.ibio-vinylcomau:before { content: "\f2ab"; }
+.ibio-vodafone:before { content: "\f2ac"; }
+.ibio-voiceshop:before { content: "\f2ad"; }
+.ibio-void-vinyl:before { content: "\f2ae"; }
+.ibio-voyo:before { content: "\f2af"; }
+.ibio-vp-reggae:before { content: "\f2b0"; }
+.ibio-vudu:before { content: "\f2b1"; }
+.ibio-vuulm:before { content: "\f2b2"; }
+.ibio-vvvid:before { content: "\f2b3"; }
+.ibio-wallapop:before { content: "\f2b4"; }
+.ibio-walmart:before { content: "\f2b5"; }
+.ibio-ward-records:before { content: "\f2b6"; }
+.ibio-warner-music:before { content: "\f2b7"; }
+.ibio-waterloo-records:before { content: "\f2b8"; }
+.ibio-we-are-vinyl:before { content: "\f2b9"; }
+.ibio-webofscience:before { content: "\f2ba"; }
+.ibio-weezevent:before { content: "\f2bb"; }
+.ibio-weltbild:before { content: "\f2bc"; }
+.ibio-wenod-records:before { content: "\f2bd"; }
+.ibio-werkdiscs:before { content: "\f2be"; }
+.ibio-weserlabel:before { content: "\f2bf"; }
+.ibio-west-one-music:before { content: "\f2c0"; }
+.ibio-wetravel:before { content: "\f2ff"; }
+.ibio-weverse:before { content: "\f2c1"; }
+.ibio-wh-smith:before { content: "\f2c2"; }
+.ibio-what-records:before { content: "\f2c3"; }
+.ibio-wichita-recordings:before { content: "\f2c4"; }
+.ibio-wikiloc:before { content: "\f2c5"; }
+.ibio-wildthing-records-store:before { content: "\f2c6"; }
+.ibio-wink:before { content: "\f2c7"; }
+.ibio-winylownia:before { content: "\f2c8"; }
+.ibio-wishtender:before { content: "\f2c9"; }
+.ibio-woodstock:before { content: "\f2ca"; }
+.ibio-world-circuit:before { content: "\f2cb"; }
+.ibio-world-of-music:before { content: "\f2cc"; }
+.ibio-world-star-hip-hop:before { content: "\f2cd"; }
+.ibio-worship-musician-magazine:before { content: "\f2ce"; }
+.ibio-worship-together:before { content: "\f2cf"; }
+.ibio-wowow:before { content: "\f2d0"; }
+.ibio-wwe:before { content: "\f2d1"; }
+.ibio-wynkmusic:before { content: "\f2d2"; }
+.ibio-xiaomi:before { content: "\f2d3"; }
+.ibio-xl-recordings:before { content: "\f2d4"; }
+.ibio-xmpp:before { content: "\f2d5"; }
+.ibio-xpfreelancer:before { content: "\f2fe"; }
+.ibio-xtra-mile-recordings:before { content: "\f2d6"; }
+.ibio-yacvoice:before { content: "\f2d7"; }
+.ibio-yamano-music:before { content: "\f2d8"; }
+.ibio-yep-roc-records:before { content: "\f2d9"; }
+.ibio-youradio:before { content: "\f2da"; }
+.ibio-yousee-musik:before { content: "\f2db"; }
+.ibio-zaiko:before { content: "\f2dc"; }
+.ibio-zavvi:before { content: "\f2dd"; }
+.ibio-zbooni:before { content: "\f2de"; }
+.ibio-zenyandex:before { content: "\f2df"; }
+.ibio-zerodha:before { content: "\f2e0"; }
+.ibio-zia-records:before { content: "\f2e1"; }
+.ibio-ziggo:before { content: "\f2e2"; }
+.ibio-zinio:before { content: "\f2e3"; }
+.ibio-zipmessage:before { content: "\f2e4"; }
+.ibio-zoho-campaigns:before { content: "\f2e5"; }
+.ibio-zoom:before { content: "\f2e6"; }
+.ibio-zumba:before { content: "\f2e7"; }
+.ibio-zvuk:before { content: "\f2e8"; }
