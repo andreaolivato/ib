@@ -4044,12 +4044,12 @@
 
 @font-face {
   font-family: "iconsbio2";
-  src: url("./iconsbio2_8f7e5c925b5d4561b9fe471edc573f87.eot");
-  src: url("./iconsbio2_8f7e5c925b5d4561b9fe471edc573f87.eot?#iefix") format("embedded-opentype"),
-       url("./iconsbio2_8f7e5c925b5d4561b9fe471edc573f87.woff2") format("woff2"),
-       url("./iconsbio2_8f7e5c925b5d4561b9fe471edc573f87.woff") format("woff"),
-       url("./iconsbio2_8f7e5c925b5d4561b9fe471edc573f87.ttf") format("truetype"),
-       url("./iconsbio2_8f7e5c925b5d4561b9fe471edc573f87.svg#iconsbio2") format("svg");
+  src: url("./iconsbio2_57a4d1eb7e2a0cd295d3cd06aa22bc1e.eot");
+  src: url("./iconsbio2_57a4d1eb7e2a0cd295d3cd06aa22bc1e.eot?#iefix") format("embedded-opentype"),
+       url("./iconsbio2_57a4d1eb7e2a0cd295d3cd06aa22bc1e.woff2") format("woff2"),
+       url("./iconsbio2_57a4d1eb7e2a0cd295d3cd06aa22bc1e.woff") format("woff"),
+       url("./iconsbio2_57a4d1eb7e2a0cd295d3cd06aa22bc1e.ttf") format("truetype"),
+       url("./iconsbio2_57a4d1eb7e2a0cd295d3cd06aa22bc1e.svg#iconsbio2") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -4057,7 +4057,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "iconsbio2";
-    src: url("./iconsbio2_8f7e5c925b5d4561b9fe471edc573f87.svg#iconsbio2") format("svg");
+    src: url("./iconsbio2_57a4d1eb7e2a0cd295d3cd06aa22bc1e.svg#iconsbio2") format("svg");
   }
 }
 
@@ -4070,6 +4070,7 @@
 .ibio-activecampaign:before,
 .ibio-activision:before,
 .ibio-advisorycloud:before,
+.ibio-airchat:before,
 .ibio-alleventsin:before,
 .ibio-alltrails:before,
 .ibio-aluacom:before,
@@ -4141,6 +4142,7 @@
 .ibio-five-rise-records:before,
 .ibio-flo:before,
 .ibio-fluentcrm:before,
+.ibio-fortnite:before,
 .ibio-freshcut:before,
 .ibio-friendtok:before,
 .ibio-funanl:before,
@@ -4207,6 +4209,7 @@
 .ibio-mercadopago:before,
 .ibio-michaelscom:before,
 .ibio-midjourney:before,
+.ibio-mieuxenseigner:before,
 .ibio-minecraftwiki:before,
 .ibio-miningpoolstats:before,
 .ibio-mipicco:before,
@@ -4355,6 +4358,7 @@
 .ibio-shogun-audio:before,
 .ibio-shop-pbs:before,
 .ibio-shop24direct:before,
+.ibio-shoplookio:before,
 .ibio-shopmy:before,
 .ibio-shoppercom:before,
 .ibio-shoppingat:before,
@@ -4481,6 +4485,7 @@
 .ibio-trackdrip:before,
 .ibio-trackitdown:before,
 .ibio-trakteer:before,
+.ibio-transfermarkt:before,
 .ibio-transgressive-records:before,
 .ibio-trax-magazine:before,
 .ibio-tribel:before,
@@ -4617,6 +4622,7 @@
 .ibio-activecampaign:before { content: "\f101"; }
 .ibio-activision:before { content: "\f102"; }
 .ibio-advisorycloud:before { content: "\f103"; }
+.ibio-airchat:before { content: "\f316"; }
 .ibio-alleventsin:before { content: "\f2f9"; }
 .ibio-alltrails:before { content: "\f104"; }
 .ibio-aluacom:before { content: "\f30a"; }
@@ -4688,6 +4694,7 @@
 .ibio-five-rise-records:before { content: "\f13a"; }
 .ibio-flo:before { content: "\f13b"; }
 .ibio-fluentcrm:before { content: "\f30c"; }
+.ibio-fortnite:before { content: "\f317"; }
 .ibio-freshcut:before { content: "\f13c"; }
 .ibio-friendtok:before { content: "\f13d"; }
 .ibio-funanl:before { content: "\f13e"; }
@@ -4754,6 +4761,7 @@
 .ibio-mercadopago:before { content: "\f176"; }
 .ibio-michaelscom:before { content: "\f30e"; }
 .ibio-midjourney:before { content: "\f177"; }
+.ibio-mieuxenseigner:before { content: "\f318"; }
 .ibio-minecraftwiki:before { content: "\f304"; }
 .ibio-miningpoolstats:before { content: "\f178"; }
 .ibio-mipicco:before { content: "\f179"; }
@@ -4902,6 +4910,7 @@
 .ibio-shogun-audio:before { content: "\f1fc"; }
 .ibio-shop-pbs:before { content: "\f1fd"; }
 .ibio-shop24direct:before { content: "\f1fe"; }
+.ibio-shoplookio:before { content: "\f319"; }
 .ibio-shopmy:before { content: "\f1ff"; }
 .ibio-shoppercom:before { content: "\f200"; }
 .ibio-shoppingat:before { content: "\f201"; }
@@ -5028,6 +5037,7 @@
 .ibio-trackdrip:before { content: "\f276"; }
 .ibio-trackitdown:before { content: "\f277"; }
 .ibio-trakteer:before { content: "\f314"; }
+.ibio-transfermarkt:before { content: "\f31a"; }
 .ibio-transgressive-records:before { content: "\f278"; }
 .ibio-trax-magazine:before { content: "\f279"; }
 .ibio-tribel:before { content: "\f27a"; }
