@@ -4044,12 +4044,12 @@
 
 @font-face {
   font-family: "iconsbio2";
-  src: url("./iconsbio2_57a4d1eb7e2a0cd295d3cd06aa22bc1e.eot");
-  src: url("./iconsbio2_57a4d1eb7e2a0cd295d3cd06aa22bc1e.eot?#iefix") format("embedded-opentype"),
-       url("./iconsbio2_57a4d1eb7e2a0cd295d3cd06aa22bc1e.woff2") format("woff2"),
-       url("./iconsbio2_57a4d1eb7e2a0cd295d3cd06aa22bc1e.woff") format("woff"),
-       url("./iconsbio2_57a4d1eb7e2a0cd295d3cd06aa22bc1e.ttf") format("truetype"),
-       url("./iconsbio2_57a4d1eb7e2a0cd295d3cd06aa22bc1e.svg#iconsbio2") format("svg");
+  src: url("./iconsbio2_1f0a4fc092bf3c3c5715db01d7fcb7cb.eot");
+  src: url("./iconsbio2_1f0a4fc092bf3c3c5715db01d7fcb7cb.eot?#iefix") format("embedded-opentype"),
+       url("./iconsbio2_1f0a4fc092bf3c3c5715db01d7fcb7cb.woff2") format("woff2"),
+       url("./iconsbio2_1f0a4fc092bf3c3c5715db01d7fcb7cb.woff") format("woff"),
+       url("./iconsbio2_1f0a4fc092bf3c3c5715db01d7fcb7cb.ttf") format("truetype"),
+       url("./iconsbio2_1f0a4fc092bf3c3c5715db01d7fcb7cb.svg#iconsbio2") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -4057,7 +4057,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "iconsbio2";
-    src: url("./iconsbio2_57a4d1eb7e2a0cd295d3cd06aa22bc1e.svg#iconsbio2") format("svg");
+    src: url("./iconsbio2_1f0a4fc092bf3c3c5715db01d7fcb7cb.svg#iconsbio2") format("svg");
   }
 }
 
@@ -4106,6 +4106,7 @@
 .ibio-campaignmonitor:before,
 .ibio-capcut:before,
 .ibio-channelio:before,
+.ibio-cifra:before,
 .ibio-clickasnap:before,
 .ibio-cohostorg:before,
 .ibio-concertarchives:before,
@@ -4178,6 +4179,7 @@
 .ibio-joinentre:before,
 .ibio-jooxmusic:before,
 .ibio-kickstreaming:before,
+.ibio-kindle:before,
 .ibio-kivaorg:before,
 .ibio-kkbb:before,
 .ibio-klaviyo:before,
@@ -4193,6 +4195,7 @@
 .ibio-leetcode:before,
 .ibio-lemon8:before,
 .ibio-lemonsqueezy:before,
+.ibio-leonardoai:before,
 .ibio-liberapay:before,
 .ibio-linkme:before,
 .ibio-livechat:before,
@@ -4346,6 +4349,7 @@
 .ibio-sendernet:before,
 .ibio-sendfox:before,
 .ibio-sendinblue:before,
+.ibio-sendpulse:before,
 .ibio-sendx:before,
 .ibio-senja:before,
 .ibio-serializd:before,
@@ -4658,6 +4662,7 @@
 .ibio-campaignmonitor:before { content: "\f2f7"; }
 .ibio-capcut:before { content: "\f11b"; }
 .ibio-channelio:before { content: "\f11c"; }
+.ibio-cifra:before { content: "\f31b"; }
 .ibio-clickasnap:before { content: "\f11d"; }
 .ibio-cohostorg:before { content: "\f11e"; }
 .ibio-concertarchives:before { content: "\f11f"; }
@@ -4730,6 +4735,7 @@
 .ibio-joinentre:before { content: "\f158"; }
 .ibio-jooxmusic:before { content: "\f159"; }
 .ibio-kickstreaming:before { content: "\f15a"; }
+.ibio-kindle:before { content: "\f31c"; }
 .ibio-kivaorg:before { content: "\f15b"; }
 .ibio-kkbb:before { content: "\f15c"; }
 .ibio-klaviyo:before { content: "\f15d"; }
@@ -4745,6 +4751,7 @@
 .ibio-leetcode:before { content: "\f167"; }
 .ibio-lemon8:before { content: "\f168"; }
 .ibio-lemonsqueezy:before { content: "\f169"; }
+.ibio-leonardoai:before { content: "\f31d"; }
 .ibio-liberapay:before { content: "\f16a"; }
 .ibio-linkme:before { content: "\f16b"; }
 .ibio-livechat:before { content: "\f16c"; }
@@ -4898,6 +4905,7 @@
 .ibio-sendernet:before { content: "\f1f2"; }
 .ibio-sendfox:before { content: "\f1f3"; }
 .ibio-sendinblue:before { content: "\f1f4"; }
+.ibio-sendpulse:before { content: "\f31e"; }
 .ibio-sendx:before { content: "\f2f8"; }
 .ibio-senja:before { content: "\f311"; }
 .ibio-serializd:before { content: "\f1f5"; }
