@@ -4044,12 +4044,12 @@
 
 @font-face {
   font-family: "iconsbio2";
-  src: url("./iconsbio2_04548696c03fc91611e207076015f90d.eot");
-  src: url("./iconsbio2_04548696c03fc91611e207076015f90d.eot?#iefix") format("embedded-opentype"),
-       url("./iconsbio2_04548696c03fc91611e207076015f90d.woff2") format("woff2"),
-       url("./iconsbio2_04548696c03fc91611e207076015f90d.woff") format("woff"),
-       url("./iconsbio2_04548696c03fc91611e207076015f90d.ttf") format("truetype"),
-       url("./iconsbio2_04548696c03fc91611e207076015f90d.svg#iconsbio2") format("svg");
+  src: url("./iconsbio2_74b800163de55cee3a81d34a9b6ac62f.eot");
+  src: url("./iconsbio2_74b800163de55cee3a81d34a9b6ac62f.eot?#iefix") format("embedded-opentype"),
+       url("./iconsbio2_74b800163de55cee3a81d34a9b6ac62f.woff2") format("woff2"),
+       url("./iconsbio2_74b800163de55cee3a81d34a9b6ac62f.woff") format("woff"),
+       url("./iconsbio2_74b800163de55cee3a81d34a9b6ac62f.ttf") format("truetype"),
+       url("./iconsbio2_74b800163de55cee3a81d34a9b6ac62f.svg#iconsbio2") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -4057,7 +4057,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "iconsbio2";
-    src: url("./iconsbio2_04548696c03fc91611e207076015f90d.svg#iconsbio2") format("svg");
+    src: url("./iconsbio2_74b800163de55cee3a81d34a9b6ac62f.svg#iconsbio2") format("svg");
   }
 }
 
@@ -4582,6 +4582,7 @@
 .ibio-wildthing-records-store:before,
 .ibio-wink:before,
 .ibio-winylownia:before,
+.ibio-wise:before,
 .ibio-wishtender:before,
 .ibio-woodstock:before,
 .ibio-world-circuit:before,
@@ -5147,6 +5148,7 @@
 .ibio-wildthing-records-store:before { content: "\f2c6"; }
 .ibio-wink:before { content: "\f2c7"; }
 .ibio-winylownia:before { content: "\f2c8"; }
+.ibio-wise:before { content: "\f328"; }
 .ibio-wishtender:before { content: "\f2c9"; }
 .ibio-woodstock:before { content: "\f2ca"; }
 .ibio-world-circuit:before { content: "\f2cb"; }
