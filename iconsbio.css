@@ -4,12 +4,12 @@
 
 @font-face {
   font-family: "iconsbio1";
-  src: url("./iconsbio1_16c25d453cbb5a4784deb1d9d1188eb9.eot");
-  src: url("./iconsbio1_16c25d453cbb5a4784deb1d9d1188eb9.eot?#iefix") format("embedded-opentype"),
-       url("./iconsbio1_16c25d453cbb5a4784deb1d9d1188eb9.woff2") format("woff2"),
-       url("./iconsbio1_16c25d453cbb5a4784deb1d9d1188eb9.woff") format("woff"),
-       url("./iconsbio1_16c25d453cbb5a4784deb1d9d1188eb9.ttf") format("truetype"),
-       url("./iconsbio1_16c25d453cbb5a4784deb1d9d1188eb9.svg#iconsbio1") format("svg");
+  src: url("./iconsbio1_3384ab2a3f8bd680b21eff9a2943bea8.eot");
+  src: url("./iconsbio1_3384ab2a3f8bd680b21eff9a2943bea8.eot?#iefix") format("embedded-opentype"),
+       url("./iconsbio1_3384ab2a3f8bd680b21eff9a2943bea8.woff2") format("woff2"),
+       url("./iconsbio1_3384ab2a3f8bd680b21eff9a2943bea8.woff") format("woff"),
+       url("./iconsbio1_3384ab2a3f8bd680b21eff9a2943bea8.ttf") format("truetype"),
+       url("./iconsbio1_3384ab2a3f8bd680b21eff9a2943bea8.svg#iconsbio1") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -17,7 +17,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "iconsbio1";
-    src: url("./iconsbio1_16c25d453cbb5a4784deb1d9d1188eb9.svg#iconsbio1") format("svg");
+    src: url("./iconsbio1_3384ab2a3f8bd680b21eff9a2943bea8.svg#iconsbio1") format("svg");
   }
 }
 
@@ -4044,12 +4044,12 @@
 
 @font-face {
   font-family: "iconsbio2";
-  src: url("./iconsbio2_27a4fabe8a2ff6fbaaf65fa025e3d223.eot");
-  src: url("./iconsbio2_27a4fabe8a2ff6fbaaf65fa025e3d223.eot?#iefix") format("embedded-opentype"),
-       url("./iconsbio2_27a4fabe8a2ff6fbaaf65fa025e3d223.woff2") format("woff2"),
-       url("./iconsbio2_27a4fabe8a2ff6fbaaf65fa025e3d223.woff") format("woff"),
-       url("./iconsbio2_27a4fabe8a2ff6fbaaf65fa025e3d223.ttf") format("truetype"),
-       url("./iconsbio2_27a4fabe8a2ff6fbaaf65fa025e3d223.svg#iconsbio2") format("svg");
+  src: url("./iconsbio2_04548696c03fc91611e207076015f90d.eot");
+  src: url("./iconsbio2_04548696c03fc91611e207076015f90d.eot?#iefix") format("embedded-opentype"),
+       url("./iconsbio2_04548696c03fc91611e207076015f90d.woff2") format("woff2"),
+       url("./iconsbio2_04548696c03fc91611e207076015f90d.woff") format("woff"),
+       url("./iconsbio2_04548696c03fc91611e207076015f90d.ttf") format("truetype"),
+       url("./iconsbio2_04548696c03fc91611e207076015f90d.svg#iconsbio2") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -4057,7 +4057,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "iconsbio2";
-    src: url("./iconsbio2_27a4fabe8a2ff6fbaaf65fa025e3d223.svg#iconsbio2") format("svg");
+    src: url("./iconsbio2_04548696c03fc91611e207076015f90d.svg#iconsbio2") format("svg");
   }
 }
 
@@ -4098,8 +4098,10 @@
 .ibio-booksirens:before,
 .ibio-bookwyrm:before,
 .ibio-bookyogaretreat:before,
+.ibio-boostyto:before,
 .ibio-boothpm:before,
 .ibio-brevo:before,
+.ibio-btclighting:before,
 .ibio-byfans:before,
 .ibio-cafecito:before,
 .ibio-calaxy:before,
@@ -4173,6 +4175,7 @@
 .ibio-igstory:before,
 .ibio-igsync:before,
 .ibio-inkedgaming:before,
+.ibio-inkitt:before,
 .ibio-integrately:before,
 .ibio-invitationcodes:before,
 .ibio-irc:before,
@@ -4573,6 +4576,7 @@
 .ibio-weverse:before,
 .ibio-wh-smith:before,
 .ibio-what-records:before,
+.ibio-whatsappgroup:before,
 .ibio-wichita-recordings:before,
 .ibio-wikiloc:before,
 .ibio-wildthing-records-store:before,
@@ -4659,8 +4663,10 @@
 .ibio-booksirens:before { content: "\f302"; }
 .ibio-bookwyrm:before { content: "\f115"; }
 .ibio-bookyogaretreat:before { content: "\f116"; }
+.ibio-boostyto:before { content: "\f324"; }
 .ibio-boothpm:before { content: "\f117"; }
 .ibio-brevo:before { content: "\f118"; }
+.ibio-btclighting:before { content: "\f325"; }
 .ibio-byfans:before { content: "\f119"; }
 .ibio-cafecito:before { content: "\f2ed"; }
 .ibio-calaxy:before { content: "\f11a"; }
@@ -4734,6 +4740,7 @@
 .ibio-igstory:before { content: "\f150"; }
 .ibio-igsync:before { content: "\f151"; }
 .ibio-inkedgaming:before { content: "\f152"; }
+.ibio-inkitt:before { content: "\f326"; }
 .ibio-integrately:before { content: "\f153"; }
 .ibio-invitationcodes:before { content: "\f154"; }
 .ibio-irc:before { content: "\f155"; }
@@ -5134,6 +5141,7 @@
 .ibio-weverse:before { content: "\f2c1"; }
 .ibio-wh-smith:before { content: "\f2c2"; }
 .ibio-what-records:before { content: "\f2c3"; }
+.ibio-whatsappgroup:before { content: "\f327"; }
 .ibio-wichita-recordings:before { content: "\f2c4"; }
 .ibio-wikiloc:before { content: "\f2c5"; }
 .ibio-wildthing-records-store:before { content: "\f2c6"; }
