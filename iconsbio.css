@@ -4044,12 +4044,12 @@
 
 @font-face {
   font-family: "iconsbio2";
-  src: url("./iconsbio2_74b800163de55cee3a81d34a9b6ac62f.eot");
-  src: url("./iconsbio2_74b800163de55cee3a81d34a9b6ac62f.eot?#iefix") format("embedded-opentype"),
-       url("./iconsbio2_74b800163de55cee3a81d34a9b6ac62f.woff2") format("woff2"),
-       url("./iconsbio2_74b800163de55cee3a81d34a9b6ac62f.woff") format("woff"),
-       url("./iconsbio2_74b800163de55cee3a81d34a9b6ac62f.ttf") format("truetype"),
-       url("./iconsbio2_74b800163de55cee3a81d34a9b6ac62f.svg#iconsbio2") format("svg");
+  src: url("./iconsbio2_017e7c25edd634cf3eff497aa94f8198.eot");
+  src: url("./iconsbio2_017e7c25edd634cf3eff497aa94f8198.eot?#iefix") format("embedded-opentype"),
+       url("./iconsbio2_017e7c25edd634cf3eff497aa94f8198.woff2") format("woff2"),
+       url("./iconsbio2_017e7c25edd634cf3eff497aa94f8198.woff") format("woff"),
+       url("./iconsbio2_017e7c25edd634cf3eff497aa94f8198.ttf") format("truetype"),
+       url("./iconsbio2_017e7c25edd634cf3eff497aa94f8198.svg#iconsbio2") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -4057,7 +4057,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "iconsbio2";
-    src: url("./iconsbio2_74b800163de55cee3a81d34a9b6ac62f.svg#iconsbio2") format("svg");
+    src: url("./iconsbio2_017e7c25edd634cf3eff497aa94f8198.svg#iconsbio2") format("svg");
   }
 }
 
@@ -4119,10 +4119,13 @@
 .ibio-cryptocom:before,
 .ibio-curated:before,
 .ibio-cyberimpact:before,
+.ibio-dailyhunt:before,
 .ibio-deliveroo:before,
 .ibio-dhgate:before,
 .ibio-diamondapp:before,
 .ibio-digistore24:before,
+.ibio-dnldnft:before,
+.ibio-dogecoin:before,
 .ibio-domestika:before,
 .ibio-doneru:before,
 .ibio-doordash:before,
@@ -4326,6 +4329,7 @@
 .ibio-rillbar:before,
 .ibio-rinse-fm:before,
 .ibio-riotgames:before,
+.ibio-ripple:before,
 .ibio-rise-records:before,
 .ibio-roadrunner-records-store:before,
 .ibio-rock-action-records:before,
@@ -4366,6 +4370,7 @@
 .ibio-sharptone:before,
 .ibio-shecodesio:before,
 .ibio-sheet-music-plus:before,
+.ibio-shibainucoin:before,
 .ibio-shogun-audio:before,
 .ibio-shop-pbs:before,
 .ibio-shop24direct:before,
@@ -4502,6 +4507,7 @@
 .ibio-trax-magazine:before,
 .ibio-tribel:before,
 .ibio-tricatel:before,
+.ibio-trontrx:before,
 .ibio-tryhackme:before,
 .ibio-tubi:before,
 .ibio-tuneafrique:before,
@@ -4685,10 +4691,13 @@
 .ibio-cryptocom:before { content: "\f124"; }
 .ibio-curated:before { content: "\f2f3"; }
 .ibio-cyberimpact:before { content: "\f322"; }
+.ibio-dailyhunt:before { content: "\f329"; }
 .ibio-deliveroo:before { content: "\f125"; }
 .ibio-dhgate:before { content: "\f126"; }
 .ibio-diamondapp:before { content: "\f127"; }
 .ibio-digistore24:before { content: "\f128"; }
+.ibio-dnldnft:before { content: "\f32a"; }
+.ibio-dogecoin:before { content: "\f32b"; }
 .ibio-domestika:before { content: "\f129"; }
 .ibio-doneru:before { content: "\f12a"; }
 .ibio-doordash:before { content: "\f12b"; }
@@ -4892,6 +4901,7 @@
 .ibio-rillbar:before { content: "\f1d5"; }
 .ibio-rinse-fm:before { content: "\f1d6"; }
 .ibio-riotgames:before { content: "\f1d7"; }
+.ibio-ripple:before { content: "\f32c"; }
 .ibio-rise-records:before { content: "\f1d8"; }
 .ibio-roadrunner-records-store:before { content: "\f1d9"; }
 .ibio-rock-action-records:before { content: "\f1da"; }
@@ -4932,6 +4942,7 @@
 .ibio-sharptone:before { content: "\f1f9"; }
 .ibio-shecodesio:before { content: "\f1fa"; }
 .ibio-sheet-music-plus:before { content: "\f1fb"; }
+.ibio-shibainucoin:before { content: "\f32d"; }
 .ibio-shogun-audio:before { content: "\f1fc"; }
 .ibio-shop-pbs:before { content: "\f1fd"; }
 .ibio-shop24direct:before { content: "\f1fe"; }
@@ -5068,6 +5079,7 @@
 .ibio-trax-magazine:before { content: "\f279"; }
 .ibio-tribel:before { content: "\f27a"; }
 .ibio-tricatel:before { content: "\f27b"; }
+.ibio-trontrx:before { content: "\f32e"; }
 .ibio-tryhackme:before { content: "\f27c"; }
 .ibio-tubi:before { content: "\f27d"; }
 .ibio-tuneafrique:before { content: "\f27e"; }
