@@ -4044,12 +4044,12 @@
 
 @font-face {
   font-family: "iconsbio2";
-  src: url("./iconsbio2_017e7c25edd634cf3eff497aa94f8198.eot");
-  src: url("./iconsbio2_017e7c25edd634cf3eff497aa94f8198.eot?#iefix") format("embedded-opentype"),
-       url("./iconsbio2_017e7c25edd634cf3eff497aa94f8198.woff2") format("woff2"),
-       url("./iconsbio2_017e7c25edd634cf3eff497aa94f8198.woff") format("woff"),
-       url("./iconsbio2_017e7c25edd634cf3eff497aa94f8198.ttf") format("truetype"),
-       url("./iconsbio2_017e7c25edd634cf3eff497aa94f8198.svg#iconsbio2") format("svg");
+  src: url("./iconsbio2_54216c6b53f5bf23764af9000a59e0f8.eot");
+  src: url("./iconsbio2_54216c6b53f5bf23764af9000a59e0f8.eot?#iefix") format("embedded-opentype"),
+       url("./iconsbio2_54216c6b53f5bf23764af9000a59e0f8.woff2") format("woff2"),
+       url("./iconsbio2_54216c6b53f5bf23764af9000a59e0f8.woff") format("woff"),
+       url("./iconsbio2_54216c6b53f5bf23764af9000a59e0f8.ttf") format("truetype"),
+       url("./iconsbio2_54216c6b53f5bf23764af9000a59e0f8.svg#iconsbio2") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -4057,7 +4057,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "iconsbio2";
-    src: url("./iconsbio2_017e7c25edd634cf3eff497aa94f8198.svg#iconsbio2") format("svg");
+    src: url("./iconsbio2_54216c6b53f5bf23764af9000a59e0f8.svg#iconsbio2") format("svg");
   }
 }
 
@@ -4323,6 +4323,7 @@
 .ibio-recroom:before,
 .ibio-red-bull-records-store:before,
 .ibio-red-eye-records:before,
+.ibio-reetail_320:before,
 .ibio-renaissanceapp:before,
 .ibio-rhein-konzerte:before,
 .ibio-rhythm-merch:before,
@@ -4895,6 +4896,7 @@
 .ibio-recroom:before { content: "\f2f1"; }
 .ibio-red-bull-records-store:before { content: "\f1d1"; }
 .ibio-red-eye-records:before { content: "\f1d2"; }
+.ibio-reetail_320:before { content: "\f32f"; }
 .ibio-renaissanceapp:before { content: "\f310"; }
 .ibio-rhein-konzerte:before { content: "\f1d3"; }
 .ibio-rhythm-merch:before { content: "\f1d4"; }
