@@ -4044,12 +4044,12 @@
 
 @font-face {
   font-family: "iconsbio2";
-  src: url("./iconsbio2_1f7097cbb082f1a78337c84d6089a4b7.eot");
-  src: url("./iconsbio2_1f7097cbb082f1a78337c84d6089a4b7.eot?#iefix") format("embedded-opentype"),
-       url("./iconsbio2_1f7097cbb082f1a78337c84d6089a4b7.woff2") format("woff2"),
-       url("./iconsbio2_1f7097cbb082f1a78337c84d6089a4b7.woff") format("woff"),
-       url("./iconsbio2_1f7097cbb082f1a78337c84d6089a4b7.ttf") format("truetype"),
-       url("./iconsbio2_1f7097cbb082f1a78337c84d6089a4b7.svg#iconsbio2") format("svg");
+  src: url("./iconsbio2_32ef98a0afa999dd5f7886860f9c82c1.eot");
+  src: url("./iconsbio2_32ef98a0afa999dd5f7886860f9c82c1.eot?#iefix") format("embedded-opentype"),
+       url("./iconsbio2_32ef98a0afa999dd5f7886860f9c82c1.woff2") format("woff2"),
+       url("./iconsbio2_32ef98a0afa999dd5f7886860f9c82c1.woff") format("woff"),
+       url("./iconsbio2_32ef98a0afa999dd5f7886860f9c82c1.ttf") format("truetype"),
+       url("./iconsbio2_32ef98a0afa999dd5f7886860f9c82c1.svg#iconsbio2") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -4057,7 +4057,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "iconsbio2";
-    src: url("./iconsbio2_1f7097cbb082f1a78337c84d6089a4b7.svg#iconsbio2") format("svg");
+    src: url("./iconsbio2_32ef98a0afa999dd5f7886860f9c82c1.svg#iconsbio2") format("svg");
   }
 }
 
@@ -4145,6 +4145,7 @@
 .ibio-fambase:before,
 .ibio-fanpage:before,
 .ibio-fantia:before,
+.ibio-farcasterxyz:before,
 .ibio-fineartamerica:before,
 .ibio-five-rise-records:before,
 .ibio-flo:before,
@@ -4197,12 +4198,14 @@
 .ibio-konectgg:before,
 .ibio-kworkcom:before,
 .ibio-langit-musik:before,
+.ibio-lapse:before,
 .ibio-lattescnpq:before,
 .ibio-learnworlds:before,
 .ibio-leboncoin:before,
 .ibio-leetcode:before,
 .ibio-lemon8:before,
 .ibio-lemonsqueezy:before,
+.ibio-lensxyz:before,
 .ibio-leonardoai:before,
 .ibio-liberapay:before,
 .ibio-linkme:before,
@@ -4394,6 +4397,7 @@
 .ibio-skip-the-dishes:before,
 .ibio-sklepzmuzykapl:before,
 .ibio-skoobe:before,
+.ibio-skool:before,
 .ibio-sky-go:before,
 .ibio-sky-tv:before,
 .ibio-slick:before,
@@ -4534,6 +4538,7 @@
 .ibio-unfd:before,
 .ibio-unlokme:before,
 .ibio-unser-ding:before,
+.ibio-unvale:before,
 .ibio-upc-tv:before,
 .ibio-uppwind-records:before,
 .ibio-uproxx:before,
@@ -4567,6 +4572,7 @@
 .ibio-vuulm:before,
 .ibio-vvvid:before,
 .ibio-wallapop:before,
+.ibio-walletofsatoshi:before,
 .ibio-walmart:before,
 .ibio-ward-records:before,
 .ibio-warner-music:before,
@@ -4718,6 +4724,7 @@
 .ibio-fambase:before { content: "\f2fb"; }
 .ibio-fanpage:before { content: "\f137"; }
 .ibio-fantia:before { content: "\f138"; }
+.ibio-farcasterxyz:before { content: "\f331"; }
 .ibio-fineartamerica:before { content: "\f139"; }
 .ibio-five-rise-records:before { content: "\f13a"; }
 .ibio-flo:before { content: "\f13b"; }
@@ -4770,12 +4777,14 @@
 .ibio-konectgg:before { content: "\f161"; }
 .ibio-kworkcom:before { content: "\f162"; }
 .ibio-langit-musik:before { content: "\f163"; }
+.ibio-lapse:before { content: "\f332"; }
 .ibio-lattescnpq:before { content: "\f164"; }
 .ibio-learnworlds:before { content: "\f165"; }
 .ibio-leboncoin:before { content: "\f166"; }
 .ibio-leetcode:before { content: "\f167"; }
 .ibio-lemon8:before { content: "\f168"; }
 .ibio-lemonsqueezy:before { content: "\f169"; }
+.ibio-lensxyz:before { content: "\f333"; }
 .ibio-leonardoai:before { content: "\f31d"; }
 .ibio-liberapay:before { content: "\f16a"; }
 .ibio-linkme:before { content: "\f16b"; }
@@ -4967,6 +4976,7 @@
 .ibio-skip-the-dishes:before { content: "\f20e"; }
 .ibio-sklepzmuzykapl:before { content: "\f20f"; }
 .ibio-skoobe:before { content: "\f210"; }
+.ibio-skool:before { content: "\f334"; }
 .ibio-sky-go:before { content: "\f211"; }
 .ibio-sky-tv:before { content: "\f212"; }
 .ibio-slick:before { content: "\f213"; }
@@ -5107,6 +5117,7 @@
 .ibio-unfd:before { content: "\f292"; }
 .ibio-unlokme:before { content: "\f293"; }
 .ibio-unser-ding:before { content: "\f294"; }
+.ibio-unvale:before { content: "\f335"; }
 .ibio-upc-tv:before { content: "\f295"; }
 .ibio-uppwind-records:before { content: "\f296"; }
 .ibio-uproxx:before { content: "\f297"; }
@@ -5140,6 +5151,7 @@
 .ibio-vuulm:before { content: "\f2b2"; }
 .ibio-vvvid:before { content: "\f2b3"; }
 .ibio-wallapop:before { content: "\f2b4"; }
+.ibio-walletofsatoshi:before { content: "\f336"; }
 .ibio-walmart:before { content: "\f2b5"; }
 .ibio-ward-records:before { content: "\f2b6"; }
 .ibio-warner-music:before { content: "\f2b7"; }
