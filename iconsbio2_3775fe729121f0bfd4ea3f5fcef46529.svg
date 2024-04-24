@@ -5,7 +5,7 @@
 -->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
 <metadata>
-Created by FontForge 20230101 at Wed Apr 24 20:00:12 2024
+Created by FontForge 20230101 at Wed Apr 24 20:11:20 2024
  By Andrea Olivato
 Icons.bio
 </metadata>
@@ -22,7 +22,7 @@ Icons.bio
     bbox="-32 -64.2936 622.289 448.399"
     underline-thickness="25.6"
     underline-position="-51.2"
-    unicode-range="U+0020-F339"
+    unicode-range="U+0020-F33B"
   />
     <missing-glyph />
     <glyph glyph-name="space" unicode=" " horiz-adv-x="200" 
@@ -1531,6 +1531,10 @@ s-3.37695 28.2695 -10.1299 38.8711c-6.75391 10.6016 -18.4541 16.0195 -35.1807 16
 d="M194.972 164.571v54.8574h122.057v-54.8574h-122.057zM389.942 164.571v54.8574h122.058v-54.8574h-122.058zM0 164.571v54.8574h122.058v-54.8574h-122.058z" />
     <glyph glyph-name="linesolid" unicode="&#xf339;" 
 d="M512.571 218.857v-54.8574h-512.571v54.8574h512.571z" />
+    <glyph glyph-name="linesolidthicker" unicode="&#xf33a;" 
+d="M512.229 233.714h0.114258v-77.3711h-512.571v77.3711h512.457z" />
+    <glyph glyph-name="linesolidthickest" unicode="&#xf33b;" 
+d="M512.914 262.857h-0.114258v-142.857h-512.571v142.857h512.686z" />
     <glyph glyph-name="linkme" unicode="&#xf16b;" 
 d="M418.944 448c51.4355 0 93.0557 -41.6201 93.0557 -93.0557v-325.889c0 -51.4355 -41.6201 -93.0557 -93.0557 -93.0557h-325.889c-51.4355 0 -93.0557 41.6201 -93.0557 92.9766v165.771l46.96 52.5352c1.25586 1.41406 2.82617 2.5127 4.55371 3.1416
 c5.41895 2.04102 10.3662 -0.47168 10.9941 -0.864258l0.0791016 -0.078125c2.74805 -1.57031 4.79004 -4.08398 5.65332 -7.14648c0.235352 -0.942383 0.392578 -1.96289 0.392578 -2.9834v-143.313h38.4004v89.2861c0 3.84766 0.62793 7.61719 2.04199 11.1504
