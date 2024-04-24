@@ -4044,12 +4044,12 @@
 
 @font-face {
   font-family: "iconsbio2";
-  src: url("./iconsbio2_f1213dfa819337063fcf5a9dcaa4db30.eot");
-  src: url("./iconsbio2_f1213dfa819337063fcf5a9dcaa4db30.eot?#iefix") format("embedded-opentype"),
-       url("./iconsbio2_f1213dfa819337063fcf5a9dcaa4db30.woff2") format("woff2"),
-       url("./iconsbio2_f1213dfa819337063fcf5a9dcaa4db30.woff") format("woff"),
-       url("./iconsbio2_f1213dfa819337063fcf5a9dcaa4db30.ttf") format("truetype"),
-       url("./iconsbio2_f1213dfa819337063fcf5a9dcaa4db30.svg#iconsbio2") format("svg");
+  src: url("./iconsbio2_f5cb480b59b9a2da798862cfd1ee5abb.eot");
+  src: url("./iconsbio2_f5cb480b59b9a2da798862cfd1ee5abb.eot?#iefix") format("embedded-opentype"),
+       url("./iconsbio2_f5cb480b59b9a2da798862cfd1ee5abb.woff2") format("woff2"),
+       url("./iconsbio2_f5cb480b59b9a2da798862cfd1ee5abb.woff") format("woff"),
+       url("./iconsbio2_f5cb480b59b9a2da798862cfd1ee5abb.ttf") format("truetype"),
+       url("./iconsbio2_f5cb480b59b9a2da798862cfd1ee5abb.svg#iconsbio2") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -4057,7 +4057,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "iconsbio2";
-    src: url("./iconsbio2_f1213dfa819337063fcf5a9dcaa4db30.svg#iconsbio2") format("svg");
+    src: url("./iconsbio2_f5cb480b59b9a2da798862cfd1ee5abb.svg#iconsbio2") format("svg");
   }
 }
 
@@ -4209,6 +4209,8 @@
 .ibio-lensxyz:before,
 .ibio-leonardoai:before,
 .ibio-liberapay:before,
+.ibio-linedashed:before,
+.ibio-linesolid:before,
 .ibio-linkme:before,
 .ibio-livechat:before,
 .ibio-lnkbio:before,
@@ -4789,6 +4791,8 @@
 .ibio-lensxyz:before { content: "\f333"; }
 .ibio-leonardoai:before { content: "\f31d"; }
 .ibio-liberapay:before { content: "\f16a"; }
+.ibio-linedashed:before { content: "\f338"; }
+.ibio-linesolid:before { content: "\f339"; }
 .ibio-linkme:before { content: "\f16b"; }
 .ibio-livechat:before { content: "\f16c"; }
 .ibio-lnkbio:before { content: "\f16d"; }
