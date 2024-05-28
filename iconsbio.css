@@ -4044,12 +4044,12 @@
 
 @font-face {
   font-family: "iconsbio2";
-  src: url("./iconsbio2_e4579be0361c40b82531c35745a0475e.eot");
-  src: url("./iconsbio2_e4579be0361c40b82531c35745a0475e.eot?#iefix") format("embedded-opentype"),
-       url("./iconsbio2_e4579be0361c40b82531c35745a0475e.woff2") format("woff2"),
-       url("./iconsbio2_e4579be0361c40b82531c35745a0475e.woff") format("woff"),
-       url("./iconsbio2_e4579be0361c40b82531c35745a0475e.ttf") format("truetype"),
-       url("./iconsbio2_e4579be0361c40b82531c35745a0475e.svg#iconsbio2") format("svg");
+  src: url("./iconsbio2_d78e0998b9fd9482f27d2303b3d167af.eot");
+  src: url("./iconsbio2_d78e0998b9fd9482f27d2303b3d167af.eot?#iefix") format("embedded-opentype"),
+       url("./iconsbio2_d78e0998b9fd9482f27d2303b3d167af.woff2") format("woff2"),
+       url("./iconsbio2_d78e0998b9fd9482f27d2303b3d167af.woff") format("woff"),
+       url("./iconsbio2_d78e0998b9fd9482f27d2303b3d167af.ttf") format("truetype"),
+       url("./iconsbio2_d78e0998b9fd9482f27d2303b3d167af.svg#iconsbio2") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -4057,7 +4057,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "iconsbio2";
-    src: url("./iconsbio2_e4579be0361c40b82531c35745a0475e.svg#iconsbio2") format("svg");
+    src: url("./iconsbio2_d78e0998b9fd9482f27d2303b3d167af.svg#iconsbio2") format("svg");
   }
 }
 
@@ -4116,6 +4116,7 @@
 .ibio-circlmobility:before,
 .ibio-clickasnap:before,
 .ibio-cohostorg:before,
+.ibio-commonninja:before,
 .ibio-concertarchives:before,
 .ibio-contracom:before,
 .ibio-convertkit:before,
@@ -4154,6 +4155,7 @@
 .ibio-farcasterxyz:before,
 .ibio-fineartamerica:before,
 .ibio-five-rise-records:before,
+.ibio-flipsnack:before,
 .ibio-flo:before,
 .ibio-fluentcrm:before,
 .ibio-fortnite:before,
@@ -4512,6 +4514,7 @@
 .ibio-ticketstreamcz:before,
 .ibio-tickettailor:before,
 .ibio-ticketweb:before,
+.ibio-tidio:before,
 .ibio-tidycal:before,
 .ibio-timetree:before,
 .ibio-tipmeinth:before,
@@ -4716,6 +4719,7 @@
 .ibio-circlmobility:before { content: "\f341"; }
 .ibio-clickasnap:before { content: "\f11d"; }
 .ibio-cohostorg:before { content: "\f11e"; }
+.ibio-commonninja:before { content: "\f34c"; }
 .ibio-concertarchives:before { content: "\f11f"; }
 .ibio-contracom:before { content: "\f120"; }
 .ibio-convertkit:before { content: "\f121"; }
@@ -4754,6 +4758,7 @@
 .ibio-farcasterxyz:before { content: "\f331"; }
 .ibio-fineartamerica:before { content: "\f139"; }
 .ibio-five-rise-records:before { content: "\f13a"; }
+.ibio-flipsnack:before { content: "\f34d"; }
 .ibio-flo:before { content: "\f13b"; }
 .ibio-fluentcrm:before { content: "\f30c"; }
 .ibio-fortnite:before { content: "\f317"; }
@@ -5112,6 +5117,7 @@
 .ibio-ticketstreamcz:before { content: "\f268"; }
 .ibio-tickettailor:before { content: "\f269"; }
 .ibio-ticketweb:before { content: "\f26a"; }
+.ibio-tidio:before { content: "\f34e"; }
 .ibio-tidycal:before { content: "\f26b"; }
 .ibio-timetree:before { content: "\f26c"; }
 .ibio-tipmeinth:before { content: "\f313"; }
