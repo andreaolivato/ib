@@ -4044,12 +4044,12 @@
 
 @font-face {
   font-family: "iconsbio2";
-  src: url("./iconsbio2_d78e0998b9fd9482f27d2303b3d167af.eot");
-  src: url("./iconsbio2_d78e0998b9fd9482f27d2303b3d167af.eot?#iefix") format("embedded-opentype"),
-       url("./iconsbio2_d78e0998b9fd9482f27d2303b3d167af.woff2") format("woff2"),
-       url("./iconsbio2_d78e0998b9fd9482f27d2303b3d167af.woff") format("woff"),
-       url("./iconsbio2_d78e0998b9fd9482f27d2303b3d167af.ttf") format("truetype"),
-       url("./iconsbio2_d78e0998b9fd9482f27d2303b3d167af.svg#iconsbio2") format("svg");
+  src: url("./iconsbio2_2f91f5e35ad2e936e892bc3d3d067869.eot");
+  src: url("./iconsbio2_2f91f5e35ad2e936e892bc3d3d067869.eot?#iefix") format("embedded-opentype"),
+       url("./iconsbio2_2f91f5e35ad2e936e892bc3d3d067869.woff2") format("woff2"),
+       url("./iconsbio2_2f91f5e35ad2e936e892bc3d3d067869.woff") format("woff"),
+       url("./iconsbio2_2f91f5e35ad2e936e892bc3d3d067869.ttf") format("truetype"),
+       url("./iconsbio2_2f91f5e35ad2e936e892bc3d3d067869.svg#iconsbio2") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -4057,7 +4057,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "iconsbio2";
-    src: url("./iconsbio2_d78e0998b9fd9482f27d2303b3d167af.svg#iconsbio2") format("svg");
+    src: url("./iconsbio2_2f91f5e35ad2e936e892bc3d3d067869.svg#iconsbio2") format("svg");
   }
 }
 
@@ -4494,6 +4494,7 @@
 .ibio-tematika:before,
 .ibio-temu:before,
 .ibio-terabox:before,
+.ibio-termsandconditions:before,
 .ibio-tesco:before,
 .ibio-testimonialto:before,
 .ibio-thaa-records:before,
@@ -4527,6 +4528,7 @@
 .ibio-top-j-records:before,
 .ibio-topshelf-records:before,
 .ibio-touchapp:before,
+.ibio-toutiao:before,
 .ibio-trackdrip:before,
 .ibio-trackitdown:before,
 .ibio-trakteer:before,
@@ -4602,6 +4604,8 @@
 .ibio-waterloo-records:before,
 .ibio-we-are-vinyl:before,
 .ibio-webofscience:before,
+.ibio-wechatchannels:before,
+.ibio-wedonthavetime:before,
 .ibio-weezevent:before,
 .ibio-weltbild:before,
 .ibio-wenod-records:before,
@@ -5097,6 +5101,7 @@
 .ibio-tematika:before { content: "\f256"; }
 .ibio-temu:before { content: "\f257"; }
 .ibio-terabox:before { content: "\f258"; }
+.ibio-termsandconditions:before { content: "\f34f"; }
 .ibio-tesco:before { content: "\f259"; }
 .ibio-testimonialto:before { content: "\f321"; }
 .ibio-thaa-records:before { content: "\f25a"; }
@@ -5130,6 +5135,7 @@
 .ibio-top-j-records:before { content: "\f273"; }
 .ibio-topshelf-records:before { content: "\f274"; }
 .ibio-touchapp:before { content: "\f275"; }
+.ibio-toutiao:before { content: "\f350"; }
 .ibio-trackdrip:before { content: "\f276"; }
 .ibio-trackitdown:before { content: "\f277"; }
 .ibio-trakteer:before { content: "\f314"; }
@@ -5205,6 +5211,8 @@
 .ibio-waterloo-records:before { content: "\f2b8"; }
 .ibio-we-are-vinyl:before { content: "\f2b9"; }
 .ibio-webofscience:before { content: "\f2ba"; }
+.ibio-wechatchannels:before { content: "\f351"; }
+.ibio-wedonthavetime:before { content: "\f352"; }
 .ibio-weezevent:before { content: "\f2bb"; }
 .ibio-weltbild:before { content: "\f2bc"; }
 .ibio-wenod-records:before { content: "\f2bd"; }
