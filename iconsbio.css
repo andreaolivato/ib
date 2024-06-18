@@ -4044,12 +4044,12 @@
 
 @font-face {
   font-family: "iconsbio2";
-  src: url("./iconsbio2_e1fdbbeccfb80324237c330aace08b70.eot");
-  src: url("./iconsbio2_e1fdbbeccfb80324237c330aace08b70.eot?#iefix") format("embedded-opentype"),
-       url("./iconsbio2_e1fdbbeccfb80324237c330aace08b70.woff2") format("woff2"),
-       url("./iconsbio2_e1fdbbeccfb80324237c330aace08b70.woff") format("woff"),
-       url("./iconsbio2_e1fdbbeccfb80324237c330aace08b70.ttf") format("truetype"),
-       url("./iconsbio2_e1fdbbeccfb80324237c330aace08b70.svg#iconsbio2") format("svg");
+  src: url("./iconsbio2_784ec043347305118048c6f03ba2e0e7.eot");
+  src: url("./iconsbio2_784ec043347305118048c6f03ba2e0e7.eot?#iefix") format("embedded-opentype"),
+       url("./iconsbio2_784ec043347305118048c6f03ba2e0e7.woff2") format("woff2"),
+       url("./iconsbio2_784ec043347305118048c6f03ba2e0e7.woff") format("woff"),
+       url("./iconsbio2_784ec043347305118048c6f03ba2e0e7.ttf") format("truetype"),
+       url("./iconsbio2_784ec043347305118048c6f03ba2e0e7.svg#iconsbio2") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -4057,7 +4057,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "iconsbio2";
-    src: url("./iconsbio2_e1fdbbeccfb80324237c330aace08b70.svg#iconsbio2") format("svg");
+    src: url("./iconsbio2_784ec043347305118048c6f03ba2e0e7.svg#iconsbio2") format("svg");
   }
 }
 
@@ -4074,6 +4074,7 @@
 .ibio-alleventsin:before,
 .ibio-alltrails:before,
 .ibio-aluacom:before,
+.ibio-amazingradio:before,
 .ibio-amazonwishlist:before,
 .ibio-anobii:before,
 .ibio-apple-books:before,
@@ -4111,6 +4112,7 @@
 .ibio-calaxy:before,
 .ibio-campaignmonitor:before,
 .ibio-capcut:before,
+.ibio-caraapp:before,
 .ibio-channelio:before,
 .ibio-cifra:before,
 .ibio-circlmobility:before,
@@ -4242,12 +4244,14 @@
 .ibio-mieuxenseigner:before,
 .ibio-minecraftwiki:before,
 .ibio-miningpoolstats:before,
+.ibio-miodottore-it:before,
 .ibio-mipicco:before,
 .ibio-mixxedfit:before,
 .ibio-moosend:before,
 .ibio-mspowerautomate:before,
 .ibio-mybrightwheel:before,
 .ibio-myfansse:before,
+.ibio-mywishlistonline:before,
 .ibio-namemc:before,
 .ibio-naverblog:before,
 .ibio-naversmartstore:before,
@@ -4312,6 +4316,7 @@
 .ibio-printablescom:before,
 .ibio-printify:before,
 .ibio-proper-music:before,
+.ibio-properstar:before,
 .ibio-protonmail:before,
 .ibio-psychologytoday:before,
 .ibio-pultru:before,
@@ -4437,6 +4442,7 @@
 .ibio-songtradr:before,
 .ibio-sonic-bookings:before,
 .ibio-sony-music:before,
+.ibio-sottotesi:before,
 .ibio-soundee:before,
 .ibio-space-shower-music:before,
 .ibio-sparechange:before,
@@ -4557,6 +4563,7 @@
 .ibio-ultra-shibuya:before,
 .ibio-ulule:before,
 .ibio-umg:before,
+.ibio-ummalife:before,
 .ibio-unbound:before,
 .ibio-uncle-m:before,
 .ibio-underdog-recordstore:before,
@@ -4684,6 +4691,7 @@
 .ibio-alleventsin:before { content: "\f2f9"; }
 .ibio-alltrails:before { content: "\f104"; }
 .ibio-aluacom:before { content: "\f30a"; }
+.ibio-amazingradio:before { content: "\f356"; }
 .ibio-amazonwishlist:before { content: "\f105"; }
 .ibio-anobii:before { content: "\f33e"; }
 .ibio-apple-books:before { content: "\f106"; }
@@ -4721,6 +4729,7 @@
 .ibio-calaxy:before { content: "\f11a"; }
 .ibio-campaignmonitor:before { content: "\f2f7"; }
 .ibio-capcut:before { content: "\f11b"; }
+.ibio-caraapp:before { content: "\f357"; }
 .ibio-channelio:before { content: "\f11c"; }
 .ibio-cifra:before { content: "\f31b"; }
 .ibio-circlmobility:before { content: "\f341"; }
@@ -4852,12 +4861,14 @@
 .ibio-mieuxenseigner:before { content: "\f318"; }
 .ibio-minecraftwiki:before { content: "\f304"; }
 .ibio-miningpoolstats:before { content: "\f178"; }
+.ibio-miodottore-it:before { content: "\f358"; }
 .ibio-mipicco:before { content: "\f179"; }
 .ibio-mixxedfit:before { content: "\f344"; }
 .ibio-moosend:before { content: "\f2f4"; }
 .ibio-mspowerautomate:before { content: "\f17a"; }
 .ibio-mybrightwheel:before { content: "\f345"; }
 .ibio-myfansse:before { content: "\f17b"; }
+.ibio-mywishlistonline:before { content: "\f359"; }
 .ibio-namemc:before { content: "\f17c"; }
 .ibio-naverblog:before { content: "\f17d"; }
 .ibio-naversmartstore:before { content: "\f17e"; }
@@ -4922,6 +4933,7 @@
 .ibio-printablescom:before { content: "\f1b1"; }
 .ibio-printify:before { content: "\f1b2"; }
 .ibio-proper-music:before { content: "\f1b3"; }
+.ibio-properstar:before { content: "\f35a"; }
 .ibio-protonmail:before { content: "\f1b4"; }
 .ibio-psychologytoday:before { content: "\f1b5"; }
 .ibio-pultru:before { content: "\f1b6"; }
@@ -5047,6 +5059,7 @@
 .ibio-songtradr:before { content: "\f220"; }
 .ibio-sonic-bookings:before { content: "\f221"; }
 .ibio-sony-music:before { content: "\f222"; }
+.ibio-sottotesi:before { content: "\f35b"; }
 .ibio-soundee:before { content: "\f354"; }
 .ibio-space-shower-music:before { content: "\f223"; }
 .ibio-sparechange:before { content: "\f312"; }
@@ -5167,6 +5180,7 @@
 .ibio-ultra-shibuya:before { content: "\f28a"; }
 .ibio-ulule:before { content: "\f28b"; }
 .ibio-umg:before { content: "\f28c"; }
+.ibio-ummalife:before { content: "\f35c"; }
 .ibio-unbound:before { content: "\f28d"; }
 .ibio-uncle-m:before { content: "\f28e"; }
 .ibio-underdog-recordstore:before { content: "\f28f"; }
