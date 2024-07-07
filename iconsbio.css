@@ -4044,12 +4044,12 @@
 
 @font-face {
   font-family: "iconsbio2";
-  src: url("./iconsbio2_c50814b9b24c1e58d9e3e9a245a8c9e5.eot");
-  src: url("./iconsbio2_c50814b9b24c1e58d9e3e9a245a8c9e5.eot?#iefix") format("embedded-opentype"),
-       url("./iconsbio2_c50814b9b24c1e58d9e3e9a245a8c9e5.woff2") format("woff2"),
-       url("./iconsbio2_c50814b9b24c1e58d9e3e9a245a8c9e5.woff") format("woff"),
-       url("./iconsbio2_c50814b9b24c1e58d9e3e9a245a8c9e5.ttf") format("truetype"),
-       url("./iconsbio2_c50814b9b24c1e58d9e3e9a245a8c9e5.svg#iconsbio2") format("svg");
+  src: url("./iconsbio2_9eab13e8bfa87983946d6434a5734c02.eot");
+  src: url("./iconsbio2_9eab13e8bfa87983946d6434a5734c02.eot?#iefix") format("embedded-opentype"),
+       url("./iconsbio2_9eab13e8bfa87983946d6434a5734c02.woff2") format("woff2"),
+       url("./iconsbio2_9eab13e8bfa87983946d6434a5734c02.woff") format("woff"),
+       url("./iconsbio2_9eab13e8bfa87983946d6434a5734c02.ttf") format("truetype"),
+       url("./iconsbio2_9eab13e8bfa87983946d6434a5734c02.svg#iconsbio2") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -4057,7 +4057,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "iconsbio2";
-    src: url("./iconsbio2_c50814b9b24c1e58d9e3e9a245a8c9e5.svg#iconsbio2") format("svg");
+    src: url("./iconsbio2_9eab13e8bfa87983946d6434a5734c02.svg#iconsbio2") format("svg");
   }
 }
 
@@ -4105,6 +4105,7 @@
 .ibio-bookyogaretreat:before,
 .ibio-boostyto:before,
 .ibio-boothpm:before,
+.ibio-bpipyment:before,
 .ibio-brevo:before,
 .ibio-btclighting:before,
 .ibio-byfans:before,
@@ -4128,6 +4129,7 @@
 .ibio-curated:before,
 .ibio-cyberimpact:before,
 .ibio-dailyhunt:before,
+.ibio-danapayment:before,
 .ibio-deliveroo:before,
 .ibio-dhgate:before,
 .ibio-diamondapp:before,
@@ -4166,6 +4168,7 @@
 .ibio-funanl:before,
 .ibio-gamerprofiles:before,
 .ibio-geneva:before,
+.ibio-geogebra:before,
 .ibio-getyourguide:before,
 .ibio-ghostorg-alt:before,
 .ibio-ghostorg-circle:before,
@@ -4238,6 +4241,7 @@
 .ibio-mailerlite:before,
 .ibio-mailjet:before,
 .ibio-make:before,
+.ibio-matrimoniocom:before,
 .ibio-mercadopago:before,
 .ibio-michaelscom:before,
 .ibio-midjourney:before,
@@ -4253,6 +4257,7 @@
 .ibio-myfansse:before,
 .ibio-mywishlistonline:before,
 .ibio-namemc:before,
+.ibio-nasio:before,
 .ibio-naverblog:before,
 .ibio-naversmartstore:before,
 .ibio-ncsmusic:before,
@@ -4458,6 +4463,7 @@
 .ibio-spiritfanfics:before,
 .ibio-spkr-media:before,
 .ibio-spoutible:before,
+.ibio-sqlserver:before,
 .ibio-squadratscom:before,
 .ibio-srf:before,
 .ibio-stage-entertainment:before,
@@ -4498,6 +4504,7 @@
 .ibio-tcgplayer:before,
 .ibio-telasa:before,
 .ibio-telecharge:before,
+.ibio-telegramgroup:before,
 .ibio-telia:before,
 .ibio-telstra:before,
 .ibio-tematika:before,
@@ -4537,6 +4544,7 @@
 .ibio-top-j-records:before,
 .ibio-topshelf-records:before,
 .ibio-touchapp:before,
+.ibio-touchngo:before,
 .ibio-toutiao:before,
 .ibio-trackdrip:before,
 .ibio-trackitdown:before,
@@ -4723,6 +4731,7 @@
 .ibio-bookyogaretreat:before { content: "\f116"; }
 .ibio-boostyto:before { content: "\f324"; }
 .ibio-boothpm:before { content: "\f117"; }
+.ibio-bpipyment:before { content: "\f35e"; }
 .ibio-brevo:before { content: "\f118"; }
 .ibio-btclighting:before { content: "\f325"; }
 .ibio-byfans:before { content: "\f119"; }
@@ -4746,6 +4755,7 @@
 .ibio-curated:before { content: "\f2f3"; }
 .ibio-cyberimpact:before { content: "\f322"; }
 .ibio-dailyhunt:before { content: "\f329"; }
+.ibio-danapayment:before { content: "\f35f"; }
 .ibio-deliveroo:before { content: "\f125"; }
 .ibio-dhgate:before { content: "\f126"; }
 .ibio-diamondapp:before { content: "\f127"; }
@@ -4784,6 +4794,7 @@
 .ibio-funanl:before { content: "\f13e"; }
 .ibio-gamerprofiles:before { content: "\f342"; }
 .ibio-geneva:before { content: "\f303"; }
+.ibio-geogebra:before { content: "\f360"; }
 .ibio-getyourguide:before { content: "\f31f"; }
 .ibio-ghostorg-alt:before { content: "\f13f"; }
 .ibio-ghostorg-circle:before { content: "\f140"; }
@@ -4856,6 +4867,7 @@
 .ibio-mailerlite:before { content: "\f174"; }
 .ibio-mailjet:before { content: "\f2f6"; }
 .ibio-make:before { content: "\f175"; }
+.ibio-matrimoniocom:before { content: "\f361"; }
 .ibio-mercadopago:before { content: "\f176"; }
 .ibio-michaelscom:before { content: "\f30e"; }
 .ibio-midjourney:before { content: "\f177"; }
@@ -4871,6 +4883,7 @@
 .ibio-myfansse:before { content: "\f17b"; }
 .ibio-mywishlistonline:before { content: "\f359"; }
 .ibio-namemc:before { content: "\f17c"; }
+.ibio-nasio:before { content: "\f362"; }
 .ibio-naverblog:before { content: "\f17d"; }
 .ibio-naversmartstore:before { content: "\f17e"; }
 .ibio-ncsmusic:before { content: "\f17f"; }
@@ -5076,6 +5089,7 @@
 .ibio-spiritfanfics:before { content: "\f22c"; }
 .ibio-spkr-media:before { content: "\f22d"; }
 .ibio-spoutible:before { content: "\f22e"; }
+.ibio-sqlserver:before { content: "\f363"; }
 .ibio-squadratscom:before { content: "\f22f"; }
 .ibio-srf:before { content: "\f230"; }
 .ibio-stage-entertainment:before { content: "\f231"; }
@@ -5116,6 +5130,7 @@
 .ibio-tcgplayer:before { content: "\f251"; }
 .ibio-telasa:before { content: "\f252"; }
 .ibio-telecharge:before { content: "\f253"; }
+.ibio-telegramgroup:before { content: "\f364"; }
 .ibio-telia:before { content: "\f254"; }
 .ibio-telstra:before { content: "\f255"; }
 .ibio-tematika:before { content: "\f256"; }
@@ -5155,6 +5170,7 @@
 .ibio-top-j-records:before { content: "\f273"; }
 .ibio-topshelf-records:before { content: "\f274"; }
 .ibio-touchapp:before { content: "\f275"; }
+.ibio-touchngo:before { content: "\f365"; }
 .ibio-toutiao:before { content: "\f350"; }
 .ibio-trackdrip:before { content: "\f276"; }
 .ibio-trackitdown:before { content: "\f277"; }
