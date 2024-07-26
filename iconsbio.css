@@ -4044,12 +4044,12 @@
 
 @font-face {
   font-family: "iconsbio2";
-  src: url("./iconsbio2_bb7430e3e0ae92490492cc52b4a641ba.eot");
-  src: url("./iconsbio2_bb7430e3e0ae92490492cc52b4a641ba.eot?#iefix") format("embedded-opentype"),
-       url("./iconsbio2_bb7430e3e0ae92490492cc52b4a641ba.woff2") format("woff2"),
-       url("./iconsbio2_bb7430e3e0ae92490492cc52b4a641ba.woff") format("woff"),
-       url("./iconsbio2_bb7430e3e0ae92490492cc52b4a641ba.ttf") format("truetype"),
-       url("./iconsbio2_bb7430e3e0ae92490492cc52b4a641ba.svg#iconsbio2") format("svg");
+  src: url("./iconsbio2_1c5f539aa6c22f67fe3257b8492ccab4.eot");
+  src: url("./iconsbio2_1c5f539aa6c22f67fe3257b8492ccab4.eot?#iefix") format("embedded-opentype"),
+       url("./iconsbio2_1c5f539aa6c22f67fe3257b8492ccab4.woff2") format("woff2"),
+       url("./iconsbio2_1c5f539aa6c22f67fe3257b8492ccab4.woff") format("woff"),
+       url("./iconsbio2_1c5f539aa6c22f67fe3257b8492ccab4.ttf") format("truetype"),
+       url("./iconsbio2_1c5f539aa6c22f67fe3257b8492ccab4.svg#iconsbio2") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -4057,7 +4057,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "iconsbio2";
-    src: url("./iconsbio2_bb7430e3e0ae92490492cc52b4a641ba.svg#iconsbio2") format("svg");
+    src: url("./iconsbio2_1c5f539aa6c22f67fe3257b8492ccab4.svg#iconsbio2") format("svg");
   }
 }
 
@@ -4445,6 +4445,7 @@
 .ibio-sm-entertainment:before,
 .ibio-smart-punk-records:before,
 .ibio-smart-usen:before,
+.ibio-smartemailing:before,
 .ibio-smubu:before,
 .ibio-smule:before,
 .ibio-snackvideo:before,
@@ -4573,6 +4574,7 @@
 .ibio-turntablelab:before,
 .ibio-twintpayment:before,
 .ibio-twitterx:before,
+.ibio-typeform:before,
 .ibio-udiscover:before,
 .ibio-udux:before,
 .ibio-uiclap:before,
@@ -5080,6 +5082,7 @@
 .ibio-sm-entertainment:before { content: "\f215"; }
 .ibio-smart-punk-records:before { content: "\f216"; }
 .ibio-smart-usen:before { content: "\f217"; }
+.ibio-smartemailing:before { content: "\f36f"; }
 .ibio-smubu:before { content: "\f218"; }
 .ibio-smule:before { content: "\f219"; }
 .ibio-snackvideo:before { content: "\f21a"; }
@@ -5208,6 +5211,7 @@
 .ibio-turntablelab:before { content: "\f283"; }
 .ibio-twintpayment:before { content: "\f284"; }
 .ibio-twitterx:before { content: "\f285"; }
+.ibio-typeform:before { content: "\f370"; }
 .ibio-udiscover:before { content: "\f286"; }
 .ibio-udux:before { content: "\f287"; }
 .ibio-uiclap:before { content: "\f288"; }
