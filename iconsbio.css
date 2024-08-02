@@ -4044,12 +4044,12 @@
 
 @font-face {
   font-family: "iconsbio2";
-  src: url("./iconsbio2_f18d8e8f4570ed1fe811e787c3a1b933.eot");
-  src: url("./iconsbio2_f18d8e8f4570ed1fe811e787c3a1b933.eot?#iefix") format("embedded-opentype"),
-       url("./iconsbio2_f18d8e8f4570ed1fe811e787c3a1b933.woff2") format("woff2"),
-       url("./iconsbio2_f18d8e8f4570ed1fe811e787c3a1b933.woff") format("woff"),
-       url("./iconsbio2_f18d8e8f4570ed1fe811e787c3a1b933.ttf") format("truetype"),
-       url("./iconsbio2_f18d8e8f4570ed1fe811e787c3a1b933.svg#iconsbio2") format("svg");
+  src: url("./iconsbio2_6a37e2d876d00e44d2c3e76881b6fe7e.eot");
+  src: url("./iconsbio2_6a37e2d876d00e44d2c3e76881b6fe7e.eot?#iefix") format("embedded-opentype"),
+       url("./iconsbio2_6a37e2d876d00e44d2c3e76881b6fe7e.woff2") format("woff2"),
+       url("./iconsbio2_6a37e2d876d00e44d2c3e76881b6fe7e.woff") format("woff"),
+       url("./iconsbio2_6a37e2d876d00e44d2c3e76881b6fe7e.ttf") format("truetype"),
+       url("./iconsbio2_6a37e2d876d00e44d2c3e76881b6fe7e.svg#iconsbio2") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -4057,7 +4057,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "iconsbio2";
-    src: url("./iconsbio2_f18d8e8f4570ed1fe811e787c3a1b933.svg#iconsbio2") format("svg");
+    src: url("./iconsbio2_6a37e2d876d00e44d2c3e76881b6fe7e.svg#iconsbio2") format("svg");
   }
 }
 
@@ -4118,6 +4118,7 @@
 .ibio-capcut:before,
 .ibio-caraapp:before,
 .ibio-channelio:before,
+.ibio-chattersocial:before,
 .ibio-cifra:before,
 .ibio-circlmobility:before,
 .ibio-clickasnap:before,
@@ -4178,6 +4179,7 @@
 .ibio-gifty:before,
 .ibio-givecampus:before,
 .ibio-gmail:before,
+.ibio-gofoodindonesia:before,
 .ibio-google-calendar:before,
 .ibio-googleads:before,
 .ibio-googleanalytics:before,
@@ -4381,6 +4383,7 @@
 .ibio-rockmall:before,
 .ibio-rockmark:before,
 .ibio-rocktud:before,
+.ibio-rokfin:before,
 .ibio-roku:before,
 .ibio-rottentomatoes:before,
 .ibio-rubadub:before,
@@ -4650,6 +4653,7 @@
 .ibio-whatsappgroup:before,
 .ibio-wichita-recordings:before,
 .ibio-wikiloc:before,
+.ibio-wildberries:before,
 .ibio-wildthing-records-store:before,
 .ibio-wink:before,
 .ibio-winylownia:before,
@@ -4756,6 +4760,7 @@
 .ibio-capcut:before { content: "\f11b"; }
 .ibio-caraapp:before { content: "\f357"; }
 .ibio-channelio:before { content: "\f11c"; }
+.ibio-chattersocial:before { content: "\f372"; }
 .ibio-cifra:before { content: "\f31b"; }
 .ibio-circlmobility:before { content: "\f341"; }
 .ibio-clickasnap:before { content: "\f11d"; }
@@ -4816,6 +4821,7 @@
 .ibio-gifty:before { content: "\f2fc"; }
 .ibio-givecampus:before { content: "\f141"; }
 .ibio-gmail:before { content: "\f142"; }
+.ibio-gofoodindonesia:before { content: "\f373"; }
 .ibio-google-calendar:before { content: "\f143"; }
 .ibio-googleads:before { content: "\f33c"; }
 .ibio-googleanalytics:before { content: "\f144"; }
@@ -5019,6 +5025,7 @@
 .ibio-rockmall:before { content: "\f1df"; }
 .ibio-rockmark:before { content: "\f1e0"; }
 .ibio-rocktud:before { content: "\f1e1"; }
+.ibio-rokfin:before { content: "\f374"; }
 .ibio-roku:before { content: "\f1e2"; }
 .ibio-rottentomatoes:before { content: "\f1e3"; }
 .ibio-rubadub:before { content: "\f1e4"; }
@@ -5288,6 +5295,7 @@
 .ibio-whatsappgroup:before { content: "\f327"; }
 .ibio-wichita-recordings:before { content: "\f2c4"; }
 .ibio-wikiloc:before { content: "\f2c5"; }
+.ibio-wildberries:before { content: "\f375"; }
 .ibio-wildthing-records-store:before { content: "\f2c6"; }
 .ibio-wink:before { content: "\f2c7"; }
 .ibio-winylownia:before { content: "\f2c8"; }
