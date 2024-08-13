@@ -4044,12 +4044,12 @@
 
 @font-face {
   font-family: "iconsbio2";
-  src: url("./iconsbio2_8932c153523ea43465f3f33426a52e31.eot");
-  src: url("./iconsbio2_8932c153523ea43465f3f33426a52e31.eot?#iefix") format("embedded-opentype"),
-       url("./iconsbio2_8932c153523ea43465f3f33426a52e31.woff2") format("woff2"),
-       url("./iconsbio2_8932c153523ea43465f3f33426a52e31.woff") format("woff"),
-       url("./iconsbio2_8932c153523ea43465f3f33426a52e31.ttf") format("truetype"),
-       url("./iconsbio2_8932c153523ea43465f3f33426a52e31.svg#iconsbio2") format("svg");
+  src: url("./iconsbio2_0696a3de8b7597a59f7b36da5d1854f8.eot");
+  src: url("./iconsbio2_0696a3de8b7597a59f7b36da5d1854f8.eot?#iefix") format("embedded-opentype"),
+       url("./iconsbio2_0696a3de8b7597a59f7b36da5d1854f8.woff2") format("woff2"),
+       url("./iconsbio2_0696a3de8b7597a59f7b36da5d1854f8.woff") format("woff"),
+       url("./iconsbio2_0696a3de8b7597a59f7b36da5d1854f8.ttf") format("truetype"),
+       url("./iconsbio2_0696a3de8b7597a59f7b36da5d1854f8.svg#iconsbio2") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -4057,7 +4057,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "iconsbio2";
-    src: url("./iconsbio2_8932c153523ea43465f3f33426a52e31.svg#iconsbio2") format("svg");
+    src: url("./iconsbio2_0696a3de8b7597a59f7b36da5d1854f8.svg#iconsbio2") format("svg");
   }
 }
 
@@ -4092,6 +4092,7 @@
 .ibio-beehiiv:before,
 .ibio-belletristica:before,
 .ibio-bitview:before,
+.ibio-bizum:before,
 .ibio-bluesky:before,
 .ibio-blueskyold:before,
 .ibio-bollyx:before,
@@ -4122,6 +4123,7 @@
 .ibio-cifra:before,
 .ibio-circlmobility:before,
 .ibio-clickasnap:before,
+.ibio-clouthub:before,
 .ibio-cohostorg:before,
 .ibio-commonninja:before,
 .ibio-concertarchives:before,
@@ -4161,6 +4163,7 @@
 .ibio-fanpage:before,
 .ibio-fantia:before,
 .ibio-farcasterxyz:before,
+.ibio-ficfan:before,
 .ibio-fineartamerica:before,
 .ibio-five-rise-records:before,
 .ibio-flipsnack:before,
@@ -4248,7 +4251,9 @@
 .ibio-mailerlite:before,
 .ibio-mailjet:before,
 .ibio-make:before,
+.ibio-marppleshop:before,
 .ibio-matrimoniocom:before,
+.ibio-medibang:before,
 .ibio-mercadopago:before,
 .ibio-michaelscom:before,
 .ibio-midjourney:before,
@@ -4299,6 +4304,7 @@
 .ibio-plastichead:before,
 .ibio-platekompaniet:before,
 .ibio-platenzaak:before,
+.ibio-platestheapp:before,
 .ibio-platinum-agency:before,
 .ibio-platomania:before,
 .ibio-plausible:before,
@@ -4308,6 +4314,7 @@
 .ibio-pnkslm:before,
 .ibio-podcastics:before,
 .ibio-podcastsbykajabi:before,
+.ibio-podia:before,
 .ibio-podigee:before,
 .ibio-podimo:before,
 .ibio-podlink:before,
@@ -4322,6 +4329,7 @@
 .ibio-popular-online:before,
 .ibio-port-merch:before,
 .ibio-postnews:before,
+.ibio-powerchatlive:before,
 .ibio-praisecharts:before,
 .ibio-prefect-records:before,
 .ibio-pressreader:before,
@@ -4454,6 +4462,7 @@
 .ibio-snackvideo:before,
 .ibio-snortsocial:before,
 .ibio-soar-music-group:before,
+.ibio-softball:before,
 .ibio-solid-state-records:before,
 .ibio-som-livre:before,
 .ibio-soma-records:before,
@@ -4735,6 +4744,7 @@
 .ibio-beehiiv:before { content: "\f10f"; }
 .ibio-belletristica:before { content: "\f33f"; }
 .ibio-bitview:before { content: "\f301"; }
+.ibio-bizum:before { content: "\f377"; }
 .ibio-bluesky:before { content: "\f110"; }
 .ibio-blueskyold:before { content: "\f2f2"; }
 .ibio-bollyx:before { content: "\f340"; }
@@ -4765,6 +4775,7 @@
 .ibio-cifra:before { content: "\f31b"; }
 .ibio-circlmobility:before { content: "\f341"; }
 .ibio-clickasnap:before { content: "\f11d"; }
+.ibio-clouthub:before { content: "\f378"; }
 .ibio-cohostorg:before { content: "\f11e"; }
 .ibio-commonninja:before { content: "\f34c"; }
 .ibio-concertarchives:before { content: "\f11f"; }
@@ -4804,6 +4815,7 @@
 .ibio-fanpage:before { content: "\f137"; }
 .ibio-fantia:before { content: "\f138"; }
 .ibio-farcasterxyz:before { content: "\f331"; }
+.ibio-ficfan:before { content: "\f379"; }
 .ibio-fineartamerica:before { content: "\f139"; }
 .ibio-five-rise-records:before { content: "\f13a"; }
 .ibio-flipsnack:before { content: "\f34d"; }
@@ -4891,7 +4903,9 @@
 .ibio-mailerlite:before { content: "\f174"; }
 .ibio-mailjet:before { content: "\f2f6"; }
 .ibio-make:before { content: "\f175"; }
+.ibio-marppleshop:before { content: "\f37a"; }
 .ibio-matrimoniocom:before { content: "\f361"; }
+.ibio-medibang:before { content: "\f37b"; }
 .ibio-mercadopago:before { content: "\f176"; }
 .ibio-michaelscom:before { content: "\f30e"; }
 .ibio-midjourney:before { content: "\f177"; }
@@ -4942,6 +4956,7 @@
 .ibio-plastichead:before { content: "\f193"; }
 .ibio-platekompaniet:before { content: "\f194"; }
 .ibio-platenzaak:before { content: "\f195"; }
+.ibio-platestheapp:before { content: "\f37c"; }
 .ibio-platinum-agency:before { content: "\f196"; }
 .ibio-platomania:before { content: "\f197"; }
 .ibio-plausible:before { content: "\f198"; }
@@ -4951,6 +4966,7 @@
 .ibio-pnkslm:before { content: "\f19c"; }
 .ibio-podcastics:before { content: "\f315"; }
 .ibio-podcastsbykajabi:before { content: "\f19d"; }
+.ibio-podia:before { content: "\f37d"; }
 .ibio-podigee:before { content: "\f19e"; }
 .ibio-podimo:before { content: "\f19f"; }
 .ibio-podlink:before { content: "\f1a0"; }
@@ -4965,6 +4981,7 @@
 .ibio-popular-online:before { content: "\f1a9"; }
 .ibio-port-merch:before { content: "\f1aa"; }
 .ibio-postnews:before { content: "\f1ab"; }
+.ibio-powerchatlive:before { content: "\f37e"; }
 .ibio-praisecharts:before { content: "\f1ac"; }
 .ibio-prefect-records:before { content: "\f1ad"; }
 .ibio-pressreader:before { content: "\f1ae"; }
@@ -5097,6 +5114,7 @@
 .ibio-snackvideo:before { content: "\f21a"; }
 .ibio-snortsocial:before { content: "\f21b"; }
 .ibio-soar-music-group:before { content: "\f21c"; }
+.ibio-softball:before { content: "\f37f"; }
 .ibio-solid-state-records:before { content: "\f21d"; }
 .ibio-som-livre:before { content: "\f21e"; }
 .ibio-soma-records:before { content: "\f21f"; }
