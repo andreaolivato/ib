@@ -4044,12 +4044,12 @@
 
 @font-face {
   font-family: "iconsbio2";
-  src: url("./iconsbio2_0696a3de8b7597a59f7b36da5d1854f8.eot");
-  src: url("./iconsbio2_0696a3de8b7597a59f7b36da5d1854f8.eot?#iefix") format("embedded-opentype"),
-       url("./iconsbio2_0696a3de8b7597a59f7b36da5d1854f8.woff2") format("woff2"),
-       url("./iconsbio2_0696a3de8b7597a59f7b36da5d1854f8.woff") format("woff"),
-       url("./iconsbio2_0696a3de8b7597a59f7b36da5d1854f8.ttf") format("truetype"),
-       url("./iconsbio2_0696a3de8b7597a59f7b36da5d1854f8.svg#iconsbio2") format("svg");
+  src: url("./iconsbio2_d429cfb328f333534b7d4698a798572d.eot");
+  src: url("./iconsbio2_d429cfb328f333534b7d4698a798572d.eot?#iefix") format("embedded-opentype"),
+       url("./iconsbio2_d429cfb328f333534b7d4698a798572d.woff2") format("woff2"),
+       url("./iconsbio2_d429cfb328f333534b7d4698a798572d.woff") format("woff"),
+       url("./iconsbio2_d429cfb328f333534b7d4698a798572d.ttf") format("truetype"),
+       url("./iconsbio2_d429cfb328f333534b7d4698a798572d.svg#iconsbio2") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -4057,7 +4057,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "iconsbio2";
-    src: url("./iconsbio2_0696a3de8b7597a59f7b36da5d1854f8.svg#iconsbio2") format("svg");
+    src: url("./iconsbio2_d429cfb328f333534b7d4698a798572d.svg#iconsbio2") format("svg");
   }
 }
 
@@ -4123,6 +4123,7 @@
 .ibio-cifra:before,
 .ibio-circlmobility:before,
 .ibio-clickasnap:before,
+.ibio-cloudcollectorz:before,
 .ibio-clouthub:before,
 .ibio-cohostorg:before,
 .ibio-commonninja:before,
@@ -4136,6 +4137,7 @@
 .ibio-cyberimpact:before,
 .ibio-dailyhunt:before,
 .ibio-danapayment:before,
+.ibio-dashorg:before,
 .ibio-deliveroo:before,
 .ibio-dhgate:before,
 .ibio-diamondapp:before,
@@ -4163,6 +4165,7 @@
 .ibio-fanpage:before,
 .ibio-fantia:before,
 .ibio-farcasterxyz:before,
+.ibio-ficbooknet:before,
 .ibio-ficfan:before,
 .ibio-fineartamerica:before,
 .ibio-five-rise-records:before,
@@ -4254,6 +4257,7 @@
 .ibio-marppleshop:before,
 .ibio-matrimoniocom:before,
 .ibio-medibang:before,
+.ibio-medibangcom:before,
 .ibio-mercadopago:before,
 .ibio-michaelscom:before,
 .ibio-midjourney:before,
@@ -4775,6 +4779,7 @@
 .ibio-cifra:before { content: "\f31b"; }
 .ibio-circlmobility:before { content: "\f341"; }
 .ibio-clickasnap:before { content: "\f11d"; }
+.ibio-cloudcollectorz:before { content: "\f380"; }
 .ibio-clouthub:before { content: "\f378"; }
 .ibio-cohostorg:before { content: "\f11e"; }
 .ibio-commonninja:before { content: "\f34c"; }
@@ -4788,6 +4793,7 @@
 .ibio-cyberimpact:before { content: "\f322"; }
 .ibio-dailyhunt:before { content: "\f329"; }
 .ibio-danapayment:before { content: "\f35f"; }
+.ibio-dashorg:before { content: "\f381"; }
 .ibio-deliveroo:before { content: "\f125"; }
 .ibio-dhgate:before { content: "\f126"; }
 .ibio-diamondapp:before { content: "\f127"; }
@@ -4815,6 +4821,7 @@
 .ibio-fanpage:before { content: "\f137"; }
 .ibio-fantia:before { content: "\f138"; }
 .ibio-farcasterxyz:before { content: "\f331"; }
+.ibio-ficbooknet:before { content: "\f382"; }
 .ibio-ficfan:before { content: "\f379"; }
 .ibio-fineartamerica:before { content: "\f139"; }
 .ibio-five-rise-records:before { content: "\f13a"; }
@@ -4906,6 +4913,7 @@
 .ibio-marppleshop:before { content: "\f37a"; }
 .ibio-matrimoniocom:before { content: "\f361"; }
 .ibio-medibang:before { content: "\f37b"; }
+.ibio-medibangcom:before { content: "\f383"; }
 .ibio-mercadopago:before { content: "\f176"; }
 .ibio-michaelscom:before { content: "\f30e"; }
 .ibio-midjourney:before { content: "\f177"; }
