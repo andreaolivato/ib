@@ -4044,12 +4044,12 @@
 
 @font-face {
   font-family: "iconsbio2";
-  src: url("./iconsbio2_ed0992b174d532374e6ad45347bd8838.eot");
-  src: url("./iconsbio2_ed0992b174d532374e6ad45347bd8838.eot?#iefix") format("embedded-opentype"),
-       url("./iconsbio2_ed0992b174d532374e6ad45347bd8838.woff2") format("woff2"),
-       url("./iconsbio2_ed0992b174d532374e6ad45347bd8838.woff") format("woff"),
-       url("./iconsbio2_ed0992b174d532374e6ad45347bd8838.ttf") format("truetype"),
-       url("./iconsbio2_ed0992b174d532374e6ad45347bd8838.svg#iconsbio2") format("svg");
+  src: url("./iconsbio2_8e174ffaac4d563bb74b7d1ac1ebfb18.eot");
+  src: url("./iconsbio2_8e174ffaac4d563bb74b7d1ac1ebfb18.eot?#iefix") format("embedded-opentype"),
+       url("./iconsbio2_8e174ffaac4d563bb74b7d1ac1ebfb18.woff2") format("woff2"),
+       url("./iconsbio2_8e174ffaac4d563bb74b7d1ac1ebfb18.woff") format("woff"),
+       url("./iconsbio2_8e174ffaac4d563bb74b7d1ac1ebfb18.ttf") format("truetype"),
+       url("./iconsbio2_8e174ffaac4d563bb74b7d1ac1ebfb18.svg#iconsbio2") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -4057,7 +4057,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "iconsbio2";
-    src: url("./iconsbio2_ed0992b174d532374e6ad45347bd8838.svg#iconsbio2") format("svg");
+    src: url("./iconsbio2_8e174ffaac4d563bb74b7d1ac1ebfb18.svg#iconsbio2") format("svg");
   }
 }
 
@@ -4489,6 +4489,8 @@
 .ibio-spiritfanfics:before,
 .ibio-spkr-media:before,
 .ibio-spoutible:before,
+.ibio-spreadshirt:before,
+.ibio-spreadshop:before,
 .ibio-sqlserver:before,
 .ibio-squadratscom:before,
 .ibio-srf:before,
@@ -5146,6 +5148,8 @@
 .ibio-spiritfanfics:before { content: "\f22c"; }
 .ibio-spkr-media:before { content: "\f22d"; }
 .ibio-spoutible:before { content: "\f22e"; }
+.ibio-spreadshirt:before { content: "\f385"; }
+.ibio-spreadshop:before { content: "\f386"; }
 .ibio-sqlserver:before { content: "\f363"; }
 .ibio-squadratscom:before { content: "\f22f"; }
 .ibio-srf:before { content: "\f230"; }
