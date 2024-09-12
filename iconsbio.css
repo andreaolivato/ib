@@ -4044,12 +4044,12 @@
 
 @font-face {
   font-family: "iconsbio2";
-  src: url("./iconsbio2_79a5e1db27e301a410c4317aef1bdfc9.eot");
-  src: url("./iconsbio2_79a5e1db27e301a410c4317aef1bdfc9.eot?#iefix") format("embedded-opentype"),
-       url("./iconsbio2_79a5e1db27e301a410c4317aef1bdfc9.woff2") format("woff2"),
-       url("./iconsbio2_79a5e1db27e301a410c4317aef1bdfc9.woff") format("woff"),
-       url("./iconsbio2_79a5e1db27e301a410c4317aef1bdfc9.ttf") format("truetype"),
-       url("./iconsbio2_79a5e1db27e301a410c4317aef1bdfc9.svg#iconsbio2") format("svg");
+  src: url("./iconsbio2_93ca68215badb005f760862ce0b23d4c.eot");
+  src: url("./iconsbio2_93ca68215badb005f760862ce0b23d4c.eot?#iefix") format("embedded-opentype"),
+       url("./iconsbio2_93ca68215badb005f760862ce0b23d4c.woff2") format("woff2"),
+       url("./iconsbio2_93ca68215badb005f760862ce0b23d4c.woff") format("woff"),
+       url("./iconsbio2_93ca68215badb005f760862ce0b23d4c.ttf") format("truetype"),
+       url("./iconsbio2_93ca68215badb005f760862ce0b23d4c.svg#iconsbio2") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -4057,7 +4057,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "iconsbio2";
-    src: url("./iconsbio2_79a5e1db27e301a410c4317aef1bdfc9.svg#iconsbio2") format("svg");
+    src: url("./iconsbio2_93ca68215badb005f760862ce0b23d4c.svg#iconsbio2") format("svg");
   }
 }
 
@@ -4180,6 +4180,7 @@
 .ibio-gamerprofiles:before,
 .ibio-geneva:before,
 .ibio-geogebra:before,
+.ibio-gettr:before,
 .ibio-getyourguide:before,
 .ibio-ghostorg-alt:before,
 .ibio-ghostorg-circle:before,
@@ -4295,6 +4296,7 @@
 .ibio-pabbly:before,
 .ibio-pangobooks:before,
 .ibio-paperpie:before,
+.ibio-parler:before,
 .ibio-paypay:before,
 .ibio-paysafecard:before,
 .ibio-pebbleis:before,
@@ -4586,6 +4588,7 @@
 .ibio-tribel:before,
 .ibio-tricatel:before,
 .ibio-trontrx:before,
+.ibio-truthsocial:before,
 .ibio-tryhackme:before,
 .ibio-tubi:before,
 .ibio-tuneafrique:before,
@@ -4841,6 +4844,7 @@
 .ibio-gamerprofiles:before { content: "\f342"; }
 .ibio-geneva:before { content: "\f303"; }
 .ibio-geogebra:before { content: "\f360"; }
+.ibio-gettr:before { content: "\f389"; }
 .ibio-getyourguide:before { content: "\f31f"; }
 .ibio-ghostorg-alt:before { content: "\f13f"; }
 .ibio-ghostorg-circle:before { content: "\f140"; }
@@ -4956,6 +4960,7 @@
 .ibio-pabbly:before { content: "\f188"; }
 .ibio-pangobooks:before { content: "\f189"; }
 .ibio-paperpie:before { content: "\f18a"; }
+.ibio-parler:before { content: "\f38a"; }
 .ibio-paypay:before { content: "\f18b"; }
 .ibio-paysafecard:before { content: "\f18c"; }
 .ibio-pebbleis:before { content: "\f18d"; }
@@ -5247,6 +5252,7 @@
 .ibio-tribel:before { content: "\f27a"; }
 .ibio-tricatel:before { content: "\f27b"; }
 .ibio-trontrx:before { content: "\f32e"; }
+.ibio-truthsocial:before { content: "\f38b"; }
 .ibio-tryhackme:before { content: "\f27c"; }
 .ibio-tubi:before { content: "\f27d"; }
 .ibio-tuneafrique:before { content: "\f27e"; }
