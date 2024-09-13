@@ -4044,12 +4044,12 @@
 
 @font-face {
   font-family: "iconsbio2";
-  src: url("./iconsbio2_93ca68215badb005f760862ce0b23d4c.eot");
-  src: url("./iconsbio2_93ca68215badb005f760862ce0b23d4c.eot?#iefix") format("embedded-opentype"),
-       url("./iconsbio2_93ca68215badb005f760862ce0b23d4c.woff2") format("woff2"),
-       url("./iconsbio2_93ca68215badb005f760862ce0b23d4c.woff") format("woff"),
-       url("./iconsbio2_93ca68215badb005f760862ce0b23d4c.ttf") format("truetype"),
-       url("./iconsbio2_93ca68215badb005f760862ce0b23d4c.svg#iconsbio2") format("svg");
+  src: url("./iconsbio2_74bedd7154847f787c803ec65144ad88.eot");
+  src: url("./iconsbio2_74bedd7154847f787c803ec65144ad88.eot?#iefix") format("embedded-opentype"),
+       url("./iconsbio2_74bedd7154847f787c803ec65144ad88.woff2") format("woff2"),
+       url("./iconsbio2_74bedd7154847f787c803ec65144ad88.woff") format("woff"),
+       url("./iconsbio2_74bedd7154847f787c803ec65144ad88.ttf") format("truetype"),
+       url("./iconsbio2_74bedd7154847f787c803ec65144ad88.svg#iconsbio2") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -4057,7 +4057,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "iconsbio2";
-    src: url("./iconsbio2_93ca68215badb005f760862ce0b23d4c.svg#iconsbio2") format("svg");
+    src: url("./iconsbio2_74bedd7154847f787c803ec65144ad88.svg#iconsbio2") format("svg");
   }
 }
 
@@ -4101,6 +4101,7 @@
 .ibio-book:before,
 .ibio-book-of-the-month:before,
 .ibio-bookdinners:before,
+.ibio-booknet:before,
 .ibio-booknode:before,
 .ibio-booksirens:before,
 .ibio-bookwyrm:before,
@@ -4154,6 +4155,7 @@
 .ibio-edmtrain:before,
 .ibio-effectivealtruism:before,
 .ibio-elfsight:before,
+.ibio-elfster:before,
 .ibio-emailoctopus:before,
 .ibio-enjoeibr:before,
 .ibio-envato:before,
@@ -4286,6 +4288,8 @@
 .ibio-nexon:before,
 .ibio-nftify:before,
 .ibio-ngl:before,
+.ibio-noom:before,
+.ibio-noomvibe:before,
 .ibio-nostr:before,
 .ibio-notecom:before,
 .ibio-officephone:before,
@@ -4296,6 +4300,7 @@
 .ibio-pabbly:before,
 .ibio-pangobooks:before,
 .ibio-paperpie:before,
+.ibio-paragraphxyz:before,
 .ibio-parler:before,
 .ibio-paypay:before,
 .ibio-paysafecard:before,
@@ -4402,6 +4407,7 @@
 .ibio-roku:before,
 .ibio-rottentomatoes:before,
 .ibio-rubadub:before,
+.ibio-rutube:before,
 .ibio-sainsburys:before,
 .ibio-salzers-records:before,
 .ibio-samsung:before,
@@ -4427,6 +4433,7 @@
 .ibio-serious-beats:before,
 .ibio-setlistfm:before,
 .ibio-setmore:before,
+.ibio-shapo:before,
 .ibio-shapoio:before,
 .ibio-sharptone:before,
 .ibio-shecodesio:before,
@@ -4466,10 +4473,12 @@
 .ibio-smart-usen:before,
 .ibio-smartemailing:before,
 .ibio-smubu:before,
+.ibio-smugmug:before,
 .ibio-smule:before,
 .ibio-snackvideo:before,
 .ibio-snortsocial:before,
 .ibio-soar-music-group:before,
+.ibio-sociabuzz:before,
 .ibio-softball:before,
 .ibio-solid-state-records:before,
 .ibio-som-livre:before,
@@ -4632,6 +4641,7 @@
 .ibio-vernoshop:before,
 .ibio-verve-forecast:before,
 .ibio-verve-records:before,
+.ibio-vgenco:before,
 .ibio-vialma:before,
 .ibio-viaplay:before,
 .ibio-videociety:before,
@@ -4765,6 +4775,7 @@
 .ibio-book:before { content: "\f113"; }
 .ibio-book-of-the-month:before { content: "\f114"; }
 .ibio-bookdinners:before { content: "\f2fa"; }
+.ibio-booknet:before { content: "\f38c"; }
 .ibio-booknode:before { content: "\f337"; }
 .ibio-booksirens:before { content: "\f302"; }
 .ibio-bookwyrm:before { content: "\f115"; }
@@ -4818,6 +4829,7 @@
 .ibio-edmtrain:before { content: "\f12e"; }
 .ibio-effectivealtruism:before { content: "\f12f"; }
 .ibio-elfsight:before { content: "\f33d"; }
+.ibio-elfster:before { content: "\f38d"; }
 .ibio-emailoctopus:before { content: "\f130"; }
 .ibio-enjoeibr:before { content: "\f131"; }
 .ibio-envato:before { content: "\f132"; }
@@ -4950,6 +4962,8 @@
 .ibio-nexon:before { content: "\f347"; }
 .ibio-nftify:before { content: "\f182"; }
 .ibio-ngl:before { content: "\f2ef"; }
+.ibio-noom:before { content: "\f38e"; }
+.ibio-noomvibe:before { content: "\f38f"; }
 .ibio-nostr:before { content: "\f183"; }
 .ibio-notecom:before { content: "\f184"; }
 .ibio-officephone:before { content: "\f368"; }
@@ -4960,6 +4974,7 @@
 .ibio-pabbly:before { content: "\f188"; }
 .ibio-pangobooks:before { content: "\f189"; }
 .ibio-paperpie:before { content: "\f18a"; }
+.ibio-paragraphxyz:before { content: "\f390"; }
 .ibio-parler:before { content: "\f38a"; }
 .ibio-paypay:before { content: "\f18b"; }
 .ibio-paysafecard:before { content: "\f18c"; }
@@ -5066,6 +5081,7 @@
 .ibio-roku:before { content: "\f1e2"; }
 .ibio-rottentomatoes:before { content: "\f1e3"; }
 .ibio-rubadub:before { content: "\f1e4"; }
+.ibio-rutube:before { content: "\f391"; }
 .ibio-sainsburys:before { content: "\f1e5"; }
 .ibio-salzers-records:before { content: "\f1e6"; }
 .ibio-samsung:before { content: "\f1e7"; }
@@ -5091,6 +5107,7 @@
 .ibio-serious-beats:before { content: "\f1f6"; }
 .ibio-setlistfm:before { content: "\f1f7"; }
 .ibio-setmore:before { content: "\f1f8"; }
+.ibio-shapo:before { content: "\f392"; }
 .ibio-shapoio:before { content: "\f387"; }
 .ibio-sharptone:before { content: "\f1f9"; }
 .ibio-shecodesio:before { content: "\f1fa"; }
@@ -5130,10 +5147,12 @@
 .ibio-smart-usen:before { content: "\f217"; }
 .ibio-smartemailing:before { content: "\f36f"; }
 .ibio-smubu:before { content: "\f218"; }
+.ibio-smugmug:before { content: "\f393"; }
 .ibio-smule:before { content: "\f219"; }
 .ibio-snackvideo:before { content: "\f21a"; }
 .ibio-snortsocial:before { content: "\f21b"; }
 .ibio-soar-music-group:before { content: "\f21c"; }
+.ibio-sociabuzz:before { content: "\f394"; }
 .ibio-softball:before { content: "\f37f"; }
 .ibio-solid-state-records:before { content: "\f21d"; }
 .ibio-som-livre:before { content: "\f21e"; }
@@ -5296,6 +5315,7 @@
 .ibio-vernoshop:before { content: "\f2a0"; }
 .ibio-verve-forecast:before { content: "\f2a1"; }
 .ibio-verve-records:before { content: "\f2a2"; }
+.ibio-vgenco:before { content: "\f395"; }
 .ibio-vialma:before { content: "\f2a3"; }
 .ibio-viaplay:before { content: "\f2a4"; }
 .ibio-videociety:before { content: "\f2a5"; }
