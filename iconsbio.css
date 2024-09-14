@@ -4044,12 +4044,12 @@
 
 @font-face {
   font-family: "iconsbio2";
-  src: url("./iconsbio2_74bedd7154847f787c803ec65144ad88.eot");
-  src: url("./iconsbio2_74bedd7154847f787c803ec65144ad88.eot?#iefix") format("embedded-opentype"),
-       url("./iconsbio2_74bedd7154847f787c803ec65144ad88.woff2") format("woff2"),
-       url("./iconsbio2_74bedd7154847f787c803ec65144ad88.woff") format("woff"),
-       url("./iconsbio2_74bedd7154847f787c803ec65144ad88.ttf") format("truetype"),
-       url("./iconsbio2_74bedd7154847f787c803ec65144ad88.svg#iconsbio2") format("svg");
+  src: url("./iconsbio2_f662e9f9a231b444943a510b57203eaa.eot");
+  src: url("./iconsbio2_f662e9f9a231b444943a510b57203eaa.eot?#iefix") format("embedded-opentype"),
+       url("./iconsbio2_f662e9f9a231b444943a510b57203eaa.woff2") format("woff2"),
+       url("./iconsbio2_f662e9f9a231b444943a510b57203eaa.woff") format("woff"),
+       url("./iconsbio2_f662e9f9a231b444943a510b57203eaa.ttf") format("truetype"),
+       url("./iconsbio2_f662e9f9a231b444943a510b57203eaa.svg#iconsbio2") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -4057,7 +4057,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "iconsbio2";
-    src: url("./iconsbio2_74bedd7154847f787c803ec65144ad88.svg#iconsbio2") format("svg");
+    src: url("./iconsbio2_f662e9f9a231b444943a510b57203eaa.svg#iconsbio2") format("svg");
   }
 }
 
@@ -4180,6 +4180,10 @@
 .ibio-friendtok:before,
 .ibio-funanl:before,
 .ibio-gamerprofiles:before,
+.ibio-genericfile:before,
+.ibio-genericmusic:before,
+.ibio-genericphoto:before,
+.ibio-genericphotoalbum:before,
 .ibio-geneva:before,
 .ibio-geogebra:before,
 .ibio-gettr:before,
@@ -4854,6 +4858,10 @@
 .ibio-friendtok:before { content: "\f13d"; }
 .ibio-funanl:before { content: "\f13e"; }
 .ibio-gamerprofiles:before { content: "\f342"; }
+.ibio-genericfile:before { content: "\f396"; }
+.ibio-genericmusic:before { content: "\f397"; }
+.ibio-genericphoto:before { content: "\f398"; }
+.ibio-genericphotoalbum:before { content: "\f399"; }
 .ibio-geneva:before { content: "\f303"; }
 .ibio-geogebra:before { content: "\f360"; }
 .ibio-gettr:before { content: "\f389"; }
