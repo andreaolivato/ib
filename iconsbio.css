@@ -4044,12 +4044,12 @@
 
 @font-face {
   font-family: "iconsbio2";
-  src: url("./iconsbio2_f662e9f9a231b444943a510b57203eaa.eot");
-  src: url("./iconsbio2_f662e9f9a231b444943a510b57203eaa.eot?#iefix") format("embedded-opentype"),
-       url("./iconsbio2_f662e9f9a231b444943a510b57203eaa.woff2") format("woff2"),
-       url("./iconsbio2_f662e9f9a231b444943a510b57203eaa.woff") format("woff"),
-       url("./iconsbio2_f662e9f9a231b444943a510b57203eaa.ttf") format("truetype"),
-       url("./iconsbio2_f662e9f9a231b444943a510b57203eaa.svg#iconsbio2") format("svg");
+  src: url("./iconsbio2_5922cf39e9b425c696d5a7251d683ffd.eot");
+  src: url("./iconsbio2_5922cf39e9b425c696d5a7251d683ffd.eot?#iefix") format("embedded-opentype"),
+       url("./iconsbio2_5922cf39e9b425c696d5a7251d683ffd.woff2") format("woff2"),
+       url("./iconsbio2_5922cf39e9b425c696d5a7251d683ffd.woff") format("woff"),
+       url("./iconsbio2_5922cf39e9b425c696d5a7251d683ffd.ttf") format("truetype"),
+       url("./iconsbio2_5922cf39e9b425c696d5a7251d683ffd.svg#iconsbio2") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -4057,7 +4057,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "iconsbio2";
-    src: url("./iconsbio2_f662e9f9a231b444943a510b57203eaa.svg#iconsbio2") format("svg");
+    src: url("./iconsbio2_5922cf39e9b425c696d5a7251d683ffd.svg#iconsbio2") format("svg");
   }
 }
 
@@ -4203,6 +4203,7 @@
 .ibio-herbalife:before,
 .ibio-heroheroco:before,
 .ibio-hevy:before,
+.ibio-heyzine:before,
 .ibio-hipstamatic:before,
 .ibio-hivesocial:before,
 .ibio-humanitix:before,
@@ -4235,6 +4236,7 @@
 .ibio-langit-musik:before,
 .ibio-lapse:before,
 .ibio-lattescnpq:before,
+.ibio-laylo:before,
 .ibio-learnworlds:before,
 .ibio-leboncoin:before,
 .ibio-leetcode:before,
@@ -4881,6 +4883,7 @@
 .ibio-herbalife:before { content: "\f148"; }
 .ibio-heroheroco:before { content: "\f149"; }
 .ibio-hevy:before { content: "\f30d"; }
+.ibio-heyzine:before { content: "\f39a"; }
 .ibio-hipstamatic:before { content: "\f2ee"; }
 .ibio-hivesocial:before { content: "\f14a"; }
 .ibio-humanitix:before { content: "\f14b"; }
@@ -4913,6 +4916,7 @@
 .ibio-langit-musik:before { content: "\f163"; }
 .ibio-lapse:before { content: "\f332"; }
 .ibio-lattescnpq:before { content: "\f164"; }
+.ibio-laylo:before { content: "\f39b"; }
 .ibio-learnworlds:before { content: "\f165"; }
 .ibio-leboncoin:before { content: "\f166"; }
 .ibio-leetcode:before { content: "\f167"; }
