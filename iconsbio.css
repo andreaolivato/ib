@@ -4044,12 +4044,12 @@
 
 @font-face {
   font-family: "iconsbio2";
-  src: url("./iconsbio2_9a775301dbd2c2796617e79e67258c08.eot");
-  src: url("./iconsbio2_9a775301dbd2c2796617e79e67258c08.eot?#iefix") format("embedded-opentype"),
-       url("./iconsbio2_9a775301dbd2c2796617e79e67258c08.woff2") format("woff2"),
-       url("./iconsbio2_9a775301dbd2c2796617e79e67258c08.woff") format("woff"),
-       url("./iconsbio2_9a775301dbd2c2796617e79e67258c08.ttf") format("truetype"),
-       url("./iconsbio2_9a775301dbd2c2796617e79e67258c08.svg#iconsbio2") format("svg");
+  src: url("./iconsbio2_62bd750b6b2f7266dd8391a010443956.eot");
+  src: url("./iconsbio2_62bd750b6b2f7266dd8391a010443956.eot?#iefix") format("embedded-opentype"),
+       url("./iconsbio2_62bd750b6b2f7266dd8391a010443956.woff2") format("woff2"),
+       url("./iconsbio2_62bd750b6b2f7266dd8391a010443956.woff") format("woff"),
+       url("./iconsbio2_62bd750b6b2f7266dd8391a010443956.ttf") format("truetype"),
+       url("./iconsbio2_62bd750b6b2f7266dd8391a010443956.svg#iconsbio2") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -4057,7 +4057,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "iconsbio2";
-    src: url("./iconsbio2_9a775301dbd2c2796617e79e67258c08.svg#iconsbio2") format("svg");
+    src: url("./iconsbio2_62bd750b6b2f7266dd8391a010443956.svg#iconsbio2") format("svg");
   }
 }
 
@@ -4174,6 +4174,7 @@
 .ibio-ficfan:before,
 .ibio-fineartamerica:before,
 .ibio-five-rise-records:before,
+.ibio-fliphtml5:before,
 .ibio-flipsnack:before,
 .ibio-flo:before,
 .ibio-fluentcrm:before,
@@ -4861,6 +4862,7 @@
 .ibio-ficfan:before { content: "\f379"; }
 .ibio-fineartamerica:before { content: "\f139"; }
 .ibio-five-rise-records:before { content: "\f13a"; }
+.ibio-fliphtml5:before { content: "\f3a3"; }
 .ibio-flipsnack:before { content: "\f34d"; }
 .ibio-flo:before { content: "\f13b"; }
 .ibio-fluentcrm:before { content: "\f30c"; }
