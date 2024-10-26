@@ -4044,12 +4044,12 @@
 
 @font-face {
   font-family: "iconsbio2";
-  src: url("./iconsbio2_df74e2b3012b0460cbacb23e39d09e25.eot");
-  src: url("./iconsbio2_df74e2b3012b0460cbacb23e39d09e25.eot?#iefix") format("embedded-opentype"),
-       url("./iconsbio2_df74e2b3012b0460cbacb23e39d09e25.woff2") format("woff2"),
-       url("./iconsbio2_df74e2b3012b0460cbacb23e39d09e25.woff") format("woff"),
-       url("./iconsbio2_df74e2b3012b0460cbacb23e39d09e25.ttf") format("truetype"),
-       url("./iconsbio2_df74e2b3012b0460cbacb23e39d09e25.svg#iconsbio2") format("svg");
+  src: url("./iconsbio2_4d7c2eeef9bcd9bde90807d7351c4f75.eot");
+  src: url("./iconsbio2_4d7c2eeef9bcd9bde90807d7351c4f75.eot?#iefix") format("embedded-opentype"),
+       url("./iconsbio2_4d7c2eeef9bcd9bde90807d7351c4f75.woff2") format("woff2"),
+       url("./iconsbio2_4d7c2eeef9bcd9bde90807d7351c4f75.woff") format("woff"),
+       url("./iconsbio2_4d7c2eeef9bcd9bde90807d7351c4f75.ttf") format("truetype"),
+       url("./iconsbio2_4d7c2eeef9bcd9bde90807d7351c4f75.svg#iconsbio2") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -4057,7 +4057,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "iconsbio2";
-    src: url("./iconsbio2_df74e2b3012b0460cbacb23e39d09e25.svg#iconsbio2") format("svg");
+    src: url("./iconsbio2_4d7c2eeef9bcd9bde90807d7351c4f75.svg#iconsbio2") format("svg");
   }
 }
 
@@ -4182,6 +4182,7 @@
 .ibio-freshcut:before,
 .ibio-friendtok:before,
 .ibio-funanl:before,
+.ibio-g2reviews:before,
 .ibio-gamerprofiles:before,
 .ibio-genericfile:before,
 .ibio-genericmusic:before,
@@ -4479,6 +4480,7 @@
 .ibio-skool:before,
 .ibio-sky-go:before,
 .ibio-sky-tv:before,
+.ibio-slashdot:before,
 .ibio-slick:before,
 .ibio-slide-record-shop:before,
 .ibio-slowly:before,
@@ -4872,6 +4874,7 @@
 .ibio-freshcut:before { content: "\f13c"; }
 .ibio-friendtok:before { content: "\f13d"; }
 .ibio-funanl:before { content: "\f13e"; }
+.ibio-g2reviews:before { content: "\f3a6"; }
 .ibio-gamerprofiles:before { content: "\f342"; }
 .ibio-genericfile:before { content: "\f396"; }
 .ibio-genericmusic:before { content: "\f397"; }
@@ -5169,6 +5172,7 @@
 .ibio-skool:before { content: "\f334"; }
 .ibio-sky-go:before { content: "\f211"; }
 .ibio-sky-tv:before { content: "\f212"; }
+.ibio-slashdot:before { content: "\f3a7"; }
 .ibio-slick:before { content: "\f213"; }
 .ibio-slide-record-shop:before { content: "\f214"; }
 .ibio-slowly:before { content: "\f369"; }
