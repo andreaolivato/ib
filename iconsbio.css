@@ -4044,12 +4044,12 @@
 
 @font-face {
   font-family: "iconsbio2";
-  src: url("./iconsbio2_4d7c2eeef9bcd9bde90807d7351c4f75.eot");
-  src: url("./iconsbio2_4d7c2eeef9bcd9bde90807d7351c4f75.eot?#iefix") format("embedded-opentype"),
-       url("./iconsbio2_4d7c2eeef9bcd9bde90807d7351c4f75.woff2") format("woff2"),
-       url("./iconsbio2_4d7c2eeef9bcd9bde90807d7351c4f75.woff") format("woff"),
-       url("./iconsbio2_4d7c2eeef9bcd9bde90807d7351c4f75.ttf") format("truetype"),
-       url("./iconsbio2_4d7c2eeef9bcd9bde90807d7351c4f75.svg#iconsbio2") format("svg");
+  src: url("./iconsbio2_00859cda108bd68dc062244238abb368.eot");
+  src: url("./iconsbio2_00859cda108bd68dc062244238abb368.eot?#iefix") format("embedded-opentype"),
+       url("./iconsbio2_00859cda108bd68dc062244238abb368.woff2") format("woff2"),
+       url("./iconsbio2_00859cda108bd68dc062244238abb368.woff") format("woff"),
+       url("./iconsbio2_00859cda108bd68dc062244238abb368.ttf") format("truetype"),
+       url("./iconsbio2_00859cda108bd68dc062244238abb368.svg#iconsbio2") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -4057,7 +4057,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "iconsbio2";
-    src: url("./iconsbio2_4d7c2eeef9bcd9bde90807d7351c4f75.svg#iconsbio2") format("svg");
+    src: url("./iconsbio2_00859cda108bd68dc062244238abb368.svg#iconsbio2") format("svg");
   }
 }
 
@@ -4188,6 +4188,7 @@
 .ibio-genericmusic:before,
 .ibio-genericphoto:before,
 .ibio-genericphotoalbum:before,
+.ibio-genericvoting:before,
 .ibio-geneva:before,
 .ibio-geogebra:before,
 .ibio-gettr:before,
@@ -4219,6 +4220,7 @@
 .ibio-igsched:before,
 .ibio-igstory:before,
 .ibio-igsync:before,
+.ibio-inkblotart:before,
 .ibio-inkedgaming:before,
 .ibio-inkitt:before,
 .ibio-instagramchannel:before,
@@ -4226,6 +4228,7 @@
 .ibio-invitationcodes:before,
 .ibio-irc:before,
 .ibio-ircprotocol:before,
+.ibio-jamendo:before,
 .ibio-jimdo:before,
 .ibio-joinentre:before,
 .ibio-jooxmusic:before,
@@ -4298,6 +4301,7 @@
 .ibio-ncsmusic:before,
 .ibio-neobook:before,
 .ibio-neopets:before,
+.ibio-neoxon:before,
 .ibio-new-west-records:before,
 .ibio-nexon:before,
 .ibio-nftify:before,
@@ -4306,6 +4310,7 @@
 .ibio-noomvibe:before,
 .ibio-nostr:before,
 .ibio-notecom:before,
+.ibio-nuvemshop:before,
 .ibio-officephone:before,
 .ibio-omnisend:before,
 .ibio-opentable:before,
@@ -4324,6 +4329,7 @@
 .ibio-perrk:before,
 .ibio-piccadilly-records:before,
 .ibio-pie-vinyl:before,
+.ibio-pinterestboard:before,
 .ibio-pintplease:before,
 .ibio-pipedream:before,
 .ibio-plaid-room-records:before,
@@ -4430,6 +4436,7 @@
 .ibio-sandmilk:before,
 .ibio-sarbacane:before,
 .ibio-schnitzel-records:before,
+.ibio-scoopzvideo:before,
 .ibio-scopus:before,
 .ibio-scratchmitedu:before,
 .ibio-scribehow:before,
@@ -4658,6 +4665,7 @@
 .ibio-vernoshop:before,
 .ibio-verve-forecast:before,
 .ibio-verve-records:before,
+.ibio-vestiairecollective:before,
 .ibio-vgenco:before,
 .ibio-vialma:before,
 .ibio-viaplay:before,
@@ -4880,6 +4888,7 @@
 .ibio-genericmusic:before { content: "\f397"; }
 .ibio-genericphoto:before { content: "\f398"; }
 .ibio-genericphotoalbum:before { content: "\f399"; }
+.ibio-genericvoting:before { content: "\f3a8"; }
 .ibio-geneva:before { content: "\f303"; }
 .ibio-geogebra:before { content: "\f360"; }
 .ibio-gettr:before { content: "\f389"; }
@@ -4911,6 +4920,7 @@
 .ibio-igsched:before { content: "\f14f"; }
 .ibio-igstory:before { content: "\f150"; }
 .ibio-igsync:before { content: "\f151"; }
+.ibio-inkblotart:before { content: "\f3a9"; }
 .ibio-inkedgaming:before { content: "\f152"; }
 .ibio-inkitt:before { content: "\f326"; }
 .ibio-instagramchannel:before { content: "\f343"; }
@@ -4918,6 +4928,7 @@
 .ibio-invitationcodes:before { content: "\f154"; }
 .ibio-irc:before { content: "\f155"; }
 .ibio-ircprotocol:before { content: "\f156"; }
+.ibio-jamendo:before { content: "\f3aa"; }
 .ibio-jimdo:before { content: "\f157"; }
 .ibio-joinentre:before { content: "\f158"; }
 .ibio-jooxmusic:before { content: "\f159"; }
@@ -4990,6 +5001,7 @@
 .ibio-ncsmusic:before { content: "\f17f"; }
 .ibio-neobook:before { content: "\f346"; }
 .ibio-neopets:before { content: "\f180"; }
+.ibio-neoxon:before { content: "\f3ab"; }
 .ibio-new-west-records:before { content: "\f181"; }
 .ibio-nexon:before { content: "\f347"; }
 .ibio-nftify:before { content: "\f182"; }
@@ -4998,6 +5010,7 @@
 .ibio-noomvibe:before { content: "\f38f"; }
 .ibio-nostr:before { content: "\f183"; }
 .ibio-notecom:before { content: "\f184"; }
+.ibio-nuvemshop:before { content: "\f3ac"; }
 .ibio-officephone:before { content: "\f368"; }
 .ibio-omnisend:before { content: "\f2e9"; }
 .ibio-opentable:before { content: "\f185"; }
@@ -5016,6 +5029,7 @@
 .ibio-perrk:before { content: "\f2fd"; }
 .ibio-piccadilly-records:before { content: "\f18f"; }
 .ibio-pie-vinyl:before { content: "\f190"; }
+.ibio-pinterestboard:before { content: "\f3ad"; }
 .ibio-pintplease:before { content: "\f191"; }
 .ibio-pipedream:before { content: "\f306"; }
 .ibio-plaid-room-records:before { content: "\f192"; }
@@ -5122,6 +5136,7 @@
 .ibio-sandmilk:before { content: "\f1e9"; }
 .ibio-sarbacane:before { content: "\f35d"; }
 .ibio-schnitzel-records:before { content: "\f1ea"; }
+.ibio-scoopzvideo:before { content: "\f3ae"; }
 .ibio-scopus:before { content: "\f1eb"; }
 .ibio-scratchmitedu:before { content: "\f1ec"; }
 .ibio-scribehow:before { content: "\f320"; }
@@ -5350,6 +5365,7 @@
 .ibio-vernoshop:before { content: "\f2a0"; }
 .ibio-verve-forecast:before { content: "\f2a1"; }
 .ibio-verve-records:before { content: "\f2a2"; }
+.ibio-vestiairecollective:before { content: "\f3af"; }
 .ibio-vgenco:before { content: "\f395"; }
 .ibio-vialma:before { content: "\f2a3"; }
 .ibio-viaplay:before { content: "\f2a4"; }
