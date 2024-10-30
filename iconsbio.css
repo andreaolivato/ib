@@ -4044,12 +4044,12 @@
 
 @font-face {
   font-family: "iconsbio2";
-  src: url("./iconsbio2_00859cda108bd68dc062244238abb368.eot");
-  src: url("./iconsbio2_00859cda108bd68dc062244238abb368.eot?#iefix") format("embedded-opentype"),
-       url("./iconsbio2_00859cda108bd68dc062244238abb368.woff2") format("woff2"),
-       url("./iconsbio2_00859cda108bd68dc062244238abb368.woff") format("woff"),
-       url("./iconsbio2_00859cda108bd68dc062244238abb368.ttf") format("truetype"),
-       url("./iconsbio2_00859cda108bd68dc062244238abb368.svg#iconsbio2") format("svg");
+  src: url("./iconsbio2_d6dfe1b2603447c879c42b2dbe4a8bab.eot");
+  src: url("./iconsbio2_d6dfe1b2603447c879c42b2dbe4a8bab.eot?#iefix") format("embedded-opentype"),
+       url("./iconsbio2_d6dfe1b2603447c879c42b2dbe4a8bab.woff2") format("woff2"),
+       url("./iconsbio2_d6dfe1b2603447c879c42b2dbe4a8bab.woff") format("woff"),
+       url("./iconsbio2_d6dfe1b2603447c879c42b2dbe4a8bab.ttf") format("truetype"),
+       url("./iconsbio2_d6dfe1b2603447c879c42b2dbe4a8bab.svg#iconsbio2") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -4057,7 +4057,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "iconsbio2";
-    src: url("./iconsbio2_00859cda108bd68dc062244238abb368.svg#iconsbio2") format("svg");
+    src: url("./iconsbio2_d6dfe1b2603447c879c42b2dbe4a8bab.svg#iconsbio2") format("svg");
   }
 }
 
@@ -4691,6 +4691,7 @@
 .ibio-warner-music:before,
 .ibio-warpcast:before,
 .ibio-waterloo-records:before,
+.ibio-wavekitapp:before,
 .ibio-we-are-vinyl:before,
 .ibio-webofscience:before,
 .ibio-wechatchannels:before,
@@ -4707,6 +4708,7 @@
 .ibio-what-records:before,
 .ibio-whatsappchannel:before,
 .ibio-whatsappgroup:before,
+.ibio-whypit:before,
 .ibio-wichita-recordings:before,
 .ibio-wikiloc:before,
 .ibio-wildberries:before,
@@ -5391,6 +5393,7 @@
 .ibio-warner-music:before { content: "\f2b7"; }
 .ibio-warpcast:before { content: "\f36a"; }
 .ibio-waterloo-records:before { content: "\f2b8"; }
+.ibio-wavekitapp:before { content: "\f3b0"; }
 .ibio-we-are-vinyl:before { content: "\f2b9"; }
 .ibio-webofscience:before { content: "\f2ba"; }
 .ibio-wechatchannels:before { content: "\f351"; }
@@ -5407,6 +5410,7 @@
 .ibio-what-records:before { content: "\f2c3"; }
 .ibio-whatsappchannel:before { content: "\f34b"; }
 .ibio-whatsappgroup:before { content: "\f327"; }
+.ibio-whypit:before { content: "\f3b1"; }
 .ibio-wichita-recordings:before { content: "\f2c4"; }
 .ibio-wikiloc:before { content: "\f2c5"; }
 .ibio-wildberries:before { content: "\f375"; }
