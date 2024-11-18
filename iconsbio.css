@@ -4044,12 +4044,12 @@
 
 @font-face {
   font-family: "iconsbio2";
-  src: url("./iconsbio2_739c778e400675ebb7d8395bb20975d3.eot");
-  src: url("./iconsbio2_739c778e400675ebb7d8395bb20975d3.eot?#iefix") format("embedded-opentype"),
-       url("./iconsbio2_739c778e400675ebb7d8395bb20975d3.woff2") format("woff2"),
-       url("./iconsbio2_739c778e400675ebb7d8395bb20975d3.woff") format("woff"),
-       url("./iconsbio2_739c778e400675ebb7d8395bb20975d3.ttf") format("truetype"),
-       url("./iconsbio2_739c778e400675ebb7d8395bb20975d3.svg#iconsbio2") format("svg");
+  src: url("./iconsbio2_39801b9d4d229f012ccac9f2d34aca49.eot");
+  src: url("./iconsbio2_39801b9d4d229f012ccac9f2d34aca49.eot?#iefix") format("embedded-opentype"),
+       url("./iconsbio2_39801b9d4d229f012ccac9f2d34aca49.woff2") format("woff2"),
+       url("./iconsbio2_39801b9d4d229f012ccac9f2d34aca49.woff") format("woff"),
+       url("./iconsbio2_39801b9d4d229f012ccac9f2d34aca49.ttf") format("truetype"),
+       url("./iconsbio2_39801b9d4d229f012ccac9f2d34aca49.svg#iconsbio2") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -4057,7 +4057,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "iconsbio2";
-    src: url("./iconsbio2_739c778e400675ebb7d8395bb20975d3.svg#iconsbio2") format("svg");
+    src: url("./iconsbio2_39801b9d4d229f012ccac9f2d34aca49.svg#iconsbio2") format("svg");
   }
 }
 
@@ -4101,6 +4101,7 @@
 .ibio-book:before,
 .ibio-book-of-the-month:before,
 .ibio-bookdinners:before,
+.ibio-bookeo:before,
 .ibio-booknet:before,
 .ibio-booknode:before,
 .ibio-booksirens:before,
@@ -4805,6 +4806,7 @@
 .ibio-book:before { content: "\f113"; }
 .ibio-book-of-the-month:before { content: "\f114"; }
 .ibio-bookdinners:before { content: "\f2fa"; }
+.ibio-bookeo:before { content: "\f3b4"; }
 .ibio-booknet:before { content: "\f38c"; }
 .ibio-booknode:before { content: "\f337"; }
 .ibio-booksirens:before { content: "\f302"; }
