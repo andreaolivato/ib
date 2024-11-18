@@ -4044,12 +4044,12 @@
 
 @font-face {
   font-family: "iconsbio2";
-  src: url("./iconsbio2_39801b9d4d229f012ccac9f2d34aca49.eot");
-  src: url("./iconsbio2_39801b9d4d229f012ccac9f2d34aca49.eot?#iefix") format("embedded-opentype"),
-       url("./iconsbio2_39801b9d4d229f012ccac9f2d34aca49.woff2") format("woff2"),
-       url("./iconsbio2_39801b9d4d229f012ccac9f2d34aca49.woff") format("woff"),
-       url("./iconsbio2_39801b9d4d229f012ccac9f2d34aca49.ttf") format("truetype"),
-       url("./iconsbio2_39801b9d4d229f012ccac9f2d34aca49.svg#iconsbio2") format("svg");
+  src: url("./iconsbio2_63614c9f76419da7b5d7bce00bd6d7d4.eot");
+  src: url("./iconsbio2_63614c9f76419da7b5d7bce00bd6d7d4.eot?#iefix") format("embedded-opentype"),
+       url("./iconsbio2_63614c9f76419da7b5d7bce00bd6d7d4.woff2") format("woff2"),
+       url("./iconsbio2_63614c9f76419da7b5d7bce00bd6d7d4.woff") format("woff"),
+       url("./iconsbio2_63614c9f76419da7b5d7bce00bd6d7d4.ttf") format("truetype"),
+       url("./iconsbio2_63614c9f76419da7b5d7bce00bd6d7d4.svg#iconsbio2") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -4057,7 +4057,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "iconsbio2";
-    src: url("./iconsbio2_39801b9d4d229f012ccac9f2d34aca49.svg#iconsbio2") format("svg");
+    src: url("./iconsbio2_63614c9f76419da7b5d7bce00bd6d7d4.svg#iconsbio2") format("svg");
   }
 }
 
@@ -4066,6 +4066,7 @@
 [data-icon]:before,
 .ibio-3cketcom:before,
 .ibio-99designs:before,
+.ibio-ablefy:before,
 .ibio-accupass:before,
 .ibio-activecampaign:before,
 .ibio-activision:before,
@@ -4120,7 +4121,9 @@
 .ibio-campaignmonitor:before,
 .ibio-capcut:before,
 .ibio-caraapp:before,
+.ibio-cerqular:before,
 .ibio-channelio:before,
+.ibio-characterai:before,
 .ibio-chattersocial:before,
 .ibio-cifra:before,
 .ibio-circlmobility:before,
@@ -4150,12 +4153,15 @@
 .ibio-domestika:before,
 .ibio-doneru:before,
 .ibio-doordash:before,
+.ibio-draugiem:before,
 .ibio-drip:before,
 .ibio-dubsado:before,
+.ibio-dzen:before,
 .ibio-easports:before,
 .ibio-echobox:before,
 .ibio-ecomail:before,
 .ibio-edmtrain:before,
+.ibio-eduki:before,
 .ibio-effectivealtruism:before,
 .ibio-elfsight:before,
 .ibio-elfster:before,
@@ -4163,6 +4169,7 @@
 .ibio-enjoeibr:before,
 .ibio-envato:before,
 .ibio-etoro:before,
+.ibio-europass:before,
 .ibio-eventix:before,
 .ibio-ezbio:before,
 .ibio-f6s:before,
@@ -4200,6 +4207,7 @@
 .ibio-ghostorg-circle:before,
 .ibio-gifty:before,
 .ibio-givecampus:before,
+.ibio-globalsisters:before,
 .ibio-gmail:before,
 .ibio-gofoodindonesia:before,
 .ibio-gohighlevel:before,
@@ -4615,6 +4623,7 @@
 .ibio-touchapp:before,
 .ibio-touchngo:before,
 .ibio-toutiao:before,
+.ibio-toysrus:before,
 .ibio-trackdrip:before,
 .ibio-trackitdown:before,
 .ibio-trakteer:before,
@@ -4771,6 +4780,7 @@
 
 .ibio-3cketcom:before { content: "\f308"; }
 .ibio-99designs:before { content: "\f309"; }
+.ibio-ablefy:before { content: "\f3b5"; }
 .ibio-accupass:before { content: "\f100"; }
 .ibio-activecampaign:before { content: "\f101"; }
 .ibio-activision:before { content: "\f102"; }
@@ -4825,7 +4835,9 @@
 .ibio-campaignmonitor:before { content: "\f2f7"; }
 .ibio-capcut:before { content: "\f11b"; }
 .ibio-caraapp:before { content: "\f357"; }
+.ibio-cerqular:before { content: "\f3b6"; }
 .ibio-channelio:before { content: "\f11c"; }
+.ibio-characterai:before { content: "\f3b7"; }
 .ibio-chattersocial:before { content: "\f372"; }
 .ibio-cifra:before { content: "\f31b"; }
 .ibio-circlmobility:before { content: "\f341"; }
@@ -4855,12 +4867,15 @@
 .ibio-domestika:before { content: "\f129"; }
 .ibio-doneru:before { content: "\f12a"; }
 .ibio-doordash:before { content: "\f12b"; }
+.ibio-draugiem:before { content: "\f3b8"; }
 .ibio-drip:before { content: "\f2f5"; }
 .ibio-dubsado:before { content: "\f384"; }
+.ibio-dzen:before { content: "\f3b9"; }
 .ibio-easports:before { content: "\f12c"; }
 .ibio-echobox:before { content: "\f3b3"; }
 .ibio-ecomail:before { content: "\f12d"; }
 .ibio-edmtrain:before { content: "\f12e"; }
+.ibio-eduki:before { content: "\f3ba"; }
 .ibio-effectivealtruism:before { content: "\f12f"; }
 .ibio-elfsight:before { content: "\f33d"; }
 .ibio-elfster:before { content: "\f38d"; }
@@ -4868,6 +4883,7 @@
 .ibio-enjoeibr:before { content: "\f131"; }
 .ibio-envato:before { content: "\f132"; }
 .ibio-etoro:before { content: "\f30b"; }
+.ibio-europass:before { content: "\f3bb"; }
 .ibio-eventix:before { content: "\f133"; }
 .ibio-ezbio:before { content: "\f134"; }
 .ibio-f6s:before { content: "\f135"; }
@@ -4905,6 +4921,7 @@
 .ibio-ghostorg-circle:before { content: "\f140"; }
 .ibio-gifty:before { content: "\f2fc"; }
 .ibio-givecampus:before { content: "\f141"; }
+.ibio-globalsisters:before { content: "\f3bc"; }
 .ibio-gmail:before { content: "\f142"; }
 .ibio-gofoodindonesia:before { content: "\f373"; }
 .ibio-gohighlevel:before { content: "\f39c"; }
@@ -5320,6 +5337,7 @@
 .ibio-touchapp:before { content: "\f275"; }
 .ibio-touchngo:before { content: "\f365"; }
 .ibio-toutiao:before { content: "\f350"; }
+.ibio-toysrus:before { content: "\f3bd"; }
 .ibio-trackdrip:before { content: "\f276"; }
 .ibio-trackitdown:before { content: "\f277"; }
 .ibio-trakteer:before { content: "\f314"; }
