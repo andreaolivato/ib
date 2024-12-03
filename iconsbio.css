@@ -4044,12 +4044,12 @@
 
 @font-face {
   font-family: "iconsbio2";
-  src: url("./iconsbio2_e73cd5148ec9913c8475ac6ef6500867.eot");
-  src: url("./iconsbio2_e73cd5148ec9913c8475ac6ef6500867.eot?#iefix") format("embedded-opentype"),
-       url("./iconsbio2_e73cd5148ec9913c8475ac6ef6500867.woff2") format("woff2"),
-       url("./iconsbio2_e73cd5148ec9913c8475ac6ef6500867.woff") format("woff"),
-       url("./iconsbio2_e73cd5148ec9913c8475ac6ef6500867.ttf") format("truetype"),
-       url("./iconsbio2_e73cd5148ec9913c8475ac6ef6500867.svg#iconsbio2") format("svg");
+  src: url("./iconsbio2_ba5cecc571309fa561d70045b6dc1d34.eot");
+  src: url("./iconsbio2_ba5cecc571309fa561d70045b6dc1d34.eot?#iefix") format("embedded-opentype"),
+       url("./iconsbio2_ba5cecc571309fa561d70045b6dc1d34.woff2") format("woff2"),
+       url("./iconsbio2_ba5cecc571309fa561d70045b6dc1d34.woff") format("woff"),
+       url("./iconsbio2_ba5cecc571309fa561d70045b6dc1d34.ttf") format("truetype"),
+       url("./iconsbio2_ba5cecc571309fa561d70045b6dc1d34.svg#iconsbio2") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -4057,7 +4057,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "iconsbio2";
-    src: url("./iconsbio2_e73cd5148ec9913c8475ac6ef6500867.svg#iconsbio2") format("svg");
+    src: url("./iconsbio2_ba5cecc571309fa561d70045b6dc1d34.svg#iconsbio2") format("svg");
   }
 }
 
@@ -4089,9 +4089,11 @@
 .ibio-audiotool:before,
 .ibio-aweber:before,
 .ibio-backloggd:before,
+.ibio-bbcsounds:before,
 .ibio-beatport:before,
 .ibio-beehiiv:before,
 .ibio-belletristica:before,
+.ibio-benable:before,
 .ibio-bitview:before,
 .ibio-bizum:before,
 .ibio-bluesky:before,
@@ -4205,6 +4207,7 @@
 .ibio-getyourguide:before,
 .ibio-ghostorg-alt:before,
 .ibio-ghostorg-circle:before,
+.ibio-giftful:before,
 .ibio-gifty:before,
 .ibio-givecampus:before,
 .ibio-globalsisters:before,
@@ -4334,6 +4337,7 @@
 .ibio-paragraphxyz:before,
 .ibio-parler:before,
 .ibio-particom:before,
+.ibio-patronite:before,
 .ibio-paypay:before,
 .ibio-paysafecard:before,
 .ibio-pebbleis:before,
@@ -4543,6 +4547,7 @@
 .ibio-spring:before,
 .ibio-sqlserver:before,
 .ibio-squadratscom:before,
+.ibio-squidgeworld:before,
 .ibio-srf:before,
 .ibio-stage-entertainment:before,
 .ibio-standaard-boekhadel:before,
@@ -4806,9 +4811,11 @@
 .ibio-audiotool:before { content: "\f10c"; }
 .ibio-aweber:before { content: "\f10d"; }
 .ibio-backloggd:before { content: "\f2eb"; }
+.ibio-bbcsounds:before { content: "\f3c1"; }
 .ibio-beatport:before { content: "\f10e"; }
 .ibio-beehiiv:before { content: "\f10f"; }
 .ibio-belletristica:before { content: "\f33f"; }
+.ibio-benable:before { content: "\f3c2"; }
 .ibio-bitview:before { content: "\f301"; }
 .ibio-bizum:before { content: "\f377"; }
 .ibio-bluesky:before { content: "\f110"; }
@@ -4922,6 +4929,7 @@
 .ibio-getyourguide:before { content: "\f31f"; }
 .ibio-ghostorg-alt:before { content: "\f13f"; }
 .ibio-ghostorg-circle:before { content: "\f140"; }
+.ibio-giftful:before { content: "\f3c3"; }
 .ibio-gifty:before { content: "\f2fc"; }
 .ibio-givecampus:before { content: "\f141"; }
 .ibio-globalsisters:before { content: "\f3bc"; }
@@ -5051,6 +5059,7 @@
 .ibio-paragraphxyz:before { content: "\f390"; }
 .ibio-parler:before { content: "\f38a"; }
 .ibio-particom:before { content: "\f3be"; }
+.ibio-patronite:before { content: "\f3c4"; }
 .ibio-paypay:before { content: "\f18b"; }
 .ibio-paysafecard:before { content: "\f18c"; }
 .ibio-pebbleis:before { content: "\f18d"; }
@@ -5260,6 +5269,7 @@
 .ibio-spring:before { content: "\f3a5"; }
 .ibio-sqlserver:before { content: "\f363"; }
 .ibio-squadratscom:before { content: "\f22f"; }
+.ibio-squidgeworld:before { content: "\f3c5"; }
 .ibio-srf:before { content: "\f230"; }
 .ibio-stage-entertainment:before { content: "\f231"; }
 .ibio-standaard-boekhadel:before { content: "\f232"; }
