@@ -4,12 +4,12 @@
 
 @font-face {
   font-family: "iconsbio1";
-  src: url("./iconsbio1_f3b37ceb41f2dcc7c77f853b48cb869b.eot");
-  src: url("./iconsbio1_f3b37ceb41f2dcc7c77f853b48cb869b.eot?#iefix") format("embedded-opentype"),
-       url("./iconsbio1_f3b37ceb41f2dcc7c77f853b48cb869b.woff2") format("woff2"),
-       url("./iconsbio1_f3b37ceb41f2dcc7c77f853b48cb869b.woff") format("woff"),
-       url("./iconsbio1_f3b37ceb41f2dcc7c77f853b48cb869b.ttf") format("truetype"),
-       url("./iconsbio1_f3b37ceb41f2dcc7c77f853b48cb869b.svg#iconsbio1") format("svg");
+  src: url("./iconsbio1_a7a1c47ee023f21ca8c54e14f1b37146.eot");
+  src: url("./iconsbio1_a7a1c47ee023f21ca8c54e14f1b37146.eot?#iefix") format("embedded-opentype"),
+       url("./iconsbio1_a7a1c47ee023f21ca8c54e14f1b37146.woff2") format("woff2"),
+       url("./iconsbio1_a7a1c47ee023f21ca8c54e14f1b37146.woff") format("woff"),
+       url("./iconsbio1_a7a1c47ee023f21ca8c54e14f1b37146.ttf") format("truetype"),
+       url("./iconsbio1_a7a1c47ee023f21ca8c54e14f1b37146.svg#iconsbio1") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -17,7 +17,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "iconsbio1";
-    src: url("./iconsbio1_f3b37ceb41f2dcc7c77f853b48cb869b.svg#iconsbio1") format("svg");
+    src: url("./iconsbio1_a7a1c47ee023f21ca8c54e14f1b37146.svg#iconsbio1") format("svg");
   }
 }
 
