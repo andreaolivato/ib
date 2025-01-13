@@ -4044,12 +4044,12 @@
 
 @font-face {
   font-family: "iconsbio2";
-  src: url("./iconsbio2_3400191be14d13be31fcd59f427b765d.eot");
-  src: url("./iconsbio2_3400191be14d13be31fcd59f427b765d.eot?#iefix") format("embedded-opentype"),
-       url("./iconsbio2_3400191be14d13be31fcd59f427b765d.woff2") format("woff2"),
-       url("./iconsbio2_3400191be14d13be31fcd59f427b765d.woff") format("woff"),
-       url("./iconsbio2_3400191be14d13be31fcd59f427b765d.ttf") format("truetype"),
-       url("./iconsbio2_3400191be14d13be31fcd59f427b765d.svg#iconsbio2") format("svg");
+  src: url("./iconsbio2_42b880ebbe305046e6cc88e5a703880d.eot");
+  src: url("./iconsbio2_42b880ebbe305046e6cc88e5a703880d.eot?#iefix") format("embedded-opentype"),
+       url("./iconsbio2_42b880ebbe305046e6cc88e5a703880d.woff2") format("woff2"),
+       url("./iconsbio2_42b880ebbe305046e6cc88e5a703880d.woff") format("woff"),
+       url("./iconsbio2_42b880ebbe305046e6cc88e5a703880d.ttf") format("truetype"),
+       url("./iconsbio2_42b880ebbe305046e6cc88e5a703880d.svg#iconsbio2") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -4057,7 +4057,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "iconsbio2";
-    src: url("./iconsbio2_3400191be14d13be31fcd59f427b765d.svg#iconsbio2") format("svg");
+    src: url("./iconsbio2_42b880ebbe305046e6cc88e5a703880d.svg#iconsbio2") format("svg");
   }
 }
 
@@ -4072,6 +4072,7 @@
 .ibio-activision:before,
 .ibio-advisorycloud:before,
 .ibio-airchat:before,
+.ibio-alignable:before,
 .ibio-alleventsin:before,
 .ibio-alltrails:before,
 .ibio-aluacom:before,
@@ -4212,7 +4213,9 @@
 .ibio-ghostorg-circle:before,
 .ibio-giftful:before,
 .ibio-gifty:before,
+.ibio-gitbook:before,
 .ibio-givecampus:before,
+.ibio-glassphoto:before,
 .ibio-globalsisters:before,
 .ibio-gmail:before,
 .ibio-gofoodindonesia:before,
@@ -4803,6 +4806,7 @@
 .ibio-activision:before { content: "\f102"; }
 .ibio-advisorycloud:before { content: "\f103"; }
 .ibio-airchat:before { content: "\f316"; }
+.ibio-alignable:before { content: "\f3cf"; }
 .ibio-alleventsin:before { content: "\f2f9"; }
 .ibio-alltrails:before { content: "\f104"; }
 .ibio-aluacom:before { content: "\f30a"; }
@@ -4943,7 +4947,9 @@
 .ibio-ghostorg-circle:before { content: "\f140"; }
 .ibio-giftful:before { content: "\f3c3"; }
 .ibio-gifty:before { content: "\f2fc"; }
+.ibio-gitbook:before { content: "\f3d0"; }
 .ibio-givecampus:before { content: "\f141"; }
+.ibio-glassphoto:before { content: "\f3d1"; }
 .ibio-globalsisters:before { content: "\f3bc"; }
 .ibio-gmail:before { content: "\f142"; }
 .ibio-gofoodindonesia:before { content: "\f373"; }
