@@ -4044,12 +4044,12 @@
 
 @font-face {
   font-family: "iconsbio2";
-  src: url("./iconsbio2_31f3e11f7cd28a0e6e97f7b74a352939.eot");
-  src: url("./iconsbio2_31f3e11f7cd28a0e6e97f7b74a352939.eot?#iefix") format("embedded-opentype"),
-       url("./iconsbio2_31f3e11f7cd28a0e6e97f7b74a352939.woff2") format("woff2"),
-       url("./iconsbio2_31f3e11f7cd28a0e6e97f7b74a352939.woff") format("woff"),
-       url("./iconsbio2_31f3e11f7cd28a0e6e97f7b74a352939.ttf") format("truetype"),
-       url("./iconsbio2_31f3e11f7cd28a0e6e97f7b74a352939.svg#iconsbio2") format("svg");
+  src: url("./iconsbio2_be7ea42bec5ce44492fc05d5dea32587.eot");
+  src: url("./iconsbio2_be7ea42bec5ce44492fc05d5dea32587.eot?#iefix") format("embedded-opentype"),
+       url("./iconsbio2_be7ea42bec5ce44492fc05d5dea32587.woff2") format("woff2"),
+       url("./iconsbio2_be7ea42bec5ce44492fc05d5dea32587.woff") format("woff"),
+       url("./iconsbio2_be7ea42bec5ce44492fc05d5dea32587.ttf") format("truetype"),
+       url("./iconsbio2_be7ea42bec5ce44492fc05d5dea32587.svg#iconsbio2") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -4057,7 +4057,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "iconsbio2";
-    src: url("./iconsbio2_31f3e11f7cd28a0e6e97f7b74a352939.svg#iconsbio2") format("svg");
+    src: url("./iconsbio2_be7ea42bec5ce44492fc05d5dea32587.svg#iconsbio2") format("svg");
   }
 }
 
@@ -4704,6 +4704,7 @@
 .ibio-viaplay:before,
 .ibio-videociety:before,
 .ibio-videoload:before,
+.ibio-vidyard:before,
 .ibio-village-live-records:before,
 .ibio-village-sounds:before,
 .ibio-vinilo-record-store:before,
@@ -5440,6 +5441,7 @@
 .ibio-viaplay:before { content: "\f2a4"; }
 .ibio-videociety:before { content: "\f2a5"; }
 .ibio-videoload:before { content: "\f2a6"; }
+.ibio-vidyard:before { content: "\f3d4"; }
 .ibio-village-live-records:before { content: "\f2a7"; }
 .ibio-village-sounds:before { content: "\f2a8"; }
 .ibio-vinilo-record-store:before { content: "\f2a9"; }
