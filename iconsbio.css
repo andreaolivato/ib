@@ -4044,12 +4044,12 @@
 
 @font-face {
   font-family: "iconsbio2";
-  src: url("./iconsbio2_be7ea42bec5ce44492fc05d5dea32587.eot");
-  src: url("./iconsbio2_be7ea42bec5ce44492fc05d5dea32587.eot?#iefix") format("embedded-opentype"),
-       url("./iconsbio2_be7ea42bec5ce44492fc05d5dea32587.woff2") format("woff2"),
-       url("./iconsbio2_be7ea42bec5ce44492fc05d5dea32587.woff") format("woff"),
-       url("./iconsbio2_be7ea42bec5ce44492fc05d5dea32587.ttf") format("truetype"),
-       url("./iconsbio2_be7ea42bec5ce44492fc05d5dea32587.svg#iconsbio2") format("svg");
+  src: url("./iconsbio2_a9b246ed85e07108445360134e076b0f.eot");
+  src: url("./iconsbio2_a9b246ed85e07108445360134e076b0f.eot?#iefix") format("embedded-opentype"),
+       url("./iconsbio2_a9b246ed85e07108445360134e076b0f.woff2") format("woff2"),
+       url("./iconsbio2_a9b246ed85e07108445360134e076b0f.woff") format("woff"),
+       url("./iconsbio2_a9b246ed85e07108445360134e076b0f.ttf") format("truetype"),
+       url("./iconsbio2_a9b246ed85e07108445360134e076b0f.svg#iconsbio2") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -4057,7 +4057,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "iconsbio2";
-    src: url("./iconsbio2_be7ea42bec5ce44492fc05d5dea32587.svg#iconsbio2") format("svg");
+    src: url("./iconsbio2_a9b246ed85e07108445360134e076b0f.svg#iconsbio2") format("svg");
   }
 }
 
@@ -4226,6 +4226,7 @@
 .ibio-googleanalytics:before,
 .ibio-googlemeet:before,
 .ibio-grainery:before,
+.ibio-grid34:before,
 .ibio-hearnow:before,
 .ibio-helpdogai:before,
 .ibio-herbalife:before,
@@ -4963,6 +4964,7 @@
 .ibio-googleanalytics:before { content: "\f144"; }
 .ibio-googlemeet:before { content: "\f145"; }
 .ibio-grainery:before { content: "\f146"; }
+.ibio-grid34:before { content: "\f3d5"; }
 .ibio-hearnow:before { content: "\f147"; }
 .ibio-helpdogai:before { content: "\f3a4"; }
 .ibio-herbalife:before { content: "\f148"; }
