@@ -4044,12 +4044,12 @@
 
 @font-face {
   font-family: "iconsbio2";
-  src: url("./iconsbio2_a9b246ed85e07108445360134e076b0f.eot");
-  src: url("./iconsbio2_a9b246ed85e07108445360134e076b0f.eot?#iefix") format("embedded-opentype"),
-       url("./iconsbio2_a9b246ed85e07108445360134e076b0f.woff2") format("woff2"),
-       url("./iconsbio2_a9b246ed85e07108445360134e076b0f.woff") format("woff"),
-       url("./iconsbio2_a9b246ed85e07108445360134e076b0f.ttf") format("truetype"),
-       url("./iconsbio2_a9b246ed85e07108445360134e076b0f.svg#iconsbio2") format("svg");
+  src: url("./iconsbio2_0ace364117a3bf29fa6e1c8d20c49df0.eot");
+  src: url("./iconsbio2_0ace364117a3bf29fa6e1c8d20c49df0.eot?#iefix") format("embedded-opentype"),
+       url("./iconsbio2_0ace364117a3bf29fa6e1c8d20c49df0.woff2") format("woff2"),
+       url("./iconsbio2_0ace364117a3bf29fa6e1c8d20c49df0.woff") format("woff"),
+       url("./iconsbio2_0ace364117a3bf29fa6e1c8d20c49df0.ttf") format("truetype"),
+       url("./iconsbio2_0ace364117a3bf29fa6e1c8d20c49df0.svg#iconsbio2") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -4057,7 +4057,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "iconsbio2";
-    src: url("./iconsbio2_a9b246ed85e07108445360134e076b0f.svg#iconsbio2") format("svg");
+    src: url("./iconsbio2_0ace364117a3bf29fa6e1c8d20c49df0.svg#iconsbio2") format("svg");
   }
 }
 
@@ -4151,6 +4151,7 @@
 .ibio-deliveroo:before,
 .ibio-dhgate:before,
 .ibio-diamondapp:before,
+.ibio-difyai:before,
 .ibio-difyshare:before,
 .ibio-digistore24:before,
 .ibio-dnldnft:before,
@@ -4275,6 +4276,7 @@
 .ibio-lemonsqueezy:before,
 .ibio-lensxyz:before,
 .ibio-leonardoai:before,
+.ibio-letyshops:before,
 .ibio-liberapay:before,
 .ibio-linedashed:before,
 .ibio-linesolid:before,
@@ -4282,6 +4284,7 @@
 .ibio-linesolidthickest:before,
 .ibio-linkme:before,
 .ibio-listmonk:before,
+.ibio-live365:before,
 .ibio-livechat:before,
 .ibio-lnkbio:before,
 .ibio-lnkbio-circle:before,
@@ -4299,6 +4302,7 @@
 .ibio-make:before,
 .ibio-marppleshop:before,
 .ibio-matrimoniocom:before,
+.ibio-matterport:before,
 .ibio-medibang:before,
 .ibio-medibangcom:before,
 .ibio-meesho:before,
@@ -4344,6 +4348,7 @@
 .ibio-outlook:before,
 .ibio-pabbly:before,
 .ibio-pangobooks:before,
+.ibio-panodyssey:before,
 .ibio-paperpie:before,
 .ibio-paragraphxyz:before,
 .ibio-parler:before,
@@ -4889,6 +4894,7 @@
 .ibio-deliveroo:before { content: "\f125"; }
 .ibio-dhgate:before { content: "\f126"; }
 .ibio-diamondapp:before { content: "\f127"; }
+.ibio-difyai:before { content: "\f3d6"; }
 .ibio-difyshare:before { content: "\f3ce"; }
 .ibio-digistore24:before { content: "\f128"; }
 .ibio-dnldnft:before { content: "\f32a"; }
@@ -5013,6 +5019,7 @@
 .ibio-lemonsqueezy:before { content: "\f169"; }
 .ibio-lensxyz:before { content: "\f333"; }
 .ibio-leonardoai:before { content: "\f31d"; }
+.ibio-letyshops:before { content: "\f3d7"; }
 .ibio-liberapay:before { content: "\f16a"; }
 .ibio-linedashed:before { content: "\f338"; }
 .ibio-linesolid:before { content: "\f339"; }
@@ -5020,6 +5027,7 @@
 .ibio-linesolidthickest:before { content: "\f33b"; }
 .ibio-linkme:before { content: "\f16b"; }
 .ibio-listmonk:before { content: "\f36d"; }
+.ibio-live365:before { content: "\f3d8"; }
 .ibio-livechat:before { content: "\f16c"; }
 .ibio-lnkbio:before { content: "\f16d"; }
 .ibio-lnkbio-circle:before { content: "\f16e"; }
@@ -5037,6 +5045,7 @@
 .ibio-make:before { content: "\f175"; }
 .ibio-marppleshop:before { content: "\f37a"; }
 .ibio-matrimoniocom:before { content: "\f361"; }
+.ibio-matterport:before { content: "\f3d9"; }
 .ibio-medibang:before { content: "\f37b"; }
 .ibio-medibangcom:before { content: "\f383"; }
 .ibio-meesho:before { content: "\f3cb"; }
@@ -5082,6 +5091,7 @@
 .ibio-outlook:before { content: "\f187"; }
 .ibio-pabbly:before { content: "\f188"; }
 .ibio-pangobooks:before { content: "\f189"; }
+.ibio-panodyssey:before { content: "\f3da"; }
 .ibio-paperpie:before { content: "\f18a"; }
 .ibio-paragraphxyz:before { content: "\f390"; }
 .ibio-parler:before { content: "\f38a"; }
