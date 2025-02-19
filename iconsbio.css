@@ -4044,12 +4044,12 @@
 
 @font-face {
   font-family: "iconsbio2";
-  src: url("./iconsbio2_0ace364117a3bf29fa6e1c8d20c49df0.eot");
-  src: url("./iconsbio2_0ace364117a3bf29fa6e1c8d20c49df0.eot?#iefix") format("embedded-opentype"),
-       url("./iconsbio2_0ace364117a3bf29fa6e1c8d20c49df0.woff2") format("woff2"),
-       url("./iconsbio2_0ace364117a3bf29fa6e1c8d20c49df0.woff") format("woff"),
-       url("./iconsbio2_0ace364117a3bf29fa6e1c8d20c49df0.ttf") format("truetype"),
-       url("./iconsbio2_0ace364117a3bf29fa6e1c8d20c49df0.svg#iconsbio2") format("svg");
+  src: url("./iconsbio2_74eb2e44337d51aff0e7985f10144051.eot");
+  src: url("./iconsbio2_74eb2e44337d51aff0e7985f10144051.eot?#iefix") format("embedded-opentype"),
+       url("./iconsbio2_74eb2e44337d51aff0e7985f10144051.woff2") format("woff2"),
+       url("./iconsbio2_74eb2e44337d51aff0e7985f10144051.woff") format("woff"),
+       url("./iconsbio2_74eb2e44337d51aff0e7985f10144051.ttf") format("truetype"),
+       url("./iconsbio2_74eb2e44337d51aff0e7985f10144051.svg#iconsbio2") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -4057,7 +4057,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "iconsbio2";
-    src: url("./iconsbio2_0ace364117a3bf29fa6e1c8d20c49df0.svg#iconsbio2") format("svg");
+    src: url("./iconsbio2_74eb2e44337d51aff0e7985f10144051.svg#iconsbio2") format("svg");
   }
 }
 
@@ -4066,6 +4066,7 @@
 [data-icon]:before,
 .ibio-3cketcom:before,
 .ibio-99designs:before,
+.ibio-Suno:before,
 .ibio-ablefy:before,
 .ibio-accupass:before,
 .ibio-activecampaign:before,
@@ -4100,6 +4101,7 @@
 .ibio-bizum:before,
 .ibio-bluesky:before,
 .ibio-blueskyold:before,
+.ibio-boardgamearena:before,
 .ibio-bollyx:before,
 .ibio-boltplustv:before,
 .ibio-bonfire:before,
@@ -4366,6 +4368,7 @@
 .ibio-pinterestboard:before,
 .ibio-pintplease:before,
 .ibio-pipedream:before,
+.ibio-pixabay:before,
 .ibio-plaid-room-records:before,
 .ibio-plastichead:before,
 .ibio-platekompaniet:before,
@@ -4590,6 +4593,7 @@
 .ibio-svt-play:before,
 .ibio-swamp-records:before,
 .ibio-sweden-rock-magazine:before,
+.ibio-sympla:before,
 .ibio-symplicitycom:before,
 .ibio-system-records:before,
 .ibio-systemeio:before,
@@ -4682,6 +4686,7 @@
 .ibio-ummalife:before,
 .ibio-unbound:before,
 .ibio-uncle-m:before,
+.ibio-uncove:before,
 .ibio-underdog-recordstore:before,
 .ibio-underground-solushn:before,
 .ibio-unearthed-sounds:before,
@@ -4809,6 +4814,7 @@
 
 .ibio-3cketcom:before { content: "\f308"; }
 .ibio-99designs:before { content: "\f309"; }
+.ibio-Suno:before { content: "\f3db"; }
 .ibio-ablefy:before { content: "\f3b5"; }
 .ibio-accupass:before { content: "\f100"; }
 .ibio-activecampaign:before { content: "\f101"; }
@@ -4843,6 +4849,7 @@
 .ibio-bizum:before { content: "\f377"; }
 .ibio-bluesky:before { content: "\f110"; }
 .ibio-blueskyold:before { content: "\f2f2"; }
+.ibio-boardgamearena:before { content: "\f3dc"; }
 .ibio-bollyx:before { content: "\f340"; }
 .ibio-boltplustv:before { content: "\f111"; }
 .ibio-bonfire:before { content: "\f112"; }
@@ -5109,6 +5116,7 @@
 .ibio-pinterestboard:before { content: "\f3ad"; }
 .ibio-pintplease:before { content: "\f191"; }
 .ibio-pipedream:before { content: "\f306"; }
+.ibio-pixabay:before { content: "\f3dd"; }
 .ibio-plaid-room-records:before { content: "\f192"; }
 .ibio-plastichead:before { content: "\f193"; }
 .ibio-platekompaniet:before { content: "\f194"; }
@@ -5333,6 +5341,7 @@
 .ibio-svt-play:before { content: "\f242"; }
 .ibio-swamp-records:before { content: "\f243"; }
 .ibio-sweden-rock-magazine:before { content: "\f244"; }
+.ibio-sympla:before { content: "\f3de"; }
 .ibio-symplicitycom:before { content: "\f245"; }
 .ibio-system-records:before { content: "\f246"; }
 .ibio-systemeio:before { content: "\f2ea"; }
@@ -5425,6 +5434,7 @@
 .ibio-ummalife:before { content: "\f35c"; }
 .ibio-unbound:before { content: "\f28d"; }
 .ibio-uncle-m:before { content: "\f28e"; }
+.ibio-uncove:before { content: "\f3df"; }
 .ibio-underdog-recordstore:before { content: "\f28f"; }
 .ibio-underground-solushn:before { content: "\f290"; }
 .ibio-unearthed-sounds:before { content: "\f291"; }
