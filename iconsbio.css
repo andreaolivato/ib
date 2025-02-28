@@ -4044,12 +4044,12 @@
 
 @font-face {
   font-family: "iconsbio2";
-  src: url("./iconsbio2_74eb2e44337d51aff0e7985f10144051.eot");
-  src: url("./iconsbio2_74eb2e44337d51aff0e7985f10144051.eot?#iefix") format("embedded-opentype"),
-       url("./iconsbio2_74eb2e44337d51aff0e7985f10144051.woff2") format("woff2"),
-       url("./iconsbio2_74eb2e44337d51aff0e7985f10144051.woff") format("woff"),
-       url("./iconsbio2_74eb2e44337d51aff0e7985f10144051.ttf") format("truetype"),
-       url("./iconsbio2_74eb2e44337d51aff0e7985f10144051.svg#iconsbio2") format("svg");
+  src: url("./iconsbio2_23e9b89d52ab7e62d51e9019c49ab684.eot");
+  src: url("./iconsbio2_23e9b89d52ab7e62d51e9019c49ab684.eot?#iefix") format("embedded-opentype"),
+       url("./iconsbio2_23e9b89d52ab7e62d51e9019c49ab684.woff2") format("woff2"),
+       url("./iconsbio2_23e9b89d52ab7e62d51e9019c49ab684.woff") format("woff"),
+       url("./iconsbio2_23e9b89d52ab7e62d51e9019c49ab684.ttf") format("truetype"),
+       url("./iconsbio2_23e9b89d52ab7e62d51e9019c49ab684.svg#iconsbio2") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -4057,7 +4057,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "iconsbio2";
-    src: url("./iconsbio2_74eb2e44337d51aff0e7985f10144051.svg#iconsbio2") format("svg");
+    src: url("./iconsbio2_23e9b89d52ab7e62d51e9019c49ab684.svg#iconsbio2") format("svg");
   }
 }
 
@@ -4187,6 +4187,7 @@
 .ibio-fanpage:before,
 .ibio-fantia:before,
 .ibio-farcasterxyz:before,
+.ibio-featurefm:before,
 .ibio-ficbooknet:before,
 .ibio-ficfan:before,
 .ibio-fineartamerica:before,
@@ -4253,6 +4254,7 @@
 .ibio-invitationcodes:before,
 .ibio-irc:before,
 .ibio-ircprotocol:before,
+.ibio-jacolive:before,
 .ibio-jamendo:before,
 .ibio-jimdo:before,
 .ibio-joinentre:before,
@@ -4305,6 +4307,7 @@
 .ibio-marppleshop:before,
 .ibio-matrimoniocom:before,
 .ibio-matterport:before,
+.ibio-mavely:before,
 .ibio-medibang:before,
 .ibio-medibangcom:before,
 .ibio-meesho:before,
@@ -4424,6 +4427,7 @@
 .ibio-radio-bob:before,
 .ibio-radio-eins:before,
 .ibio-radio-freccia:before,
+.ibio-radiothmanyah:before,
 .ibio-rainbow-blonde:before,
 .ibio-raketph:before,
 .ibio-rakuten:before,
@@ -4562,6 +4566,7 @@
 .ibio-spinspin:before,
 .ibio-spiritfanfics:before,
 .ibio-spkr-media:before,
+.ibio-spline:before,
 .ibio-spoutible:before,
 .ibio-spreadshirt:before,
 .ibio-spreadshop:before,
@@ -4935,6 +4940,7 @@
 .ibio-fanpage:before { content: "\f137"; }
 .ibio-fantia:before { content: "\f138"; }
 .ibio-farcasterxyz:before { content: "\f331"; }
+.ibio-featurefm:before { content: "\f3e0"; }
 .ibio-ficbooknet:before { content: "\f382"; }
 .ibio-ficfan:before { content: "\f379"; }
 .ibio-fineartamerica:before { content: "\f139"; }
@@ -5001,6 +5007,7 @@
 .ibio-invitationcodes:before { content: "\f154"; }
 .ibio-irc:before { content: "\f155"; }
 .ibio-ircprotocol:before { content: "\f156"; }
+.ibio-jacolive:before { content: "\f3e1"; }
 .ibio-jamendo:before { content: "\f3aa"; }
 .ibio-jimdo:before { content: "\f157"; }
 .ibio-joinentre:before { content: "\f158"; }
@@ -5053,6 +5060,7 @@
 .ibio-marppleshop:before { content: "\f37a"; }
 .ibio-matrimoniocom:before { content: "\f361"; }
 .ibio-matterport:before { content: "\f3d9"; }
+.ibio-mavely:before { content: "\f3e2"; }
 .ibio-medibang:before { content: "\f37b"; }
 .ibio-medibangcom:before { content: "\f383"; }
 .ibio-meesho:before { content: "\f3cb"; }
@@ -5172,6 +5180,7 @@
 .ibio-radio-bob:before { content: "\f1c0"; }
 .ibio-radio-eins:before { content: "\f1c1"; }
 .ibio-radio-freccia:before { content: "\f1c2"; }
+.ibio-radiothmanyah:before { content: "\f3e3"; }
 .ibio-rainbow-blonde:before { content: "\f1c3"; }
 .ibio-raketph:before { content: "\f30f"; }
 .ibio-rakuten:before { content: "\f1c4"; }
@@ -5310,6 +5319,7 @@
 .ibio-spinspin:before { content: "\f22b"; }
 .ibio-spiritfanfics:before { content: "\f22c"; }
 .ibio-spkr-media:before { content: "\f22d"; }
+.ibio-spline:before { content: "\f3e4"; }
 .ibio-spoutible:before { content: "\f22e"; }
 .ibio-spreadshirt:before { content: "\f385"; }
 .ibio-spreadshop:before { content: "\f386"; }
