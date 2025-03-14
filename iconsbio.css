@@ -4044,12 +4044,12 @@
 
 @font-face {
   font-family: "iconsbio2";
-  src: url("./iconsbio2_0d16ed1c96f96f76d40a397481912344.eot");
-  src: url("./iconsbio2_0d16ed1c96f96f76d40a397481912344.eot?#iefix") format("embedded-opentype"),
-       url("./iconsbio2_0d16ed1c96f96f76d40a397481912344.woff2") format("woff2"),
-       url("./iconsbio2_0d16ed1c96f96f76d40a397481912344.woff") format("woff"),
-       url("./iconsbio2_0d16ed1c96f96f76d40a397481912344.ttf") format("truetype"),
-       url("./iconsbio2_0d16ed1c96f96f76d40a397481912344.svg#iconsbio2") format("svg");
+  src: url("./iconsbio2_da5bf1a27a79993d2adfe44d0cb93eb6.eot");
+  src: url("./iconsbio2_da5bf1a27a79993d2adfe44d0cb93eb6.eot?#iefix") format("embedded-opentype"),
+       url("./iconsbio2_da5bf1a27a79993d2adfe44d0cb93eb6.woff2") format("woff2"),
+       url("./iconsbio2_da5bf1a27a79993d2adfe44d0cb93eb6.woff") format("woff"),
+       url("./iconsbio2_da5bf1a27a79993d2adfe44d0cb93eb6.ttf") format("truetype"),
+       url("./iconsbio2_da5bf1a27a79993d2adfe44d0cb93eb6.svg#iconsbio2") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -4057,7 +4057,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "iconsbio2";
-    src: url("./iconsbio2_0d16ed1c96f96f76d40a397481912344.svg#iconsbio2") format("svg");
+    src: url("./iconsbio2_da5bf1a27a79993d2adfe44d0cb93eb6.svg#iconsbio2") format("svg");
   }
 }
 
@@ -4097,6 +4097,7 @@
 .ibio-beehiiv:before,
 .ibio-belletristica:before,
 .ibio-benable:before,
+.ibio-betterplaceme:before,
 .ibio-bitrix24:before,
 .ibio-bitview:before,
 .ibio-bizum:before,
@@ -4200,6 +4201,7 @@
 .ibio-flodesk:before,
 .ibio-fluentcrm:before,
 .ibio-fortnite:before,
+.ibio-fotoappco:before,
 .ibio-freshcut:before,
 .ibio-friendtok:before,
 .ibio-funanl:before,
@@ -4232,6 +4234,7 @@
 .ibio-googleads:before,
 .ibio-googleanalytics:before,
 .ibio-googlemeet:before,
+.ibio-googleplaygames:before,
 .ibio-grainery:before,
 .ibio-grid34:before,
 .ibio-hearnow:before,
@@ -4315,6 +4318,7 @@
 .ibio-medibangcom:before,
 .ibio-meesho:before,
 .ibio-mercadopago:before,
+.ibio-metagamerscore:before,
 .ibio-michaelscom:before,
 .ibio-microsoftclarity:before,
 .ibio-midjourney:before,
@@ -4326,6 +4330,7 @@
 .ibio-mixxedfit:before,
 .ibio-mobilephone:before,
 .ibio-moosend:before,
+.ibio-moxfield:before,
 .ibio-mspowerautomate:before,
 .ibio-museai:before,
 .ibio-musicplus:before,
@@ -4416,6 +4421,7 @@
 .ibio-proper-music:before,
 .ibio-properstar:before,
 .ibio-protonmail:before,
+.ibio-psnprofiles:before,
 .ibio-psychologytoday:before,
 .ibio-pultru:before,
 .ibio-pure-indie-records:before,
@@ -4583,6 +4589,7 @@
 .ibio-starhub:before,
 .ibio-starz:before,
 .ibio-statsfm:before,
+.ibio-steamhunters:before,
 .ibio-stimulus-com:before,
 .ibio-stones-throw-records:before,
 .ibio-storeplus:before,
@@ -4853,6 +4860,7 @@
 .ibio-beehiiv:before { content: "\f10f"; }
 .ibio-belletristica:before { content: "\f33f"; }
 .ibio-benable:before { content: "\f3c2"; }
+.ibio-betterplaceme:before { content: "\f3e9"; }
 .ibio-bitrix24:before { content: "\f3e8"; }
 .ibio-bitview:before { content: "\f301"; }
 .ibio-bizum:before { content: "\f377"; }
@@ -4956,6 +4964,7 @@
 .ibio-flodesk:before { content: "\f3b2"; }
 .ibio-fluentcrm:before { content: "\f30c"; }
 .ibio-fortnite:before { content: "\f317"; }
+.ibio-fotoappco:before { content: "\f3ea"; }
 .ibio-freshcut:before { content: "\f13c"; }
 .ibio-friendtok:before { content: "\f13d"; }
 .ibio-funanl:before { content: "\f13e"; }
@@ -4988,6 +4997,7 @@
 .ibio-googleads:before { content: "\f33c"; }
 .ibio-googleanalytics:before { content: "\f144"; }
 .ibio-googlemeet:before { content: "\f145"; }
+.ibio-googleplaygames:before { content: "\f3eb"; }
 .ibio-grainery:before { content: "\f146"; }
 .ibio-grid34:before { content: "\f3d5"; }
 .ibio-hearnow:before { content: "\f147"; }
@@ -5071,6 +5081,7 @@
 .ibio-medibangcom:before { content: "\f383"; }
 .ibio-meesho:before { content: "\f3cb"; }
 .ibio-mercadopago:before { content: "\f176"; }
+.ibio-metagamerscore:before { content: "\f3ec"; }
 .ibio-michaelscom:before { content: "\f30e"; }
 .ibio-microsoftclarity:before { content: "\f3c0"; }
 .ibio-midjourney:before { content: "\f177"; }
@@ -5082,6 +5093,7 @@
 .ibio-mixxedfit:before { content: "\f344"; }
 .ibio-mobilephone:before { content: "\f367"; }
 .ibio-moosend:before { content: "\f2f4"; }
+.ibio-moxfield:before { content: "\f3ed"; }
 .ibio-mspowerautomate:before { content: "\f17a"; }
 .ibio-museai:before { content: "\f3a1"; }
 .ibio-musicplus:before { content: "\f3c8"; }
@@ -5172,6 +5184,7 @@
 .ibio-proper-music:before { content: "\f1b3"; }
 .ibio-properstar:before { content: "\f35a"; }
 .ibio-protonmail:before { content: "\f1b4"; }
+.ibio-psnprofiles:before { content: "\f3ee"; }
 .ibio-psychologytoday:before { content: "\f1b5"; }
 .ibio-pultru:before { content: "\f1b6"; }
 .ibio-pure-indie-records:before { content: "\f1b7"; }
@@ -5339,6 +5352,7 @@
 .ibio-starhub:before { content: "\f233"; }
 .ibio-starz:before { content: "\f234"; }
 .ibio-statsfm:before { content: "\f235"; }
+.ibio-steamhunters:before { content: "\f3ef"; }
 .ibio-stimulus-com:before { content: "\f236"; }
 .ibio-stones-throw-records:before { content: "\f237"; }
 .ibio-storeplus:before { content: "\f3c9"; }
