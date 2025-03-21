@@ -4044,12 +4044,12 @@
 
 @font-face {
   font-family: "iconsbio2";
-  src: url("./iconsbio2_48028d2b9bff35a91ba16c52d4113b22.eot");
-  src: url("./iconsbio2_48028d2b9bff35a91ba16c52d4113b22.eot?#iefix") format("embedded-opentype"),
-       url("./iconsbio2_48028d2b9bff35a91ba16c52d4113b22.woff2") format("woff2"),
-       url("./iconsbio2_48028d2b9bff35a91ba16c52d4113b22.woff") format("woff"),
-       url("./iconsbio2_48028d2b9bff35a91ba16c52d4113b22.ttf") format("truetype"),
-       url("./iconsbio2_48028d2b9bff35a91ba16c52d4113b22.svg#iconsbio2") format("svg");
+  src: url("./iconsbio2_6f17a16a97449d271571a7711306e809.eot");
+  src: url("./iconsbio2_6f17a16a97449d271571a7711306e809.eot?#iefix") format("embedded-opentype"),
+       url("./iconsbio2_6f17a16a97449d271571a7711306e809.woff2") format("woff2"),
+       url("./iconsbio2_6f17a16a97449d271571a7711306e809.woff") format("woff"),
+       url("./iconsbio2_6f17a16a97449d271571a7711306e809.ttf") format("truetype"),
+       url("./iconsbio2_6f17a16a97449d271571a7711306e809.svg#iconsbio2") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -4057,7 +4057,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "iconsbio2";
-    src: url("./iconsbio2_48028d2b9bff35a91ba16c52d4113b22.svg#iconsbio2") format("svg");
+    src: url("./iconsbio2_6f17a16a97449d271571a7711306e809.svg#iconsbio2") format("svg");
   }
 }
 
@@ -4642,6 +4642,7 @@
 .ibio-theatre-tickets-direct:before,
 .ibio-thebase-in:before,
 .ibio-themighty:before,
+.ibio-thenewsletterplugin:before,
 .ibio-threadless:before,
 .ibio-threads:before,
 .ibio-ticket:before,
@@ -5406,6 +5407,7 @@
 .ibio-theatre-tickets-direct:before { content: "\f25c"; }
 .ibio-thebase-in:before { content: "\f25d"; }
 .ibio-themighty:before { content: "\f25e"; }
+.ibio-thenewsletterplugin:before { content: "\f3f1"; }
 .ibio-threadless:before { content: "\f305"; }
 .ibio-threads:before { content: "\f25f"; }
 .ibio-ticket:before { content: "\f260"; }
