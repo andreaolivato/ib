@@ -4044,12 +4044,12 @@
 
 @font-face {
   font-family: "iconsbio2";
-  src: url("./iconsbio2_dbf247ddc5486be0b81f1911cd51afd6.eot");
-  src: url("./iconsbio2_dbf247ddc5486be0b81f1911cd51afd6.eot?#iefix") format("embedded-opentype"),
-       url("./iconsbio2_dbf247ddc5486be0b81f1911cd51afd6.woff2") format("woff2"),
-       url("./iconsbio2_dbf247ddc5486be0b81f1911cd51afd6.woff") format("woff"),
-       url("./iconsbio2_dbf247ddc5486be0b81f1911cd51afd6.ttf") format("truetype"),
-       url("./iconsbio2_dbf247ddc5486be0b81f1911cd51afd6.svg#iconsbio2") format("svg");
+  src: url("./iconsbio2_e3484755ce12739ec7f4abd423812773.eot");
+  src: url("./iconsbio2_e3484755ce12739ec7f4abd423812773.eot?#iefix") format("embedded-opentype"),
+       url("./iconsbio2_e3484755ce12739ec7f4abd423812773.woff2") format("woff2"),
+       url("./iconsbio2_e3484755ce12739ec7f4abd423812773.woff") format("woff"),
+       url("./iconsbio2_e3484755ce12739ec7f4abd423812773.ttf") format("truetype"),
+       url("./iconsbio2_e3484755ce12739ec7f4abd423812773.svg#iconsbio2") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -4057,7 +4057,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "iconsbio2";
-    src: url("./iconsbio2_dbf247ddc5486be0b81f1911cd51afd6.svg#iconsbio2") format("svg");
+    src: url("./iconsbio2_e3484755ce12739ec7f4abd423812773.svg#iconsbio2") format("svg");
   }
 }
 
@@ -4091,6 +4091,7 @@
 .ibio-audiocom:before,
 .ibio-audiotool:before,
 .ibio-aweber:before,
+.ibio-babelio:before,
 .ibio-backloggd:before,
 .ibio-bbcsounds:before,
 .ibio-beatport:before,
@@ -4302,6 +4303,7 @@
 .ibio-lnkbio-square:before,
 .ibio-lnkbioplus:before,
 .ibio-localscom:before,
+.ibio-locket:before,
 .ibio-lookerstudio:before,
 .ibio-loop-store:before,
 .ibio-loopnet:before,
@@ -4679,6 +4681,7 @@
 .ibio-transfermarkt:before,
 .ibio-transgressive-records:before,
 .ibio-trax-magazine:before,
+.ibio-treatwell:before,
 .ibio-tribel:before,
 .ibio-tricatel:before,
 .ibio-trontrx:before,
@@ -4857,6 +4860,7 @@
 .ibio-audiocom:before { content: "\f10b"; }
 .ibio-audiotool:before { content: "\f10c"; }
 .ibio-aweber:before { content: "\f10d"; }
+.ibio-babelio:before { content: "\f3f3"; }
 .ibio-backloggd:before { content: "\f2eb"; }
 .ibio-bbcsounds:before { content: "\f3c1"; }
 .ibio-beatport:before { content: "\f10e"; }
@@ -5068,6 +5072,7 @@
 .ibio-lnkbio-square:before { content: "\f16f"; }
 .ibio-lnkbioplus:before { content: "\f3c7"; }
 .ibio-localscom:before { content: "\f170"; }
+.ibio-locket:before { content: "\f3f4"; }
 .ibio-lookerstudio:before { content: "\f36b"; }
 .ibio-loop-store:before { content: "\f171"; }
 .ibio-loopnet:before { content: "\f172"; }
@@ -5445,6 +5450,7 @@
 .ibio-transfermarkt:before { content: "\f31a"; }
 .ibio-transgressive-records:before { content: "\f278"; }
 .ibio-trax-magazine:before { content: "\f279"; }
+.ibio-treatwell:before { content: "\f3f5"; }
 .ibio-tribel:before { content: "\f27a"; }
 .ibio-tricatel:before { content: "\f27b"; }
 .ibio-trontrx:before { content: "\f32e"; }
