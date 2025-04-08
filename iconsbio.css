@@ -4044,12 +4044,12 @@
 
 @font-face {
   font-family: "iconsbio2";
-  src: url("./iconsbio2_117af02b9e57c86ca11070345bb5b7c3.eot");
-  src: url("./iconsbio2_117af02b9e57c86ca11070345bb5b7c3.eot?#iefix") format("embedded-opentype"),
-       url("./iconsbio2_117af02b9e57c86ca11070345bb5b7c3.woff2") format("woff2"),
-       url("./iconsbio2_117af02b9e57c86ca11070345bb5b7c3.woff") format("woff"),
-       url("./iconsbio2_117af02b9e57c86ca11070345bb5b7c3.ttf") format("truetype"),
-       url("./iconsbio2_117af02b9e57c86ca11070345bb5b7c3.svg#iconsbio2") format("svg");
+  src: url("./iconsbio2_848edacda8ac8afc0a7f4068d81845f6.eot");
+  src: url("./iconsbio2_848edacda8ac8afc0a7f4068d81845f6.eot?#iefix") format("embedded-opentype"),
+       url("./iconsbio2_848edacda8ac8afc0a7f4068d81845f6.woff2") format("woff2"),
+       url("./iconsbio2_848edacda8ac8afc0a7f4068d81845f6.woff") format("woff"),
+       url("./iconsbio2_848edacda8ac8afc0a7f4068d81845f6.ttf") format("truetype"),
+       url("./iconsbio2_848edacda8ac8afc0a7f4068d81845f6.svg#iconsbio2") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -4057,7 +4057,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "iconsbio2";
-    src: url("./iconsbio2_117af02b9e57c86ca11070345bb5b7c3.svg#iconsbio2") format("svg");
+    src: url("./iconsbio2_848edacda8ac8afc0a7f4068d81845f6.svg#iconsbio2") format("svg");
   }
 }
 
@@ -4135,6 +4135,7 @@
 .ibio-channelio:before,
 .ibio-characterai:before,
 .ibio-chattersocial:before,
+.ibio-checkatrade:before,
 .ibio-cifra:before,
 .ibio-circlmobility:before,
 .ibio-clickasnap:before,
@@ -4369,6 +4370,7 @@
 .ibio-paragraphxyz:before,
 .ibio-parler:before,
 .ibio-particom:before,
+.ibio-passes:before,
 .ibio-patronite:before,
 .ibio-paypay:before,
 .ibio-paysafecard:before,
@@ -4905,6 +4907,7 @@
 .ibio-channelio:before { content: "\f11c"; }
 .ibio-characterai:before { content: "\f3b7"; }
 .ibio-chattersocial:before { content: "\f372"; }
+.ibio-checkatrade:before { content: "\f3f7"; }
 .ibio-cifra:before { content: "\f31b"; }
 .ibio-circlmobility:before { content: "\f341"; }
 .ibio-clickasnap:before { content: "\f11d"; }
@@ -5139,6 +5142,7 @@
 .ibio-paragraphxyz:before { content: "\f390"; }
 .ibio-parler:before { content: "\f38a"; }
 .ibio-particom:before { content: "\f3be"; }
+.ibio-passes:before { content: "\f3f8"; }
 .ibio-patronite:before { content: "\f3c4"; }
 .ibio-paypay:before { content: "\f18b"; }
 .ibio-paysafecard:before { content: "\f18c"; }
