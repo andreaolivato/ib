@@ -4044,12 +4044,12 @@
 
 @font-face {
   font-family: "iconsbio2";
-  src: url("./iconsbio2_e3484755ce12739ec7f4abd423812773.eot");
-  src: url("./iconsbio2_e3484755ce12739ec7f4abd423812773.eot?#iefix") format("embedded-opentype"),
-       url("./iconsbio2_e3484755ce12739ec7f4abd423812773.woff2") format("woff2"),
-       url("./iconsbio2_e3484755ce12739ec7f4abd423812773.woff") format("woff"),
-       url("./iconsbio2_e3484755ce12739ec7f4abd423812773.ttf") format("truetype"),
-       url("./iconsbio2_e3484755ce12739ec7f4abd423812773.svg#iconsbio2") format("svg");
+  src: url("./iconsbio2_117af02b9e57c86ca11070345bb5b7c3.eot");
+  src: url("./iconsbio2_117af02b9e57c86ca11070345bb5b7c3.eot?#iefix") format("embedded-opentype"),
+       url("./iconsbio2_117af02b9e57c86ca11070345bb5b7c3.woff2") format("woff2"),
+       url("./iconsbio2_117af02b9e57c86ca11070345bb5b7c3.woff") format("woff"),
+       url("./iconsbio2_117af02b9e57c86ca11070345bb5b7c3.ttf") format("truetype"),
+       url("./iconsbio2_117af02b9e57c86ca11070345bb5b7c3.svg#iconsbio2") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -4057,7 +4057,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "iconsbio2";
-    src: url("./iconsbio2_e3484755ce12739ec7f4abd423812773.svg#iconsbio2") format("svg");
+    src: url("./iconsbio2_117af02b9e57c86ca11070345bb5b7c3.svg#iconsbio2") format("svg");
   }
 }
 
@@ -4570,6 +4570,7 @@
 .ibio-space-shower-music:before,
 .ibio-sparechange:before,
 .ibio-specialist-subjects-records:before,
+.ibio-speckle:before,
 .ibio-speedstar-records:before,
 .ibio-spillcom:before,
 .ibio-spindizzy-records:before,
@@ -5339,6 +5340,7 @@
 .ibio-space-shower-music:before { content: "\f223"; }
 .ibio-sparechange:before { content: "\f312"; }
 .ibio-specialist-subjects-records:before { content: "\f224"; }
+.ibio-speckle:before { content: "\f3f6"; }
 .ibio-speedstar-records:before { content: "\f225"; }
 .ibio-spillcom:before { content: "\f226"; }
 .ibio-spindizzy-records:before { content: "\f227"; }
