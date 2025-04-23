@@ -4044,12 +4044,12 @@
 
 @font-face {
   font-family: "iconsbio2";
-  src: url("./iconsbio2_0fecd2db9b0d6e57f29996b4c7370ff9.eot");
-  src: url("./iconsbio2_0fecd2db9b0d6e57f29996b4c7370ff9.eot?#iefix") format("embedded-opentype"),
-       url("./iconsbio2_0fecd2db9b0d6e57f29996b4c7370ff9.woff2") format("woff2"),
-       url("./iconsbio2_0fecd2db9b0d6e57f29996b4c7370ff9.woff") format("woff"),
-       url("./iconsbio2_0fecd2db9b0d6e57f29996b4c7370ff9.ttf") format("truetype"),
-       url("./iconsbio2_0fecd2db9b0d6e57f29996b4c7370ff9.svg#iconsbio2") format("svg");
+  src: url("./iconsbio2_0217b26a7978a9a6236086e586872976.eot");
+  src: url("./iconsbio2_0217b26a7978a9a6236086e586872976.eot?#iefix") format("embedded-opentype"),
+       url("./iconsbio2_0217b26a7978a9a6236086e586872976.woff2") format("woff2"),
+       url("./iconsbio2_0217b26a7978a9a6236086e586872976.woff") format("woff"),
+       url("./iconsbio2_0217b26a7978a9a6236086e586872976.ttf") format("truetype"),
+       url("./iconsbio2_0217b26a7978a9a6236086e586872976.svg#iconsbio2") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -4057,7 +4057,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "iconsbio2";
-    src: url("./iconsbio2_0fecd2db9b0d6e57f29996b4c7370ff9.svg#iconsbio2") format("svg");
+    src: url("./iconsbio2_0217b26a7978a9a6236086e586872976.svg#iconsbio2") format("svg");
   }
 }
 
@@ -4094,12 +4094,14 @@
 .ibio-aweber:before,
 .ibio-babelio:before,
 .ibio-backloggd:before,
+.ibio-bayut:before,
 .ibio-bbcsounds:before,
 .ibio-beatport:before,
 .ibio-beehiiv:before,
 .ibio-belletristica:before,
 .ibio-benable:before,
 .ibio-betterplaceme:before,
+.ibio-binance:before,
 .ibio-bitrix24:before,
 .ibio-bitview:before,
 .ibio-bizum:before,
@@ -4148,6 +4150,7 @@
 .ibio-concertarchives:before,
 .ibio-contracom:before,
 .ibio-convertkit:before,
+.ibio-cosmosso:before,
 .ibio-crexi:before,
 .ibio-crowdin:before,
 .ibio-cryptocom:before,
@@ -4238,6 +4241,7 @@
 .ibio-googleads:before,
 .ibio-googleanalytics:before,
 .ibio-googlemeet:before,
+.ibio-googlephotos:before,
 .ibio-googleplaygames:before,
 .ibio-grainery:before,
 .ibio-grid34:before,
@@ -4671,6 +4675,7 @@
 .ibio-tkigv3:before,
 .ibio-tksched:before,
 .ibio-tksync:before,
+.ibio-tomebooks:before,
 .ibio-toolroom-records:before,
 .ibio-tooth-nail-records:before,
 .ibio-top-j-records:before,
@@ -4868,12 +4873,14 @@
 .ibio-aweber:before { content: "\f10d"; }
 .ibio-babelio:before { content: "\f3f3"; }
 .ibio-backloggd:before { content: "\f2eb"; }
+.ibio-bayut:before { content: "\f3fb"; }
 .ibio-bbcsounds:before { content: "\f3c1"; }
 .ibio-beatport:before { content: "\f10e"; }
 .ibio-beehiiv:before { content: "\f10f"; }
 .ibio-belletristica:before { content: "\f33f"; }
 .ibio-benable:before { content: "\f3c2"; }
 .ibio-betterplaceme:before { content: "\f3e9"; }
+.ibio-binance:before { content: "\f3fc"; }
 .ibio-bitrix24:before { content: "\f3e8"; }
 .ibio-bitview:before { content: "\f301"; }
 .ibio-bizum:before { content: "\f377"; }
@@ -4922,6 +4929,7 @@
 .ibio-concertarchives:before { content: "\f11f"; }
 .ibio-contracom:before { content: "\f120"; }
 .ibio-convertkit:before { content: "\f121"; }
+.ibio-cosmosso:before { content: "\f3fd"; }
 .ibio-crexi:before { content: "\f122"; }
 .ibio-crowdin:before { content: "\f123"; }
 .ibio-cryptocom:before { content: "\f124"; }
@@ -5012,6 +5020,7 @@
 .ibio-googleads:before { content: "\f33c"; }
 .ibio-googleanalytics:before { content: "\f144"; }
 .ibio-googlemeet:before { content: "\f145"; }
+.ibio-googlephotos:before { content: "\f3fe"; }
 .ibio-googleplaygames:before { content: "\f3eb"; }
 .ibio-grainery:before { content: "\f146"; }
 .ibio-grid34:before { content: "\f3d5"; }
@@ -5445,6 +5454,7 @@
 .ibio-tkigv3:before { content: "\f26e"; }
 .ibio-tksched:before { content: "\f26f"; }
 .ibio-tksync:before { content: "\f270"; }
+.ibio-tomebooks:before { content: "\f3ff"; }
 .ibio-toolroom-records:before { content: "\f271"; }
 .ibio-tooth-nail-records:before { content: "\f272"; }
 .ibio-top-j-records:before { content: "\f273"; }
