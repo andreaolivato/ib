@@ -4044,12 +4044,12 @@
 
 @font-face {
   font-family: "iconsbio2";
-  src: url("./iconsbio2_0217b26a7978a9a6236086e586872976.eot");
-  src: url("./iconsbio2_0217b26a7978a9a6236086e586872976.eot?#iefix") format("embedded-opentype"),
-       url("./iconsbio2_0217b26a7978a9a6236086e586872976.woff2") format("woff2"),
-       url("./iconsbio2_0217b26a7978a9a6236086e586872976.woff") format("woff"),
-       url("./iconsbio2_0217b26a7978a9a6236086e586872976.ttf") format("truetype"),
-       url("./iconsbio2_0217b26a7978a9a6236086e586872976.svg#iconsbio2") format("svg");
+  src: url("./iconsbio2_a91d980574f296c48a9c8fca811c8c91.eot");
+  src: url("./iconsbio2_a91d980574f296c48a9c8fca811c8c91.eot?#iefix") format("embedded-opentype"),
+       url("./iconsbio2_a91d980574f296c48a9c8fca811c8c91.woff2") format("woff2"),
+       url("./iconsbio2_a91d980574f296c48a9c8fca811c8c91.woff") format("woff"),
+       url("./iconsbio2_a91d980574f296c48a9c8fca811c8c91.ttf") format("truetype"),
+       url("./iconsbio2_a91d980574f296c48a9c8fca811c8c91.svg#iconsbio2") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -4057,7 +4057,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "iconsbio2";
-    src: url("./iconsbio2_0217b26a7978a9a6236086e586872976.svg#iconsbio2") format("svg");
+    src: url("./iconsbio2_a91d980574f296c48a9c8fca811c8c91.svg#iconsbio2") format("svg");
   }
 }
 
@@ -4092,6 +4092,7 @@
 .ibio-audiocom:before,
 .ibio-audiotool:before,
 .ibio-aweber:before,
+.ibio-axiomtrade:before,
 .ibio-babelio:before,
 .ibio-backloggd:before,
 .ibio-bayut:before,
@@ -4172,6 +4173,7 @@
 .ibio-doordash:before,
 .ibio-draugiem:before,
 .ibio-drip:before,
+.ibio-dubizzle:before,
 .ibio-dubsado:before,
 .ibio-dzen:before,
 .ibio-easports:before,
@@ -4327,6 +4329,7 @@
 .ibio-medibangcom:before,
 .ibio-meesho:before,
 .ibio-mercadopago:before,
+.ibio-merlinebird:before,
 .ibio-metagamerscore:before,
 .ibio-michaelscom:before,
 .ibio-microsoftclarity:before,
@@ -4508,6 +4511,7 @@
 .ibio-secret-city-records:before,
 .ibio-secret-sounds:before,
 .ibio-secretly-store:before,
+.ibio-seekinaturalist:before,
 .ibio-sendernet:before,
 .ibio-sendfox:before,
 .ibio-sendinblue:before,
@@ -4783,6 +4787,7 @@
 .ibio-wh-smith:before,
 .ibio-what-records:before,
 .ibio-whatsappchannel:before,
+.ibio-whatsappcommunity:before,
 .ibio-whatsappgroup:before,
 .ibio-whypit:before,
 .ibio-wichita-recordings:before,
@@ -4871,6 +4876,7 @@
 .ibio-audiocom:before { content: "\f10b"; }
 .ibio-audiotool:before { content: "\f10c"; }
 .ibio-aweber:before { content: "\f10d"; }
+.ibio-axiomtrade:before { content: "\f400"; }
 .ibio-babelio:before { content: "\f3f3"; }
 .ibio-backloggd:before { content: "\f2eb"; }
 .ibio-bayut:before { content: "\f3fb"; }
@@ -4951,6 +4957,7 @@
 .ibio-doordash:before { content: "\f12b"; }
 .ibio-draugiem:before { content: "\f3b8"; }
 .ibio-drip:before { content: "\f2f5"; }
+.ibio-dubizzle:before { content: "\f401"; }
 .ibio-dubsado:before { content: "\f384"; }
 .ibio-dzen:before { content: "\f3b9"; }
 .ibio-easports:before { content: "\f12c"; }
@@ -5106,6 +5113,7 @@
 .ibio-medibangcom:before { content: "\f383"; }
 .ibio-meesho:before { content: "\f3cb"; }
 .ibio-mercadopago:before { content: "\f176"; }
+.ibio-merlinebird:before { content: "\f402"; }
 .ibio-metagamerscore:before { content: "\f3ec"; }
 .ibio-michaelscom:before { content: "\f30e"; }
 .ibio-microsoftclarity:before { content: "\f3c0"; }
@@ -5287,6 +5295,7 @@
 .ibio-secret-city-records:before { content: "\f1ef"; }
 .ibio-secret-sounds:before { content: "\f1f0"; }
 .ibio-secretly-store:before { content: "\f1f1"; }
+.ibio-seekinaturalist:before { content: "\f403"; }
 .ibio-sendernet:before { content: "\f1f2"; }
 .ibio-sendfox:before { content: "\f1f3"; }
 .ibio-sendinblue:before { content: "\f1f4"; }
@@ -5562,6 +5571,7 @@
 .ibio-wh-smith:before { content: "\f2c2"; }
 .ibio-what-records:before { content: "\f2c3"; }
 .ibio-whatsappchannel:before { content: "\f34b"; }
+.ibio-whatsappcommunity:before { content: "\f404"; }
 .ibio-whatsappgroup:before { content: "\f327"; }
 .ibio-whypit:before { content: "\f3b1"; }
 .ibio-wichita-recordings:before { content: "\f2c4"; }
