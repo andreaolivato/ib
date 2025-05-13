@@ -4044,12 +4044,12 @@
 
 @font-face {
   font-family: "iconsbio2";
-  src: url("./iconsbio2_7702a760eb7aff00faaab06d265aeec4.eot");
-  src: url("./iconsbio2_7702a760eb7aff00faaab06d265aeec4.eot?#iefix") format("embedded-opentype"),
-       url("./iconsbio2_7702a760eb7aff00faaab06d265aeec4.woff2") format("woff2"),
-       url("./iconsbio2_7702a760eb7aff00faaab06d265aeec4.woff") format("woff"),
-       url("./iconsbio2_7702a760eb7aff00faaab06d265aeec4.ttf") format("truetype"),
-       url("./iconsbio2_7702a760eb7aff00faaab06d265aeec4.svg#iconsbio2") format("svg");
+  src: url("./iconsbio2_f2749511ad3c7ac54605f9c8454ae5e7.eot");
+  src: url("./iconsbio2_f2749511ad3c7ac54605f9c8454ae5e7.eot?#iefix") format("embedded-opentype"),
+       url("./iconsbio2_f2749511ad3c7ac54605f9c8454ae5e7.woff2") format("woff2"),
+       url("./iconsbio2_f2749511ad3c7ac54605f9c8454ae5e7.woff") format("woff"),
+       url("./iconsbio2_f2749511ad3c7ac54605f9c8454ae5e7.ttf") format("truetype"),
+       url("./iconsbio2_f2749511ad3c7ac54605f9c8454ae5e7.svg#iconsbio2") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -4057,7 +4057,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "iconsbio2";
-    src: url("./iconsbio2_7702a760eb7aff00faaab06d265aeec4.svg#iconsbio2") format("svg");
+    src: url("./iconsbio2_f2749511ad3c7ac54605f9c8454ae5e7.svg#iconsbio2") format("svg");
   }
 }
 
@@ -4159,6 +4159,7 @@
 .ibio-cyberimpact:before,
 .ibio-dailyhunt:before,
 .ibio-danapayment:before,
+.ibio-dappiercom:before,
 .ibio-dashorg:before,
 .ibio-deliveroo:before,
 .ibio-dhgate:before,
@@ -4263,6 +4264,7 @@
 .ibio-igsched:before,
 .ibio-igstory:before,
 .ibio-igsync:before,
+.ibio-imvucom:before,
 .ibio-inkblotart:before,
 .ibio-inkedgaming:before,
 .ibio-inkitt:before,
@@ -4431,6 +4433,7 @@
 .ibio-prefect-records:before,
 .ibio-pressreader:before,
 .ibio-presto-music:before,
+.ibio-primfeed:before,
 .ibio-print-gakufu:before,
 .ibio-printablescom:before,
 .ibio-printify:before,
@@ -4445,6 +4448,7 @@
 .ibio-qbd-books:before,
 .ibio-qello:before,
 .ibio-qikplay:before,
+.ibio-qq:before,
 .ibio-qrates:before,
 .ibio-qub-musique:before,
 .ibio-rabid-records:before,
@@ -4821,6 +4825,7 @@
 .ibio-yep-roc-records:before,
 .ibio-youradio:before,
 .ibio-yousee-musik:before,
+.ibio-youtubeshorts:before,
 .ibio-zaiko:before,
 .ibio-zavvi:before,
 .ibio-zbooni:before,
@@ -4945,6 +4950,7 @@
 .ibio-cyberimpact:before { content: "\f322"; }
 .ibio-dailyhunt:before { content: "\f329"; }
 .ibio-danapayment:before { content: "\f35f"; }
+.ibio-dappiercom:before { content: "\f408"; }
 .ibio-dashorg:before { content: "\f381"; }
 .ibio-deliveroo:before { content: "\f125"; }
 .ibio-dhgate:before { content: "\f126"; }
@@ -5049,6 +5055,7 @@
 .ibio-igsched:before { content: "\f14f"; }
 .ibio-igstory:before { content: "\f150"; }
 .ibio-igsync:before { content: "\f151"; }
+.ibio-imvucom:before { content: "\f409"; }
 .ibio-inkblotart:before { content: "\f3a9"; }
 .ibio-inkedgaming:before { content: "\f152"; }
 .ibio-inkitt:before { content: "\f326"; }
@@ -5217,6 +5224,7 @@
 .ibio-prefect-records:before { content: "\f1ad"; }
 .ibio-pressreader:before { content: "\f1ae"; }
 .ibio-presto-music:before { content: "\f1af"; }
+.ibio-primfeed:before { content: "\f40a"; }
 .ibio-print-gakufu:before { content: "\f1b0"; }
 .ibio-printablescom:before { content: "\f1b1"; }
 .ibio-printify:before { content: "\f1b2"; }
@@ -5231,6 +5239,7 @@
 .ibio-qbd-books:before { content: "\f1b9"; }
 .ibio-qello:before { content: "\f1ba"; }
 .ibio-qikplay:before { content: "\f1bb"; }
+.ibio-qq:before { content: "\f40b"; }
 .ibio-qrates:before { content: "\f1bc"; }
 .ibio-qub-musique:before { content: "\f1bd"; }
 .ibio-rabid-records:before { content: "\f1be"; }
@@ -5607,6 +5616,7 @@
 .ibio-yep-roc-records:before { content: "\f2d9"; }
 .ibio-youradio:before { content: "\f2da"; }
 .ibio-yousee-musik:before { content: "\f2db"; }
+.ibio-youtubeshorts:before { content: "\f40c"; }
 .ibio-zaiko:before { content: "\f2dc"; }
 .ibio-zavvi:before { content: "\f2dd"; }
 .ibio-zbooni:before { content: "\f2de"; }
