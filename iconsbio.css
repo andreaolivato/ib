@@ -4044,12 +4044,12 @@
 
 @font-face {
   font-family: "iconsbio2";
-  src: url("./iconsbio2_f2749511ad3c7ac54605f9c8454ae5e7.eot");
-  src: url("./iconsbio2_f2749511ad3c7ac54605f9c8454ae5e7.eot?#iefix") format("embedded-opentype"),
-       url("./iconsbio2_f2749511ad3c7ac54605f9c8454ae5e7.woff2") format("woff2"),
-       url("./iconsbio2_f2749511ad3c7ac54605f9c8454ae5e7.woff") format("woff"),
-       url("./iconsbio2_f2749511ad3c7ac54605f9c8454ae5e7.ttf") format("truetype"),
-       url("./iconsbio2_f2749511ad3c7ac54605f9c8454ae5e7.svg#iconsbio2") format("svg");
+  src: url("./iconsbio2_4c0e4c7ee5923ed940f098697a1b2f3b.eot");
+  src: url("./iconsbio2_4c0e4c7ee5923ed940f098697a1b2f3b.eot?#iefix") format("embedded-opentype"),
+       url("./iconsbio2_4c0e4c7ee5923ed940f098697a1b2f3b.woff2") format("woff2"),
+       url("./iconsbio2_4c0e4c7ee5923ed940f098697a1b2f3b.woff") format("woff"),
+       url("./iconsbio2_4c0e4c7ee5923ed940f098697a1b2f3b.ttf") format("truetype"),
+       url("./iconsbio2_4c0e4c7ee5923ed940f098697a1b2f3b.svg#iconsbio2") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -4057,7 +4057,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "iconsbio2";
-    src: url("./iconsbio2_f2749511ad3c7ac54605f9c8454ae5e7.svg#iconsbio2") format("svg");
+    src: url("./iconsbio2_4c0e4c7ee5923ed940f098697a1b2f3b.svg#iconsbio2") format("svg");
   }
 }
 
@@ -4216,6 +4216,7 @@
 .ibio-freshcut:before,
 .ibio-friendtok:before,
 .ibio-funanl:before,
+.ibio-funnelkit:before,
 .ibio-g2reviews:before,
 .ibio-gamerprofiles:before,
 .ibio-genericfile:before,
@@ -5007,6 +5008,7 @@
 .ibio-freshcut:before { content: "\f13c"; }
 .ibio-friendtok:before { content: "\f13d"; }
 .ibio-funanl:before { content: "\f13e"; }
+.ibio-funnelkit:before { content: "\f40d"; }
 .ibio-g2reviews:before { content: "\f3a6"; }
 .ibio-gamerprofiles:before { content: "\f342"; }
 .ibio-genericfile:before { content: "\f396"; }
