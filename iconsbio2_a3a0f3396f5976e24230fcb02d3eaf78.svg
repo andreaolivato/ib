@@ -1,11 +1,11 @@
 <?xml version="1.0" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
 <!--
-2025-6-15: Created with FontForge (http://fontforge.org)
+2025-6-20: Created with FontForge (http://fontforge.org)
 -->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
 <metadata>
-Created by FontForge 20230101 at Sun Jun 15 10:47:36 2025
+Created by FontForge 20230101 at Fri Jun 20 17:03:47 2025
  By Olivato Andrea
 Icons.bio
 </metadata>
@@ -22,7 +22,7 @@ Icons.bio
     bbox="-32 -71.1113 622.289 450.56"
     underline-thickness="25.6"
     underline-position="-51.2"
-    unicode-range="U+0020-F414"
+    unicode-range="U+0020-F415"
   />
     <missing-glyph />
     <glyph glyph-name="space" unicode=" " horiz-adv-x="200" 
@@ -1823,6 +1823,9 @@ c-126.429 0 -224.432 118.498 -224.432 245.478v228.594h281.443zM228.594 54.498h0.
 v-26.8564h47.5879v-31.5684h-47.5879v-158.547h-40.9131z" />
     <glyph glyph-name="funnelkit" unicode="&#xf40d;" 
 d="M221.048 348.812h-0.944336l-33.0625 -64.2363h-75.5723l71.793 -126.583l108.635 190.819h74.6279l-182.317 -314.568l-184.207 314.568h221.048zM512 348.812l-184.207 -314.568h-73.6826l183.263 314.568h74.627z" />
+    <glyph glyph-name="fxblue" unicode="&#xf415;" 
+d="M504.344 364.501l-97.1367 -153.6l-36.6055 64.5977l50.0039 89.002h83.7383zM511.761 19.2598l-105.032 167.716l-38.2803 -68.1865l55.2676 -99.29h87.8057zM401.944 198.699l-96.1797 165.802h-68.9053l95.9404 -165.562l-106.706 -179.918h69.3828l106.468 179.439z
+M215.088 226.213h-142.116v78.4746h162.931v59.8135h-235.185v-344.763h72.2539v145.705h142.355v60.7695z" />
     <glyph glyph-name="g2reviews" unicode="&#xf3a6;" 
 d="M256 448c141.414 0 256 -114.586 256 -256s-114.586 -256 -256 -256s-256 114.586 -256 256s114.586 256 256 256zM300.646 236.852v-3.07227h66.1504v18.125h-43.7246c1.22852 6.86035 5.42676 10.752 14.0283 15.0527l8.08984 4.0957
 c14.3359 7.37305 22.0156 15.667 22.0156 29.2861c0 8.5 -3.27637 15.2578 -9.93262 20.1729c-6.45117 4.91504 -16.1787 7.27051 -23.4492 7.27051s-13.9268 -1.84277 -19.9678 -5.63184c-5.93945 -3.78906 -10.4453 -8.49902 -13.21 -14.4385l12.6973 -12.6973
