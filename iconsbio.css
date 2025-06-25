@@ -4044,12 +4044,12 @@
 
 @font-face {
   font-family: "iconsbio2";
-  src: url("./iconsbio2_7176b366978b7bb98436f37d4b9006a5.eot");
-  src: url("./iconsbio2_7176b366978b7bb98436f37d4b9006a5.eot?#iefix") format("embedded-opentype"),
-       url("./iconsbio2_7176b366978b7bb98436f37d4b9006a5.woff2") format("woff2"),
-       url("./iconsbio2_7176b366978b7bb98436f37d4b9006a5.woff") format("woff"),
-       url("./iconsbio2_7176b366978b7bb98436f37d4b9006a5.ttf") format("truetype"),
-       url("./iconsbio2_7176b366978b7bb98436f37d4b9006a5.svg#iconsbio2") format("svg");
+  src: url("./iconsbio2_470b4b11dd4dade68ed52944d1a36bc2.eot");
+  src: url("./iconsbio2_470b4b11dd4dade68ed52944d1a36bc2.eot?#iefix") format("embedded-opentype"),
+       url("./iconsbio2_470b4b11dd4dade68ed52944d1a36bc2.woff2") format("woff2"),
+       url("./iconsbio2_470b4b11dd4dade68ed52944d1a36bc2.woff") format("woff"),
+       url("./iconsbio2_470b4b11dd4dade68ed52944d1a36bc2.ttf") format("truetype"),
+       url("./iconsbio2_470b4b11dd4dade68ed52944d1a36bc2.svg#iconsbio2") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -4057,7 +4057,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "iconsbio2";
-    src: url("./iconsbio2_7176b366978b7bb98436f37d4b9006a5.svg#iconsbio2") format("svg");
+    src: url("./iconsbio2_470b4b11dd4dade68ed52944d1a36bc2.svg#iconsbio2") format("svg");
   }
 }
 
@@ -4197,6 +4197,7 @@
 .ibio-ezbio:before,
 .ibio-f6s:before,
 .ibio-fablebookclub:before,
+.ibio-fairecom:before,
 .ibio-fambase:before,
 .ibio-fanbasis:before,
 .ibio-fanfix:before,
@@ -4223,6 +4224,7 @@
 .ibio-fxblue:before,
 .ibio-g2reviews:before,
 .ibio-gamerprofiles:before,
+.ibio-genericclock:before,
 .ibio-genericfile:before,
 .ibio-genericmagazine:before,
 .ibio-genericmusic:before,
@@ -4622,6 +4624,7 @@
 .ibio-statsfm:before,
 .ibio-steamhunters:before,
 .ibio-stimulus-com:before,
+.ibio-stockity:before,
 .ibio-stones-throw-records:before,
 .ibio-storeplus:before,
 .ibio-streamelements:before,
@@ -4674,6 +4677,7 @@
 .ibio-themighty:before,
 .ibio-thenewsletterplugin:before,
 .ibio-threadless:before,
+.ibio-threadloopapp:before,
 .ibio-threads:before,
 .ibio-ticket:before,
 .ibio-ticketbooth:before,
@@ -4705,6 +4709,7 @@
 .ibio-toysrus:before,
 .ibio-trackdrip:before,
 .ibio-trackitdown:before,
+.ibio-tracklists1001:before,
 .ibio-trakteer:before,
 .ibio-transfermarkt:before,
 .ibio-transgressive-records:before,
@@ -4998,6 +5003,7 @@
 .ibio-ezbio:before { content: "\f134"; }
 .ibio-f6s:before { content: "\f135"; }
 .ibio-fablebookclub:before { content: "\f136"; }
+.ibio-fairecom:before { content: "\f417"; }
 .ibio-fambase:before { content: "\f2fb"; }
 .ibio-fanbasis:before { content: "\f40f"; }
 .ibio-fanfix:before { content: "\f39e"; }
@@ -5024,6 +5030,7 @@
 .ibio-fxblue:before { content: "\f415"; }
 .ibio-g2reviews:before { content: "\f3a6"; }
 .ibio-gamerprofiles:before { content: "\f342"; }
+.ibio-genericclock:before { content: "\f418"; }
 .ibio-genericfile:before { content: "\f396"; }
 .ibio-genericmagazine:before { content: "\f3e5"; }
 .ibio-genericmusic:before { content: "\f397"; }
@@ -5423,6 +5430,7 @@
 .ibio-statsfm:before { content: "\f235"; }
 .ibio-steamhunters:before { content: "\f3ef"; }
 .ibio-stimulus-com:before { content: "\f236"; }
+.ibio-stockity:before { content: "\f419"; }
 .ibio-stones-throw-records:before { content: "\f237"; }
 .ibio-storeplus:before { content: "\f3c9"; }
 .ibio-streamelements:before { content: "\f349"; }
@@ -5475,6 +5483,7 @@
 .ibio-themighty:before { content: "\f25e"; }
 .ibio-thenewsletterplugin:before { content: "\f3f1"; }
 .ibio-threadless:before { content: "\f305"; }
+.ibio-threadloopapp:before { content: "\f41a"; }
 .ibio-threads:before { content: "\f25f"; }
 .ibio-ticket:before { content: "\f260"; }
 .ibio-ticketbooth:before { content: "\f261"; }
@@ -5506,6 +5515,7 @@
 .ibio-toysrus:before { content: "\f3bd"; }
 .ibio-trackdrip:before { content: "\f276"; }
 .ibio-trackitdown:before { content: "\f277"; }
+.ibio-tracklists1001:before { content: "\f41b"; }
 .ibio-trakteer:before { content: "\f314"; }
 .ibio-transfermarkt:before { content: "\f31a"; }
 .ibio-transgressive-records:before { content: "\f278"; }
