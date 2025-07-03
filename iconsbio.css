@@ -4044,12 +4044,12 @@
 
 @font-face {
   font-family: "iconsbio2";
-  src: url("./iconsbio2_470b4b11dd4dade68ed52944d1a36bc2.eot");
-  src: url("./iconsbio2_470b4b11dd4dade68ed52944d1a36bc2.eot?#iefix") format("embedded-opentype"),
-       url("./iconsbio2_470b4b11dd4dade68ed52944d1a36bc2.woff2") format("woff2"),
-       url("./iconsbio2_470b4b11dd4dade68ed52944d1a36bc2.woff") format("woff"),
-       url("./iconsbio2_470b4b11dd4dade68ed52944d1a36bc2.ttf") format("truetype"),
-       url("./iconsbio2_470b4b11dd4dade68ed52944d1a36bc2.svg#iconsbio2") format("svg");
+  src: url("./iconsbio2_0d6136b3bf7b41b81ea7129c9017cdbe.eot");
+  src: url("./iconsbio2_0d6136b3bf7b41b81ea7129c9017cdbe.eot?#iefix") format("embedded-opentype"),
+       url("./iconsbio2_0d6136b3bf7b41b81ea7129c9017cdbe.woff2") format("woff2"),
+       url("./iconsbio2_0d6136b3bf7b41b81ea7129c9017cdbe.woff") format("woff"),
+       url("./iconsbio2_0d6136b3bf7b41b81ea7129c9017cdbe.ttf") format("truetype"),
+       url("./iconsbio2_0d6136b3bf7b41b81ea7129c9017cdbe.svg#iconsbio2") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -4057,7 +4057,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "iconsbio2";
-    src: url("./iconsbio2_470b4b11dd4dade68ed52944d1a36bc2.svg#iconsbio2") format("svg");
+    src: url("./iconsbio2_0d6136b3bf7b41b81ea7129c9017cdbe.svg#iconsbio2") format("svg");
   }
 }
 
@@ -4365,6 +4365,7 @@
 .ibio-namemc:before,
 .ibio-nasio:before,
 .ibio-naverblog:before,
+.ibio-navercafe:before,
 .ibio-naversmartstore:before,
 .ibio-ncsmusic:before,
 .ibio-neobook:before,
@@ -4387,6 +4388,7 @@
 .ibio-pabbly:before,
 .ibio-pangobooks:before,
 .ibio-panodyssey:before,
+.ibio-paperform:before,
 .ibio-paperpie:before,
 .ibio-paragraphxyz:before,
 .ibio-parler:before,
@@ -4453,6 +4455,7 @@
 .ibio-protonmail:before,
 .ibio-psnprofiles:before,
 .ibio-psychologytoday:before,
+.ibio-publuu:before,
 .ibio-pultru:before,
 .ibio-pure-indie-records:before,
 .ibio-pure-noise-records:before,
@@ -5171,6 +5174,7 @@
 .ibio-namemc:before { content: "\f17c"; }
 .ibio-nasio:before { content: "\f362"; }
 .ibio-naverblog:before { content: "\f17d"; }
+.ibio-navercafe:before { content: "\f41c"; }
 .ibio-naversmartstore:before { content: "\f17e"; }
 .ibio-ncsmusic:before { content: "\f17f"; }
 .ibio-neobook:before { content: "\f346"; }
@@ -5193,6 +5197,7 @@
 .ibio-pabbly:before { content: "\f188"; }
 .ibio-pangobooks:before { content: "\f189"; }
 .ibio-panodyssey:before { content: "\f3da"; }
+.ibio-paperform:before { content: "\f41d"; }
 .ibio-paperpie:before { content: "\f18a"; }
 .ibio-paragraphxyz:before { content: "\f390"; }
 .ibio-parler:before { content: "\f38a"; }
@@ -5259,6 +5264,7 @@
 .ibio-protonmail:before { content: "\f1b4"; }
 .ibio-psnprofiles:before { content: "\f3ee"; }
 .ibio-psychologytoday:before { content: "\f1b5"; }
+.ibio-publuu:before { content: "\f41e"; }
 .ibio-pultru:before { content: "\f1b6"; }
 .ibio-pure-indie-records:before { content: "\f1b7"; }
 .ibio-pure-noise-records:before { content: "\f1b8"; }
