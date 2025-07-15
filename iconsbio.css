@@ -4044,12 +4044,12 @@
 
 @font-face {
   font-family: "iconsbio2";
-  src: url("./iconsbio2_5c185a15f2206a398ab39beb630ac798.eot");
-  src: url("./iconsbio2_5c185a15f2206a398ab39beb630ac798.eot?#iefix") format("embedded-opentype"),
-       url("./iconsbio2_5c185a15f2206a398ab39beb630ac798.woff2") format("woff2"),
-       url("./iconsbio2_5c185a15f2206a398ab39beb630ac798.woff") format("woff"),
-       url("./iconsbio2_5c185a15f2206a398ab39beb630ac798.ttf") format("truetype"),
-       url("./iconsbio2_5c185a15f2206a398ab39beb630ac798.svg#iconsbio2") format("svg");
+  src: url("./iconsbio2_79ccdd2193fc67dd621fa2ae60261dcd.eot");
+  src: url("./iconsbio2_79ccdd2193fc67dd621fa2ae60261dcd.eot?#iefix") format("embedded-opentype"),
+       url("./iconsbio2_79ccdd2193fc67dd621fa2ae60261dcd.woff2") format("woff2"),
+       url("./iconsbio2_79ccdd2193fc67dd621fa2ae60261dcd.woff") format("woff"),
+       url("./iconsbio2_79ccdd2193fc67dd621fa2ae60261dcd.ttf") format("truetype"),
+       url("./iconsbio2_79ccdd2193fc67dd621fa2ae60261dcd.svg#iconsbio2") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -4057,7 +4057,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "iconsbio2";
-    src: url("./iconsbio2_5c185a15f2206a398ab39beb630ac798.svg#iconsbio2") format("svg");
+    src: url("./iconsbio2_79ccdd2193fc67dd621fa2ae60261dcd.svg#iconsbio2") format("svg");
   }
 }
 
@@ -4096,6 +4096,7 @@
 .ibio-axiomtrade:before,
 .ibio-babelio:before,
 .ibio-backloggd:before,
+.ibio-backstagecom:before,
 .ibio-bayut:before,
 .ibio-bbcsounds:before,
 .ibio-beatport:before,
@@ -4205,6 +4206,7 @@
 .ibio-fantia:before,
 .ibio-farcasterxyz:before,
 .ibio-featurefm:before,
+.ibio-feefo:before,
 .ibio-ficbooknet:before,
 .ibio-ficfan:before,
 .ibio-fineartamerica:before,
@@ -4230,6 +4232,7 @@
 .ibio-genericmusic:before,
 .ibio-genericphoto:before,
 .ibio-genericphotoalbum:before,
+.ibio-genericsurvey:before,
 .ibio-genericvoting:before,
 .ibio-geneva:before,
 .ibio-geogebra:before,
@@ -4666,6 +4669,7 @@
 .ibio-telasa:before,
 .ibio-telecharge:before,
 .ibio-telegramgroup:before,
+.ibio-telegramsimple:before,
 .ibio-telia:before,
 .ibio-telstra:before,
 .ibio-tematika:before,
@@ -4906,6 +4910,7 @@
 .ibio-axiomtrade:before { content: "\f400"; }
 .ibio-babelio:before { content: "\f3f3"; }
 .ibio-backloggd:before { content: "\f2eb"; }
+.ibio-backstagecom:before { content: "\f420"; }
 .ibio-bayut:before { content: "\f3fb"; }
 .ibio-bbcsounds:before { content: "\f3c1"; }
 .ibio-beatport:before { content: "\f10e"; }
@@ -5015,6 +5020,7 @@
 .ibio-fantia:before { content: "\f138"; }
 .ibio-farcasterxyz:before { content: "\f331"; }
 .ibio-featurefm:before { content: "\f3e0"; }
+.ibio-feefo:before { content: "\f421"; }
 .ibio-ficbooknet:before { content: "\f382"; }
 .ibio-ficfan:before { content: "\f379"; }
 .ibio-fineartamerica:before { content: "\f139"; }
@@ -5040,6 +5046,7 @@
 .ibio-genericmusic:before { content: "\f397"; }
 .ibio-genericphoto:before { content: "\f398"; }
 .ibio-genericphotoalbum:before { content: "\f399"; }
+.ibio-genericsurvey:before { content: "\f422"; }
 .ibio-genericvoting:before { content: "\f3a8"; }
 .ibio-geneva:before { content: "\f303"; }
 .ibio-geogebra:before { content: "\f360"; }
@@ -5476,6 +5483,7 @@
 .ibio-telasa:before { content: "\f252"; }
 .ibio-telecharge:before { content: "\f253"; }
 .ibio-telegramgroup:before { content: "\f364"; }
+.ibio-telegramsimple:before { content: "\f423"; }
 .ibio-telia:before { content: "\f254"; }
 .ibio-telstra:before { content: "\f255"; }
 .ibio-tematika:before { content: "\f256"; }
