@@ -4044,12 +4044,12 @@
 
 @font-face {
   font-family: "iconsbio2";
-  src: url("./iconsbio2_e50a44d1ebdb45824113f29a35b3d23e.eot");
-  src: url("./iconsbio2_e50a44d1ebdb45824113f29a35b3d23e.eot?#iefix") format("embedded-opentype"),
-       url("./iconsbio2_e50a44d1ebdb45824113f29a35b3d23e.woff2") format("woff2"),
-       url("./iconsbio2_e50a44d1ebdb45824113f29a35b3d23e.woff") format("woff"),
-       url("./iconsbio2_e50a44d1ebdb45824113f29a35b3d23e.ttf") format("truetype"),
-       url("./iconsbio2_e50a44d1ebdb45824113f29a35b3d23e.svg#iconsbio2") format("svg");
+  src: url("./iconsbio2_34d125a181317c824f0041a50a041169.eot");
+  src: url("./iconsbio2_34d125a181317c824f0041a50a041169.eot?#iefix") format("embedded-opentype"),
+       url("./iconsbio2_34d125a181317c824f0041a50a041169.woff2") format("woff2"),
+       url("./iconsbio2_34d125a181317c824f0041a50a041169.woff") format("woff"),
+       url("./iconsbio2_34d125a181317c824f0041a50a041169.ttf") format("truetype"),
+       url("./iconsbio2_34d125a181317c824f0041a50a041169.svg#iconsbio2") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -4057,7 +4057,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "iconsbio2";
-    src: url("./iconsbio2_e50a44d1ebdb45824113f29a35b3d23e.svg#iconsbio2") format("svg");
+    src: url("./iconsbio2_34d125a181317c824f0041a50a041169.svg#iconsbio2") format("svg");
   }
 }
 
@@ -4604,6 +4604,7 @@
 .ibio-sony-music:before,
 .ibio-sottotesi:before,
 .ibio-soundee:before,
+.ibio-soundxyz:before,
 .ibio-space-shower-music:before,
 .ibio-sparechange:before,
 .ibio-specialist-subjects-records:before,
@@ -4778,6 +4779,7 @@
 .ibio-vgenco:before,
 .ibio-vialma:before,
 .ibio-viaplay:before,
+.ibio-viasocket:before,
 .ibio-videociety:before,
 .ibio-videoload:before,
 .ibio-vidyard:before,
@@ -5421,6 +5423,7 @@
 .ibio-sony-music:before { content: "\f222"; }
 .ibio-sottotesi:before { content: "\f35b"; }
 .ibio-soundee:before { content: "\f354"; }
+.ibio-soundxyz:before { content: "\f427"; }
 .ibio-space-shower-music:before { content: "\f223"; }
 .ibio-sparechange:before { content: "\f312"; }
 .ibio-specialist-subjects-records:before { content: "\f224"; }
@@ -5595,6 +5598,7 @@
 .ibio-vgenco:before { content: "\f395"; }
 .ibio-vialma:before { content: "\f2a3"; }
 .ibio-viaplay:before { content: "\f2a4"; }
+.ibio-viasocket:before { content: "\f428"; }
 .ibio-videociety:before { content: "\f2a5"; }
 .ibio-videoload:before { content: "\f2a6"; }
 .ibio-vidyard:before { content: "\f3d4"; }
