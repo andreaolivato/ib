@@ -4044,12 +4044,12 @@
 
 @font-face {
   font-family: "iconsbio2";
-  src: url("./iconsbio2_5eefb9e25e0436f347fb16bcb3b99466.eot");
-  src: url("./iconsbio2_5eefb9e25e0436f347fb16bcb3b99466.eot?#iefix") format("embedded-opentype"),
-       url("./iconsbio2_5eefb9e25e0436f347fb16bcb3b99466.woff2") format("woff2"),
-       url("./iconsbio2_5eefb9e25e0436f347fb16bcb3b99466.woff") format("woff"),
-       url("./iconsbio2_5eefb9e25e0436f347fb16bcb3b99466.ttf") format("truetype"),
-       url("./iconsbio2_5eefb9e25e0436f347fb16bcb3b99466.svg#iconsbio2") format("svg");
+  src: url("./iconsbio2_79988761be59ca566260e1237010da28.eot");
+  src: url("./iconsbio2_79988761be59ca566260e1237010da28.eot?#iefix") format("embedded-opentype"),
+       url("./iconsbio2_79988761be59ca566260e1237010da28.woff2") format("woff2"),
+       url("./iconsbio2_79988761be59ca566260e1237010da28.woff") format("woff"),
+       url("./iconsbio2_79988761be59ca566260e1237010da28.ttf") format("truetype"),
+       url("./iconsbio2_79988761be59ca566260e1237010da28.svg#iconsbio2") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -4057,7 +4057,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "iconsbio2";
-    src: url("./iconsbio2_5eefb9e25e0436f347fb16bcb3b99466.svg#iconsbio2") format("svg");
+    src: url("./iconsbio2_79988761be59ca566260e1237010da28.svg#iconsbio2") format("svg");
   }
 }
 
@@ -4083,6 +4083,7 @@
 .ibio-amazingradio:before,
 .ibio-amazonwishlist:before,
 .ibio-anobii:before,
+.ibio-anodyssey:before,
 .ibio-apple-books:before,
 .ibio-arbonne:before,
 .ibio-arena:before,
@@ -4196,6 +4197,7 @@
 .ibio-europass:before,
 .ibio-eventix:before,
 .ibio-expedia:before,
+.ibio-explurger:before,
 .ibio-ezbio:before,
 .ibio-f6s:before,
 .ibio-fablebookclub:before,
@@ -4220,6 +4222,7 @@
 .ibio-fluentcrm:before,
 .ibio-fortnite:before,
 .ibio-fotoappco:before,
+.ibio-fourthwall:before,
 .ibio-freshcut:before,
 .ibio-friendtok:before,
 .ibio-funanl:before,
@@ -4227,6 +4230,7 @@
 .ibio-fxblue:before,
 .ibio-g2reviews:before,
 .ibio-gamerprofiles:before,
+.ibio-gammaio:before,
 .ibio-genericclock:before,
 .ibio-genericfile:before,
 .ibio-genericmagazine:before,
@@ -4386,6 +4390,7 @@
 .ibio-nostr:before,
 .ibio-notecom:before,
 .ibio-nowpayments:before,
+.ibio-nowpaymentsio:before,
 .ibio-nuvemshop:before,
 .ibio-officephone:before,
 .ibio-omnisend:before,
@@ -4393,6 +4398,7 @@
 .ibio-orintful:before,
 .ibio-outlook:before,
 .ibio-pabbly:before,
+.ibio-pagebound:before,
 .ibio-pangobooks:before,
 .ibio-panodyssey:before,
 .ibio-paperform:before,
@@ -4473,6 +4479,7 @@
 .ibio-qrates:before,
 .ibio-quantumhealers:before,
 .ibio-qub-musique:before,
+.ibio-quillbot:before,
 .ibio-rabid-records:before,
 .ibio-racket-records:before,
 .ibio-radio-bob:before,
@@ -4521,6 +4528,7 @@
 .ibio-rokfin:before,
 .ibio-roku:before,
 .ibio-rottentomatoes:before,
+.ibio-rovercom:before,
 .ibio-rubadub:before,
 .ibio-rutube:before,
 .ibio-sainsburys:before,
@@ -4904,6 +4912,7 @@
 .ibio-amazingradio:before { content: "\f356"; }
 .ibio-amazonwishlist:before { content: "\f105"; }
 .ibio-anobii:before { content: "\f33e"; }
+.ibio-anodyssey:before { content: "\f42b"; }
 .ibio-apple-books:before { content: "\f106"; }
 .ibio-arbonne:before { content: "\f107"; }
 .ibio-arena:before { content: "\f108"; }
@@ -5017,6 +5026,7 @@
 .ibio-europass:before { content: "\f3bb"; }
 .ibio-eventix:before { content: "\f133"; }
 .ibio-expedia:before { content: "\f414"; }
+.ibio-explurger:before { content: "\f42c"; }
 .ibio-ezbio:before { content: "\f134"; }
 .ibio-f6s:before { content: "\f135"; }
 .ibio-fablebookclub:before { content: "\f136"; }
@@ -5041,6 +5051,7 @@
 .ibio-fluentcrm:before { content: "\f30c"; }
 .ibio-fortnite:before { content: "\f317"; }
 .ibio-fotoappco:before { content: "\f3ea"; }
+.ibio-fourthwall:before { content: "\f42d"; }
 .ibio-freshcut:before { content: "\f13c"; }
 .ibio-friendtok:before { content: "\f13d"; }
 .ibio-funanl:before { content: "\f13e"; }
@@ -5048,6 +5059,7 @@
 .ibio-fxblue:before { content: "\f415"; }
 .ibio-g2reviews:before { content: "\f3a6"; }
 .ibio-gamerprofiles:before { content: "\f342"; }
+.ibio-gammaio:before { content: "\f42e"; }
 .ibio-genericclock:before { content: "\f418"; }
 .ibio-genericfile:before { content: "\f396"; }
 .ibio-genericmagazine:before { content: "\f3e5"; }
@@ -5207,6 +5219,7 @@
 .ibio-nostr:before { content: "\f183"; }
 .ibio-notecom:before { content: "\f184"; }
 .ibio-nowpayments:before { content: "\f42a"; }
+.ibio-nowpaymentsio:before { content: "\f42f"; }
 .ibio-nuvemshop:before { content: "\f3ac"; }
 .ibio-officephone:before { content: "\f368"; }
 .ibio-omnisend:before { content: "\f2e9"; }
@@ -5214,6 +5227,7 @@
 .ibio-orintful:before { content: "\f186"; }
 .ibio-outlook:before { content: "\f187"; }
 .ibio-pabbly:before { content: "\f188"; }
+.ibio-pagebound:before { content: "\f430"; }
 .ibio-pangobooks:before { content: "\f189"; }
 .ibio-panodyssey:before { content: "\f3da"; }
 .ibio-paperform:before { content: "\f41d"; }
@@ -5294,6 +5308,7 @@
 .ibio-qrates:before { content: "\f1bc"; }
 .ibio-quantumhealers:before { content: "\f425"; }
 .ibio-qub-musique:before { content: "\f1bd"; }
+.ibio-quillbot:before { content: "\f431"; }
 .ibio-rabid-records:before { content: "\f1be"; }
 .ibio-racket-records:before { content: "\f1bf"; }
 .ibio-radio-bob:before { content: "\f1c0"; }
@@ -5342,6 +5357,7 @@
 .ibio-rokfin:before { content: "\f374"; }
 .ibio-roku:before { content: "\f1e2"; }
 .ibio-rottentomatoes:before { content: "\f1e3"; }
+.ibio-rovercom:before { content: "\f432"; }
 .ibio-rubadub:before { content: "\f1e4"; }
 .ibio-rutube:before { content: "\f391"; }
 .ibio-sainsburys:before { content: "\f1e5"; }
