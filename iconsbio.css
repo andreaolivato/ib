@@ -4044,12 +4044,12 @@
 
 @font-face {
   font-family: "iconsbio2";
-  src: url("./iconsbio2_1af007e0eb67c1b5784aac3d44fd5339.eot");
-  src: url("./iconsbio2_1af007e0eb67c1b5784aac3d44fd5339.eot?#iefix") format("embedded-opentype"),
-       url("./iconsbio2_1af007e0eb67c1b5784aac3d44fd5339.woff2") format("woff2"),
-       url("./iconsbio2_1af007e0eb67c1b5784aac3d44fd5339.woff") format("woff"),
-       url("./iconsbio2_1af007e0eb67c1b5784aac3d44fd5339.ttf") format("truetype"),
-       url("./iconsbio2_1af007e0eb67c1b5784aac3d44fd5339.svg#iconsbio2") format("svg");
+  src: url("./iconsbio2_c39f713aa9b4310aa62f2a968853e85d.eot");
+  src: url("./iconsbio2_c39f713aa9b4310aa62f2a968853e85d.eot?#iefix") format("embedded-opentype"),
+       url("./iconsbio2_c39f713aa9b4310aa62f2a968853e85d.woff2") format("woff2"),
+       url("./iconsbio2_c39f713aa9b4310aa62f2a968853e85d.woff") format("woff"),
+       url("./iconsbio2_c39f713aa9b4310aa62f2a968853e85d.ttf") format("truetype"),
+       url("./iconsbio2_c39f713aa9b4310aa62f2a968853e85d.svg#iconsbio2") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -4057,7 +4057,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "iconsbio2";
-    src: url("./iconsbio2_1af007e0eb67c1b5784aac3d44fd5339.svg#iconsbio2") format("svg");
+    src: url("./iconsbio2_c39f713aa9b4310aa62f2a968853e85d.svg#iconsbio2") format("svg");
   }
 }
 
@@ -4145,7 +4145,6 @@
 .ibio-cartlinks:before,
 .ibio-cdbabycom:before,
 .ibio-cerqular:before,
-.ibio-cgtrader:before,
 .ibio-channelio:before,
 .ibio-characterai:before,
 .ibio-chattersocial:before,
@@ -4177,7 +4176,7 @@
 .ibio-difyai:before,
 .ibio-difyshare:before,
 .ibio-digistore24:before,
-.ibio-dittomusic-:before,
+.ibio-dittomusic:before,
 .ibio-dji:before,
 .ibio-dnldnft:before,
 .ibio-dogecoin:before,
@@ -4240,6 +4239,7 @@
 .ibio-g2reviews:before,
 .ibio-gamerprofiles:before,
 .ibio-gammaio:before,
+.ibio-gctrader:before,
 .ibio-genericclock:before,
 .ibio-genericfile:before,
 .ibio-genericmagazine:before,
@@ -4994,7 +4994,6 @@
 .ibio-cartlinks:before { content: "\f3f0"; }
 .ibio-cdbabycom:before { content: "\f437"; }
 .ibio-cerqular:before { content: "\f3b6"; }
-.ibio-cgtrader:before { content: "\f438"; }
 .ibio-channelio:before { content: "\f11c"; }
 .ibio-characterai:before { content: "\f3b7"; }
 .ibio-chattersocial:before { content: "\f372"; }
@@ -5026,7 +5025,7 @@
 .ibio-difyai:before { content: "\f3d6"; }
 .ibio-difyshare:before { content: "\f3ce"; }
 .ibio-digistore24:before { content: "\f128"; }
-.ibio-dittomusic-:before { content: "\f439"; }
+.ibio-dittomusic:before { content: "\f447"; }
 .ibio-dji:before { content: "\f43a"; }
 .ibio-dnldnft:before { content: "\f32a"; }
 .ibio-dogecoin:before { content: "\f32b"; }
@@ -5089,6 +5088,7 @@
 .ibio-g2reviews:before { content: "\f3a6"; }
 .ibio-gamerprofiles:before { content: "\f342"; }
 .ibio-gammaio:before { content: "\f42e"; }
+.ibio-gctrader:before { content: "\f448"; }
 .ibio-genericclock:before { content: "\f418"; }
 .ibio-genericfile:before { content: "\f396"; }
 .ibio-genericmagazine:before { content: "\f3e5"; }
