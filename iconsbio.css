@@ -4044,12 +4044,12 @@
 
 @font-face {
   font-family: "iconsbio2";
-  src: url("./iconsbio2_c39f713aa9b4310aa62f2a968853e85d.eot");
-  src: url("./iconsbio2_c39f713aa9b4310aa62f2a968853e85d.eot?#iefix") format("embedded-opentype"),
-       url("./iconsbio2_c39f713aa9b4310aa62f2a968853e85d.woff2") format("woff2"),
-       url("./iconsbio2_c39f713aa9b4310aa62f2a968853e85d.woff") format("woff"),
-       url("./iconsbio2_c39f713aa9b4310aa62f2a968853e85d.ttf") format("truetype"),
-       url("./iconsbio2_c39f713aa9b4310aa62f2a968853e85d.svg#iconsbio2") format("svg");
+  src: url("./iconsbio2_799e35aa9acb29c2929c55a4ed791f77.eot");
+  src: url("./iconsbio2_799e35aa9acb29c2929c55a4ed791f77.eot?#iefix") format("embedded-opentype"),
+       url("./iconsbio2_799e35aa9acb29c2929c55a4ed791f77.woff2") format("woff2"),
+       url("./iconsbio2_799e35aa9acb29c2929c55a4ed791f77.woff") format("woff"),
+       url("./iconsbio2_799e35aa9acb29c2929c55a4ed791f77.ttf") format("truetype"),
+       url("./iconsbio2_799e35aa9acb29c2929c55a4ed791f77.svg#iconsbio2") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -4057,7 +4057,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "iconsbio2";
-    src: url("./iconsbio2_c39f713aa9b4310aa62f2a968853e85d.svg#iconsbio2") format("svg");
+    src: url("./iconsbio2_799e35aa9acb29c2929c55a4ed791f77.svg#iconsbio2") format("svg");
   }
 }
 
@@ -4143,6 +4143,7 @@
 .ibio-capcut:before,
 .ibio-caraapp:before,
 .ibio-cartlinks:before,
+.ibio-castrofm:before,
 .ibio-cdbabycom:before,
 .ibio-cerqular:before,
 .ibio-channelio:before,
@@ -4203,6 +4204,7 @@
 .ibio-envato:before,
 .ibio-etoro:before,
 .ibio-europass:before,
+.ibio-evenbiz:before,
 .ibio-eventix:before,
 .ibio-expedia:before,
 .ibio-explurger:before,
@@ -4240,6 +4242,7 @@
 .ibio-gamerprofiles:before,
 .ibio-gammaio:before,
 .ibio-gctrader:before,
+.ibio-genericbasketball:before,
 .ibio-genericclock:before,
 .ibio-genericfile:before,
 .ibio-genericmagazine:before,
@@ -4449,6 +4452,7 @@
 .ibio-plex:before,
 .ibio-plusmusicpl:before,
 .ibio-pnkslm:before,
+.ibio-podbean:before,
 .ibio-podcastics:before,
 .ibio-podcastsbykajabi:before,
 .ibio-podia:before,
@@ -4632,6 +4636,7 @@
 .ibio-soundxyz:before,
 .ibio-space-shower-music:before,
 .ibio-sparechange:before,
+.ibio-spartanrace:before,
 .ibio-specialist-subjects-records:before,
 .ibio-speckle:before,
 .ibio-speedstar-records:before,
@@ -4731,6 +4736,7 @@
 .ibio-ticketweb:before,
 .ibio-tidio:before,
 .ibio-tidycal:before,
+.ibio-tiendanube:before,
 .ibio-timetree:before,
 .ibio-tipmeinth:before,
 .ibio-tistory:before,
@@ -4846,6 +4852,7 @@
 .ibio-west-one-music:before,
 .ibio-wetravel:before,
 .ibio-weverse:before,
+.ibio-weward:before,
 .ibio-wh-smith:before,
 .ibio-what-records:before,
 .ibio-whatsappchannel:before,
@@ -4992,6 +4999,7 @@
 .ibio-capcut:before { content: "\f11b"; }
 .ibio-caraapp:before { content: "\f357"; }
 .ibio-cartlinks:before { content: "\f3f0"; }
+.ibio-castrofm:before { content: "\f449"; }
 .ibio-cdbabycom:before { content: "\f437"; }
 .ibio-cerqular:before { content: "\f3b6"; }
 .ibio-channelio:before { content: "\f11c"; }
@@ -5052,6 +5060,7 @@
 .ibio-envato:before { content: "\f132"; }
 .ibio-etoro:before { content: "\f30b"; }
 .ibio-europass:before { content: "\f3bb"; }
+.ibio-evenbiz:before { content: "\f44a"; }
 .ibio-eventix:before { content: "\f133"; }
 .ibio-expedia:before { content: "\f414"; }
 .ibio-explurger:before { content: "\f42c"; }
@@ -5089,6 +5098,7 @@
 .ibio-gamerprofiles:before { content: "\f342"; }
 .ibio-gammaio:before { content: "\f42e"; }
 .ibio-gctrader:before { content: "\f448"; }
+.ibio-genericbasketball:before { content: "\f44b"; }
 .ibio-genericclock:before { content: "\f418"; }
 .ibio-genericfile:before { content: "\f396"; }
 .ibio-genericmagazine:before { content: "\f3e5"; }
@@ -5298,6 +5308,7 @@
 .ibio-plex:before { content: "\f412"; }
 .ibio-plusmusicpl:before { content: "\f19b"; }
 .ibio-pnkslm:before { content: "\f19c"; }
+.ibio-podbean:before { content: "\f44c"; }
 .ibio-podcastics:before { content: "\f315"; }
 .ibio-podcastsbykajabi:before { content: "\f19d"; }
 .ibio-podia:before { content: "\f37d"; }
@@ -5481,6 +5492,7 @@
 .ibio-soundxyz:before { content: "\f427"; }
 .ibio-space-shower-music:before { content: "\f223"; }
 .ibio-sparechange:before { content: "\f312"; }
+.ibio-spartanrace:before { content: "\f44d"; }
 .ibio-specialist-subjects-records:before { content: "\f224"; }
 .ibio-speckle:before { content: "\f3f6"; }
 .ibio-speedstar-records:before { content: "\f225"; }
@@ -5580,6 +5592,7 @@
 .ibio-ticketweb:before { content: "\f26a"; }
 .ibio-tidio:before { content: "\f34e"; }
 .ibio-tidycal:before { content: "\f26b"; }
+.ibio-tiendanube:before { content: "\f44e"; }
 .ibio-timetree:before { content: "\f26c"; }
 .ibio-tipmeinth:before { content: "\f313"; }
 .ibio-tistory:before { content: "\f26d"; }
@@ -5695,6 +5708,7 @@
 .ibio-west-one-music:before { content: "\f2c0"; }
 .ibio-wetravel:before { content: "\f2ff"; }
 .ibio-weverse:before { content: "\f2c1"; }
+.ibio-weward:before { content: "\f44f"; }
 .ibio-wh-smith:before { content: "\f2c2"; }
 .ibio-what-records:before { content: "\f2c3"; }
 .ibio-whatsappchannel:before { content: "\f34b"; }
