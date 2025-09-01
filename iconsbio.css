@@ -4,12 +4,12 @@
 
 @font-face {
   font-family: "iconsbio1";
-  src: url("./iconsbio1_bde0125ecc964ecf870bf023325bccd4.eot");
-  src: url("./iconsbio1_bde0125ecc964ecf870bf023325bccd4.eot?#iefix") format("embedded-opentype"),
-       url("./iconsbio1_bde0125ecc964ecf870bf023325bccd4.woff2") format("woff2"),
-       url("./iconsbio1_bde0125ecc964ecf870bf023325bccd4.woff") format("woff"),
-       url("./iconsbio1_bde0125ecc964ecf870bf023325bccd4.ttf") format("truetype"),
-       url("./iconsbio1_bde0125ecc964ecf870bf023325bccd4.svg#iconsbio1") format("svg");
+  src: url("./iconsbio1_2aa9de6d8590b8ea6e0d1dadf292e229.eot");
+  src: url("./iconsbio1_2aa9de6d8590b8ea6e0d1dadf292e229.eot?#iefix") format("embedded-opentype"),
+       url("./iconsbio1_2aa9de6d8590b8ea6e0d1dadf292e229.woff2") format("woff2"),
+       url("./iconsbio1_2aa9de6d8590b8ea6e0d1dadf292e229.woff") format("woff"),
+       url("./iconsbio1_2aa9de6d8590b8ea6e0d1dadf292e229.ttf") format("truetype"),
+       url("./iconsbio1_2aa9de6d8590b8ea6e0d1dadf292e229.svg#iconsbio1") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -17,7 +17,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "iconsbio1";
-    src: url("./iconsbio1_bde0125ecc964ecf870bf023325bccd4.svg#iconsbio1") format("svg");
+    src: url("./iconsbio1_2aa9de6d8590b8ea6e0d1dadf292e229.svg#iconsbio1") format("svg");
   }
 }
 
