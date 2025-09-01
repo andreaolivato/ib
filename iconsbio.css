@@ -4044,12 +4044,12 @@
 
 @font-face {
   font-family: "iconsbio2";
-  src: url("./iconsbio2_799e35aa9acb29c2929c55a4ed791f77.eot");
-  src: url("./iconsbio2_799e35aa9acb29c2929c55a4ed791f77.eot?#iefix") format("embedded-opentype"),
-       url("./iconsbio2_799e35aa9acb29c2929c55a4ed791f77.woff2") format("woff2"),
-       url("./iconsbio2_799e35aa9acb29c2929c55a4ed791f77.woff") format("woff"),
-       url("./iconsbio2_799e35aa9acb29c2929c55a4ed791f77.ttf") format("truetype"),
-       url("./iconsbio2_799e35aa9acb29c2929c55a4ed791f77.svg#iconsbio2") format("svg");
+  src: url("./iconsbio2_00018be6cfd480ec582ccfbe93cbaa99.eot");
+  src: url("./iconsbio2_00018be6cfd480ec582ccfbe93cbaa99.eot?#iefix") format("embedded-opentype"),
+       url("./iconsbio2_00018be6cfd480ec582ccfbe93cbaa99.woff2") format("woff2"),
+       url("./iconsbio2_00018be6cfd480ec582ccfbe93cbaa99.woff") format("woff"),
+       url("./iconsbio2_00018be6cfd480ec582ccfbe93cbaa99.ttf") format("truetype"),
+       url("./iconsbio2_00018be6cfd480ec582ccfbe93cbaa99.svg#iconsbio2") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -4057,7 +4057,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "iconsbio2";
-    src: url("./iconsbio2_799e35aa9acb29c2929c55a4ed791f77.svg#iconsbio2") format("svg");
+    src: url("./iconsbio2_00018be6cfd480ec582ccfbe93cbaa99.svg#iconsbio2") format("svg");
   }
 }
 
@@ -4180,6 +4180,7 @@
 .ibio-dittomusic:before,
 .ibio-dji:before,
 .ibio-dnldnft:before,
+.ibio-docsity:before,
 .ibio-dogecoin:before,
 .ibio-domestika:before,
 .ibio-doneru:before,
@@ -4233,6 +4234,7 @@
 .ibio-fortnite:before,
 .ibio-fotoappco:before,
 .ibio-fourthwall:before,
+.ibio-foxylink:before,
 .ibio-freshcut:before,
 .ibio-friendtok:before,
 .ibio-funanl:before,
@@ -4274,6 +4276,7 @@
 .ibio-googlemeet:before,
 .ibio-googlephotos:before,
 .ibio-googleplaygames:before,
+.ibio-grailedcom:before,
 .ibio-grainery:before,
 .ibio-gramexdk:before,
 .ibio-grid34:before,
@@ -4340,6 +4343,7 @@
 .ibio-linesolidthicker:before,
 .ibio-linesolidthickest:before,
 .ibio-linkme:before,
+.ibio-listennotescom:before,
 .ibio-listmonk:before,
 .ibio-live365:before,
 .ibio-livechat:before,
@@ -4349,6 +4353,7 @@
 .ibio-lnkbioplus:before,
 .ibio-localscom:before,
 .ibio-locket:before,
+.ibio-loftercom:before,
 .ibio-lookerstudio:before,
 .ibio-loop-store:before,
 .ibio-loopnet:before,
@@ -4409,6 +4414,7 @@
 .ibio-notecom:before,
 .ibio-nowpayments:before,
 .ibio-nowpaymentsio:before,
+.ibio-nrkurort:before,
 .ibio-nuvemshop:before,
 .ibio-officephone:before,
 .ibio-omnisend:before,
@@ -4567,6 +4573,7 @@
 .ibio-secret-sounds:before,
 .ibio-secretly-store:before,
 .ibio-seekinaturalist:before,
+.ibio-selarcom:before,
 .ibio-sendernet:before,
 .ibio-sendfox:before,
 .ibio-sendinblue:before,
@@ -4841,6 +4848,7 @@
 .ibio-waterloo-records:before,
 .ibio-wavekitapp:before,
 .ibio-we-are-vinyl:before,
+.ibio-webinar:before,
 .ibio-webofscience:before,
 .ibio-wechatchannels:before,
 .ibio-wedonthavetime:before,
@@ -4894,6 +4902,7 @@
 .ibio-zaiko:before,
 .ibio-zavvi:before,
 .ibio-zbooni:before,
+.ibio-zeffycom:before,
 .ibio-zenyandex:before,
 .ibio-zerodha:before,
 .ibio-zia-records:before,
@@ -5036,6 +5045,7 @@
 .ibio-dittomusic:before { content: "\f447"; }
 .ibio-dji:before { content: "\f43a"; }
 .ibio-dnldnft:before { content: "\f32a"; }
+.ibio-docsity:before { content: "\f450"; }
 .ibio-dogecoin:before { content: "\f32b"; }
 .ibio-domestika:before { content: "\f129"; }
 .ibio-doneru:before { content: "\f12a"; }
@@ -5089,6 +5099,7 @@
 .ibio-fortnite:before { content: "\f317"; }
 .ibio-fotoappco:before { content: "\f3ea"; }
 .ibio-fourthwall:before { content: "\f42d"; }
+.ibio-foxylink:before { content: "\f451"; }
 .ibio-freshcut:before { content: "\f13c"; }
 .ibio-friendtok:before { content: "\f13d"; }
 .ibio-funanl:before { content: "\f13e"; }
@@ -5130,6 +5141,7 @@
 .ibio-googlemeet:before { content: "\f145"; }
 .ibio-googlephotos:before { content: "\f3fe"; }
 .ibio-googleplaygames:before { content: "\f3eb"; }
+.ibio-grailedcom:before { content: "\f452"; }
 .ibio-grainery:before { content: "\f146"; }
 .ibio-gramexdk:before { content: "\f43c"; }
 .ibio-grid34:before { content: "\f3d5"; }
@@ -5196,6 +5208,7 @@
 .ibio-linesolidthicker:before { content: "\f33a"; }
 .ibio-linesolidthickest:before { content: "\f33b"; }
 .ibio-linkme:before { content: "\f16b"; }
+.ibio-listennotescom:before { content: "\f453"; }
 .ibio-listmonk:before { content: "\f36d"; }
 .ibio-live365:before { content: "\f3d8"; }
 .ibio-livechat:before { content: "\f16c"; }
@@ -5205,6 +5218,7 @@
 .ibio-lnkbioplus:before { content: "\f3c7"; }
 .ibio-localscom:before { content: "\f170"; }
 .ibio-locket:before { content: "\f3f4"; }
+.ibio-loftercom:before { content: "\f454"; }
 .ibio-lookerstudio:before { content: "\f36b"; }
 .ibio-loop-store:before { content: "\f171"; }
 .ibio-loopnet:before { content: "\f172"; }
@@ -5265,6 +5279,7 @@
 .ibio-notecom:before { content: "\f184"; }
 .ibio-nowpayments:before { content: "\f42a"; }
 .ibio-nowpaymentsio:before { content: "\f42f"; }
+.ibio-nrkurort:before { content: "\f455"; }
 .ibio-nuvemshop:before { content: "\f3ac"; }
 .ibio-officephone:before { content: "\f368"; }
 .ibio-omnisend:before { content: "\f2e9"; }
@@ -5423,6 +5438,7 @@
 .ibio-secret-sounds:before { content: "\f1f0"; }
 .ibio-secretly-store:before { content: "\f1f1"; }
 .ibio-seekinaturalist:before { content: "\f403"; }
+.ibio-selarcom:before { content: "\f456"; }
 .ibio-sendernet:before { content: "\f1f2"; }
 .ibio-sendfox:before { content: "\f1f3"; }
 .ibio-sendinblue:before { content: "\f1f4"; }
@@ -5697,6 +5713,7 @@
 .ibio-waterloo-records:before { content: "\f2b8"; }
 .ibio-wavekitapp:before { content: "\f3b0"; }
 .ibio-we-are-vinyl:before { content: "\f2b9"; }
+.ibio-webinar:before { content: "\f457"; }
 .ibio-webofscience:before { content: "\f2ba"; }
 .ibio-wechatchannels:before { content: "\f351"; }
 .ibio-wedonthavetime:before { content: "\f352"; }
@@ -5750,6 +5767,7 @@
 .ibio-zaiko:before { content: "\f2dc"; }
 .ibio-zavvi:before { content: "\f2dd"; }
 .ibio-zbooni:before { content: "\f2de"; }
+.ibio-zeffycom:before { content: "\f458"; }
 .ibio-zenyandex:before { content: "\f2df"; }
 .ibio-zerodha:before { content: "\f2e0"; }
 .ibio-zia-records:before { content: "\f2e1"; }
