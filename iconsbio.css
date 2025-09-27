@@ -4044,12 +4044,12 @@
 
 @font-face {
   font-family: "iconsbio2";
-  src: url("./iconsbio2_a050fb412f5a8e0aff794e8634c854c9.eot");
-  src: url("./iconsbio2_a050fb412f5a8e0aff794e8634c854c9.eot?#iefix") format("embedded-opentype"),
-       url("./iconsbio2_a050fb412f5a8e0aff794e8634c854c9.woff2") format("woff2"),
-       url("./iconsbio2_a050fb412f5a8e0aff794e8634c854c9.woff") format("woff"),
-       url("./iconsbio2_a050fb412f5a8e0aff794e8634c854c9.ttf") format("truetype"),
-       url("./iconsbio2_a050fb412f5a8e0aff794e8634c854c9.svg#iconsbio2") format("svg");
+  src: url("./iconsbio2_336c1025888dea62f048c9d381466532.eot");
+  src: url("./iconsbio2_336c1025888dea62f048c9d381466532.eot?#iefix") format("embedded-opentype"),
+       url("./iconsbio2_336c1025888dea62f048c9d381466532.woff2") format("woff2"),
+       url("./iconsbio2_336c1025888dea62f048c9d381466532.woff") format("woff"),
+       url("./iconsbio2_336c1025888dea62f048c9d381466532.ttf") format("truetype"),
+       url("./iconsbio2_336c1025888dea62f048c9d381466532.svg#iconsbio2") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -4057,7 +4057,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "iconsbio2";
-    src: url("./iconsbio2_a050fb412f5a8e0aff794e8634c854c9.svg#iconsbio2") format("svg");
+    src: url("./iconsbio2_336c1025888dea62f048c9d381466532.svg#iconsbio2") format("svg");
   }
 }
 
@@ -4308,6 +4308,7 @@
 .ibio-inkblotart:before,
 .ibio-inkedgaming:before,
 .ibio-inkitt:before,
+.ibio-insighttimer:before,
 .ibio-instagramchannel:before,
 .ibio-integrately:before,
 .ibio-invitationcodes:before,
@@ -4920,6 +4921,7 @@
 .ibio-zavvi:before,
 .ibio-zbooni:before,
 .ibio-zeffycom:before,
+.ibio-zenofm:before,
 .ibio-zenyandex:before,
 .ibio-zerodha:before,
 .ibio-zia-records:before,
@@ -5192,6 +5194,7 @@
 .ibio-inkblotart:before { content: "\f3a9"; }
 .ibio-inkedgaming:before { content: "\f152"; }
 .ibio-inkitt:before { content: "\f326"; }
+.ibio-insighttimer:before { content: "\f46d"; }
 .ibio-instagramchannel:before { content: "\f343"; }
 .ibio-integrately:before { content: "\f153"; }
 .ibio-invitationcodes:before { content: "\f154"; }
@@ -5804,6 +5807,7 @@
 .ibio-zavvi:before { content: "\f2dd"; }
 .ibio-zbooni:before { content: "\f2de"; }
 .ibio-zeffycom:before { content: "\f458"; }
+.ibio-zenofm:before { content: "\f46e"; }
 .ibio-zenyandex:before { content: "\f2df"; }
 .ibio-zerodha:before { content: "\f2e0"; }
 .ibio-zia-records:before { content: "\f2e1"; }
