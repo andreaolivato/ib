@@ -4044,12 +4044,12 @@
 
 @font-face {
   font-family: "iconsbio2";
-  src: url("./iconsbio2_967af1a491a58a93021364bd57d2cf6c.eot");
-  src: url("./iconsbio2_967af1a491a58a93021364bd57d2cf6c.eot?#iefix") format("embedded-opentype"),
-       url("./iconsbio2_967af1a491a58a93021364bd57d2cf6c.woff2") format("woff2"),
-       url("./iconsbio2_967af1a491a58a93021364bd57d2cf6c.woff") format("woff"),
-       url("./iconsbio2_967af1a491a58a93021364bd57d2cf6c.ttf") format("truetype"),
-       url("./iconsbio2_967af1a491a58a93021364bd57d2cf6c.svg#iconsbio2") format("svg");
+  src: url("./iconsbio2_1192cc9066f3500f33aee16e07e4178a.eot");
+  src: url("./iconsbio2_1192cc9066f3500f33aee16e07e4178a.eot?#iefix") format("embedded-opentype"),
+       url("./iconsbio2_1192cc9066f3500f33aee16e07e4178a.woff2") format("woff2"),
+       url("./iconsbio2_1192cc9066f3500f33aee16e07e4178a.woff") format("woff"),
+       url("./iconsbio2_1192cc9066f3500f33aee16e07e4178a.ttf") format("truetype"),
+       url("./iconsbio2_1192cc9066f3500f33aee16e07e4178a.svg#iconsbio2") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -4057,7 +4057,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "iconsbio2";
-    src: url("./iconsbio2_967af1a491a58a93021364bd57d2cf6c.svg#iconsbio2") format("svg");
+    src: url("./iconsbio2_1192cc9066f3500f33aee16e07e4178a.svg#iconsbio2") format("svg");
   }
 }
 
@@ -4247,6 +4247,7 @@
 .ibio-funnelkit:before,
 .ibio-fxblue:before,
 .ibio-g2reviews:before,
+.ibio-gab:before,
 .ibio-gamerprofiles:before,
 .ibio-gammaio:before,
 .ibio-gctrader:before,
@@ -4389,6 +4390,7 @@
 .ibio-mercadopago:before,
 .ibio-merlinbirdid:before,
 .ibio-metagamerscore:before,
+.ibio-mewe:before,
 .ibio-michaelscom:before,
 .ibio-microsoftclarity:before,
 .ibio-midjourney:before,
@@ -5144,6 +5146,7 @@
 .ibio-funnelkit:before { content: "\f40d"; }
 .ibio-fxblue:before { content: "\f415"; }
 .ibio-g2reviews:before { content: "\f3a6"; }
+.ibio-gab:before { content: "\f47a"; }
 .ibio-gamerprofiles:before { content: "\f342"; }
 .ibio-gammaio:before { content: "\f42e"; }
 .ibio-gctrader:before { content: "\f448"; }
@@ -5286,6 +5289,7 @@
 .ibio-mercadopago:before { content: "\f176"; }
 .ibio-merlinbirdid:before { content: "\f406"; }
 .ibio-metagamerscore:before { content: "\f3ec"; }
+.ibio-mewe:before { content: "\f47b"; }
 .ibio-michaelscom:before { content: "\f30e"; }
 .ibio-microsoftclarity:before { content: "\f3c0"; }
 .ibio-midjourney:before { content: "\f177"; }
