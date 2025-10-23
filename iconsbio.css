@@ -4044,12 +4044,12 @@
 
 @font-face {
   font-family: "iconsbio2";
-  src: url("./iconsbio2_a812603584de725de07061be1ef66ba6.eot");
-  src: url("./iconsbio2_a812603584de725de07061be1ef66ba6.eot?#iefix") format("embedded-opentype"),
-       url("./iconsbio2_a812603584de725de07061be1ef66ba6.woff2") format("woff2"),
-       url("./iconsbio2_a812603584de725de07061be1ef66ba6.woff") format("woff"),
-       url("./iconsbio2_a812603584de725de07061be1ef66ba6.ttf") format("truetype"),
-       url("./iconsbio2_a812603584de725de07061be1ef66ba6.svg#iconsbio2") format("svg");
+  src: url("./iconsbio2_ff181ca2aa0634f8a9227443ebe145a6.eot");
+  src: url("./iconsbio2_ff181ca2aa0634f8a9227443ebe145a6.eot?#iefix") format("embedded-opentype"),
+       url("./iconsbio2_ff181ca2aa0634f8a9227443ebe145a6.woff2") format("woff2"),
+       url("./iconsbio2_ff181ca2aa0634f8a9227443ebe145a6.woff") format("woff"),
+       url("./iconsbio2_ff181ca2aa0634f8a9227443ebe145a6.ttf") format("truetype"),
+       url("./iconsbio2_ff181ca2aa0634f8a9227443ebe145a6.svg#iconsbio2") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -4057,7 +4057,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "iconsbio2";
-    src: url("./iconsbio2_a812603584de725de07061be1ef66ba6.svg#iconsbio2") format("svg");
+    src: url("./iconsbio2_ff181ca2aa0634f8a9227443ebe145a6.svg#iconsbio2") format("svg");
   }
 }
 
@@ -4624,6 +4624,7 @@
 .ibio-shoppercom:before,
 .ibio-shoppingat:before,
 .ibio-shoppymn:before,
+.ibio-showco:before,
 .ibio-shutterstock:before,
 .ibio-sideonedummy-records:before,
 .ibio-signum-records:before,
@@ -5524,6 +5525,7 @@
 .ibio-shoppercom:before { content: "\f200"; }
 .ibio-shoppingat:before { content: "\f201"; }
 .ibio-shoppymn:before { content: "\f202"; }
+.ibio-showco:before { content: "\f47d"; }
 .ibio-shutterstock:before { content: "\f203"; }
 .ibio-sideonedummy-records:before { content: "\f204"; }
 .ibio-signum-records:before { content: "\f205"; }
