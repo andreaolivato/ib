@@ -4044,12 +4044,12 @@
 
 @font-face {
   font-family: "iconsbio2";
-  src: url("./iconsbio2_41bdf4052bef24dd378992af2196d46f.eot");
-  src: url("./iconsbio2_41bdf4052bef24dd378992af2196d46f.eot?#iefix") format("embedded-opentype"),
-       url("./iconsbio2_41bdf4052bef24dd378992af2196d46f.woff2") format("woff2"),
-       url("./iconsbio2_41bdf4052bef24dd378992af2196d46f.woff") format("woff"),
-       url("./iconsbio2_41bdf4052bef24dd378992af2196d46f.ttf") format("truetype"),
-       url("./iconsbio2_41bdf4052bef24dd378992af2196d46f.svg#iconsbio2") format("svg");
+  src: url("./iconsbio2_24ed87fa46be78e001c78cde1e551577.eot");
+  src: url("./iconsbio2_24ed87fa46be78e001c78cde1e551577.eot?#iefix") format("embedded-opentype"),
+       url("./iconsbio2_24ed87fa46be78e001c78cde1e551577.woff2") format("woff2"),
+       url("./iconsbio2_24ed87fa46be78e001c78cde1e551577.woff") format("woff"),
+       url("./iconsbio2_24ed87fa46be78e001c78cde1e551577.ttf") format("truetype"),
+       url("./iconsbio2_24ed87fa46be78e001c78cde1e551577.svg#iconsbio2") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -4057,7 +4057,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "iconsbio2";
-    src: url("./iconsbio2_41bdf4052bef24dd378992af2196d46f.svg#iconsbio2") format("svg");
+    src: url("./iconsbio2_24ed87fa46be78e001c78cde1e551577.svg#iconsbio2") format("svg");
   }
 }
 
@@ -4207,6 +4207,7 @@
 .ibio-elfsight:before,
 .ibio-elfster:before,
 .ibio-emailoctopus:before,
+.ibio-engineears:before,
 .ibio-enjoeibr:before,
 .ibio-entreprenista:before,
 .ibio-envato:before,
@@ -5123,6 +5124,7 @@
 .ibio-elfsight:before { content: "\f33d"; }
 .ibio-elfster:before { content: "\f38d"; }
 .ibio-emailoctopus:before { content: "\f130"; }
+.ibio-engineears:before { content: "\f48d"; }
 .ibio-enjoeibr:before { content: "\f131"; }
 .ibio-entreprenista:before { content: "\f472"; }
 .ibio-envato:before { content: "\f132"; }
