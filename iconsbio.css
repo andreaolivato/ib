@@ -4044,12 +4044,12 @@
 
 @font-face {
   font-family: "iconsbio2";
-  src: url("./iconsbio2_6a9f541e049be981a51c90f1e729963b.eot");
-  src: url("./iconsbio2_6a9f541e049be981a51c90f1e729963b.eot?#iefix") format("embedded-opentype"),
-       url("./iconsbio2_6a9f541e049be981a51c90f1e729963b.woff2") format("woff2"),
-       url("./iconsbio2_6a9f541e049be981a51c90f1e729963b.woff") format("woff"),
-       url("./iconsbio2_6a9f541e049be981a51c90f1e729963b.ttf") format("truetype"),
-       url("./iconsbio2_6a9f541e049be981a51c90f1e729963b.svg#iconsbio2") format("svg");
+  src: url("./iconsbio2_41c521f0e334e29cf5ee46010a4e9ebb.eot");
+  src: url("./iconsbio2_41c521f0e334e29cf5ee46010a4e9ebb.eot?#iefix") format("embedded-opentype"),
+       url("./iconsbio2_41c521f0e334e29cf5ee46010a4e9ebb.woff2") format("woff2"),
+       url("./iconsbio2_41c521f0e334e29cf5ee46010a4e9ebb.woff") format("woff"),
+       url("./iconsbio2_41c521f0e334e29cf5ee46010a4e9ebb.ttf") format("truetype"),
+       url("./iconsbio2_41c521f0e334e29cf5ee46010a4e9ebb.svg#iconsbio2") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -4057,7 +4057,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "iconsbio2";
-    src: url("./iconsbio2_6a9f541e049be981a51c90f1e729963b.svg#iconsbio2") format("svg");
+    src: url("./iconsbio2_41c521f0e334e29cf5ee46010a4e9ebb.svg#iconsbio2") format("svg");
   }
 }
 
@@ -4414,6 +4414,7 @@
 .ibio-medibang:before,
 .ibio-medibangcom:before,
 .ibio-meesho:before,
+.ibio-meetergo:before,
 .ibio-mercadopago:before,
 .ibio-merlinbirdid:before,
 .ibio-metaai:before,
@@ -4630,6 +4631,7 @@
 .ibio-sanborns:before,
 .ibio-sandmilk:before,
 .ibio-sarbacane:before,
+.ibio-savvycal:before,
 .ibio-schnitzel-records:before,
 .ibio-scoopzvideo:before,
 .ibio-scopus:before,
@@ -5366,6 +5368,7 @@
 .ibio-medibang:before { content: "\f37b"; }
 .ibio-medibangcom:before { content: "\f383"; }
 .ibio-meesho:before { content: "\f3cb"; }
+.ibio-meetergo:before { content: "\f4b1"; }
 .ibio-mercadopago:before { content: "\f176"; }
 .ibio-merlinbirdid:before { content: "\f406"; }
 .ibio-metaai:before { content: "\f499"; }
@@ -5582,6 +5585,7 @@
 .ibio-sanborns:before { content: "\f1e8"; }
 .ibio-sandmilk:before { content: "\f1e9"; }
 .ibio-sarbacane:before { content: "\f35d"; }
+.ibio-savvycal:before { content: "\f4b2"; }
 .ibio-schnitzel-records:before { content: "\f1ea"; }
 .ibio-scoopzvideo:before { content: "\f3ae"; }
 .ibio-scopus:before { content: "\f1eb"; }
