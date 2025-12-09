@@ -4,12 +4,12 @@
 
 @font-face {
   font-family: "iconsbio1";
-  src: url("./iconsbio1_499955fef6e2a82eae92c044003e621e.eot");
-  src: url("./iconsbio1_499955fef6e2a82eae92c044003e621e.eot?#iefix") format("embedded-opentype"),
-       url("./iconsbio1_499955fef6e2a82eae92c044003e621e.woff2") format("woff2"),
-       url("./iconsbio1_499955fef6e2a82eae92c044003e621e.woff") format("woff"),
-       url("./iconsbio1_499955fef6e2a82eae92c044003e621e.ttf") format("truetype"),
-       url("./iconsbio1_499955fef6e2a82eae92c044003e621e.svg#iconsbio1") format("svg");
+  src: url("./iconsbio1_412e51918eb1ac81828f76616d0ecb82.eot");
+  src: url("./iconsbio1_412e51918eb1ac81828f76616d0ecb82.eot?#iefix") format("embedded-opentype"),
+       url("./iconsbio1_412e51918eb1ac81828f76616d0ecb82.woff2") format("woff2"),
+       url("./iconsbio1_412e51918eb1ac81828f76616d0ecb82.woff") format("woff"),
+       url("./iconsbio1_412e51918eb1ac81828f76616d0ecb82.ttf") format("truetype"),
+       url("./iconsbio1_412e51918eb1ac81828f76616d0ecb82.svg#iconsbio1") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -17,7 +17,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "iconsbio1";
-    src: url("./iconsbio1_499955fef6e2a82eae92c044003e621e.svg#iconsbio1") format("svg");
+    src: url("./iconsbio1_412e51918eb1ac81828f76616d0ecb82.svg#iconsbio1") format("svg");
   }
 }
 
@@ -4044,12 +4044,12 @@
 
 @font-face {
   font-family: "iconsbio2";
-  src: url("./iconsbio2_41c521f0e334e29cf5ee46010a4e9ebb.eot");
-  src: url("./iconsbio2_41c521f0e334e29cf5ee46010a4e9ebb.eot?#iefix") format("embedded-opentype"),
-       url("./iconsbio2_41c521f0e334e29cf5ee46010a4e9ebb.woff2") format("woff2"),
-       url("./iconsbio2_41c521f0e334e29cf5ee46010a4e9ebb.woff") format("woff"),
-       url("./iconsbio2_41c521f0e334e29cf5ee46010a4e9ebb.ttf") format("truetype"),
-       url("./iconsbio2_41c521f0e334e29cf5ee46010a4e9ebb.svg#iconsbio2") format("svg");
+  src: url("./iconsbio2_286a16ae21451e96a122360f85531fdf.eot");
+  src: url("./iconsbio2_286a16ae21451e96a122360f85531fdf.eot?#iefix") format("embedded-opentype"),
+       url("./iconsbio2_286a16ae21451e96a122360f85531fdf.woff2") format("woff2"),
+       url("./iconsbio2_286a16ae21451e96a122360f85531fdf.woff") format("woff"),
+       url("./iconsbio2_286a16ae21451e96a122360f85531fdf.ttf") format("truetype"),
+       url("./iconsbio2_286a16ae21451e96a122360f85531fdf.svg#iconsbio2") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -4057,7 +4057,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "iconsbio2";
-    src: url("./iconsbio2_41c521f0e334e29cf5ee46010a4e9ebb.svg#iconsbio2") format("svg");
+    src: url("./iconsbio2_286a16ae21451e96a122360f85531fdf.svg#iconsbio2") format("svg");
   }
 }
 
@@ -4089,6 +4089,7 @@
 .ibio-anodyssey:before,
 .ibio-apple-books:before,
 .ibio-applemaps:before,
+.ibio-arattaiin:before,
 .ibio-arbonne:before,
 .ibio-arena:before,
 .ibio-arrivala:before,
@@ -4120,6 +4121,7 @@
 .ibio-bitview:before,
 .ibio-bizum:before,
 .ibio-blackskycommunity:before,
+.ibio-bloombergconnects:before,
 .ibio-bluesky:before,
 .ibio-blueskyold:before,
 .ibio-boardgamearena:before,
@@ -4130,6 +4132,7 @@
 .ibio-book-of-the-month:before,
 .ibio-bookdinners:before,
 .ibio-bookeo:before,
+.ibio-booklinker:before,
 .ibio-booknet:before,
 .ibio-booknode:before,
 .ibio-booksirens:before,
@@ -4228,6 +4231,7 @@
 .ibio-explurger:before,
 .ibio-ezbio:before,
 .ibio-f6s:before,
+.ibio-fabcom:before,
 .ibio-fablebookclub:before,
 .ibio-fairecom:before,
 .ibio-fambase:before,
@@ -4293,6 +4297,7 @@
 .ibio-gmail:before,
 .ibio-gofoodindonesia:before,
 .ibio-gohighlevel:before,
+.ibio-goodcrowd:before,
 .ibio-google-calendar:before,
 .ibio-googleads:before,
 .ibio-googleanalytics:before,
@@ -4365,6 +4370,7 @@
 .ibio-langit-musik:before,
 .ibio-lapse:before,
 .ibio-lattescnpq:before,
+.ibio-launchgood:before,
 .ibio-laylo:before,
 .ibio-leafletpub:before,
 .ibio-learnworlds:before,
@@ -4419,6 +4425,7 @@
 .ibio-merlinbirdid:before,
 .ibio-metaai:before,
 .ibio-metagamerscore:before,
+.ibio-metricool:before,
 .ibio-mewe:before,
 .ibio-michaelscom:before,
 .ibio-microsoftclarity:before,
@@ -4451,10 +4458,12 @@
 .ibio-navercafe:before,
 .ibio-naversmartstore:before,
 .ibio-ncbdk:before,
+.ibio-ncsasports:before,
 .ibio-ncsmusic:before,
 .ibio-neetocal:before,
 .ibio-neetochat:before,
 .ibio-neetoform:before,
+.ibio-neetokb:before,
 .ibio-neobook:before,
 .ibio-neopets:before,
 .ibio-neoxon:before,
@@ -4619,6 +4628,7 @@
 .ibio-rockmall:before,
 .ibio-rockmark:before,
 .ibio-rocktud:before,
+.ibio-rodeoclub:before,
 .ibio-rokfin:before,
 .ibio-roku:before,
 .ibio-rottentomatoes:before,
@@ -4712,6 +4722,7 @@
 .ibio-solid-state-records:before,
 .ibio-som-livre:before,
 .ibio-soma-records:before,
+.ibio-songpop:before,
 .ibio-songtradr:before,
 .ibio-sonic-bookings:before,
 .ibio-sony-music:before,
@@ -4956,6 +4967,7 @@
 .ibio-whypit:before,
 .ibio-wichita-recordings:before,
 .ibio-wikiloc:before,
+.ibio-wikimediawiki:before,
 .ibio-wildberries:before,
 .ibio-wildthing-records-store:before,
 .ibio-windycom:before,
@@ -5043,6 +5055,7 @@
 .ibio-anodyssey:before { content: "\f42b"; }
 .ibio-apple-books:before { content: "\f106"; }
 .ibio-applemaps:before { content: "\f434"; }
+.ibio-arattaiin:before { content: "\f4b3"; }
 .ibio-arbonne:before { content: "\f107"; }
 .ibio-arena:before { content: "\f108"; }
 .ibio-arrivala:before { content: "\f300"; }
@@ -5074,6 +5087,7 @@
 .ibio-bitview:before { content: "\f301"; }
 .ibio-bizum:before { content: "\f377"; }
 .ibio-blackskycommunity:before { content: "\f491"; }
+.ibio-bloombergconnects:before { content: "\f4b4"; }
 .ibio-bluesky:before { content: "\f110"; }
 .ibio-blueskyold:before { content: "\f2f2"; }
 .ibio-boardgamearena:before { content: "\f3dc"; }
@@ -5084,6 +5098,7 @@
 .ibio-book-of-the-month:before { content: "\f114"; }
 .ibio-bookdinners:before { content: "\f2fa"; }
 .ibio-bookeo:before { content: "\f3b4"; }
+.ibio-booklinker:before { content: "\f4b5"; }
 .ibio-booknet:before { content: "\f38c"; }
 .ibio-booknode:before { content: "\f337"; }
 .ibio-booksirens:before { content: "\f302"; }
@@ -5182,6 +5197,7 @@
 .ibio-explurger:before { content: "\f42c"; }
 .ibio-ezbio:before { content: "\f134"; }
 .ibio-f6s:before { content: "\f135"; }
+.ibio-fabcom:before { content: "\f4b6"; }
 .ibio-fablebookclub:before { content: "\f136"; }
 .ibio-fairecom:before { content: "\f417"; }
 .ibio-fambase:before { content: "\f2fb"; }
@@ -5247,6 +5263,7 @@
 .ibio-gmail:before { content: "\f142"; }
 .ibio-gofoodindonesia:before { content: "\f373"; }
 .ibio-gohighlevel:before { content: "\f39c"; }
+.ibio-goodcrowd:before { content: "\f4b7"; }
 .ibio-google-calendar:before { content: "\f143"; }
 .ibio-googleads:before { content: "\f33c"; }
 .ibio-googleanalytics:before { content: "\f144"; }
@@ -5319,6 +5336,7 @@
 .ibio-langit-musik:before { content: "\f163"; }
 .ibio-lapse:before { content: "\f332"; }
 .ibio-lattescnpq:before { content: "\f164"; }
+.ibio-launchgood:before { content: "\f4b8"; }
 .ibio-laylo:before { content: "\f39b"; }
 .ibio-leafletpub:before { content: "\f4a9"; }
 .ibio-learnworlds:before { content: "\f165"; }
@@ -5373,6 +5391,7 @@
 .ibio-merlinbirdid:before { content: "\f406"; }
 .ibio-metaai:before { content: "\f499"; }
 .ibio-metagamerscore:before { content: "\f3ec"; }
+.ibio-metricool:before { content: "\f4b9"; }
 .ibio-mewe:before { content: "\f47b"; }
 .ibio-michaelscom:before { content: "\f30e"; }
 .ibio-microsoftclarity:before { content: "\f3c0"; }
@@ -5405,10 +5424,12 @@
 .ibio-navercafe:before { content: "\f41c"; }
 .ibio-naversmartstore:before { content: "\f17e"; }
 .ibio-ncbdk:before { content: "\f441"; }
+.ibio-ncsasports:before { content: "\f4ba"; }
 .ibio-ncsmusic:before { content: "\f17f"; }
 .ibio-neetocal:before { content: "\f4a4"; }
 .ibio-neetochat:before { content: "\f4ae"; }
 .ibio-neetoform:before { content: "\f4af"; }
+.ibio-neetokb:before { content: "\f4bb"; }
 .ibio-neobook:before { content: "\f346"; }
 .ibio-neopets:before { content: "\f180"; }
 .ibio-neoxon:before { content: "\f3ab"; }
@@ -5573,6 +5594,7 @@
 .ibio-rockmall:before { content: "\f1df"; }
 .ibio-rockmark:before { content: "\f1e0"; }
 .ibio-rocktud:before { content: "\f1e1"; }
+.ibio-rodeoclub:before { content: "\f4bc"; }
 .ibio-rokfin:before { content: "\f374"; }
 .ibio-roku:before { content: "\f1e2"; }
 .ibio-rottentomatoes:before { content: "\f1e3"; }
@@ -5666,6 +5688,7 @@
 .ibio-solid-state-records:before { content: "\f21d"; }
 .ibio-som-livre:before { content: "\f21e"; }
 .ibio-soma-records:before { content: "\f21f"; }
+.ibio-songpop:before { content: "\f4bd"; }
 .ibio-songtradr:before { content: "\f220"; }
 .ibio-sonic-bookings:before { content: "\f221"; }
 .ibio-sony-music:before { content: "\f222"; }
@@ -5910,6 +5933,7 @@
 .ibio-whypit:before { content: "\f3b1"; }
 .ibio-wichita-recordings:before { content: "\f2c4"; }
 .ibio-wikiloc:before { content: "\f2c5"; }
+.ibio-wikimediawiki:before { content: "\f4be"; }
 .ibio-wildberries:before { content: "\f375"; }
 .ibio-wildthing-records-store:before { content: "\f2c6"; }
 .ibio-windycom:before { content: "\f39d"; }
