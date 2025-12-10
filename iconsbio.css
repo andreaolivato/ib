@@ -4044,12 +4044,12 @@
 
 @font-face {
   font-family: "iconsbio2";
-  src: url("./iconsbio2_286a16ae21451e96a122360f85531fdf.eot");
-  src: url("./iconsbio2_286a16ae21451e96a122360f85531fdf.eot?#iefix") format("embedded-opentype"),
-       url("./iconsbio2_286a16ae21451e96a122360f85531fdf.woff2") format("woff2"),
-       url("./iconsbio2_286a16ae21451e96a122360f85531fdf.woff") format("woff"),
-       url("./iconsbio2_286a16ae21451e96a122360f85531fdf.ttf") format("truetype"),
-       url("./iconsbio2_286a16ae21451e96a122360f85531fdf.svg#iconsbio2") format("svg");
+  src: url("./iconsbio2_878bbf5bba8c42261e7801d070635da4.eot");
+  src: url("./iconsbio2_878bbf5bba8c42261e7801d070635da4.eot?#iefix") format("embedded-opentype"),
+       url("./iconsbio2_878bbf5bba8c42261e7801d070635da4.woff2") format("woff2"),
+       url("./iconsbio2_878bbf5bba8c42261e7801d070635da4.woff") format("woff"),
+       url("./iconsbio2_878bbf5bba8c42261e7801d070635da4.ttf") format("truetype"),
+       url("./iconsbio2_878bbf5bba8c42261e7801d070635da4.svg#iconsbio2") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -4057,7 +4057,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "iconsbio2";
-    src: url("./iconsbio2_286a16ae21451e96a122360f85531fdf.svg#iconsbio2") format("svg");
+    src: url("./iconsbio2_878bbf5bba8c42261e7801d070635da4.svg#iconsbio2") format("svg");
   }
 }
 
@@ -4294,6 +4294,7 @@
 .ibio-givecampus:before,
 .ibio-glassphoto:before,
 .ibio-globalsisters:before,
+.ibio-glofox:before,
 .ibio-gmail:before,
 .ibio-gofoodindonesia:before,
 .ibio-gohighlevel:before,
@@ -4311,6 +4312,7 @@
 .ibio-grainery:before,
 .ibio-gramexdk:before,
 .ibio-graphistecom:before,
+.ibio-greasyfork:before,
 .ibio-grid34:before,
 .ibio-grouprides:before,
 .ibio-hearnow:before,
@@ -4417,6 +4419,7 @@
 .ibio-matrimoniocom:before,
 .ibio-matterport:before,
 .ibio-mavely:before,
+.ibio-maxpreps:before,
 .ibio-medibang:before,
 .ibio-medibangcom:before,
 .ibio-meesho:before,
@@ -4489,6 +4492,7 @@
 .ibio-onedrive:before,
 .ibio-openscienceframework:before,
 .ibio-opentable:before,
+.ibio-openuserjs:before,
 .ibio-orintful:before,
 .ibio-outlook:before,
 .ibio-pabbly:before,
@@ -5260,6 +5264,7 @@
 .ibio-givecampus:before { content: "\f141"; }
 .ibio-glassphoto:before { content: "\f3d1"; }
 .ibio-globalsisters:before { content: "\f3bc"; }
+.ibio-glofox:before { content: "\f4bf"; }
 .ibio-gmail:before { content: "\f142"; }
 .ibio-gofoodindonesia:before { content: "\f373"; }
 .ibio-gohighlevel:before { content: "\f39c"; }
@@ -5277,6 +5282,7 @@
 .ibio-grainery:before { content: "\f146"; }
 .ibio-gramexdk:before { content: "\f43c"; }
 .ibio-graphistecom:before { content: "\f483"; }
+.ibio-greasyfork:before { content: "\f4c0"; }
 .ibio-grid34:before { content: "\f3d5"; }
 .ibio-grouprides:before { content: "\f45d"; }
 .ibio-hearnow:before { content: "\f147"; }
@@ -5383,6 +5389,7 @@
 .ibio-matrimoniocom:before { content: "\f361"; }
 .ibio-matterport:before { content: "\f3d9"; }
 .ibio-mavely:before { content: "\f3e2"; }
+.ibio-maxpreps:before { content: "\f4c1"; }
 .ibio-medibang:before { content: "\f37b"; }
 .ibio-medibangcom:before { content: "\f383"; }
 .ibio-meesho:before { content: "\f3cb"; }
@@ -5455,6 +5462,7 @@
 .ibio-onedrive:before { content: "\f461"; }
 .ibio-openscienceframework:before { content: "\f462"; }
 .ibio-opentable:before { content: "\f185"; }
+.ibio-openuserjs:before { content: "\f4c2"; }
 .ibio-orintful:before { content: "\f186"; }
 .ibio-outlook:before { content: "\f187"; }
 .ibio-pabbly:before { content: "\f188"; }
