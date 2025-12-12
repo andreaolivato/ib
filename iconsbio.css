@@ -4044,12 +4044,12 @@
 
 @font-face {
   font-family: "iconsbio2";
-  src: url("./iconsbio2_878bbf5bba8c42261e7801d070635da4.eot");
-  src: url("./iconsbio2_878bbf5bba8c42261e7801d070635da4.eot?#iefix") format("embedded-opentype"),
-       url("./iconsbio2_878bbf5bba8c42261e7801d070635da4.woff2") format("woff2"),
-       url("./iconsbio2_878bbf5bba8c42261e7801d070635da4.woff") format("woff"),
-       url("./iconsbio2_878bbf5bba8c42261e7801d070635da4.ttf") format("truetype"),
-       url("./iconsbio2_878bbf5bba8c42261e7801d070635da4.svg#iconsbio2") format("svg");
+  src: url("./iconsbio2_bf5f73aa0fab62ff5656661cbaf3fc28.eot");
+  src: url("./iconsbio2_bf5f73aa0fab62ff5656661cbaf3fc28.eot?#iefix") format("embedded-opentype"),
+       url("./iconsbio2_bf5f73aa0fab62ff5656661cbaf3fc28.woff2") format("woff2"),
+       url("./iconsbio2_bf5f73aa0fab62ff5656661cbaf3fc28.woff") format("woff"),
+       url("./iconsbio2_bf5f73aa0fab62ff5656661cbaf3fc28.ttf") format("truetype"),
+       url("./iconsbio2_bf5f73aa0fab62ff5656661cbaf3fc28.svg#iconsbio2") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -4057,7 +4057,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "iconsbio2";
-    src: url("./iconsbio2_878bbf5bba8c42261e7801d070635da4.svg#iconsbio2") format("svg");
+    src: url("./iconsbio2_bf5f73aa0fab62ff5656661cbaf3fc28.svg#iconsbio2") format("svg");
   }
 }
 
@@ -4149,6 +4149,7 @@
 .ibio-cafecito:before,
 .ibio-calaxy:before,
 .ibio-calcom:before,
+.ibio-calendarjet:before,
 .ibio-callofdutymobile:before,
 .ibio-campaignmonitor:before,
 .ibio-capcut:before,
@@ -4169,6 +4170,7 @@
 .ibio-clickasnap:before,
 .ibio-cloudcollectorz:before,
 .ibio-clouthub:before,
+.ibio-codeberg:before,
 .ibio-cognitoforms:before,
 .ibio-cohostorg:before,
 .ibio-commonninja:before,
@@ -5119,6 +5121,7 @@
 .ibio-cafecito:before { content: "\f2ed"; }
 .ibio-calaxy:before { content: "\f11a"; }
 .ibio-calcom:before { content: "\f36e"; }
+.ibio-calendarjet:before { content: "\f4c3"; }
 .ibio-callofdutymobile:before { content: "\f471"; }
 .ibio-campaignmonitor:before { content: "\f2f7"; }
 .ibio-capcut:before { content: "\f11b"; }
@@ -5139,6 +5142,7 @@
 .ibio-clickasnap:before { content: "\f11d"; }
 .ibio-cloudcollectorz:before { content: "\f380"; }
 .ibio-clouthub:before { content: "\f378"; }
+.ibio-codeberg:before { content: "\f4c4"; }
 .ibio-cognitoforms:before { content: "\f3a2"; }
 .ibio-cohostorg:before { content: "\f11e"; }
 .ibio-commonninja:before { content: "\f34c"; }
