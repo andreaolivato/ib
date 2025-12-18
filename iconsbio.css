@@ -4,12 +4,12 @@
 
 @font-face {
   font-family: "iconsbio1";
-  src: url("./iconsbio1_412e51918eb1ac81828f76616d0ecb82.eot");
-  src: url("./iconsbio1_412e51918eb1ac81828f76616d0ecb82.eot?#iefix") format("embedded-opentype"),
-       url("./iconsbio1_412e51918eb1ac81828f76616d0ecb82.woff2") format("woff2"),
-       url("./iconsbio1_412e51918eb1ac81828f76616d0ecb82.woff") format("woff"),
-       url("./iconsbio1_412e51918eb1ac81828f76616d0ecb82.ttf") format("truetype"),
-       url("./iconsbio1_412e51918eb1ac81828f76616d0ecb82.svg#iconsbio1") format("svg");
+  src: url("./iconsbio1_672a2913bad4ec0f3084dd48cc861773.eot");
+  src: url("./iconsbio1_672a2913bad4ec0f3084dd48cc861773.eot?#iefix") format("embedded-opentype"),
+       url("./iconsbio1_672a2913bad4ec0f3084dd48cc861773.woff2") format("woff2"),
+       url("./iconsbio1_672a2913bad4ec0f3084dd48cc861773.woff") format("woff"),
+       url("./iconsbio1_672a2913bad4ec0f3084dd48cc861773.ttf") format("truetype"),
+       url("./iconsbio1_672a2913bad4ec0f3084dd48cc861773.svg#iconsbio1") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -17,7 +17,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "iconsbio1";
-    src: url("./iconsbio1_412e51918eb1ac81828f76616d0ecb82.svg#iconsbio1") format("svg");
+    src: url("./iconsbio1_672a2913bad4ec0f3084dd48cc861773.svg#iconsbio1") format("svg");
   }
 }
 
@@ -4044,12 +4044,12 @@
 
 @font-face {
   font-family: "iconsbio2";
-  src: url("./iconsbio2_bf5f73aa0fab62ff5656661cbaf3fc28.eot");
-  src: url("./iconsbio2_bf5f73aa0fab62ff5656661cbaf3fc28.eot?#iefix") format("embedded-opentype"),
-       url("./iconsbio2_bf5f73aa0fab62ff5656661cbaf3fc28.woff2") format("woff2"),
-       url("./iconsbio2_bf5f73aa0fab62ff5656661cbaf3fc28.woff") format("woff"),
-       url("./iconsbio2_bf5f73aa0fab62ff5656661cbaf3fc28.ttf") format("truetype"),
-       url("./iconsbio2_bf5f73aa0fab62ff5656661cbaf3fc28.svg#iconsbio2") format("svg");
+  src: url("./iconsbio2_9212e8416c8f86504d05822c9be8ade2.eot");
+  src: url("./iconsbio2_9212e8416c8f86504d05822c9be8ade2.eot?#iefix") format("embedded-opentype"),
+       url("./iconsbio2_9212e8416c8f86504d05822c9be8ade2.woff2") format("woff2"),
+       url("./iconsbio2_9212e8416c8f86504d05822c9be8ade2.woff") format("woff"),
+       url("./iconsbio2_9212e8416c8f86504d05822c9be8ade2.ttf") format("truetype"),
+       url("./iconsbio2_9212e8416c8f86504d05822c9be8ade2.svg#iconsbio2") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -4057,7 +4057,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "iconsbio2";
-    src: url("./iconsbio2_bf5f73aa0fab62ff5656661cbaf3fc28.svg#iconsbio2") format("svg");
+    src: url("./iconsbio2_9212e8416c8f86504d05822c9be8ade2.svg#iconsbio2") format("svg");
   }
 }
 
@@ -4771,6 +4771,7 @@
 .ibio-stones-throw-records:before,
 .ibio-storeplus:before,
 .ibio-streamelements:before,
+.ibio-streamplacements:before,
 .ibio-strongnation:before,
 .ibio-sub-pop-mega-mart:before,
 .ibio-subk-shop:before,
@@ -4778,6 +4779,7 @@
 .ibio-subtv-playlister:before,
 .ibio-sun-records:before,
 .ibio-sunrise-records:before,
+.ibio-superprof:before,
 .ibio-superpuma-records:before,
 .ibio-supraphon:before,
 .ibio-supraphonline-cd:before,
@@ -4936,6 +4938,7 @@
 .ibio-void-vinyl:before,
 .ibio-voyo:before,
 .ibio-vp-reggae:before,
+.ibio-vrbo:before,
 .ibio-vudu:before,
 .ibio-vuulm:before,
 .ibio-vvvid:before,
@@ -5743,6 +5746,7 @@
 .ibio-stones-throw-records:before { content: "\f237"; }
 .ibio-storeplus:before { content: "\f3c9"; }
 .ibio-streamelements:before { content: "\f349"; }
+.ibio-streamplacements:before { content: "\f4c5"; }
 .ibio-strongnation:before { content: "\f34a"; }
 .ibio-sub-pop-mega-mart:before { content: "\f238"; }
 .ibio-subk-shop:before { content: "\f239"; }
@@ -5750,6 +5754,7 @@
 .ibio-subtv-playlister:before { content: "\f23b"; }
 .ibio-sun-records:before { content: "\f23c"; }
 .ibio-sunrise-records:before { content: "\f23d"; }
+.ibio-superprof:before { content: "\f4c6"; }
 .ibio-superpuma-records:before { content: "\f23e"; }
 .ibio-supraphon:before { content: "\f23f"; }
 .ibio-supraphonline-cd:before { content: "\f240"; }
@@ -5908,6 +5913,7 @@
 .ibio-void-vinyl:before { content: "\f2ae"; }
 .ibio-voyo:before { content: "\f2af"; }
 .ibio-vp-reggae:before { content: "\f2b0"; }
+.ibio-vrbo:before { content: "\f4c7"; }
 .ibio-vudu:before { content: "\f2b1"; }
 .ibio-vuulm:before { content: "\f2b2"; }
 .ibio-vvvid:before { content: "\f2b3"; }
