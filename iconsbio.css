@@ -4044,12 +4044,12 @@
 
 @font-face {
   font-family: "iconsbio2";
-  src: url("./iconsbio2_333ea10098283291cddccebaa1958c43.eot");
-  src: url("./iconsbio2_333ea10098283291cddccebaa1958c43.eot?#iefix") format("embedded-opentype"),
-       url("./iconsbio2_333ea10098283291cddccebaa1958c43.woff2") format("woff2"),
-       url("./iconsbio2_333ea10098283291cddccebaa1958c43.woff") format("woff"),
-       url("./iconsbio2_333ea10098283291cddccebaa1958c43.ttf") format("truetype"),
-       url("./iconsbio2_333ea10098283291cddccebaa1958c43.svg#iconsbio2") format("svg");
+  src: url("./iconsbio2_1f21669338b4d6c0424e2d7b8e7827c8.eot");
+  src: url("./iconsbio2_1f21669338b4d6c0424e2d7b8e7827c8.eot?#iefix") format("embedded-opentype"),
+       url("./iconsbio2_1f21669338b4d6c0424e2d7b8e7827c8.woff2") format("woff2"),
+       url("./iconsbio2_1f21669338b4d6c0424e2d7b8e7827c8.woff") format("woff"),
+       url("./iconsbio2_1f21669338b4d6c0424e2d7b8e7827c8.ttf") format("truetype"),
+       url("./iconsbio2_1f21669338b4d6c0424e2d7b8e7827c8.svg#iconsbio2") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -4057,7 +4057,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "iconsbio2";
-    src: url("./iconsbio2_333ea10098283291cddccebaa1958c43.svg#iconsbio2") format("svg");
+    src: url("./iconsbio2_1f21669338b4d6c0424e2d7b8e7827c8.svg#iconsbio2") format("svg");
   }
 }
 
@@ -4173,6 +4173,7 @@
 .ibio-cloudcollectorz:before,
 .ibio-clouthub:before,
 .ibio-codeberg:before,
+.ibio-codersrankio:before,
 .ibio-cognitoforms:before,
 .ibio-cohostorg:before,
 .ibio-commonninja:before,
@@ -4621,6 +4622,7 @@
 .ibio-remax:before,
 .ibio-remindcom:before,
 .ibio-renaissanceapp:before,
+.ibio-rezgo:before,
 .ibio-rhein-konzerte:before,
 .ibio-rhythm-merch:before,
 .ibio-ribblr:before,
@@ -5153,6 +5155,7 @@
 .ibio-cloudcollectorz:before { content: "\f380"; }
 .ibio-clouthub:before { content: "\f378"; }
 .ibio-codeberg:before { content: "\f4c4"; }
+.ibio-codersrankio:before { content: "\f4cd"; }
 .ibio-cognitoforms:before { content: "\f3a2"; }
 .ibio-cohostorg:before { content: "\f11e"; }
 .ibio-commonninja:before { content: "\f34c"; }
@@ -5601,6 +5604,7 @@
 .ibio-remax:before { content: "\f488"; }
 .ibio-remindcom:before { content: "\f39f"; }
 .ibio-renaissanceapp:before { content: "\f310"; }
+.ibio-rezgo:before { content: "\f4ce"; }
 .ibio-rhein-konzerte:before { content: "\f1d3"; }
 .ibio-rhythm-merch:before { content: "\f1d4"; }
 .ibio-ribblr:before { content: "\f475"; }
