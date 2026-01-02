@@ -4044,12 +4044,12 @@
 
 @font-face {
   font-family: "iconsbio2";
-  src: url("./iconsbio2_1f21669338b4d6c0424e2d7b8e7827c8.eot");
-  src: url("./iconsbio2_1f21669338b4d6c0424e2d7b8e7827c8.eot?#iefix") format("embedded-opentype"),
-       url("./iconsbio2_1f21669338b4d6c0424e2d7b8e7827c8.woff2") format("woff2"),
-       url("./iconsbio2_1f21669338b4d6c0424e2d7b8e7827c8.woff") format("woff"),
-       url("./iconsbio2_1f21669338b4d6c0424e2d7b8e7827c8.ttf") format("truetype"),
-       url("./iconsbio2_1f21669338b4d6c0424e2d7b8e7827c8.svg#iconsbio2") format("svg");
+  src: url("./iconsbio2_2b7b2f87dd7f0d136e5597eda7060dc4.eot");
+  src: url("./iconsbio2_2b7b2f87dd7f0d136e5597eda7060dc4.eot?#iefix") format("embedded-opentype"),
+       url("./iconsbio2_2b7b2f87dd7f0d136e5597eda7060dc4.woff2") format("woff2"),
+       url("./iconsbio2_2b7b2f87dd7f0d136e5597eda7060dc4.woff") format("woff"),
+       url("./iconsbio2_2b7b2f87dd7f0d136e5597eda7060dc4.ttf") format("truetype"),
+       url("./iconsbio2_2b7b2f87dd7f0d136e5597eda7060dc4.svg#iconsbio2") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -4057,7 +4057,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "iconsbio2";
-    src: url("./iconsbio2_1f21669338b4d6c0424e2d7b8e7827c8.svg#iconsbio2") format("svg");
+    src: url("./iconsbio2_2b7b2f87dd7f0d136e5597eda7060dc4.svg#iconsbio2") format("svg");
   }
 }
 
@@ -4266,6 +4266,7 @@
 .ibio-framework360:before,
 .ibio-freshcut:before,
 .ibio-friendtok:before,
+.ibio-fullscript:before,
 .ibio-funanl:before,
 .ibio-funnelkit:before,
 .ibio-fxblue:before,
@@ -4413,6 +4414,8 @@
 .ibio-loop-store:before,
 .ibio-loopnet:before,
 .ibio-loopsso:before,
+.ibio-loopsvideo:before,
+.ibio-lotuschatvn:before,
 .ibio-lyricsfind:before,
 .ibio-magicedenio:before,
 .ibio-mailerlite:before,
@@ -4434,6 +4437,7 @@
 .ibio-mercadopago:before,
 .ibio-merlinbirdid:before,
 .ibio-metaai:before,
+.ibio-metafy:before,
 .ibio-metagamerscore:before,
 .ibio-metricool:before,
 .ibio-mewe:before,
@@ -4475,6 +4479,7 @@
 .ibio-neetoform:before,
 .ibio-neetokb:before,
 .ibio-neobook:before,
+.ibio-neocities:before,
 .ibio-neopets:before,
 .ibio-neoxon:before,
 .ibio-new-west-records:before,
@@ -4810,6 +4815,7 @@
 .ibio-tango-discos:before,
 .ibio-tapete-records:before,
 .ibio-target:before,
+.ibio-tarteelai:before,
 .ibio-tawkto:before,
 .ibio-tcgplayer:before,
 .ibio-telasa:before,
@@ -5248,6 +5254,7 @@
 .ibio-framework360:before { content: "\f4a3"; }
 .ibio-freshcut:before { content: "\f13c"; }
 .ibio-friendtok:before { content: "\f13d"; }
+.ibio-fullscript:before { content: "\f4cf"; }
 .ibio-funanl:before { content: "\f13e"; }
 .ibio-funnelkit:before { content: "\f40d"; }
 .ibio-fxblue:before { content: "\f415"; }
@@ -5395,6 +5402,8 @@
 .ibio-loop-store:before { content: "\f171"; }
 .ibio-loopnet:before { content: "\f172"; }
 .ibio-loopsso:before { content: "\f323"; }
+.ibio-loopsvideo:before { content: "\f4d0"; }
+.ibio-lotuschatvn:before { content: "\f4d1"; }
 .ibio-lyricsfind:before { content: "\f440"; }
 .ibio-magicedenio:before { content: "\f173"; }
 .ibio-mailerlite:before { content: "\f174"; }
@@ -5416,6 +5425,7 @@
 .ibio-mercadopago:before { content: "\f176"; }
 .ibio-merlinbirdid:before { content: "\f406"; }
 .ibio-metaai:before { content: "\f499"; }
+.ibio-metafy:before { content: "\f4d2"; }
 .ibio-metagamerscore:before { content: "\f3ec"; }
 .ibio-metricool:before { content: "\f4b9"; }
 .ibio-mewe:before { content: "\f47b"; }
@@ -5457,6 +5467,7 @@
 .ibio-neetoform:before { content: "\f4af"; }
 .ibio-neetokb:before { content: "\f4bb"; }
 .ibio-neobook:before { content: "\f346"; }
+.ibio-neocities:before { content: "\f4d3"; }
 .ibio-neopets:before { content: "\f180"; }
 .ibio-neoxon:before { content: "\f3ab"; }
 .ibio-new-west-records:before { content: "\f181"; }
@@ -5792,6 +5803,7 @@
 .ibio-tango-discos:before { content: "\f24e"; }
 .ibio-tapete-records:before { content: "\f24f"; }
 .ibio-target:before { content: "\f250"; }
+.ibio-tarteelai:before { content: "\f4d4"; }
 .ibio-tawkto:before { content: "\f371"; }
 .ibio-tcgplayer:before { content: "\f251"; }
 .ibio-telasa:before { content: "\f252"; }
