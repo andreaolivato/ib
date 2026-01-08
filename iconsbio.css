@@ -4044,12 +4044,12 @@
 
 @font-face {
   font-family: "iconsbio2";
-  src: url("./iconsbio2_12ddce104817558f8d90ce69275fd218.eot");
-  src: url("./iconsbio2_12ddce104817558f8d90ce69275fd218.eot?#iefix") format("embedded-opentype"),
-       url("./iconsbio2_12ddce104817558f8d90ce69275fd218.woff2") format("woff2"),
-       url("./iconsbio2_12ddce104817558f8d90ce69275fd218.woff") format("woff"),
-       url("./iconsbio2_12ddce104817558f8d90ce69275fd218.ttf") format("truetype"),
-       url("./iconsbio2_12ddce104817558f8d90ce69275fd218.svg#iconsbio2") format("svg");
+  src: url("./iconsbio2_280456bf42cb0ef819c2131883d47b83.eot");
+  src: url("./iconsbio2_280456bf42cb0ef819c2131883d47b83.eot?#iefix") format("embedded-opentype"),
+       url("./iconsbio2_280456bf42cb0ef819c2131883d47b83.woff2") format("woff2"),
+       url("./iconsbio2_280456bf42cb0ef819c2131883d47b83.woff") format("woff"),
+       url("./iconsbio2_280456bf42cb0ef819c2131883d47b83.ttf") format("truetype"),
+       url("./iconsbio2_280456bf42cb0ef819c2131883d47b83.svg#iconsbio2") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -4057,7 +4057,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "iconsbio2";
-    src: url("./iconsbio2_12ddce104817558f8d90ce69275fd218.svg#iconsbio2") format("svg");
+    src: url("./iconsbio2_280456bf42cb0ef819c2131883d47b83.svg#iconsbio2") format("svg");
   }
 }
 
@@ -4279,11 +4279,13 @@
 .ibio-genericbasketball:before,
 .ibio-genericclock:before,
 .ibio-genericfile:before,
+.ibio-genericgripslash:before,
 .ibio-genericmagazine:before,
 .ibio-genericmusic:before,
 .ibio-genericphoto:before,
 .ibio-genericphotoalbum:before,
 .ibio-genericsurvey:before,
+.ibio-generictrashslash:before,
 .ibio-genericvoting:before,
 .ibio-geneva:before,
 .ibio-geogebra:before,
@@ -5269,11 +5271,13 @@
 .ibio-genericbasketball:before { content: "\f44b"; }
 .ibio-genericclock:before { content: "\f418"; }
 .ibio-genericfile:before { content: "\f396"; }
+.ibio-genericgripslash:before { content: "\f4d7"; }
 .ibio-genericmagazine:before { content: "\f3e5"; }
 .ibio-genericmusic:before { content: "\f397"; }
 .ibio-genericphoto:before { content: "\f398"; }
 .ibio-genericphotoalbum:before { content: "\f399"; }
 .ibio-genericsurvey:before { content: "\f422"; }
+.ibio-generictrashslash:before { content: "\f4d8"; }
 .ibio-genericvoting:before { content: "\f3a8"; }
 .ibio-geneva:before { content: "\f303"; }
 .ibio-geogebra:before { content: "\f360"; }
