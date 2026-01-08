@@ -4044,12 +4044,12 @@
 
 @font-face {
   font-family: "iconsbio2";
-  src: url("./iconsbio2_2b7b2f87dd7f0d136e5597eda7060dc4.eot");
-  src: url("./iconsbio2_2b7b2f87dd7f0d136e5597eda7060dc4.eot?#iefix") format("embedded-opentype"),
-       url("./iconsbio2_2b7b2f87dd7f0d136e5597eda7060dc4.woff2") format("woff2"),
-       url("./iconsbio2_2b7b2f87dd7f0d136e5597eda7060dc4.woff") format("woff"),
-       url("./iconsbio2_2b7b2f87dd7f0d136e5597eda7060dc4.ttf") format("truetype"),
-       url("./iconsbio2_2b7b2f87dd7f0d136e5597eda7060dc4.svg#iconsbio2") format("svg");
+  src: url("./iconsbio2_12ddce104817558f8d90ce69275fd218.eot");
+  src: url("./iconsbio2_12ddce104817558f8d90ce69275fd218.eot?#iefix") format("embedded-opentype"),
+       url("./iconsbio2_12ddce104817558f8d90ce69275fd218.woff2") format("woff2"),
+       url("./iconsbio2_12ddce104817558f8d90ce69275fd218.woff") format("woff"),
+       url("./iconsbio2_12ddce104817558f8d90ce69275fd218.ttf") format("truetype"),
+       url("./iconsbio2_12ddce104817558f8d90ce69275fd218.svg#iconsbio2") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -4057,7 +4057,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "iconsbio2";
-    src: url("./iconsbio2_2b7b2f87dd7f0d136e5597eda7060dc4.svg#iconsbio2") format("svg");
+    src: url("./iconsbio2_12ddce104817558f8d90ce69275fd218.svg#iconsbio2") format("svg");
   }
 }
 
@@ -4333,6 +4333,8 @@
 .ibio-hivesocial:before,
 .ibio-honkaistarrail:before,
 .ibio-hootsuite:before,
+.ibio-hostinger:before,
+.ibio-hostingerreach:before,
 .ibio-hotmart:before,
 .ibio-hoyolab:before,
 .ibio-hudlcom:before,
@@ -5321,6 +5323,8 @@
 .ibio-hivesocial:before { content: "\f14a"; }
 .ibio-honkaistarrail:before { content: "\f495"; }
 .ibio-hootsuite:before { content: "\f41f"; }
+.ibio-hostinger:before { content: "\f4d5"; }
+.ibio-hostingerreach:before { content: "\f4d6"; }
 .ibio-hotmart:before { content: "\f45e"; }
 .ibio-hoyolab:before { content: "\f496"; }
 .ibio-hudlcom:before { content: "\f484"; }
