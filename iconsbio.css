@@ -4044,12 +4044,12 @@
 
 @font-face {
   font-family: "iconsbio2";
-  src: url("./iconsbio2_3056364270ee783191556958ff5d2d43.eot");
-  src: url("./iconsbio2_3056364270ee783191556958ff5d2d43.eot?#iefix") format("embedded-opentype"),
-       url("./iconsbio2_3056364270ee783191556958ff5d2d43.woff2") format("woff2"),
-       url("./iconsbio2_3056364270ee783191556958ff5d2d43.woff") format("woff"),
-       url("./iconsbio2_3056364270ee783191556958ff5d2d43.ttf") format("truetype"),
-       url("./iconsbio2_3056364270ee783191556958ff5d2d43.svg#iconsbio2") format("svg");
+  src: url("./iconsbio2_455ba5c0d27c7d73c870a29f44f9b0a3.eot");
+  src: url("./iconsbio2_455ba5c0d27c7d73c870a29f44f9b0a3.eot?#iefix") format("embedded-opentype"),
+       url("./iconsbio2_455ba5c0d27c7d73c870a29f44f9b0a3.woff2") format("woff2"),
+       url("./iconsbio2_455ba5c0d27c7d73c870a29f44f9b0a3.woff") format("woff"),
+       url("./iconsbio2_455ba5c0d27c7d73c870a29f44f9b0a3.ttf") format("truetype"),
+       url("./iconsbio2_455ba5c0d27c7d73c870a29f44f9b0a3.svg#iconsbio2") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -4057,7 +4057,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "iconsbio2";
-    src: url("./iconsbio2_3056364270ee783191556958ff5d2d43.svg#iconsbio2") format("svg");
+    src: url("./iconsbio2_455ba5c0d27c7d73c870a29f44f9b0a3.svg#iconsbio2") format("svg");
   }
 }
 
@@ -4126,6 +4126,7 @@
 .ibio-bloombergconnects:before,
 .ibio-bluesky:before,
 .ibio-blueskyold:before,
+.ibio-blurindiacom:before,
 .ibio-boardgamearena:before,
 .ibio-bollyx:before,
 .ibio-boltplustv:before,
@@ -4148,6 +4149,7 @@
 .ibio-brevo:before,
 .ibio-btclighting:before,
 .ibio-byfans:before,
+.ibio-byongaricom:before,
 .ibio-cafecito:before,
 .ibio-calaxy:before,
 .ibio-calcom:before,
@@ -4232,6 +4234,7 @@
 .ibio-europass:before,
 .ibio-evenbiz:before,
 .ibio-eventix:before,
+.ibio-evryjewels:before,
 .ibio-expedia:before,
 .ibio-explurger:before,
 .ibio-ezbio:before,
@@ -4247,6 +4250,7 @@
 .ibio-fantia:before,
 .ibio-farcasterxyz:before,
 .ibio-featurefm:before,
+.ibio-fediverse:before,
 .ibio-feefo:before,
 .ibio-ficbooknet:before,
 .ibio-ficfan:before,
@@ -4258,6 +4262,7 @@
 .ibio-flo:before,
 .ibio-flodesk:before,
 .ibio-fluentcrm:before,
+.ibio-fomofamily:before,
 .ibio-fortnite:before,
 .ibio-fotoappco:before,
 .ibio-fourthwall:before,
@@ -4272,6 +4277,7 @@
 .ibio-fxblue:before,
 .ibio-g2reviews:before,
 .ibio-gab:before,
+.ibio-gamejolt:before,
 .ibio-gamerprofiles:before,
 .ibio-gammaio:before,
 .ibio-garena:before,
@@ -4432,6 +4438,7 @@
 .ibio-marppleshop:before,
 .ibio-matchlyric:before,
 .ibio-matrimoniocom:before,
+.ibio-matrixorg:before,
 .ibio-matterport:before,
 .ibio-mavely:before,
 .ibio-maxpreps:before,
@@ -4455,8 +4462,10 @@
 .ibio-miningpoolstats:before,
 .ibio-miodottore-it:before,
 .ibio-mipicco:before,
+.ibio-misskey:before,
 .ibio-mixxedfit:before,
 .ibio-mobilephone:before,
+.ibio-monnettsocial:before,
 .ibio-monobank:before,
 .ibio-moonsift:before,
 .ibio-moosend:before,
@@ -4512,6 +4521,7 @@
 .ibio-openuserjs:before,
 .ibio-orintful:before,
 .ibio-outlook:before,
+.ibio-outschool:before,
 .ibio-pabbly:before,
 .ibio-pagebound:before,
 .ibio-pangobooks:before,
@@ -4704,6 +4714,8 @@
 .ibio-shoppercom:before,
 .ibio-shoppingat:before,
 .ibio-shoppymn:before,
+.ibio-shopsketchcom:before,
+.ibio-shotgunlive:before,
 .ibio-showco:before,
 .ibio-shutterstock:before,
 .ibio-sideonedummy-records:before,
@@ -5002,6 +5014,7 @@
 .ibio-wink:before,
 .ibio-winylownia:before,
 .ibio-wise:before,
+.ibio-wishcare:before,
 .ibio-wishtender:before,
 .ibio-womex:before,
 .ibio-woodstock:before,
@@ -5120,6 +5133,7 @@
 .ibio-bloombergconnects:before { content: "\f4b4"; }
 .ibio-bluesky:before { content: "\f110"; }
 .ibio-blueskyold:before { content: "\f2f2"; }
+.ibio-blurindiacom:before { content: "\f4db"; }
 .ibio-boardgamearena:before { content: "\f3dc"; }
 .ibio-bollyx:before { content: "\f340"; }
 .ibio-boltplustv:before { content: "\f111"; }
@@ -5142,6 +5156,7 @@
 .ibio-brevo:before { content: "\f118"; }
 .ibio-btclighting:before { content: "\f325"; }
 .ibio-byfans:before { content: "\f119"; }
+.ibio-byongaricom:before { content: "\f4dc"; }
 .ibio-cafecito:before { content: "\f2ed"; }
 .ibio-calaxy:before { content: "\f11a"; }
 .ibio-calcom:before { content: "\f36e"; }
@@ -5226,6 +5241,7 @@
 .ibio-europass:before { content: "\f3bb"; }
 .ibio-evenbiz:before { content: "\f44a"; }
 .ibio-eventix:before { content: "\f133"; }
+.ibio-evryjewels:before { content: "\f4dd"; }
 .ibio-expedia:before { content: "\f414"; }
 .ibio-explurger:before { content: "\f42c"; }
 .ibio-ezbio:before { content: "\f134"; }
@@ -5241,6 +5257,7 @@
 .ibio-fantia:before { content: "\f138"; }
 .ibio-farcasterxyz:before { content: "\f331"; }
 .ibio-featurefm:before { content: "\f3e0"; }
+.ibio-fediverse:before { content: "\f4de"; }
 .ibio-feefo:before { content: "\f421"; }
 .ibio-ficbooknet:before { content: "\f382"; }
 .ibio-ficfan:before { content: "\f379"; }
@@ -5252,6 +5269,7 @@
 .ibio-flo:before { content: "\f13b"; }
 .ibio-flodesk:before { content: "\f3b2"; }
 .ibio-fluentcrm:before { content: "\f30c"; }
+.ibio-fomofamily:before { content: "\f4df"; }
 .ibio-fortnite:before { content: "\f317"; }
 .ibio-fotoappco:before { content: "\f3ea"; }
 .ibio-fourthwall:before { content: "\f42d"; }
@@ -5266,6 +5284,7 @@
 .ibio-fxblue:before { content: "\f415"; }
 .ibio-g2reviews:before { content: "\f3a6"; }
 .ibio-gab:before { content: "\f47a"; }
+.ibio-gamejolt:before { content: "\f4e0"; }
 .ibio-gamerprofiles:before { content: "\f342"; }
 .ibio-gammaio:before { content: "\f42e"; }
 .ibio-garena:before { content: "\f4a6"; }
@@ -5426,6 +5445,7 @@
 .ibio-marppleshop:before { content: "\f37a"; }
 .ibio-matchlyric:before { content: "\f460"; }
 .ibio-matrimoniocom:before { content: "\f361"; }
+.ibio-matrixorg:before { content: "\f4e1"; }
 .ibio-matterport:before { content: "\f3d9"; }
 .ibio-mavely:before { content: "\f3e2"; }
 .ibio-maxpreps:before { content: "\f4c1"; }
@@ -5449,8 +5469,10 @@
 .ibio-miningpoolstats:before { content: "\f178"; }
 .ibio-miodottore-it:before { content: "\f358"; }
 .ibio-mipicco:before { content: "\f179"; }
+.ibio-misskey:before { content: "\f4e2"; }
 .ibio-mixxedfit:before { content: "\f344"; }
 .ibio-mobilephone:before { content: "\f367"; }
+.ibio-monnettsocial:before { content: "\f4e3"; }
 .ibio-monobank:before { content: "\f49b"; }
 .ibio-moonsift:before { content: "\f49c"; }
 .ibio-moosend:before { content: "\f2f4"; }
@@ -5506,6 +5528,7 @@
 .ibio-openuserjs:before { content: "\f4c2"; }
 .ibio-orintful:before { content: "\f186"; }
 .ibio-outlook:before { content: "\f187"; }
+.ibio-outschool:before { content: "\f4e4"; }
 .ibio-pabbly:before { content: "\f188"; }
 .ibio-pagebound:before { content: "\f430"; }
 .ibio-pangobooks:before { content: "\f189"; }
@@ -5698,6 +5721,8 @@
 .ibio-shoppercom:before { content: "\f200"; }
 .ibio-shoppingat:before { content: "\f201"; }
 .ibio-shoppymn:before { content: "\f202"; }
+.ibio-shopsketchcom:before { content: "\f4e5"; }
+.ibio-shotgunlive:before { content: "\f4e6"; }
 .ibio-showco:before { content: "\f47d"; }
 .ibio-shutterstock:before { content: "\f203"; }
 .ibio-sideonedummy-records:before { content: "\f204"; }
@@ -5996,6 +6021,7 @@
 .ibio-wink:before { content: "\f2c7"; }
 .ibio-winylownia:before { content: "\f2c8"; }
 .ibio-wise:before { content: "\f328"; }
+.ibio-wishcare:before { content: "\f4e7"; }
 .ibio-wishtender:before { content: "\f2c9"; }
 .ibio-womex:before { content: "\f3cd"; }
 .ibio-woodstock:before { content: "\f2ca"; }
