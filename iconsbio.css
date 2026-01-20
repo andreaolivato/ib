@@ -4044,12 +4044,12 @@
 
 @font-face {
   font-family: "iconsbio2";
-  src: url("./iconsbio2_dc577f9db656a7a612f14ed58d720583.eot");
-  src: url("./iconsbio2_dc577f9db656a7a612f14ed58d720583.eot?#iefix") format("embedded-opentype"),
-       url("./iconsbio2_dc577f9db656a7a612f14ed58d720583.woff2") format("woff2"),
-       url("./iconsbio2_dc577f9db656a7a612f14ed58d720583.woff") format("woff"),
-       url("./iconsbio2_dc577f9db656a7a612f14ed58d720583.ttf") format("truetype"),
-       url("./iconsbio2_dc577f9db656a7a612f14ed58d720583.svg#iconsbio2") format("svg");
+  src: url("./iconsbio2_9c5a73b21889b39764e931b3629e9ddb.eot");
+  src: url("./iconsbio2_9c5a73b21889b39764e931b3629e9ddb.eot?#iefix") format("embedded-opentype"),
+       url("./iconsbio2_9c5a73b21889b39764e931b3629e9ddb.woff2") format("woff2"),
+       url("./iconsbio2_9c5a73b21889b39764e931b3629e9ddb.woff") format("woff"),
+       url("./iconsbio2_9c5a73b21889b39764e931b3629e9ddb.ttf") format("truetype"),
+       url("./iconsbio2_9c5a73b21889b39764e931b3629e9ddb.svg#iconsbio2") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -4057,7 +4057,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "iconsbio2";
-    src: url("./iconsbio2_dc577f9db656a7a612f14ed58d720583.svg#iconsbio2") format("svg");
+    src: url("./iconsbio2_9c5a73b21889b39764e931b3629e9ddb.svg#iconsbio2") format("svg");
   }
 }
 
@@ -4290,12 +4290,14 @@
 .ibio-genericmusic:before,
 .ibio-genericphoto:before,
 .ibio-genericphotoalbum:before,
+.ibio-genericrealestate:before,
 .ibio-genericsurvey:before,
 .ibio-generictrashslash:before,
 .ibio-genericvoting:before,
 .ibio-geneva:before,
 .ibio-geogebra:before,
 .ibio-getalby:before,
+.ibio-getcollectrcom:before,
 .ibio-getfernand:before,
 .ibio-getpieapp:before,
 .ibio-gettr:before,
@@ -4586,6 +4588,7 @@
 .ibio-praisecharts:before,
 .ibio-prefect-records:before,
 .ibio-premiumchat:before,
+.ibio-prepdigcom:before,
 .ibio-pressreader:before,
 .ibio-presto-music:before,
 .ibio-primalnet:before,
@@ -4683,6 +4686,7 @@
 .ibio-scriv:before,
 .ibio-scrollstack:before,
 .ibio-sdban:before,
+.ibio-secondlife:before,
 .ibio-secret-city-records:before,
 .ibio-secret-sounds:before,
 .ibio-secretly-store:before,
@@ -4779,6 +4783,7 @@
 .ibio-spiritfanfics:before,
 .ibio-spkr-media:before,
 .ibio-spline:before,
+.ibio-sportsrecruit:before,
 .ibio-spoutible:before,
 .ibio-spreadshirt:before,
 .ibio-spreadshop:before,
@@ -5005,6 +5010,7 @@
 .ibio-whatsappfull:before,
 .ibio-whatsappgroup:before,
 .ibio-whering:before,
+.ibio-whoopcom:before,
 .ibio-whypit:before,
 .ibio-wichita-recordings:before,
 .ibio-wikiloc:before,
@@ -5298,12 +5304,14 @@
 .ibio-genericmusic:before { content: "\f397"; }
 .ibio-genericphoto:before { content: "\f398"; }
 .ibio-genericphotoalbum:before { content: "\f399"; }
+.ibio-genericrealestate:before { content: "\f4e9"; }
 .ibio-genericsurvey:before { content: "\f422"; }
 .ibio-generictrashslash:before { content: "\f4d8"; }
 .ibio-genericvoting:before { content: "\f3a8"; }
 .ibio-geneva:before { content: "\f303"; }
 .ibio-geogebra:before { content: "\f360"; }
 .ibio-getalby:before { content: "\f3c6"; }
+.ibio-getcollectrcom:before { content: "\f4ea"; }
 .ibio-getfernand:before { content: "\f3e7"; }
 .ibio-getpieapp:before { content: "\f494"; }
 .ibio-gettr:before { content: "\f389"; }
@@ -5594,6 +5602,7 @@
 .ibio-praisecharts:before { content: "\f1ac"; }
 .ibio-prefect-records:before { content: "\f1ad"; }
 .ibio-premiumchat:before { content: "\f416"; }
+.ibio-prepdigcom:before { content: "\f4eb"; }
 .ibio-pressreader:before { content: "\f1ae"; }
 .ibio-presto-music:before { content: "\f1af"; }
 .ibio-primalnet:before { content: "\f464"; }
@@ -5691,6 +5700,7 @@
 .ibio-scriv:before { content: "\f1ed"; }
 .ibio-scrollstack:before { content: "\f476"; }
 .ibio-sdban:before { content: "\f1ee"; }
+.ibio-secondlife:before { content: "\f4ec"; }
 .ibio-secret-city-records:before { content: "\f1ef"; }
 .ibio-secret-sounds:before { content: "\f1f0"; }
 .ibio-secretly-store:before { content: "\f1f1"; }
@@ -5787,6 +5797,7 @@
 .ibio-spiritfanfics:before { content: "\f22c"; }
 .ibio-spkr-media:before { content: "\f22d"; }
 .ibio-spline:before { content: "\f3e4"; }
+.ibio-sportsrecruit:before { content: "\f4ed"; }
 .ibio-spoutible:before { content: "\f22e"; }
 .ibio-spreadshirt:before { content: "\f385"; }
 .ibio-spreadshop:before { content: "\f386"; }
@@ -6013,6 +6024,7 @@
 .ibio-whatsappfull:before { content: "\f426"; }
 .ibio-whatsappgroup:before { content: "\f327"; }
 .ibio-whering:before { content: "\f413"; }
+.ibio-whoopcom:before { content: "\f4ee"; }
 .ibio-whypit:before { content: "\f3b1"; }
 .ibio-wichita-recordings:before { content: "\f2c4"; }
 .ibio-wikiloc:before { content: "\f2c5"; }
