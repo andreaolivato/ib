@@ -4044,12 +4044,12 @@
 
 @font-face {
   font-family: "iconsbio2";
-  src: url("./iconsbio2_9c5a73b21889b39764e931b3629e9ddb.eot");
-  src: url("./iconsbio2_9c5a73b21889b39764e931b3629e9ddb.eot?#iefix") format("embedded-opentype"),
-       url("./iconsbio2_9c5a73b21889b39764e931b3629e9ddb.woff2") format("woff2"),
-       url("./iconsbio2_9c5a73b21889b39764e931b3629e9ddb.woff") format("woff"),
-       url("./iconsbio2_9c5a73b21889b39764e931b3629e9ddb.ttf") format("truetype"),
-       url("./iconsbio2_9c5a73b21889b39764e931b3629e9ddb.svg#iconsbio2") format("svg");
+  src: url("./iconsbio2_670e760b90d02f9cdc7f9e1c65eba1f8.eot");
+  src: url("./iconsbio2_670e760b90d02f9cdc7f9e1c65eba1f8.eot?#iefix") format("embedded-opentype"),
+       url("./iconsbio2_670e760b90d02f9cdc7f9e1c65eba1f8.woff2") format("woff2"),
+       url("./iconsbio2_670e760b90d02f9cdc7f9e1c65eba1f8.woff") format("woff"),
+       url("./iconsbio2_670e760b90d02f9cdc7f9e1c65eba1f8.ttf") format("truetype"),
+       url("./iconsbio2_670e760b90d02f9cdc7f9e1c65eba1f8.svg#iconsbio2") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -4057,7 +4057,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "iconsbio2";
-    src: url("./iconsbio2_9c5a73b21889b39764e931b3629e9ddb.svg#iconsbio2") format("svg");
+    src: url("./iconsbio2_670e760b90d02f9cdc7f9e1c65eba1f8.svg#iconsbio2") format("svg");
   }
 }
 
@@ -4880,6 +4880,7 @@
 .ibio-tidycal:before,
 .ibio-tiendanube:before,
 .ibio-timetree:before,
+.ibio-tipeee:before,
 .ibio-tipmeinth:before,
 .ibio-tiptapid:before,
 .ibio-tistory:before,
@@ -4928,6 +4929,7 @@
 .ibio-udux:before,
 .ibio-uiclap:before,
 .ibio-ukf:before,
+.ibio-ultimateguitar:before,
 .ibio-ultra-shibuya:before,
 .ibio-ulule:before,
 .ibio-umg:before,
@@ -5894,6 +5896,7 @@
 .ibio-tidycal:before { content: "\f26b"; }
 .ibio-tiendanube:before { content: "\f44e"; }
 .ibio-timetree:before { content: "\f26c"; }
+.ibio-tipeee:before { content: "\f4ef"; }
 .ibio-tipmeinth:before { content: "\f313"; }
 .ibio-tiptapid:before { content: "\f4a1"; }
 .ibio-tistory:before { content: "\f26d"; }
@@ -5942,6 +5945,7 @@
 .ibio-udux:before { content: "\f287"; }
 .ibio-uiclap:before { content: "\f288"; }
 .ibio-ukf:before { content: "\f289"; }
+.ibio-ultimateguitar:before { content: "\f4f0"; }
 .ibio-ultra-shibuya:before { content: "\f28a"; }
 .ibio-ulule:before { content: "\f28b"; }
 .ibio-umg:before { content: "\f28c"; }
