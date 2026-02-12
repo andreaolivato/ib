@@ -4044,12 +4044,12 @@
 
 @font-face {
   font-family: "iconsbio2";
-  src: url("./iconsbio2_7dbd96a1f0d1a47f425e0bf4cb1dc718.eot");
-  src: url("./iconsbio2_7dbd96a1f0d1a47f425e0bf4cb1dc718.eot?#iefix") format("embedded-opentype"),
-       url("./iconsbio2_7dbd96a1f0d1a47f425e0bf4cb1dc718.woff2") format("woff2"),
-       url("./iconsbio2_7dbd96a1f0d1a47f425e0bf4cb1dc718.woff") format("woff"),
-       url("./iconsbio2_7dbd96a1f0d1a47f425e0bf4cb1dc718.ttf") format("truetype"),
-       url("./iconsbio2_7dbd96a1f0d1a47f425e0bf4cb1dc718.svg#iconsbio2") format("svg");
+  src: url("./iconsbio2_1181ebb566f179b23f87c9e48a84cca7.eot");
+  src: url("./iconsbio2_1181ebb566f179b23f87c9e48a84cca7.eot?#iefix") format("embedded-opentype"),
+       url("./iconsbio2_1181ebb566f179b23f87c9e48a84cca7.woff2") format("woff2"),
+       url("./iconsbio2_1181ebb566f179b23f87c9e48a84cca7.woff") format("woff"),
+       url("./iconsbio2_1181ebb566f179b23f87c9e48a84cca7.ttf") format("truetype"),
+       url("./iconsbio2_1181ebb566f179b23f87c9e48a84cca7.svg#iconsbio2") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -4057,7 +4057,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "iconsbio2";
-    src: url("./iconsbio2_7dbd96a1f0d1a47f425e0bf4cb1dc718.svg#iconsbio2") format("svg");
+    src: url("./iconsbio2_1181ebb566f179b23f87c9e48a84cca7.svg#iconsbio2") format("svg");
   }
 }
 
@@ -4074,6 +4074,7 @@
 .ibio-activision:before,
 .ibio-acumbamail:before,
 .ibio-advisorycloud:before,
+.ibio-agoda:before,
 .ibio-airbuds:before,
 .ibio-airbudsfm:before,
 .ibio-airchat:before,
@@ -4099,6 +4100,7 @@
 .ibio-artistree:before,
 .ibio-artpal:before,
 .ibio-ascapcom:before,
+.ibio-atcoderjp:before,
 .ibio-audiocom:before,
 .ibio-audiotool:before,
 .ibio-aweber:before,
@@ -4188,6 +4190,7 @@
 .ibio-crowdin:before,
 .ibio-cryptocom:before,
 .ibio-curated:before,
+.ibio-curseforgecom:before,
 .ibio-cyberimpact:before,
 .ibio-daangn:before,
 .ibio-dailyhunt:before,
@@ -4231,6 +4234,7 @@
 .ibio-enjoeibr:before,
 .ibio-entreprenista:before,
 .ibio-envato:before,
+.ibio-epicstudiosapp:before,
 .ibio-etoro:before,
 .ibio-europass:before,
 .ibio-evenbiz:before,
@@ -4432,6 +4436,7 @@
 .ibio-loopsvideo:before,
 .ibio-lotuschatvn:before,
 .ibio-lyricsfind:before,
+.ibio-maccosmetics:before,
 .ibio-magicedenio:before,
 .ibio-mailerlite:before,
 .ibio-mailjet:before,
@@ -4473,6 +4478,7 @@
 .ibio-monobank:before,
 .ibio-moonsift:before,
 .ibio-moosend:before,
+.ibio-morphecosmetics:before,
 .ibio-moxfield:before,
 .ibio-moziapp:before,
 .ibio-mspowerautomate:before,
@@ -4482,6 +4488,7 @@
 .ibio-mybrightwheel:before,
 .ibio-myfansse:before,
 .ibio-myntra:before,
+.ibio-myportfoliocom:before,
 .ibio-mywishlistonline:before,
 .ibio-n8n:before,
 .ibio-namemc:before,
@@ -4506,6 +4513,7 @@
 .ibio-nftify:before,
 .ibio-ngl:before,
 .ibio-nihbuatjajan:before,
+.ibio-ninaprotocol:before,
 .ibio-noom:before,
 .ibio-noomvibe:before,
 .ibio-nostr:before,
@@ -4517,6 +4525,7 @@
 .ibio-nuvemshop:before,
 .ibio-octotable:before,
 .ibio-officephone:before,
+.ibio-olvidio:before,
 .ibio-omnisend:before,
 .ibio-on3com:before,
 .ibio-onedrive:before,
@@ -4533,6 +4542,7 @@
 .ibio-paperform:before,
 .ibio-paperpie:before,
 .ibio-paragraphxyz:before,
+.ibio-parislibrairies:before,
 .ibio-parler:before,
 .ibio-particom:before,
 .ibio-passes:before,
@@ -4618,6 +4628,7 @@
 .ibio-quillbot:before,
 .ibio-rabid-records:before,
 .ibio-racket-records:before,
+.ibio-raco:before,
 .ibio-radio-bob:before,
 .ibio-radio-eins:before,
 .ibio-radio-freccia:before,
@@ -4630,6 +4641,7 @@
 .ibio-readings-australia:before,
 .ibio-real-groovy:before,
 .ibio-realityapp:before,
+.ibio-reamstories:before,
 .ibio-reaper-entertainment:before,
 .ibio-rebel-records:before,
 .ibio-recochoku:before,
@@ -4766,12 +4778,15 @@
 .ibio-songtradr:before,
 .ibio-sonic-bookings:before,
 .ibio-sony-music:before,
+.ibio-sospoiltcom:before,
 .ibio-sottotesi:before,
 .ibio-soundee:before,
+.ibio-soundgym:before,
 .ibio-soundxyz:before,
 .ibio-space-shower-music:before,
 .ibio-sparechange:before,
 .ibio-spartanrace:before,
+.ibio-speakerhub:before,
 .ibio-specialist-subjects-records:before,
 .ibio-speckle:before,
 .ibio-speedstar-records:before,
@@ -4883,6 +4898,7 @@
 .ibio-timetree:before,
 .ibio-tipeee:before,
 .ibio-tipmeinth:before,
+.ibio-tipply:before,
 .ibio-tiptapid:before,
 .ibio-tistory:before,
 .ibio-tkigv3:before,
@@ -4931,6 +4947,7 @@
 .ibio-uiclap:before,
 .ibio-ukf:before,
 .ibio-ultimateguitar:before,
+.ibio-ultimateguitarcom:before,
 .ibio-ultra-shibuya:before,
 .ibio-ulule:before,
 .ibio-umg:before,
@@ -4942,6 +4959,7 @@
 .ibio-underground-solushn:before,
 .ibio-unearthed-sounds:before,
 .ibio-unfd:before,
+.ibio-universityathletecom:before,
 .ibio-unlokme:before,
 .ibio-unser-ding:before,
 .ibio-unvale:before,
@@ -5015,6 +5033,7 @@
 .ibio-whatsappgroup:before,
 .ibio-whering:before,
 .ibio-whoopcom:before,
+.ibio-whop:before,
 .ibio-whypit:before,
 .ibio-wichita-recordings:before,
 .ibio-wikiloc:before,
@@ -5029,6 +5048,7 @@
 .ibio-wishtender:before,
 .ibio-womex:before,
 .ibio-woodstock:before,
+.ibio-workana:before,
 .ibio-world-circuit:before,
 .ibio-world-of-music:before,
 .ibio-world-star-hip-hop:before,
@@ -5037,6 +5057,7 @@
 .ibio-wowow:before,
 .ibio-wwe:before,
 .ibio-wynkmusic:before,
+.ibio-xceedme:before,
 .ibio-xiaomi:before,
 .ibio-xl-recordings:before,
 .ibio-xmpp:before,
@@ -5092,6 +5113,7 @@
 .ibio-activision:before { content: "\f102"; }
 .ibio-acumbamail:before { content: "\f3f9"; }
 .ibio-advisorycloud:before { content: "\f103"; }
+.ibio-agoda:before { content: "\f4f3"; }
 .ibio-airbuds:before { content: "\f40e"; }
 .ibio-airbudsfm:before { content: "\f433"; }
 .ibio-airchat:before { content: "\f316"; }
@@ -5117,6 +5139,7 @@
 .ibio-artistree:before { content: "\f109"; }
 .ibio-artpal:before { content: "\f10a"; }
 .ibio-ascapcom:before { content: "\f435"; }
+.ibio-atcoderjp:before { content: "\f4f4"; }
 .ibio-audiocom:before { content: "\f10b"; }
 .ibio-audiotool:before { content: "\f10c"; }
 .ibio-aweber:before { content: "\f10d"; }
@@ -5206,6 +5229,7 @@
 .ibio-crowdin:before { content: "\f123"; }
 .ibio-cryptocom:before { content: "\f124"; }
 .ibio-curated:before { content: "\f2f3"; }
+.ibio-curseforgecom:before { content: "\f4f5"; }
 .ibio-cyberimpact:before { content: "\f322"; }
 .ibio-daangn:before { content: "\f493"; }
 .ibio-dailyhunt:before { content: "\f329"; }
@@ -5249,6 +5273,7 @@
 .ibio-enjoeibr:before { content: "\f131"; }
 .ibio-entreprenista:before { content: "\f472"; }
 .ibio-envato:before { content: "\f132"; }
+.ibio-epicstudiosapp:before { content: "\f4f6"; }
 .ibio-etoro:before { content: "\f30b"; }
 .ibio-europass:before { content: "\f3bb"; }
 .ibio-evenbiz:before { content: "\f44a"; }
@@ -5450,6 +5475,7 @@
 .ibio-loopsvideo:before { content: "\f4d0"; }
 .ibio-lotuschatvn:before { content: "\f4d1"; }
 .ibio-lyricsfind:before { content: "\f440"; }
+.ibio-maccosmetics:before { content: "\f4f7"; }
 .ibio-magicedenio:before { content: "\f173"; }
 .ibio-mailerlite:before { content: "\f174"; }
 .ibio-mailjet:before { content: "\f2f6"; }
@@ -5491,6 +5517,7 @@
 .ibio-monobank:before { content: "\f49b"; }
 .ibio-moonsift:before { content: "\f49c"; }
 .ibio-moosend:before { content: "\f2f4"; }
+.ibio-morphecosmetics:before { content: "\f4f8"; }
 .ibio-moxfield:before { content: "\f3ed"; }
 .ibio-moziapp:before { content: "\f485"; }
 .ibio-mspowerautomate:before { content: "\f17a"; }
@@ -5500,6 +5527,7 @@
 .ibio-mybrightwheel:before { content: "\f345"; }
 .ibio-myfansse:before { content: "\f17b"; }
 .ibio-myntra:before { content: "\f49d"; }
+.ibio-myportfoliocom:before { content: "\f4f9"; }
 .ibio-mywishlistonline:before { content: "\f359"; }
 .ibio-n8n:before { content: "\f47c"; }
 .ibio-namemc:before { content: "\f17c"; }
@@ -5524,6 +5552,7 @@
 .ibio-nftify:before { content: "\f182"; }
 .ibio-ngl:before { content: "\f2ef"; }
 .ibio-nihbuatjajan:before { content: "\f49e"; }
+.ibio-ninaprotocol:before { content: "\f4fa"; }
 .ibio-noom:before { content: "\f38e"; }
 .ibio-noomvibe:before { content: "\f38f"; }
 .ibio-nostr:before { content: "\f183"; }
@@ -5535,6 +5564,7 @@
 .ibio-nuvemshop:before { content: "\f3ac"; }
 .ibio-octotable:before { content: "\f4a2"; }
 .ibio-officephone:before { content: "\f368"; }
+.ibio-olvidio:before { content: "\f4fb"; }
 .ibio-omnisend:before { content: "\f2e9"; }
 .ibio-on3com:before { content: "\f487"; }
 .ibio-onedrive:before { content: "\f461"; }
@@ -5551,6 +5581,7 @@
 .ibio-paperform:before { content: "\f41d"; }
 .ibio-paperpie:before { content: "\f18a"; }
 .ibio-paragraphxyz:before { content: "\f390"; }
+.ibio-parislibrairies:before { content: "\f4fc"; }
 .ibio-parler:before { content: "\f38a"; }
 .ibio-particom:before { content: "\f3be"; }
 .ibio-passes:before { content: "\f3f8"; }
@@ -5636,6 +5667,7 @@
 .ibio-quillbot:before { content: "\f431"; }
 .ibio-rabid-records:before { content: "\f1be"; }
 .ibio-racket-records:before { content: "\f1bf"; }
+.ibio-raco:before { content: "\f4fd"; }
 .ibio-radio-bob:before { content: "\f1c0"; }
 .ibio-radio-eins:before { content: "\f1c1"; }
 .ibio-radio-freccia:before { content: "\f1c2"; }
@@ -5648,6 +5680,7 @@
 .ibio-readings-australia:before { content: "\f1c6"; }
 .ibio-real-groovy:before { content: "\f1c7"; }
 .ibio-realityapp:before { content: "\f1c8"; }
+.ibio-reamstories:before { content: "\f4fe"; }
 .ibio-reaper-entertainment:before { content: "\f1c9"; }
 .ibio-rebel-records:before { content: "\f1ca"; }
 .ibio-recochoku:before { content: "\f1cb"; }
@@ -5784,12 +5817,15 @@
 .ibio-songtradr:before { content: "\f220"; }
 .ibio-sonic-bookings:before { content: "\f221"; }
 .ibio-sony-music:before { content: "\f222"; }
+.ibio-sospoiltcom:before { content: "\f4ff"; }
 .ibio-sottotesi:before { content: "\f35b"; }
 .ibio-soundee:before { content: "\f354"; }
+.ibio-soundgym:before { content: "\f500"; }
 .ibio-soundxyz:before { content: "\f427"; }
 .ibio-space-shower-music:before { content: "\f223"; }
 .ibio-sparechange:before { content: "\f312"; }
 .ibio-spartanrace:before { content: "\f44d"; }
+.ibio-speakerhub:before { content: "\f501"; }
 .ibio-specialist-subjects-records:before { content: "\f224"; }
 .ibio-speckle:before { content: "\f3f6"; }
 .ibio-speedstar-records:before { content: "\f225"; }
@@ -5901,6 +5937,7 @@
 .ibio-timetree:before { content: "\f26c"; }
 .ibio-tipeee:before { content: "\f4ef"; }
 .ibio-tipmeinth:before { content: "\f313"; }
+.ibio-tipply:before { content: "\f502"; }
 .ibio-tiptapid:before { content: "\f4a1"; }
 .ibio-tistory:before { content: "\f26d"; }
 .ibio-tkigv3:before { content: "\f26e"; }
@@ -5949,6 +5986,7 @@
 .ibio-uiclap:before { content: "\f288"; }
 .ibio-ukf:before { content: "\f289"; }
 .ibio-ultimateguitar:before { content: "\f4f0"; }
+.ibio-ultimateguitarcom:before { content: "\f503"; }
 .ibio-ultra-shibuya:before { content: "\f28a"; }
 .ibio-ulule:before { content: "\f28b"; }
 .ibio-umg:before { content: "\f28c"; }
@@ -5960,6 +5998,7 @@
 .ibio-underground-solushn:before { content: "\f290"; }
 .ibio-unearthed-sounds:before { content: "\f291"; }
 .ibio-unfd:before { content: "\f292"; }
+.ibio-universityathletecom:before { content: "\f504"; }
 .ibio-unlokme:before { content: "\f293"; }
 .ibio-unser-ding:before { content: "\f294"; }
 .ibio-unvale:before { content: "\f335"; }
@@ -6033,6 +6072,7 @@
 .ibio-whatsappgroup:before { content: "\f327"; }
 .ibio-whering:before { content: "\f413"; }
 .ibio-whoopcom:before { content: "\f4ee"; }
+.ibio-whop:before { content: "\f505"; }
 .ibio-whypit:before { content: "\f3b1"; }
 .ibio-wichita-recordings:before { content: "\f2c4"; }
 .ibio-wikiloc:before { content: "\f2c5"; }
@@ -6047,6 +6087,7 @@
 .ibio-wishtender:before { content: "\f2c9"; }
 .ibio-womex:before { content: "\f3cd"; }
 .ibio-woodstock:before { content: "\f2ca"; }
+.ibio-workana:before { content: "\f506"; }
 .ibio-world-circuit:before { content: "\f2cb"; }
 .ibio-world-of-music:before { content: "\f2cc"; }
 .ibio-world-star-hip-hop:before { content: "\f2cd"; }
@@ -6055,6 +6096,7 @@
 .ibio-wowow:before { content: "\f2d0"; }
 .ibio-wwe:before { content: "\f2d1"; }
 .ibio-wynkmusic:before { content: "\f2d2"; }
+.ibio-xceedme:before { content: "\f507"; }
 .ibio-xiaomi:before { content: "\f2d3"; }
 .ibio-xl-recordings:before { content: "\f2d4"; }
 .ibio-xmpp:before { content: "\f2d5"; }
