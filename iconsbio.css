@@ -4044,12 +4044,12 @@
 
 @font-face {
   font-family: "iconsbio2";
-  src: url("./iconsbio2_c74b265b36fb8f57daa2dcae177ecd9d.eot");
-  src: url("./iconsbio2_c74b265b36fb8f57daa2dcae177ecd9d.eot?#iefix") format("embedded-opentype"),
-       url("./iconsbio2_c74b265b36fb8f57daa2dcae177ecd9d.woff2") format("woff2"),
-       url("./iconsbio2_c74b265b36fb8f57daa2dcae177ecd9d.woff") format("woff"),
-       url("./iconsbio2_c74b265b36fb8f57daa2dcae177ecd9d.ttf") format("truetype"),
-       url("./iconsbio2_c74b265b36fb8f57daa2dcae177ecd9d.svg#iconsbio2") format("svg");
+  src: url("./iconsbio2_fcc938cd82962c9fd980f84b6a20caa0.eot");
+  src: url("./iconsbio2_fcc938cd82962c9fd980f84b6a20caa0.eot?#iefix") format("embedded-opentype"),
+       url("./iconsbio2_fcc938cd82962c9fd980f84b6a20caa0.woff2") format("woff2"),
+       url("./iconsbio2_fcc938cd82962c9fd980f84b6a20caa0.woff") format("woff"),
+       url("./iconsbio2_fcc938cd82962c9fd980f84b6a20caa0.ttf") format("truetype"),
+       url("./iconsbio2_fcc938cd82962c9fd980f84b6a20caa0.svg#iconsbio2") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -4057,7 +4057,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "iconsbio2";
-    src: url("./iconsbio2_c74b265b36fb8f57daa2dcae177ecd9d.svg#iconsbio2") format("svg");
+    src: url("./iconsbio2_fcc938cd82962c9fd980f84b6a20caa0.svg#iconsbio2") format("svg");
   }
 }
 
@@ -4384,12 +4384,12 @@
 .ibio-joinmusecom:before,
 .ibio-jooxmusic:before,
 .ibio-justgiving:before,
-.ibio-k-zlarsoruyor:before,
 .ibio-kaspikz:before,
 .ibio-kavyar:before,
 .ibio-kickstreaming:before,
 .ibio-kindle:before,
 .ibio-kivaorg:before,
+.ibio-kizlarsoruyor:before,
 .ibio-kkbb:before,
 .ibio-klaviyo:before,
 .ibio-klicktipp:before,
@@ -5430,12 +5430,12 @@
 .ibio-joinmusecom:before { content: "\f497"; }
 .ibio-jooxmusic:before { content: "\f159"; }
 .ibio-justgiving:before { content: "\f4a7"; }
-.ibio-k-zlarsoruyor:before { content: "\f50b"; }
 .ibio-kaspikz:before { content: "\f473"; }
 .ibio-kavyar:before { content: "\f407"; }
 .ibio-kickstreaming:before { content: "\f15a"; }
 .ibio-kindle:before { content: "\f31c"; }
 .ibio-kivaorg:before { content: "\f15b"; }
+.ibio-kizlarsoruyor:before { content: "\f50f"; }
 .ibio-kkbb:before { content: "\f15c"; }
 .ibio-klaviyo:before { content: "\f15d"; }
 .ibio-klicktipp:before { content: "\f15e"; }
