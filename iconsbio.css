@@ -4044,12 +4044,12 @@
 
 @font-face {
   font-family: "iconsbio2";
-  src: url("./iconsbio2_1181ebb566f179b23f87c9e48a84cca7.eot");
-  src: url("./iconsbio2_1181ebb566f179b23f87c9e48a84cca7.eot?#iefix") format("embedded-opentype"),
-       url("./iconsbio2_1181ebb566f179b23f87c9e48a84cca7.woff2") format("woff2"),
-       url("./iconsbio2_1181ebb566f179b23f87c9e48a84cca7.woff") format("woff"),
-       url("./iconsbio2_1181ebb566f179b23f87c9e48a84cca7.ttf") format("truetype"),
-       url("./iconsbio2_1181ebb566f179b23f87c9e48a84cca7.svg#iconsbio2") format("svg");
+  src: url("./iconsbio2_c74b265b36fb8f57daa2dcae177ecd9d.eot");
+  src: url("./iconsbio2_c74b265b36fb8f57daa2dcae177ecd9d.eot?#iefix") format("embedded-opentype"),
+       url("./iconsbio2_c74b265b36fb8f57daa2dcae177ecd9d.woff2") format("woff2"),
+       url("./iconsbio2_c74b265b36fb8f57daa2dcae177ecd9d.woff") format("woff"),
+       url("./iconsbio2_c74b265b36fb8f57daa2dcae177ecd9d.ttf") format("truetype"),
+       url("./iconsbio2_c74b265b36fb8f57daa2dcae177ecd9d.svg#iconsbio2") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -4057,7 +4057,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "iconsbio2";
-    src: url("./iconsbio2_1181ebb566f179b23f87c9e48a84cca7.svg#iconsbio2") format("svg");
+    src: url("./iconsbio2_c74b265b36fb8f57daa2dcae177ecd9d.svg#iconsbio2") format("svg");
   }
 }
 
@@ -4094,6 +4094,7 @@
 .ibio-arattaiin:before,
 .ibio-arbonne:before,
 .ibio-arena:before,
+.ibio-armsembargonow:before,
 .ibio-arrivala:before,
 .ibio-artcore:before,
 .ibio-artfight:before,
@@ -4337,6 +4338,7 @@
 .ibio-gravatar:before,
 .ibio-greasyfork:before,
 .ibio-grid34:before,
+.ibio-grokipedia:before,
 .ibio-grouprides:before,
 .ibio-hearnow:before,
 .ibio-helpdogai:before,
@@ -4355,6 +4357,7 @@
 .ibio-hoyolab:before,
 .ibio-hudlcom:before,
 .ibio-humanitix:before,
+.ibio-hypelistcom:before,
 .ibio-idonate:before,
 .ibio-idus:before,
 .ibio-ifood:before,
@@ -4381,6 +4384,7 @@
 .ibio-joinmusecom:before,
 .ibio-jooxmusic:before,
 .ibio-justgiving:before,
+.ibio-k-zlarsoruyor:before,
 .ibio-kaspikz:before,
 .ibio-kavyar:before,
 .ibio-kickstreaming:before,
@@ -4616,6 +4620,7 @@
 .ibio-psychologytoday:before,
 .ibio-publuu:before,
 .ibio-pultru:before,
+.ibio-pumpfun:before,
 .ibio-pure-indie-records:before,
 .ibio-pure-noise-records:before,
 .ibio-qbd-books:before,
@@ -4848,6 +4853,7 @@
 .ibio-taaze:before,
 .ibio-taiwanmobile:before,
 .ibio-takealot:before,
+.ibio-takoid:before,
 .ibio-takt1:before,
 .ibio-talkshoplive:before,
 .ibio-tall-bird-records:before,
@@ -5073,6 +5079,7 @@
 .ibio-zavvi:before,
 .ibio-zbooni:before,
 .ibio-zeffycom:before,
+.ibio-zenodoorg:before,
 .ibio-zenofm:before,
 .ibio-zenyandex:before,
 .ibio-zerodha:before,
@@ -5133,6 +5140,7 @@
 .ibio-arattaiin:before { content: "\f4b3"; }
 .ibio-arbonne:before { content: "\f107"; }
 .ibio-arena:before { content: "\f108"; }
+.ibio-armsembargonow:before { content: "\f508"; }
 .ibio-arrivala:before { content: "\f300"; }
 .ibio-artcore:before { content: "\f36c"; }
 .ibio-artfight:before { content: "\f424"; }
@@ -5376,6 +5384,7 @@
 .ibio-gravatar:before { content: "\f4ca"; }
 .ibio-greasyfork:before { content: "\f4c0"; }
 .ibio-grid34:before { content: "\f3d5"; }
+.ibio-grokipedia:before { content: "\f509"; }
 .ibio-grouprides:before { content: "\f45d"; }
 .ibio-hearnow:before { content: "\f147"; }
 .ibio-helpdogai:before { content: "\f3a4"; }
@@ -5394,6 +5403,7 @@
 .ibio-hoyolab:before { content: "\f496"; }
 .ibio-hudlcom:before { content: "\f484"; }
 .ibio-humanitix:before { content: "\f14b"; }
+.ibio-hypelistcom:before { content: "\f50a"; }
 .ibio-idonate:before { content: "\f4cb"; }
 .ibio-idus:before { content: "\f14c"; }
 .ibio-ifood:before { content: "\f14d"; }
@@ -5420,6 +5430,7 @@
 .ibio-joinmusecom:before { content: "\f497"; }
 .ibio-jooxmusic:before { content: "\f159"; }
 .ibio-justgiving:before { content: "\f4a7"; }
+.ibio-k-zlarsoruyor:before { content: "\f50b"; }
 .ibio-kaspikz:before { content: "\f473"; }
 .ibio-kavyar:before { content: "\f407"; }
 .ibio-kickstreaming:before { content: "\f15a"; }
@@ -5655,6 +5666,7 @@
 .ibio-psychologytoday:before { content: "\f1b5"; }
 .ibio-publuu:before { content: "\f41e"; }
 .ibio-pultru:before { content: "\f1b6"; }
+.ibio-pumpfun:before { content: "\f50c"; }
 .ibio-pure-indie-records:before { content: "\f1b7"; }
 .ibio-pure-noise-records:before { content: "\f1b8"; }
 .ibio-qbd-books:before { content: "\f1b9"; }
@@ -5887,6 +5899,7 @@
 .ibio-taaze:before { content: "\f248"; }
 .ibio-taiwanmobile:before { content: "\f249"; }
 .ibio-takealot:before { content: "\f24a"; }
+.ibio-takoid:before { content: "\f50d"; }
 .ibio-takt1:before { content: "\f24b"; }
 .ibio-talkshoplive:before { content: "\f24c"; }
 .ibio-tall-bird-records:before { content: "\f24d"; }
@@ -6112,6 +6125,7 @@
 .ibio-zavvi:before { content: "\f2dd"; }
 .ibio-zbooni:before { content: "\f2de"; }
 .ibio-zeffycom:before { content: "\f458"; }
+.ibio-zenodoorg:before { content: "\f50e"; }
 .ibio-zenofm:before { content: "\f46e"; }
 .ibio-zenyandex:before { content: "\f2df"; }
 .ibio-zerodha:before { content: "\f2e0"; }
