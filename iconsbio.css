@@ -4044,12 +4044,12 @@
 
 @font-face {
   font-family: "iconsbio2";
-  src: url("./iconsbio2_fcc938cd82962c9fd980f84b6a20caa0.eot");
-  src: url("./iconsbio2_fcc938cd82962c9fd980f84b6a20caa0.eot?#iefix") format("embedded-opentype"),
-       url("./iconsbio2_fcc938cd82962c9fd980f84b6a20caa0.woff2") format("woff2"),
-       url("./iconsbio2_fcc938cd82962c9fd980f84b6a20caa0.woff") format("woff"),
-       url("./iconsbio2_fcc938cd82962c9fd980f84b6a20caa0.ttf") format("truetype"),
-       url("./iconsbio2_fcc938cd82962c9fd980f84b6a20caa0.svg#iconsbio2") format("svg");
+  src: url("./iconsbio2_c371acb83ced48f610821f307c9dd31b.eot");
+  src: url("./iconsbio2_c371acb83ced48f610821f307c9dd31b.eot?#iefix") format("embedded-opentype"),
+       url("./iconsbio2_c371acb83ced48f610821f307c9dd31b.woff2") format("woff2"),
+       url("./iconsbio2_c371acb83ced48f610821f307c9dd31b.woff") format("woff"),
+       url("./iconsbio2_c371acb83ced48f610821f307c9dd31b.ttf") format("truetype"),
+       url("./iconsbio2_c371acb83ced48f610821f307c9dd31b.svg#iconsbio2") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -4057,7 +4057,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "iconsbio2";
-    src: url("./iconsbio2_fcc938cd82962c9fd980f84b6a20caa0.svg#iconsbio2") format("svg");
+    src: url("./iconsbio2_c371acb83ced48f610821f307c9dd31b.svg#iconsbio2") format("svg");
   }
 }
 
@@ -4851,6 +4851,7 @@
 .ibio-systemeio:before,
 .ibio-t2:before,
 .ibio-taaze:before,
+.ibio-tagembed:before,
 .ibio-taiwanmobile:before,
 .ibio-takealot:before,
 .ibio-takoid:before,
@@ -5897,6 +5898,7 @@
 .ibio-systemeio:before { content: "\f2ea"; }
 .ibio-t2:before { content: "\f247"; }
 .ibio-taaze:before { content: "\f248"; }
+.ibio-tagembed:before { content: "\f510"; }
 .ibio-taiwanmobile:before { content: "\f249"; }
 .ibio-takealot:before { content: "\f24a"; }
 .ibio-takoid:before { content: "\f50d"; }
