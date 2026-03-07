@@ -4044,12 +4044,12 @@
 
 @font-face {
   font-family: "iconsbio2";
-  src: url("./iconsbio2_9e3d5a12bc54da7a02af1c37e0234d50.eot");
-  src: url("./iconsbio2_9e3d5a12bc54da7a02af1c37e0234d50.eot?#iefix") format("embedded-opentype"),
-       url("./iconsbio2_9e3d5a12bc54da7a02af1c37e0234d50.woff2") format("woff2"),
-       url("./iconsbio2_9e3d5a12bc54da7a02af1c37e0234d50.woff") format("woff"),
-       url("./iconsbio2_9e3d5a12bc54da7a02af1c37e0234d50.ttf") format("truetype"),
-       url("./iconsbio2_9e3d5a12bc54da7a02af1c37e0234d50.svg#iconsbio2") format("svg");
+  src: url("./iconsbio2_e3a4c295c46413048884f5141efb86a9.eot");
+  src: url("./iconsbio2_e3a4c295c46413048884f5141efb86a9.eot?#iefix") format("embedded-opentype"),
+       url("./iconsbio2_e3a4c295c46413048884f5141efb86a9.woff2") format("woff2"),
+       url("./iconsbio2_e3a4c295c46413048884f5141efb86a9.woff") format("woff"),
+       url("./iconsbio2_e3a4c295c46413048884f5141efb86a9.ttf") format("truetype"),
+       url("./iconsbio2_e3a4c295c46413048884f5141efb86a9.svg#iconsbio2") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -4057,7 +4057,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "iconsbio2";
-    src: url("./iconsbio2_9e3d5a12bc54da7a02af1c37e0234d50.svg#iconsbio2") format("svg");
+    src: url("./iconsbio2_e3a4c295c46413048884f5141efb86a9.svg#iconsbio2") format("svg");
   }
 }
 
@@ -4073,6 +4073,7 @@
 .ibio-activetrail:before,
 .ibio-activision:before,
 .ibio-acumbamail:before,
+.ibio-adobelightroom:before,
 .ibio-advisorycloud:before,
 .ibio-agoda:before,
 .ibio-airbuds:before,
@@ -4260,6 +4261,7 @@
 .ibio-feefo:before,
 .ibio-ficbooknet:before,
 .ibio-ficfan:before,
+.ibio-fieldkevel:before,
 .ibio-fineartamerica:before,
 .ibio-five-rise-records:before,
 .ibio-fliphtml5:before,
@@ -4354,6 +4356,7 @@
 .ibio-hostinger:before,
 .ibio-hostingerreach:before,
 .ibio-hotmart:before,
+.ibio-howlongtobeat:before,
 .ibio-hoyolab:before,
 .ibio-hudlcom:before,
 .ibio-humanitix:before,
@@ -4455,6 +4458,7 @@
 .ibio-matterport:before,
 .ibio-mavely:before,
 .ibio-maxpreps:before,
+.ibio-medialib:before,
 .ibio-medibang:before,
 .ibio-medibangcom:before,
 .ibio-meesho:before,
@@ -4864,6 +4868,7 @@
 .ibio-tapete-records:before,
 .ibio-target:before,
 .ibio-tarteelai:before,
+.ibio-tattoodo:before,
 .ibio-tawkto:before,
 .ibio-tcgplayer:before,
 .ibio-telasa:before,
@@ -4885,6 +4890,7 @@
 .ibio-theatre-tickets-direct:before,
 .ibio-thebase-in:before,
 .ibio-themighty:before,
+.ibio-themoviedb:before,
 .ibio-thenewsletterplugin:before,
 .ibio-threadless:before,
 .ibio-threadloopapp:before,
@@ -4903,6 +4909,7 @@
 .ibio-tidio:before,
 .ibio-tidycal:before,
 .ibio-tiendanube:before,
+.ibio-tiktokshop:before,
 .ibio-timetree:before,
 .ibio-tipeee:before,
 .ibio-tipmeinth:before,
@@ -5121,6 +5128,7 @@
 .ibio-activetrail:before { content: "\f3d3"; }
 .ibio-activision:before { content: "\f102"; }
 .ibio-acumbamail:before { content: "\f3f9"; }
+.ibio-adobelightroom:before { content: "\f512"; }
 .ibio-advisorycloud:before { content: "\f103"; }
 .ibio-agoda:before { content: "\f4f3"; }
 .ibio-airbuds:before { content: "\f40e"; }
@@ -5308,6 +5316,7 @@
 .ibio-feefo:before { content: "\f421"; }
 .ibio-ficbooknet:before { content: "\f382"; }
 .ibio-ficfan:before { content: "\f379"; }
+.ibio-fieldkevel:before { content: "\f513"; }
 .ibio-fineartamerica:before { content: "\f139"; }
 .ibio-five-rise-records:before { content: "\f13a"; }
 .ibio-fliphtml5:before { content: "\f3a3"; }
@@ -5402,6 +5411,7 @@
 .ibio-hostinger:before { content: "\f4d5"; }
 .ibio-hostingerreach:before { content: "\f4d6"; }
 .ibio-hotmart:before { content: "\f45e"; }
+.ibio-howlongtobeat:before { content: "\f514"; }
 .ibio-hoyolab:before { content: "\f496"; }
 .ibio-hudlcom:before { content: "\f484"; }
 .ibio-humanitix:before { content: "\f14b"; }
@@ -5503,6 +5513,7 @@
 .ibio-matterport:before { content: "\f3d9"; }
 .ibio-mavely:before { content: "\f3e2"; }
 .ibio-maxpreps:before { content: "\f4c1"; }
+.ibio-medialib:before { content: "\f515"; }
 .ibio-medibang:before { content: "\f37b"; }
 .ibio-medibangcom:before { content: "\f383"; }
 .ibio-meesho:before { content: "\f3cb"; }
@@ -5912,6 +5923,7 @@
 .ibio-tapete-records:before { content: "\f24f"; }
 .ibio-target:before { content: "\f250"; }
 .ibio-tarteelai:before { content: "\f4d4"; }
+.ibio-tattoodo:before { content: "\f516"; }
 .ibio-tawkto:before { content: "\f371"; }
 .ibio-tcgplayer:before { content: "\f251"; }
 .ibio-telasa:before { content: "\f252"; }
@@ -5933,6 +5945,7 @@
 .ibio-theatre-tickets-direct:before { content: "\f25c"; }
 .ibio-thebase-in:before { content: "\f25d"; }
 .ibio-themighty:before { content: "\f25e"; }
+.ibio-themoviedb:before { content: "\f517"; }
 .ibio-thenewsletterplugin:before { content: "\f3f1"; }
 .ibio-threadless:before { content: "\f305"; }
 .ibio-threadloopapp:before { content: "\f41a"; }
@@ -5951,6 +5964,7 @@
 .ibio-tidio:before { content: "\f34e"; }
 .ibio-tidycal:before { content: "\f26b"; }
 .ibio-tiendanube:before { content: "\f44e"; }
+.ibio-tiktokshop:before { content: "\f518"; }
 .ibio-timetree:before { content: "\f26c"; }
 .ibio-tipeee:before { content: "\f4ef"; }
 .ibio-tipmeinth:before { content: "\f313"; }
