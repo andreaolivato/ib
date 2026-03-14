@@ -4044,12 +4044,12 @@
 
 @font-face {
   font-family: "iconsbio2";
-  src: url("./iconsbio2_e891e5da0c0df74529d8264b54518039.eot");
-  src: url("./iconsbio2_e891e5da0c0df74529d8264b54518039.eot?#iefix") format("embedded-opentype"),
-       url("./iconsbio2_e891e5da0c0df74529d8264b54518039.woff2") format("woff2"),
-       url("./iconsbio2_e891e5da0c0df74529d8264b54518039.woff") format("woff"),
-       url("./iconsbio2_e891e5da0c0df74529d8264b54518039.ttf") format("truetype"),
-       url("./iconsbio2_e891e5da0c0df74529d8264b54518039.svg#iconsbio2") format("svg");
+  src: url("./iconsbio2_7caa15933358fa02b8cd4c8df0efe265.eot");
+  src: url("./iconsbio2_7caa15933358fa02b8cd4c8df0efe265.eot?#iefix") format("embedded-opentype"),
+       url("./iconsbio2_7caa15933358fa02b8cd4c8df0efe265.woff2") format("woff2"),
+       url("./iconsbio2_7caa15933358fa02b8cd4c8df0efe265.woff") format("woff"),
+       url("./iconsbio2_7caa15933358fa02b8cd4c8df0efe265.ttf") format("truetype"),
+       url("./iconsbio2_7caa15933358fa02b8cd4c8df0efe265.svg#iconsbio2") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -4057,7 +4057,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "iconsbio2";
-    src: url("./iconsbio2_e891e5da0c0df74529d8264b54518039.svg#iconsbio2") format("svg");
+    src: url("./iconsbio2_7caa15933358fa02b8cd4c8df0efe265.svg#iconsbio2") format("svg");
   }
 }
 
@@ -5082,6 +5082,7 @@
 .ibio-yacvoice:before,
 .ibio-yamano-music:before,
 .ibio-yep-roc-records:before,
+.ibio-youform:before,
 .ibio-youradio:before,
 .ibio-yousee-musik:before,
 .ibio-youtubeshorts:before,
@@ -6138,6 +6139,7 @@
 .ibio-yacvoice:before { content: "\f2d7"; }
 .ibio-yamano-music:before { content: "\f2d8"; }
 .ibio-yep-roc-records:before { content: "\f2d9"; }
+.ibio-youform:before { content: "\f51a"; }
 .ibio-youradio:before { content: "\f2da"; }
 .ibio-yousee-musik:before { content: "\f2db"; }
 .ibio-youtubeshorts:before { content: "\f40c"; }
