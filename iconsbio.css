@@ -4044,12 +4044,12 @@
 
 @font-face {
   font-family: "iconsbio2";
-  src: url("./iconsbio2_830a1a84978f0bf00bbb02ce9e949063.eot");
-  src: url("./iconsbio2_830a1a84978f0bf00bbb02ce9e949063.eot?#iefix") format("embedded-opentype"),
-       url("./iconsbio2_830a1a84978f0bf00bbb02ce9e949063.woff2") format("woff2"),
-       url("./iconsbio2_830a1a84978f0bf00bbb02ce9e949063.woff") format("woff"),
-       url("./iconsbio2_830a1a84978f0bf00bbb02ce9e949063.ttf") format("truetype"),
-       url("./iconsbio2_830a1a84978f0bf00bbb02ce9e949063.svg#iconsbio2") format("svg");
+  src: url("./iconsbio2_2d7d81bce99a236defe15e60b76de468.eot");
+  src: url("./iconsbio2_2d7d81bce99a236defe15e60b76de468.eot?#iefix") format("embedded-opentype"),
+       url("./iconsbio2_2d7d81bce99a236defe15e60b76de468.woff2") format("woff2"),
+       url("./iconsbio2_2d7d81bce99a236defe15e60b76de468.woff") format("woff"),
+       url("./iconsbio2_2d7d81bce99a236defe15e60b76de468.ttf") format("truetype"),
+       url("./iconsbio2_2d7d81bce99a236defe15e60b76de468.svg#iconsbio2") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -4057,13 +4057,14 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "iconsbio2";
-    src: url("./iconsbio2_830a1a84978f0bf00bbb02ce9e949063.svg#iconsbio2") format("svg");
+    src: url("./iconsbio2_2d7d81bce99a236defe15e60b76de468.svg#iconsbio2") format("svg");
   }
 }
 
 [data-icon]:before { content: attr(data-icon); }
 
 [data-icon]:before,
+.ibio-1xcom:before,
 .ibio-3cketcom:before,
 .ibio-99designs:before,
 .ibio-Suno:before,
@@ -4082,6 +4083,7 @@
 .ibio-alignable:before,
 .ibio-allauthor-com:before,
 .ibio-alleventsin:before,
+.ibio-allocine:before,
 .ibio-alltrails:before,
 .ibio-aluacom:before,
 .ibio-amazingradio:before,
@@ -4262,6 +4264,7 @@
 .ibio-ficbooknet:before,
 .ibio-ficfan:before,
 .ibio-fieldkevel:before,
+.ibio-filmaffinity:before,
 .ibio-fineartamerica:before,
 .ibio-five-rise-records:before,
 .ibio-fliphtml5:before,
@@ -4276,6 +4279,7 @@
 .ibio-fourthwall:before,
 .ibio-foxylink:before,
 .ibio-fragrantica:before,
+.ibio-frameratetv:before,
 .ibio-framework360:before,
 .ibio-freshcut:before,
 .ibio-friendtok:before,
@@ -4302,6 +4306,7 @@
 .ibio-genericsurvey:before,
 .ibio-generictrashslash:before,
 .ibio-genericvoting:before,
+.ibio-genericwifi:before,
 .ibio-geneva:before,
 .ibio-geogebra:before,
 .ibio-getalby:before,
@@ -4343,6 +4348,7 @@
 .ibio-grokipedia:before,
 .ibio-grouprides:before,
 .ibio-hearnow:before,
+.ibio-hellotalkcom:before,
 .ibio-helpdogai:before,
 .ibio-helpscout:before,
 .ibio-herbalife:before,
@@ -4458,6 +4464,7 @@
 .ibio-matterport:before,
 .ibio-mavely:before,
 .ibio-maxpreps:before,
+.ibio-maxru:before,
 .ibio-medialib:before,
 .ibio-medibang:before,
 .ibio-medibangcom:before,
@@ -4545,6 +4552,7 @@
 .ibio-outlook:before,
 .ibio-outschool:before,
 .ibio-pabbly:before,
+.ibio-padletcom:before,
 .ibio-pagebound:before,
 .ibio-pangobooks:before,
 .ibio-panodyssey:before,
@@ -4722,6 +4730,7 @@
 .ibio-sendpulse:before,
 .ibio-sendx:before,
 .ibio-senja:before,
+.ibio-sensacine:before,
 .ibio-sephora:before,
 .ibio-sephorastorefront:before,
 .ibio-serializd:before,
@@ -4872,6 +4881,7 @@
 .ibio-tattoodo:before,
 .ibio-tawkto:before,
 .ibio-tcgplayer:before,
+.ibio-teamingnet:before,
 .ibio-telasa:before,
 .ibio-telecharge:before,
 .ibio-telegramgroup:before,
@@ -4926,6 +4936,7 @@
 .ibio-tooth-nail-records:before,
 .ibio-top-j-records:before,
 .ibio-topshelf-records:before,
+.ibio-torbrowser:before,
 .ibio-touchapp:before,
 .ibio-touchngo:before,
 .ibio-toutiao:before,
@@ -5122,6 +5133,7 @@
   font-smoothing: antialiased;
 }
 
+.ibio-1xcom:before { content: "\f51c"; }
 .ibio-3cketcom:before { content: "\f308"; }
 .ibio-99designs:before { content: "\f309"; }
 .ibio-Suno:before { content: "\f3db"; }
@@ -5140,6 +5152,7 @@
 .ibio-alignable:before { content: "\f3cf"; }
 .ibio-allauthor-com:before { content: "\f46f"; }
 .ibio-alleventsin:before { content: "\f2f9"; }
+.ibio-allocine:before { content: "\f51d"; }
 .ibio-alltrails:before { content: "\f104"; }
 .ibio-aluacom:before { content: "\f30a"; }
 .ibio-amazingradio:before { content: "\f356"; }
@@ -5320,6 +5333,7 @@
 .ibio-ficbooknet:before { content: "\f382"; }
 .ibio-ficfan:before { content: "\f379"; }
 .ibio-fieldkevel:before { content: "\f513"; }
+.ibio-filmaffinity:before { content: "\f51e"; }
 .ibio-fineartamerica:before { content: "\f139"; }
 .ibio-five-rise-records:before { content: "\f13a"; }
 .ibio-fliphtml5:before { content: "\f3a3"; }
@@ -5334,6 +5348,7 @@
 .ibio-fourthwall:before { content: "\f42d"; }
 .ibio-foxylink:before { content: "\f451"; }
 .ibio-fragrantica:before { content: "\f480"; }
+.ibio-frameratetv:before { content: "\f51f"; }
 .ibio-framework360:before { content: "\f4a3"; }
 .ibio-freshcut:before { content: "\f13c"; }
 .ibio-friendtok:before { content: "\f13d"; }
@@ -5360,6 +5375,7 @@
 .ibio-genericsurvey:before { content: "\f422"; }
 .ibio-generictrashslash:before { content: "\f4d8"; }
 .ibio-genericvoting:before { content: "\f3a8"; }
+.ibio-genericwifi:before { content: "\f520"; }
 .ibio-geneva:before { content: "\f303"; }
 .ibio-geogebra:before { content: "\f360"; }
 .ibio-getalby:before { content: "\f3c6"; }
@@ -5401,6 +5417,7 @@
 .ibio-grokipedia:before { content: "\f509"; }
 .ibio-grouprides:before { content: "\f45d"; }
 .ibio-hearnow:before { content: "\f147"; }
+.ibio-hellotalkcom:before { content: "\f521"; }
 .ibio-helpdogai:before { content: "\f3a4"; }
 .ibio-helpscout:before { content: "\f43d"; }
 .ibio-herbalife:before { content: "\f148"; }
@@ -5516,6 +5533,7 @@
 .ibio-matterport:before { content: "\f3d9"; }
 .ibio-mavely:before { content: "\f3e2"; }
 .ibio-maxpreps:before { content: "\f4c1"; }
+.ibio-maxru:before { content: "\f522"; }
 .ibio-medialib:before { content: "\f515"; }
 .ibio-medibang:before { content: "\f37b"; }
 .ibio-medibangcom:before { content: "\f383"; }
@@ -5603,6 +5621,7 @@
 .ibio-outlook:before { content: "\f187"; }
 .ibio-outschool:before { content: "\f4e4"; }
 .ibio-pabbly:before { content: "\f188"; }
+.ibio-padletcom:before { content: "\f523"; }
 .ibio-pagebound:before { content: "\f430"; }
 .ibio-pangobooks:before { content: "\f189"; }
 .ibio-panodyssey:before { content: "\f3da"; }
@@ -5780,6 +5799,7 @@
 .ibio-sendpulse:before { content: "\f31e"; }
 .ibio-sendx:before { content: "\f2f8"; }
 .ibio-senja:before { content: "\f311"; }
+.ibio-sensacine:before { content: "\f524"; }
 .ibio-sephora:before { content: "\f49f"; }
 .ibio-sephorastorefront:before { content: "\f489"; }
 .ibio-serializd:before { content: "\f1f5"; }
@@ -5930,6 +5950,7 @@
 .ibio-tattoodo:before { content: "\f516"; }
 .ibio-tawkto:before { content: "\f371"; }
 .ibio-tcgplayer:before { content: "\f251"; }
+.ibio-teamingnet:before { content: "\f525"; }
 .ibio-telasa:before { content: "\f252"; }
 .ibio-telecharge:before { content: "\f253"; }
 .ibio-telegramgroup:before { content: "\f364"; }
@@ -5984,6 +6005,7 @@
 .ibio-tooth-nail-records:before { content: "\f272"; }
 .ibio-top-j-records:before { content: "\f273"; }
 .ibio-topshelf-records:before { content: "\f274"; }
+.ibio-torbrowser:before { content: "\f526"; }
 .ibio-touchapp:before { content: "\f275"; }
 .ibio-touchngo:before { content: "\f365"; }
 .ibio-toutiao:before { content: "\f350"; }
